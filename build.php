@@ -13,17 +13,26 @@ if (realpath($_SERVER['SCRIPT_FILENAME']) != realpath(__FILE__)) {
 else if (php_sapi_name() == "cli") {
   Oeuvres::cli();
 }
-class Oeuvres 
+class Oeuvres
 {
+  static $kindlegen;
   static $sets = array(
+    "zola" => array(
+      "glob" => '../zola/*.xml',
+      "publisher" => 'GitHub',
+      // "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
+      "source" => "http://oeuvres.github.io/zola/%s.xml",
+    ),
+    /*
     "verne" => array(
-      "glob" => '../verne/*.xml', 
+      "glob" => '../verne/*.xml',
       "publisher" => 'Lille III',
       // "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://oeuvres.github.io/verne/%s.xml",
     ),
+    */
     "textes" => array(
-      "glob" => '../textes/*.xml', 
+      "glob" => '../textes/*.xml',
       "publisher" => 'Œuvres',
       // "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://oeuvres.github.io/textes/%s.xml",
@@ -86,7 +95,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     if (is_string($logger)) $logger = fopen($logger, 'w');
     self::$_logger = $logger;
     $this->connect($sqlitefile);
-    // create needed folders 
+    // create needed folders
     foreach (self::$formats as $format => $extension) {
       if (!file_exists($dir = dirname(__FILE__).'/'.$format)) {
         mkdir($dir, 0775, true);
@@ -122,18 +131,20 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($srcfile, self::$_logger);
-        $livre->epub($destfile);        
-        // transformation auto en kindle
-        $cmd = dirname(__FILE__)."/kindlegen ".$destfile;
-        $last = exec ($cmd, $output, $status);
-        $mobi = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi";
-        // error ?
-        if (!file_exists($mobi)) {
-          self::log(E_USER_ERROR, "\n".$status."\n".join("\n", $output)."\n".$last."\n");
-        }
-        else {
-          rename( $mobi, dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi");
-          $echo .= " kindle";
+        $livre->epub($destfile);
+        // transformation auto en kindle si binaire présent
+        if (self::$kindlegen) {
+          $cmd = self::$kindlegen.' '.$destfile;
+          $last = exec ($cmd, $output, $status);
+          $mobi = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi";
+          // error ?
+          if (!file_exists($mobi)) {
+            self::log(E_USER_ERROR, "\n".$status."\n".join("\n", $output)."\n".$last."\n");
+          }
+          else {
+            rename( $mobi, dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi");
+            $echo .= " kindle";
+          }
         }
       }
       else if ($format == 'docx') {
@@ -167,7 +178,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     $title = $teinte->xpath->query("/*/tei:teiHeader//tei:title");
     if ($title->length) $title = $title->item(0)->textContent;
     else $title = null;
-   
+
     if (isset(self::$sets[$setcode]['identifier'])) $identifier = sprintf (self::$sets[$setcode]['identifier'], $teinte->filename);
     else $identifier = null;
     $this->_insert->execute(array(
@@ -209,7 +220,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       echo '      <td>'.$oeuvre['year']."</td>\n";
       if ($oeuvre['identifier']) echo '      <td><a href="'.$oeuvre['identifier'].'">'.$oeuvre['title']."</a></td>\n";
       else echo '      <td>'.$oeuvre['title']."</td>\n";
-      
+
       echo "      <td>\n";
       if ($oeuvre['source']) echo '<a href="'.$oeuvre['source'].'">TEI</a>';
       $sep = ", ";
@@ -224,13 +235,13 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     echo "\n</table>\n";
   }
 
-  /** 
-   * Connexion à la base 
+  /**
+   * Connexion à la base
    */
   private function connect($sqlite) {
     $dsn = "sqlite:" . $sqlite;
     // si la base n’existe pas, la créer
-    if (!file_exists($sqlite)) { 
+    if (!file_exists($sqlite)) {
       if (!file_exists($dir = dirname($sqlite))) {
         mkdir($dir, 0775, true);
         @chmod($dir, 0775);  // let @, if www-data is not owner but allowed to write
@@ -258,18 +269,28 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     $inc = dirname(__FILE__).'/../Livrable/Tei2epub.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Livrable/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Livrable\n"; 
+    Vous pouvez le télécharger sur https://github.com/oeuvres/Livrable\n";
       exit();
-    } 
+    }
     else {
       include_once($inc);
     }
+    $inc = dirname(__FILE__).'/../Livrable/kindlegen';
+    if (!file_exists($inc)) $inc = dirname(__FILE__).'/../Livrable/kindlegen.exe';
+    if (!file_exists($inc)) {
+      echo "Si vous souhaitez la conversion de vos epubs pour Kindle, il faut télécharger chez Amazon
+      le programme kindlegen pour votre système http://www.amazon.fr/gp/feature.html?ie=UTF8&docId=1000570853
+      à placer dans le dossier Livrable : ".dirname($inc);
+    }
+    if (file_exists($inc)) self::$kindlegen = realpath($inc);
+
+
     $inc = dirname(__FILE__).'/../Teinte/Doc.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Teinte/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Teinte\n"; 
+    Vous pouvez le télécharger sur https://github.com/oeuvres/Teinte\n";
       exit();
-    } 
+    }
     else {
       include_once($inc);
     }
@@ -277,9 +298,9 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     $inc = dirname(__FILE__).'/../Toff/Tei2docx.php';
     if (!file_exists($inc)) {
       echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Toff/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Toff\n"; 
+    Vous pouvez le télécharger sur https://github.com/oeuvres/Toff\n";
       exit();
-    } 
+    }
     else {
       include_once($inc);
     }
@@ -296,7 +317,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     if ($count) { // is an XSLT error or an XSLT message, reformat here
       if(strpos($errstr, 'error')!== false) return false;
       else if ($errno == E_WARNING) $errno = E_USER_WARNING;
-    } 
+    }
     // not a user message, let work default handler
     else if ($errno != E_USER_ERROR && $errno != E_USER_WARNING && $errno != E_USER_NOTICE ) return false;
     // a debug message in normal mode, do nothing
@@ -317,7 +338,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     }
   }
   /**
-   * Command line API 
+   * Command line API
    */
   static function cli() {
     $timeStart = microtime(true);
