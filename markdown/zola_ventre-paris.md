@@ -1,5 +1,5 @@
 ---
-identifier: zola_ventre  
+identifier: zola_ventre-paris  
 creator: Zola, Émile  
 date: 1873  
 title: Le ventre de Paris  
@@ -10,27 +10,19 @@ title: Le ventre de Paris
 
 # I
 
-Madame Françoise,
-
-Florent,
-
-Un charretier
-
-
-
 Au milieu du grand silence, et dans le désert de l'avenue, les voitures de maraîchers montaient vers Paris, avec les cahots rythmés de leurs roues, dont les échos battaient les façades des maisons, endormies aux deux bords, derrière les lignes confuses des ormes. Un tombereau de choux et un tombereau de pois, au pont de Neuilly, s'étaient joints aux huit voitures de navets et de carottes qui descendaient de Nanterre ; et les chevaux allaient tout seuls, la tête basse, de leur allure continue et paresseuse, que la montée ralentissait encore. En haut, sur la charge des légumes, allongés à plat ventre, couverts de leur limousine à petites raies noires et grises, les charretiers sommeillaient, les guides aux poignets. Un bec de gaz, au sortir d'une nappe d'ombre, éclairait les clous d'un soulier, la manche bleue d'une blouse, le bout d'une casquette, entrevus dans cette floraison énorme des bouquets rouges des carottes, des bouquets blancs des navets, des verdures débordantes des pois et des choux. Et, sur la route, sur les routes voisines, en avant et en arrière, des ronflements lointains de charrois annonçaient des convois pareils, tout un arrivage traversant les ténèbres et le gros sommeil de deux heures du matin, berçant la ville noire du bruit de cette nourriture qui passait.
 
 Balthazar, le cheval de madame François, une bête trop grasse, tenait la tête de la file. Il marchait, dormant à demi, dodelinant des oreilles, lorsque, à la hauteur de la rue de Longchamp, un sursaut de peur le planta net sur ses quatre pieds. Les autres bêtes vinrent donner de la tête contre le cul des voitures, et la file s'arrêta, avec la secousse des ferrailles, au milieu des jurements des charretiers réveillés. Madame François, adossée à une planchette contre ses légumes, regardait, ne voyait rien, dans la maigre lueur jetée à gauche par la petite lanterne carrée, qui n'éclairait guère qu'un des flancs luisants de Balthazar.
 
-*– Eh ! la mère, avançons !* cria un des hommes, qui s'était mis à genoux sur ses navets… *C'est quelque cochon d'ivrogne*.
+– Eh ! la mère, avançons ! cria un des hommes, qui s'était mis à genoux sur ses navets… C'est quelque cochon d'ivrogne.
 
 Elle s'était penchée, elle avait aperçu, à droite, presque sous les pieds du cheval, une masse noire qui barrait la route.
 
-*– On n'écrase pas le monde,* dit-elle, en sautant à terre.
+– On n'écrase pas le monde, dit-elle, en sautant à terre.
 
 C'était un homme vautré tout de son long, les bras étendus, tombé la face dans la poussière. Il paraissait d'une longueur extraordinaire, maigre comme une branche sèche ; le miracle était que Balthazar ne l'eût pas cassé en deux d'un coup de sabot. Madame François le crut mort ; elle s'accroupit devant lui, lui prit une main, et vit qu'elle était chaude.
 
-*– Eh ! l'homme !* dit-elle doucement.
+– Eh ! l'homme ! dit-elle doucement.
 
 Mais les charretiers s'impatientaient. Celui qui était agenouillé dans ses légumes reprit de sa voix enrouée :
 
@@ -40,7 +32,7 @@ Cependant, l'homme avait ouvert les yeux. Il regardait madame François d'un air
 
 – Il ne faut pas rester là, vous allez vous faire écraser, lui dit-elle… Où alliez-vous ?
 
-*– Je ne sais pas…*, répondit-il d'une voix très basse.
+– Je ne sais pas…, répondit-il d'une voix très basse.
 
 Puis, avec effort, et le regard inquiet :
 
@@ -48,7 +40,7 @@ Puis, avec effort, et le regard inquiet :
 
 Elle le voyait mieux, et il était lamentable, avec son pantalon noir, sa redingote noire, tout effiloqués, montrant les sécheresses des os. Sa casquette, de gros drap noir, rabattue peureusement sur les sourcils, découvrait deux grands yeux bruns, d'une singulière douceur, dans un visage dur et tourmenté. Madame François pensa qu'il était vraiment trop maigre pour avoir bu.
 
-*– Et où alliez-vous, dans Paris ?* demanda-t-elle de nouveau.
+– Et où alliez-vous, dans Paris ? demanda-t-elle de nouveau.
 
 Il ne répondit pas tout de suite ; cet interrogatoire le gênait. Il parut se consulter ; puis, en hésitant :
 
@@ -58,7 +50,7 @@ Il s'était mis debout, avec des peines infinies, et il faisait mine de vouloir 
 
 – Vous êtes las ?
 
-*– Oui, bien las,* murmura-t-il.
+– Oui, bien las, murmura-t-il.
 
 Alors, elle prit une voix brusque et comme mécontente. Elle le poussa, en disant :
 
@@ -74,15 +66,15 @@ Elle remonta, s'adossa contre la planchette, assise de biais, tenant les guides 
 
 Les voitures roulaient, les chevaux allaient tout seuls, la tête basse. L'homme que madame François venait de recueillir, couché sur le ventre, avait ses longues jambes perdues dans le tas des navets qui emplissaient le cul de la voiture ; sa face s'enfonçait au beau milieu des carottes, dont les bottes montaient et s'épanouissaient ; et, les bras élargis, exténué, embrassant la charge énorme des légumes, de peur d'être jeté à terre par un cahot, il regardait, devant lui, les deux lignes interminables des becs de gaz qui se rapprochaient et se confondaient, tout là-haut, dans un pullulement d'autres lumières. À l'horizon, une grande fumée blanche flottait, mettait Paris dormant dans la buée lumineuse de toutes ces flammes.
 
-*– Je suis de Nanterre, je me nomme madame François,* dit la maraîchère, au bout d'un instant. *Depuis que j'ai perdu mon pauvre homme, je vais tous les matins aux Halles. C'est dur, allez !… Et vous ?*
+– Je suis de Nanterre, je me nomme madame François, dit la maraîchère, au bout d'un instant. Depuis que j'ai perdu mon pauvre homme, je vais tous les matins aux Halles. C'est dur, allez !… Et vous ?
 
-*– Je me nomme Florent, je viens de loin…,* répondit l'inconnu avec embarras. *Je vous demande excuse ; je suis si fatigué que cela m'est pénible de parler.*
+– Je me nomme Florent, je viens de loin…, répondit l'inconnu avec embarras. Je vous demande excuse ; je suis si fatigué que cela m'est pénible de parler.
 
 Il ne voulait pas causer. Alors, elle se tut, lâchant un peu les guides sur l'échine de Balthazar, qui suivait son chemin en bête connaissant chaque pavé. Florent, les yeux sur l'immense lueur de Paris, songeait à cette histoire qu'il cachait. Échappé de Cayenne, où les journées de décembre l'avaient jeté, rôdant depuis deux ans dans la Guyane hollandaise, avec l'envie folle du retour et la peur de la police impériale, il avait enfin devant lui la chère grande ville, tant regrettée, tant désirée. Il s'y cacherait, il y vivrait de sa vie paisible d'autrefois. La police n'en saurait rien. D'ailleurs, il serait mort, là-bas. Et il se rappelait son arrivée au Havre, lorsqu'il ne trouva plus que quinze francs dans le coin de son mouchoir. Jusqu'à Rouen, il put prendre la voiture. De Rouen, comme il lui restait à peine trente sous, il repartit à pied. Mais, à Vernon, il acheta ses deux derniers sous de pain. Puis, il ne savait plus. Il croyait avoir dormi plusieurs heures dans un fossé. Il avait dû montrer à un gendarme les papiers dont il s'était pourvu. Tout cela dansait dans sa tête. Il était venu de Vernon sans manger, avec des rages et des désespoirs brusques qui le poussaient à mâcher les feuilles des haies qu'il longeait ; et il continuait à marcher, pris de crampes et de douleurs, le ventre plié, la vue troublée, les pieds comme tirés, sans qu'il en eût conscience, par cette image de Paris, au loin, très loin, derrière l'horizon, qui l'appelait, qui l'attendait. Quand il arriva à Courbevoie, la nuit était très sombre. Paris, pareil à un pan de ciel étoilé tombé sur un coin de la terre noire, lui apparut sévère et comme fâché de son retour. Alors, il eut une faiblesse, il descendit la côte, les jambes cassées. En traversant le pont de Neuilly, il s'appuyait au parapet, il se penchait sur la Seine roulant des flots d'encre, entre les masses épaissies des rives ; un fanal rouge, sur l'eau, le suivait d'un œil saignant. Maintenant, il lui fallait monter, atteindre Paris, tout en haut. L'avenue lui paraissait démesurée. Les centaines de lieues qu'il venait de faire n'étaient rien ; ce bout de route le désespérait, jamais il n'arriverait à ce sommet, couronné de ces lumières. L'avenue plate s'étendait, avec ses lignes de grands arbres et de maisons basses, ses larges trottoirs grisâtres, tachés de l'ombre des branches, les trous sombres des rues transversales, tout son silence et toutes ses ténèbres ; et les becs de gaz, droits, espacés régulièrement, mettaient seuls la vie de leurs courtes flammes jaunes, dans ce désert de mort. Florent n'avançait plus, l'avenue s'allongeait toujours, reculait Paris au fond de la nuit. Il lui sembla que les becs de gaz, avec leur œil unique, couraient à droite et à gauche, en emportant la route ; il trébucha, dans ce tournoiement ; il s'affaissa comme une masse sur les pavés.
 
 À présent, il roulait doucement sur cette couche de verdure, qu'il trouvait d'une mollesse de plume. Il avait levé un peu le menton, pour voir la buée lumineuse qui grandissait, au-dessus des toits noirs devinés à l'horizon. Il arrivait, il était porté, il n'avait qu'à s'abandonner aux secousses ralenties de la voiture ; et cette approche sans fatigue ne le laissait plus souffrir que de la faim. La faim s'était réveillée, intolérable, atroce. Ses membres dormaient ; il ne sentait en lui que son estomac, tordu, tenaillé comme par un fer rouge. L'odeur fraîche des légumes dans lesquels il était enfoncé, cette senteur pénétrante des carottes, le troublait jusqu'à l'évanouissement. Il appuyait de toutes ses forces sa poitrine contre ce lit profond de nourriture, pour se serrer l'estomac, pour l'empêcher de crier. Et, derrière, les neuf autres tombereaux, avec leurs montagnes de choux, leurs montagnes de pois, leurs entassements d'artichauts, de salades, de céleris, de poireaux, semblaient rouler lentement sur lui et vouloir l'ensevelir, dans l'agonie de sa faim, sous un éboulement de mangeaille. Il y eut un arrêt, un bruit de grosses voix ; c'était la barrière, les douaniers sondaient les voitures. Puis, Florent entra dans Paris, évanoui, les dents serrées, sur les carottes.
 
-*– Eh ! l'homme, là-haut ! *cria brusquement madame François.
+– Eh ! l'homme, là-haut ! cria brusquement madame François.
 
 Et, comme il ne bougeait pas, elle monta, le secoua. Alors, Florent se mit sur son séant. Il avait dormi, il ne sentait plus sa faim ; il était tout hébété. La maraîchère le fit descendre, en lui disant :
 
@@ -116,7 +108,7 @@ Elle s'adressait à Florent. Puis, s'asseyant près de lui :
 
 Elle se leva, en voyant une femme penchée sur ses navets.
 
-*– C'est vous, mère Chantemesse ?* dit-elle amicalement.
+– C'est vous, mère Chantemesse ? dit-elle amicalement.
 
 Florent regardait le bas de la rue Montorgueil. C'était là qu'une bande de sergents de ville l'avait pris, dans la nuit du 4 décembre. Il suivait le boulevard Montmartre, vers deux heures, marchant doucement au milieu de la foule, souriant de tous ces soldats que l'Élysée promenait sur le pavé pour se faire prendre au sérieux, lorsque les soldats avaient balayé les trottoirs, à bout portant, pendant un quart d'heure. Lui, poussé, jeté à terre, tomba au coin de la rue Vivienne ; et il ne savait plus, la foule affolée passait sur son corps, avec l'horreur affreuse des coups de feu. Quand il n'entendit plus rien, il voulut se relever. Il avait sur lui une jeune femme, en chapeau rose, dont le châle glissait, découvrant une guimpe plissée à petits plis. Au-dessus de la gorge, dans la guimpe, deux balles étaient entrées ; et, lorsqu'il repoussa doucement la jeune femme, pour dégager ses jambes, deux filets de sang coulèrent des trous sur ses mains. Alors, il se releva d'un bond, il s'en alla, fou, sans chapeau, les mains humides. Jusqu'au soir, il rôda, la tête perdue, voyant toujours la jeune femme, en travers sur ses jambes, avec sa face toute pâle, ses grands yeux bleus ouverts, ses lèvres souffrantes, son étonnement d'être morte, là, si vite. Il était timide ; à trente ans, il n'osait regarder en face les visages de femme, et il avait celui-là, pour la vie, dans sa mémoire et dans son cœur. C'était comme une femme à lui qu'il aurait perdue. Le soir, sans savoir comment, encore dans l'ébranlement des scènes horribles de l'après-midi, il se trouva rue Montorgueil, chez un marchand de vin, où des hommes buvaient en parlant de faire des barricades. Il les accompagna, les aida à arracher quelques pavés, s'assit sur la barricade, las de sa course dans les rues, se disant qu'il se battrait, lorsque les soldats allaient venir. Il n'avait pas même un couteau sur lui ; il était toujours nu-tête. Vers onze heures, il s'assoupit ; il voyait les deux trous de la guimpe blanche à petits plis, qui le regardaient comme deux yeux rouges de larmes et de sang. Lorsqu'il se réveilla, il était tenu par quatre sergents de ville qui le bourraient de coups de poing. Les hommes de la barricade avaient pris la fuite. Mais les sergents de ville devinrent furieux et faillirent l'étrangler, quand ils s'aperçurent qu'il avait du sang aux mains. C'était le sang de la jeune femme.
 
@@ -130,7 +122,7 @@ La mère Chantemesse s'était décidée à acheter douze bottes de navets. Elle 
 
 Et, comme Florent ne causait guère :
 
-*– Vous avez de la famille à Paris, n'est-ce pas ?* demanda-t-elle.
+– Vous avez de la famille à Paris, n'est-ce pas ? demanda-t-elle.
 
 Il parut ne pas entendre. Sa méfiance revenait. Il avait la tête pleine d'histoires de police, d'agents guettant à chaque coin de rue, de femmes vendant les secrets qu'elles arrachaient aux pauvres diables. Elle était tout près de lui, elle lui semblait pourtant bien honnête, avec sa grande figure calme, serrée au front par un foulard noir et jaune. Elle pouvait avoir trente-cinq ans, un peu forte, belle de sa vie en plein air et de sa virilité adoucie par des yeux noirs d'une tendresse charitable. Elle était certainement très curieuse, mais d'une curiosité qui devait être toute bonne.
 
@@ -142,7 +134,7 @@ Tout en parlant, elle ne le quittait pas des yeux, apitoyée sans doute par son 
 
 Enfin, timidement :
 
-*– Si, en attendant, *murmura-t-elle,* vous aviez besoin de quelque chose…*
+– Si, en attendant, murmura-t-elle, vous aviez besoin de quelque chose…
 
 Mais il refusa avec une fierté inquiète ; il dit qu'il avait tout ce qu'il lui fallait, qu'il savait où aller. Elle parut heureuse, elle répéta plusieurs fois, comme pour se rassurer elle-même sur son sort :
 
@@ -150,7 +142,7 @@ Mais il refusa avec une fierté inquiète ; il dit qu'il avait tout ce qu'il lu
 
 Une grosse cloche, au-dessus de la tête de Florent, au coin du pavillon des fruits, se mit à sonner. Les coups, lents et réguliers, semblaient éveiller de proche en proche le sommeil trônant sur le carreau. Les voitures arrivaient toujours, les cris des charretiers, les coups de fouet, les écrasements du pavé sous le fer des roues et le sabot des bêtes, grandissaient ; et les voitures n'avançaient plus que par secousses, prenant la file, s'étendant au-delà des regards, dans des profondeurs grises, d'où montait un brouhaha confus. Tout le long de la rue du Pont-Neuf, on déchargeait, les tombereaux acculés aux ruisseaux, les chevaux immobiles et serrés, rangés comme dans une foire. Florent s'intéressa à une énorme voiture de boueux, pleine de choux superbes, qu'on avait eu grand-peine à faire reculer jusqu'au trottoir ; la charge dépassait un grand diable de bec de gaz planté à côté, éclairant en plein l'entassement des larges feuilles, qui se rabattaient comme des pans de velours gros vert, découpé et gaufré. Une petite paysanne de seize ans, en casaquin et en bonnet de toile bleue, montée dans le tombereau, ayant des choux jusqu'aux épaules, les prenait un à un, les lançait à quelqu'un que l'ombre cachait, en bas. La petite, par moments, perdue, noyée, glissait, disparaissait sous un éboulement ; puis, son nez rose reparaissait au milieu des verdures épaisses ; elle riait, et les choux se remettaient à voler, à passer entre le bec de gaz et Florent. Il les comptait machinalement. Quand le tombereau fut vide, cela l'ennuya.
 
-Sur le carreau, les tas déchargés s'étendaient maintenant jusqu'à la chaussée. Entre chaque tas, les maraîchers ménageaient un étroit sentier pour que le monde pût circuler. Tout le large trottoir, couvert d'un bout à l'autre, s'allongeait, avec les bosses sombres des légumes. On ne voyait encore, dans la clarté brusque et tournante des lanternes, que l'épanouissement charnu d'un paquet d'artichauts, les verts délicats des salades, le corail rose des carottes, l'ivoire mat des navets ; et ces éclairs de couleurs intenses filaient le long des tas, avec les lanternes. Le trottoir s'était peuplé ; une foule s'éveillait, allait entre les marchandises, s'arrêtant, causant, appelant. Une voix forte, au loin, criait : « *Eh ! la chicorée !* » On venait d'ouvrir les grilles du pavillon aux gros légumes ; les revendeuses de ce pavillon, en bonnets blancs, avec un fichu noué sur leur caraco noir, et les jupes relevées par des épingles pour ne pas se salir, faisaient leur provision du jour, chargeaient de leurs achats les grandes hottes des porteurs posées à terre. Du pavillon à la chaussée, le va-et-vient des hottes s'animait, au milieu des têtes cognées, des mots gras, du tapage des voix s'enrouant à discuter un quart d'heure pour un sou. Et Florent s'étonnait du calme des maraîchères, avec leurs madras et leur teint hâlé, dans ce chipotage bavard des Halles.
+Sur le carreau, les tas déchargés s'étendaient maintenant jusqu'à la chaussée. Entre chaque tas, les maraîchers ménageaient un étroit sentier pour que le monde pût circuler. Tout le large trottoir, couvert d'un bout à l'autre, s'allongeait, avec les bosses sombres des légumes. On ne voyait encore, dans la clarté brusque et tournante des lanternes, que l'épanouissement charnu d'un paquet d'artichauts, les verts délicats des salades, le corail rose des carottes, l'ivoire mat des navets ; et ces éclairs de couleurs intenses filaient le long des tas, avec les lanternes. Le trottoir s'était peuplé ; une foule s'éveillait, allait entre les marchandises, s'arrêtant, causant, appelant. Une voix forte, au loin, criait : « Eh ! la chicorée ! » On venait d'ouvrir les grilles du pavillon aux gros légumes ; les revendeuses de ce pavillon, en bonnets blancs, avec un fichu noué sur leur caraco noir, et les jupes relevées par des épingles pour ne pas se salir, faisaient leur provision du jour, chargeaient de leurs achats les grandes hottes des porteurs posées à terre. Du pavillon à la chaussée, le va-et-vient des hottes s'animait, au milieu des têtes cognées, des mots gras, du tapage des voix s'enrouant à discuter un quart d'heure pour un sou. Et Florent s'étonnait du calme des maraîchères, avec leurs madras et leur teint hâlé, dans ce chipotage bavard des Halles.
 
 Derrière lui, sur le carreau de la rue Rambuteau, on vendait des fruits. Des rangées de bourriches, de paniers bas, s'alignaient, couverts de toile ou de paille ; et une odeur de mirabelles trop mûres trônait. Une voix douce et lente, qu'il entendait depuis longtemps, lui fit tourner la tête. Il vit une adorable petite femme brune, assise par terre, qui marchandait.
 
@@ -174,9 +166,9 @@ Elle paya, elle emporta les deux paniers dans le pavillon aux fruits qu'on venai
 
 Cependant, madame François s'était débarrassée de sa marchandise. Il lui restait quelques bottes de carottes, quand Lacaille reparut, avec son sac.
 
-*– Eh bien, ça va-t-il à un sou ?* dit-il.
+– Eh bien, ça va-t-il à un sou ? dit-il.
 
-*– J'étais bien sûre de vous revoir, vous,* répondit tranquillement la maraîchère. *Voyons, prenez mon reste. Il y a dix-sept bottes.*
+– J'étais bien sûre de vous revoir, vous, répondit tranquillement la maraîchère. Voyons, prenez mon reste. Il y a dix-sept bottes.
 
 – Ça fait dix-sept sous.
 
@@ -192,7 +184,7 @@ Quand madame François parlait de Paris, elle était pleine d'ironie et de déda
 
 Florent baissait la tête, il venait de commettre un vol. Quand Lacaille s'en était allé, il avait aperçu une carotte par terre. Il l'avait ramassée, il la tenait serrée dans sa main droite. Derrière lui, des paquets de céleris, des tas de persil mettaient des odeurs irritantes qui le prenaient à la gorge.
 
-*– Je vais m'en aller,* répéta madame François.
+– Je vais m'en aller, répéta madame François.
 
 Elle s'intéressait à cet inconnu, elle le sentait souffrir, sur ce trottoir, dont il n'avait pas remué. Elle lui fit de nouvelles offres de service ; mais il refusa encore, avec une fierté plus âpre. Il se leva même, se tint debout, pour prouver qu'il était gaillard. Et, comme elle tournait la tête, il mit la carotte dans sa bouche. Mais il dut la garder un instant, malgré l'envie terrible qu'il avait de serrer les dents ; elle le regardait de nouveau en face, elle l'interrogeait, avec sa curiosité de brave femme. Lui, pour ne pas parler, répondait par des signes de tête. Puis, doucement, lentement, il mangea la carotte.
 
@@ -202,7 +194,7 @@ La maraîchère allait décidément partir, lorsqu'une voix forte dit tout à c�
 
 C'était un garçon maigre, avec de gros os, une grosse tête, barbu, le nez très fin, les yeux minces et clairs. Il portait un chapeau de feutre noir, roussi, déformé, et se boutonnait au fond d'un immense paletot, jadis marron tendre, que les pluies avaient déteint en larges traînées verdâtres. Un peu courbé, agité d'un frisson d'inquiétude nerveuse qui devait lui être habituel, il restait planté dans ses gros souliers lacés ; et son pantalon trop court montrait ses bas bleus.
 
-*– Bonjour, monsieur Claude,* répondit gaiement la maraîchère. *Vous savez, je vous ai attendu, lundi ; et comme vous n'êtes pas venu, j'ai garé votre toile ; je l'ai accrochée à un clou, dans ma chambre.*
+– Bonjour, monsieur Claude, répondit gaiement la maraîchère. Vous savez, je vous ai attendu, lundi ; et comme vous n'êtes pas venu, j'ai garé votre toile ; je l'ai accrochée à un clou, dans ma chambre.
 
 – Vous êtres trop bonne, madame François, j'irai terminer mon étude, un de ces jours… Lundi, je n'ai pas pu… Est-ce que votre grand prunier a encore toutes ses feuilles ?
 
@@ -226,7 +218,7 @@ Florent resta gêné. Il se livrait moins vite ; mais, depuis son arrivée, il 
 
 – Est-ce que la rue Pirouette existe toujours ?
 
-*– Mais oui,* dit le peintre. *Un coin bien curieux du vieux Paris, cette rue-là ! Elle tourne comme une danseuse, et les maisons y ont des ventres de femme grosse… J'en ai fait une eau-forte pas trop mauvaise. Quand vous viendrez chez moi, je vous la montrerai… C'est là que vous allez ?*
+– Mais oui, dit le peintre. Un coin bien curieux du vieux Paris, cette rue-là ! Elle tourne comme une danseuse, et les maisons y ont des ventres de femme grosse… J'en ai fait une eau-forte pas trop mauvaise. Quand vous viendrez chez moi, je vous la montrerai… C'est là que vous allez ?
 
 Florent, soulagé, ragaillardi par la nouvelle que la rue Pirouette existait, jura que non, assura qu'il n'avait nulle part à aller. Toute sa méfiance se réveillait devant l'insistance de Claude.
 
@@ -238,7 +230,7 @@ Puis, en face, rue Pirouette, il montra, expliqua chaque maison. Un seul bec de 
 
 Cependant, la fenêtre du pignon s'était ouverte, une petite vieille se penchait, regardait le ciel, puis les Halles, au loin.
 
-*– Tiens ! mademoiselle Saget est matinale,* dit Claude qui avait levé la tête.
+– Tiens ! mademoiselle Saget est matinale, dit Claude qui avait levé la tête.
 
 Et il ajouta, en se tournant vers son compagnon :
 
@@ -248,19 +240,19 @@ Florent allait le questionner, mais il le trouva inquiétant, dans son grand pal
 
 – Voyons, où allez-vous, à la fin !
 
-*– Je ne vais nulle part, à présent,* dit Florent accablé. *Allons où vous voudrez.*
+– Je ne vais nulle part, à présent, dit Florent accablé. Allons où vous voudrez.
 
 Comme il sortait de la rue Pirouette, une voix appela Claude, du fond de la boutique d'un marchand de vin, qui faisait le coin. Claude entra, traînant Florent à sa suite. Il n'y avait qu'un côté des volets enlevé. Le gaz brûlait dans l'air encore endormi de la salle ; un torchon oublié, les cartes de la veille, traînaient sur les tables, et le courant d'air de la porte grande ouverte mettait sa pointe fraîche au milieu de l'odeur chaude et renfermée du vin. Le patron, monsieur Lebigre, servait les clients, en gilet à manches, son collier de barbe tout chiffonné, sa grosse figure régulière toute blanche de sommeil. Des hommes, debout, par groupes, buvaient devant le comptoir, toussant, crachant, les yeux battus, achevant de s'éveiller dans le vin blanc et dans l'eau-de-vie. Florent reconnut Lacaille, dont le sac, à cette heure, débordait de légumes. Il en était à la troisième tournée, avec un camarade, qui racontait longuement l'achat d'un panier de pommes de terre. Quand il eut vidé son verre, il alla causer avec monsieur Lebigre, dans un petit cabinet vitré, au fond, où le gaz n'était pas allumé.
 
-*– Que voulez-vous prendre ?* demanda Claude à Florent.
+– Que voulez-vous prendre ? demanda Claude à Florent.
 
 En entrant, il avait serré la main de l'homme qui l'invitait. C'était un fort, un beau garçon de vingt-deux ans au plus, rasé, ne portant que de petites moustaches, l'air gaillard, avec son vaste chapeau enduit de craie et son colletin de tapisserie, dont les bretelles serraient son bourgeron bleu. Claude l'appelait Alexandre, lui tapait sur les bras, lui demandait quand ils iraient à Charentonneau. Et ils parlaient d'une grande partie qu'ils avaient faite ensemble, en canot, sur la Marne. Le soir, ils avaient mangé un lapin.
 
-*– Voyons, que prenez-vous ?* répéta Claude.
+– Voyons, que prenez-vous ? répéta Claude.
 
 Florent regardait le comptoir, très embarrassé. Au bout, des théières de punch et de vin chaud, cerclées de cuivre, chauffaient sur les courtes flammes bleue et rose d'un appareil à gaz. Il confessa enfin qu'il prendrait volontiers quelque chose de chaud. Monsieur Lebigre servit trois verres de punch. Il y avait, près des théières, dans une corbeille, des petits pains au beurre qu'on venait d'apporter et qui fumaient. Mais les autres n'en prirent pas, et Florent but son verre de punch ; il le sentit qui tombait dans son estomac vide, comme un filet de plomb fondu. Ce fut Alexandre qui paya.
 
-*– Un bon garçon, cet Alexandre,* dit Claude, quand ils se retrouvèrent tous les deux sur le trottoir de la rue Rambuteau. *Il est très amusant à la campagne ; il fait des tours de force ; puis, il est superbe, le gredin ; je l'ai vu nu, et s'il voulait me poser des académies, en plein air… Maintenant, si cela vous plaît, nous allons faire un tour dans les Halles.*
+– Un bon garçon, cet Alexandre, dit Claude, quand ils se retrouvèrent tous les deux sur le trottoir de la rue Rambuteau. Il est très amusant à la campagne ; il fait des tours de force ; puis, il est superbe, le gredin ; je l'ai vu nu, et s'il voulait me poser des académies, en plein air… Maintenant, si cela vous plaît, nous allons faire un tour dans les Halles.
 
 Florent le suivait, s'abandonnait. Une lueur claire, au fond de la rue Rambuteau, annonçait le jour. La grande voix des Halles grondait plus haut ; par instants, des volées de cloche, dans un pavillon éloigné, coupaient cette clameur roulante et montante. Ils entrèrent sous une des rues couvertes, entre le pavillon de la marée et le pavillon de la volaille. Florent levait les yeux, regardait la haute voûte, dont les boiseries intérieures luisaient, entre les dentelles noires des charpentes de fonte. Quand il déboucha dans la grande rue du milieu, il songea à quelque ville étrange, avec ses quartiers distincts, ses faubourgs, ses villages, ses promenades et ses routes, ses places et ses carrefours, mise tout entière sous un hangar, un jour de pluie, par quelque caprice gigantesque. L'ombre, sommeillant dans les creux des toitures, multipliait la forêt des piliers, élargissait à l'infini les nervures délicates, les galeries découpées, les persiennes transparentes ; et c'était, au-dessus de la ville, jusqu'au fond des ténèbres, toute une végétation, toute une floraison, monstrueux épanouissement de métal, dont les tiges qui montaient en fusée, les branches qui se tordaient et se nouaient, couvraient un monde avec les légèretés de feuillage d'une futaie séculaire. Des quartiers dormaient encore, clos de leurs grilles. Les pavillons du beurre et de la volaille alignaient leurs petites boutiques treillagées, allongeaient leurs ruelles désertes sous les files des becs de gaz. Le pavillon de la marée venait d'être ouvert ; des femmes traversaient les rangées de pierres blanches, tachées de l'ombre des paniers et des linges oubliés. Aux gros légumes, aux fleurs et aux fruits, le vacarme allait grandissant. De proche en proche, le réveil gagnait la ville, du quartier populeux où les choux s'entassent dès quatre heures du matin, au quartier paresseux et riche qui n'accroche des poulardes et des faisans à ses maisons que vers les huit heures.
 
@@ -268,7 +260,7 @@ Mais, dans les grandes rues couvertes, la vie affluait. Le long des trottoirs, a
 
 Claude et Florent revinrent sur leurs pas, flânant, s'attardant au milieu des fleurs. Ils s'arrêtèrent curieusement devant des femmes qui vendaient des bottes de fougère et des paquets de feuilles de vigne, bien réguliers, attachés par quarterons. Puis ils tournèrent dans un bout de rue couverte, presque désert, où leurs pas sonnaient comme sous la voûte d'une église. Ils y trouvèrent, attelé à une voiture grande comme une brouette, un tout petit âne qui s'ennuyait sans doute, et qui se mit à braire en les voyant, d'un ronflement si fort et si prolongé, que les vastes toitures des Halles en tremblaient. Des hennissements de chevaux répondirent ; il y eut des piétinements, tout un vacarme au loin, qui grandit, roula, alla se perdre. Cependant, en face d'eux, rue Berger, les boutiques nues des commissionnaires, grandes ouvertes, montraient, sous la clarté du gaz, des amas de paniers et de fruits, entre les trois murs sales couverts d'additions au crayon. Et comme ils étaient là, ils aperçurent une dame bien mise, pelotonnée d'un air de lassitude heureuse dans le coin d'un fiacre, perdu au milieu de l'encombrement de la chaussée, et filant sournoisement.
 
-*– C'est Cendrillon qui rentre sans pantoufles,* dit Claude avec un sourire.
+– C'est Cendrillon qui rentre sans pantoufles, dit Claude avec un sourire.
 
 Ils causaient maintenant, en retournant sous les Halles. Claude, les mains dans les poches, sifflant, racontait son grand amour pour ce débordement de nourriture, qui monte au beau milieu de Paris, chaque matin. Il rôdait sur le carreau des nuits entières, rêvant des natures mortes colossales, des tableaux extraordinaires. Il en avait même commencé un ; il avait fait poser son ami Marjolin et cette gueuse de Cadine ; mais c'était dur, c'était trop beau, ces diables de légumes, et les fruits, et les poissons, et la viande ! Florent écoutait, le ventre serré, cet enthousiasme d'artiste. Et il était évident que Claude, en ce moment-là, ne songeait même pas que ces belles choses se mangeaient. Il les aimait pour leur couleur. Brusquement, il se tut, serra d'un mouvement qui lui était habituel la longue ceinture rouge qu'il portait sous son paletot verdâtre, et reprit d'un air fin :
 
@@ -276,7 +268,7 @@ Ils causaient maintenant, en retournant sous les Halles. Claude, les mains dans 
 
 Il raconta un souper qu'un ami lui avait payé chez Baratte, un jour de splendeur ; ils avaient eu des huîtres, du poisson, du gibier. Mais Baratte était bien tombé ; tout le carnaval de l'ancien marché des Innocents se trouvait enterré, à cette heure ; on en était aux Halles centrales, à ce colosse de fonte, à cette ville nouvelle, si originale. Les imbéciles avaient beau dire, toute l'époque était là. Et Florent ne savait plus s'il condamnait le côté pittoresque où la bonne chère de Baratte. Puis, Claude déblatéra contre le romantisme ; il préférait ses tas de choux aux guenilles du Moyen Âge. Il finit par s'accuser de son eau-forte de la rue Pirouette comme d'une faiblesse. On devait flanquer les vieilles cambuses par terre et faire du moderne.
 
-*– Tenez,* dit-il en s'arrêtant, *regardez, au coin du trottoir. N'est-ce pas un tableau tout fait, et qui serait plus humain que leurs sacrées peintures poitrinaires ?*
+– Tenez, dit-il en s'arrêtant, regardez, au coin du trottoir. N'est-ce pas un tableau tout fait, et qui serait plus humain que leurs sacrées peintures poitrinaires ?
 
 Le long de la rue couverte, maintenant, des femmes vendaient du café, de la soupe. Au coin du trottoir, un large rond de consommateurs s'était formé autour d'une marchande de soupe aux choux. Le seau de fer-blanc étamé, plein de bouillon, fumait sur le petit réchaud bas, dont les trous jetaient une lueur pâle de braise. La femme, armée d'une cuiller à pot, prenant de minces tranches de pain au fond d'une corbeille garnie d'un linge, trempait la soupe dans des tasses jaunes. Il y avait là des marchandes très propres, des maraîchers en blouse, des porteurs sales, le paletot gras des charges de nourriture qui avaient traîné sur les épaules, de pauvres diables déguenillés, toutes les faims matinales des Halles, mangeant, se brûlant, écartant un peu le menton pour ne pas se tacher de la bavure des cuillers. Et le peintre ravi clignait les yeux, cherchait le point de vue, afin de composer le tableau dans un bon ensemble. Mais cette diablesse de soupe aux choux avait une odeur terrible. Florent tournait la tête, gêné par ces tasses pleines, que les consommateurs vidaient sans mot dire, avec un regard de côté d'animaux méfiants. Alors, comme la femme servait un nouvel arrivé, Claude lui-même fut attendri par la vapeur forte d'une cuillerée qu'il reçut en plein visage.
 
@@ -298,13 +290,13 @@ Mais Claude était monté debout sur le banc, d'enthousiasme. Il força son comp
 
 Claude battait des mains, à ce spectacle. Il trouvait « ces gredins de légumes » extravagants, fous, sublimes. Et il soutenait qu'ils n'étaient pas morts, qu'arrachés de la veille, ils attendaient le soleil du lendemain pour lui dire adieu sur le pavé des Halles. Il les voyait vivre, ouvrir leurs feuilles, comme s'ils eussent encore les pieds tranquilles et chauds dans le fumier. Il disait entendre là le râle de tous les potagers de la banlieue. Cependant, la foule des bonnets blancs, des caracos noirs, des blouses bleues, emplissait les étroits sentiers, entre les tas. C'était toute une campagne bourdonnante. Les grandes hottes des porteurs filaient lourdement au-dessus des têtes. Les revendeuses, les marchands des quatre-saisons, les fruitiers, achetaient, se hâtaient. Il y avait des caporaux et des bandes de religieuses autour des montagnes de choux ; tandis que des cuisiniers de collège flairaient, cherchant les bonnes aubaines. On déchargeait toujours ; des tombereaux jetaient leur charge à terre, comme une charge de pavés, ajoutant un flot aux autres flots, qui venaient maintenant battre le trottoir opposé. Et, du fond de la rue du Pont-Neuf, des files de voitures arrivaient, éternellement.
 
-*– C'est crânement beau tout de même,* murmurait Claude en extase.
+– C'est crânement beau tout de même, murmurait Claude en extase.
 
 Florent souffrait. Il croyait à quelque tentation surhumaine. Il ne voulait plus voir, il regardait Saint-Eustache, posé de biais, comme lavé à la sépia sur le bleu du ciel, avec ses rosaces, ses larges fenêtres cintrées, son clocheton, ses toits d'ardoises. Il s'arrêtait à l'enfoncement sombre de la rue Montorgueil, où éclataient des bouts d'enseignes violentes, au pan coupé de la rue Montmartre, dont les balcons luisaient, chargés de lettres d'or. Et, quand il revenait au carrefour, il était sollicité par d'autres enseignes, des *Droguerie et pharmacie*, des *Farines et légumes secs*, aux grosses majuscules rouges ou noires, sur des fonds déteints. Les maisons des angles, à fenêtres étroites, s'éveillaient, mettaient, dans l'air large de la nouvelle rue du Pont-Neuf, quelques jaunes et bonnes vieilles façades de l'ancien Paris. Au coin de la rue Rambuteau, debout au milieu des vitrines vides du grand magasin de nouveautés, des commis bien mis, en gilet, avec leur pantalon collant et leurs larges manchettes éblouissantes, faisaient l'étalage. Plus loin, la maison Guillout, sévère comme une caserne, étalait délicatement, derrière ses glaces, des paquets dorés de biscuits et des compotiers pleins de petits fours. Toutes les boutiques s'étaient ouvertes. Des ouvriers en blouses blanches, tenant leurs outils sous le bras, pressaient le pas, traversaient la chaussée.
 
 Claude n'était pas descendu de son banc. Il se grandissait, pour voir jusqu'au fond des rues. Brusquement, il aperçut, dans la foule qu'il dominait, une tête blonde aux larges cheveux, suivie d'une petite tête noire, toute crépue et ébouriffée.
 
-*– Eh ! Marjolin ! eh ! Cadine !* cria-t-il.
+– Eh ! Marjolin ! eh ! Cadine ! cria-t-il.
 
 Et, comme sa voix se perdait au milieu du brouhaha, il sauta à terre, il prit sa course. Puis, il songea qu'il oubliait Florent ; il revint d'un saut ; il dit rapidement :
 
@@ -328,7 +320,7 @@ Il leva une dernière fois les yeux, il regarda les Halles. Elles flambaient dan
 
 Il était arrivé à une allée plus large. Deux femmes, une petite vieille et une grande sèche, passèrent devant lui, causant, se dirigeant vers les pavillons.
 
-*– Et vous êtes venue faire vos provisions, mademoiselle Saget ?* demanda la grande sèche.
+– Et vous êtes venue faire vos provisions, mademoiselle Saget ? demanda la grande sèche.
 
 – Oh ! madame Lecœur, si on peut dire… Vous savez, une femme seule. Je vis de rien… J'aurais voulu un petit chou-fleur, mais tout est si cher… Et le beurre, à combien, aujourd'hui ?
 
@@ -338,9 +330,9 @@ Il était arrivé à une allée plus large. Deux femmes, une petite vieille et u
 
 Florent, faisant un effort suprême, suivait les deux femmes. Il se souvenait d'avoir entendu nommer la petite vieille par Claude, rue Pirouette ; il se disait qu'il la questionnerait, quand elle aurait quitté la grande sèche.
 
-*– Et votre nièce ?* demanda mademoiselle Saget.
+– Et votre nièce ? demanda mademoiselle Saget.
 
-*– La Sarriette fait ce qu'il lui plaît,* répondit aigrement madame Lecœur. *Elle a voulu s'établir. Ça ne me regarde plus. Quand les hommes l'auront grugée, ce n'est pas moi qui lui donnerai un morceau de pain.*
+– La Sarriette fait ce qu'il lui plaît, répondit aigrement madame Lecœur. Elle a voulu s'établir. Ça ne me regarde plus. Quand les hommes l'auront grugée, ce n'est pas moi qui lui donnerai un morceau de pain.
 
 – Vous étiez si bonne pour elle… Elle devrait gagner de l'argent ; les fruits sont avantageux, cette année… Et votre beau-frère ?
 
@@ -348,23 +340,23 @@ Florent, faisant un effort suprême, suivait les deux femmes. Il se souvenait d'
 
 Madame Lecœur pinça les lèvres et parut ne pas vouloir en dire davantage.
 
-*– Toujours le même, hein ?* continua mademoiselle Saget. *C'est un bien brave homme… Je me suis laissé dire qu'il mangeait son argent d'une façon…*
+– Toujours le même, hein ? continua mademoiselle Saget. C'est un bien brave homme… Je me suis laissé dire qu'il mangeait son argent d'une façon…
 
-*– Est-ce qu'on sait s'il mange son argent !* dit brutalement madame Lecœur. *C'est un cachottier, c'est un ladre, c'est un homme, voyez-vous, mademoiselle, qui me laisserait crever plutôt que de me prêter cent sous… Il sait parfaitement que les beurres, pas plus que les fromages et les œufs, n'ont marché cette saison. Lui, vend toute la volaille qu'il veut… Eh bien, pas une fois, non, pas une fois, il ne m'aurait offert ses services. Je suis bien trop fière pour accepter, vous comprenez, mais ça m'aurait fait plaisir.*
+– Est-ce qu'on sait s'il mange son argent ! dit brutalement madame Lecœur. C'est un cachottier, c'est un ladre, c'est un homme, voyez-vous, mademoiselle, qui me laisserait crever plutôt que de me prêter cent sous… Il sait parfaitement que les beurres, pas plus que les fromages et les œufs, n'ont marché cette saison. Lui, vend toute la volaille qu'il veut… Eh bien, pas une fois, non, pas une fois, il ne m'aurait offert ses services. Je suis bien trop fière pour accepter, vous comprenez, mais ça m'aurait fait plaisir.
 
-*– Eh ! le voilà, votre beau-frère,* reprit mademoiselle Saget, en baissant la voix.
+– Eh ! le voilà, votre beau-frère, reprit mademoiselle Saget, en baissant la voix.
 
 Les deux femmes se tournèrent, regardèrent quelqu'un qui traversait la chaussée pour entrer sous la grande rue couverte.
 
-*– Je suis pressée,* murmura madame Lecœur, *j'ai laissé ma boutique toute seule. Puis, je ne veux pas lui parler.*
+– Je suis pressée, murmura madame Lecœur, j'ai laissé ma boutique toute seule. Puis, je ne veux pas lui parler.
 
 Florent s'était aussi retourné, machinalement. Il vit un petit homme, carré, l'air heureux, les cheveux gris et taillés en brosse, qui tenait sous chacun de ses bras une oie grasse, dont la tête pendait et lui tapait sur les cuisses. Et, brusquement, il eut un geste de joie ; il courut derrière cet homme, oubliant sa fatigue. Quand il l'eut rejoint :
 
-*– Gavard !* dit-il, en lui frappant sur l'épaule.
+– Gavard ! dit-il, en lui frappant sur l'épaule.
 
 L'autre leva la tête, examina d'un air surpris cette longue figure noire qu'il ne reconnaissait pas. Puis, tout d'un coup :
 
-*– Vous ! Vous !* s'écria-t-il au comble de la stupéfaction. *Comment, c'est vous !*
+– Vous ! Vous ! s'écria-t-il au comble de la stupéfaction. Comment, c'est vous !
 
 Il manqua laisser tomber ses oies grasses. Il ne se calmait pas. Mais, ayant aperçu sa belle-sœur et mademoiselle Saget, qui assistaient curieusement de loin à leur rencontre, il se remit à marcher, en disant :
 
@@ -378,15 +370,15 @@ Elle faisait presque le coin de la rue Pirouette. Elle était une joie pour le r
 
 Florent sentit un frisson à fleur de peau ; et il aperçut une femme, sur le seuil de la boutique, dans le soleil. Elle mettait un bonheur de plus, une plénitude solide et heureuse, au milieu de toutes ces gaietés grasses. C'était une belle femme. Elle tenait la largeur de la porte, point trop grosse pourtant, forte de la gorge, dans la maturité de la trentaine. Elle venait de se lever, et déjà ses cheveux, lissés, collés et comme vernis, lui descendaient en petits bandeaux plats sur les tempes. Cela la rendait très propre. Sa chair paisible avait cette blancheur transparente, cette peau fine et rosée des personnes qui vivent d'ordinaire dans les graisses et les viandes crues. Elle était sérieuse plutôt, très calme et très lente, s'égayant du regard, les lèvres graves. Son col de linge empesé bridant sur son cou, ses manches blanches qui lui montaient jusqu'aux coudes, son tablier blanc cachant la pointe de ses souliers, ne laissaient voir que des bouts de sa robe de cachemire noir, les épaules rondes, le corsage plein, dont le corset tendait l'étoffe, extrêmement. Dans tout ce blanc, le soleil brûlait. Mais, trempée de clarté, les cheveux bleus, la chair rose, les manches et la jupe éclatantes, elle ne clignait pas les paupières, elle prenait en toute tranquillité béate son bain de lumière matinale, les yeux doux, riant aux Halles débordantes. Elle avait un air de grande honnêteté.
 
-*– C'est la femme de votre frère, votre belle-sœur Lisa,* dit Gavard à Florent.
+– C'est la femme de votre frère, votre belle-sœur Lisa, dit Gavard à Florent.
 
 Il l'avait saluée d'un léger signe de tête. Puis, il s'enfonça dans l'allée, continuant à prendre des précautions minutieuses, ne voulant pas que Florent entrât par la boutique, qui était vide pourtant. Il était évidemment très heureux de se mettre dans une aventure qu'il croyait compromettante.
 
-*– Attendez,* dit-il, *je vais voir si votre frère est seul… Vous entrerez, quand je taperai dans mes mains.*
+– Attendez, dit-il, je vais voir si votre frère est seul… Vous entrerez, quand je taperai dans mes mains.
 
 Il poussa une porte, au fond de l'allée. Mais, lorsque Florent entendit la voix de son frère, derrière cette porte, il entra d'un bond. Quenu, qui l'adorait, se jeta à son cou. Ils s'embrassaient comme des enfants.
 
-*– Ah ! saperlotte, ah ! c'est toi,* balbutiait Quenu, *si je m'attendais, par exemple !… Je t'ai cru mort, je le disais hier encore à Lisa : « Ce pauvre Florent… »*
+– Ah ! saperlotte, ah ! c'est toi, balbutiait Quenu, si je m'attendais, par exemple !… Je t'ai cru mort, je le disais hier encore à Lisa : « Ce pauvre Florent… »
 
 Il s'arrêta, il cria, en penchant la tête dans la boutique :
 
@@ -400,15 +392,15 @@ Mais la petite ne bougea pas. C'était une superbe enfant de cinq ans, ayant une
 
 Lisa arriva lentement.
 
-*– C'est Florent, c'est mon frère,* répétait Quenu.
+– C'est Florent, c'est mon frère, répétait Quenu.
 
 Elle l'appela « monsieur », fut très bonne. Elle le regardait paisiblement, de la tête aux pieds, sans montrer aucune surprise malhonnête. Ses lèvres seules avaient un léger pli. Et elle resta debout, finissant par sourire des embrassades de son mari. Celui-ci pourtant parut se calmer. Alors il vit la maigreur, la misère de Florent.
 
-*– Ah ! mon pauvre ami,* dit-il, *tu n'as pas embelli, là-bas… Moi, j'ai engraissé, que veux-tu !*
+– Ah ! mon pauvre ami, dit-il, tu n'as pas embelli, là-bas… Moi, j'ai engraissé, que veux-tu !
 
 Il était gras, en effet, trop gras pour ses trente ans. Il débordait dans sa chemise, dans son tablier, dans ses linges blancs qui l'emmaillotaient comme un énorme poupon. Sa face rasée s'était allongée, avait pris à la longue une lointaine ressemblance avec le groin de ces cochons, de cette viande, où ses mains s'enfonçaient et vivaient, la journée entière. Florent le reconnaissait à peine. Il s'était assis, il passait de son frère à la belle Lisa, à la petite Pauline. Ils suaient la santé ; ils étaient superbes, carrés, luisants ; ils le regardaient avec l'étonnement de gens très gras pris d'une vague inquiétude en face d'un maigre. Et le chat lui-même, dont la peau pétait de graisse, arrondissait ses yeux jaunes, l'examinait d'un air défiant.
 
-*– Tu attendras le déjeuner, n'est-ce pas ?* demanda Quenu. *Nous mangeons de bonne heure, à dix heures.*
+– Tu attendras le déjeuner, n'est-ce pas ? demanda Quenu. Nous mangeons de bonne heure, à dix heures.
 
 Une odeur forte de cuisine traînait. Florent revit sa nuit terrible, son arrivée dans les légumes, son agonie au milieu des Halles, cet éboulement continu de nourriture auquel il venait d'échapper. Alors, il dit à voix basse, avec un sourire doux :
 

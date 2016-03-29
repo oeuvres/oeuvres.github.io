@@ -2,45 +2,6 @@
 
 **** *book_ *id_body-1 *date_1877
 
-Préface de l'auteur
-
-Les Rougon-Macquart doivent se composer d'une vingtaine de romans.
-Depuis 1869, le plan général est arrêté, et je le suis avec une rigueur extrême.
-L'Assommoir est venu à son heure, je l'ai écrit, comme j'écrirai les autres, sans me déranger une seconde de ma ligne droite.
-C'est ce qui fait ma force.
-J'ai un but auquel je vais.
-
-Lorsque L'Assommoir a paru dans un journal, il a été attaqué avec une brutalité sans exemple, dénoncé, chargé de tous les crimes.
-Est-il bien nécessaire d'expliquer ici, en quelques lignes, mes intentions d'écrivain ?
-J'ai voulu peindre la déchéance fatale d'une famille ouvrière, dans le milieu empesté de nos faubourgs.
-Au bout de l'ivrognerie et de la fainéantise, il y a le relâchement des liens de la famille, les ordures de la promiscuité, l'oubli progressif des sentiments honnêtes, puis comme dénouement la honte et la mort.
-C'est la morale en action, simplement.
-
-L'Assommoir est à coup sûr le plus chaste de mes livres.
-Souvent j'ai dû toucher à des plaies autrement épouvantables.
-La forme seule a effaré.
-On s'est fâché contre les mots.
-Mon crime est d'avoir eu la langue du peuple.
-Ah ! la forme, là est le grand crime !
-Des dictionnaires de cette langue existent pourtant, des lettrés l'étudient et jouissent de sa verdeur, de l'imprévu et de la force de ses images.
-Elle est un régal pour les grammairiens fureteurs.
-N'importe, personne n'a entrevu que ma volonté était de faire un travail purement philologique, que je crois d'un vif intérêt historique et social.
-
-Je ne me défends pas d'ailleurs.
-Mon œuvre me défendra.
-C'est une œuvre de vérité, le premier roman sur le peuple, qui ne mente pas et qui ait l'odeur du peuple.
-Et il ne faut point conclure que le peuple tout entier est mauvais, car mes personnages ne sont pas mauvais, ils ne sont qu'ignorants et gâtés par le milieu de rude besogne et de misère où ils vivent.
-Seulement, il faudrait lire mes romans, les comprendre, voir nettement leur ensemble, avant de porter les jugements tout faits, grotesques et odieux, qui circulent sur ma personne et sur mes œuvres.
-Ah ! si l'on savait combien mes amis s'égayent de la légende stupéfiante dont on amuse la foule !
-Si l'on savait combien le buveur de sang, le romancier féroce, est un digne bourgeois, un homme d'étude et d'art, vivant sagement dans son coin, et dont l'unique ambition est de laisser une œuvre aussi large et aussi vivante qu'il pourra !
-Je ne démens aucun conte, je travaille, je m'en remets au temps et à la bonne foi publique pour me découvrir enfin sous l'amas des sottises entassées.
-
-ÉMILE ZOLA
-
-Paris, 1er janvier 1877.
-
-**** *book_ *id_body-2 *date_1877
-
 I
 
 Gervaise avait attendu Lantier jusqu'à deux heures du matin.
@@ -894,7 +855,7 @@ Puis, entendant rire à la fenêtre Étienne et Claude, déjà consolés, elle s
 À cette heure, le pavé échauffé par les besognes du jour allumait une réverbération ardente au-dessus de la ville, derrière le mur de l'octroi.
 C'était sur ce pavé, dans cet air de fournaise, qu'on la jetait toute seule avec les petits ; et elle enfila d'un regard les boulevards extérieurs, à droite, à gauche, s'arrêtant aux deux bouts, prise d'une épouvante sourde, comme si sa vie, désormais, allait tenir là, entre un abattoir et un hôpital.
 
-**** *book_ *id_body-3 *date_1877
+**** *book_ *id_body-2 *date_1877
 
 II
 
@@ -1642,7 +1603,7 @@ C'était toujours sa bête de peur, un enfantillage dont elle souriait ensuite.
 Et elle dut, pour sortir, sauter par-dessus une grande mare, qui avait coulé de la teinturerie.
 Ce jour-là, la mare était bleue, d'un azur profond de ciel d'été, où la petite lampe de nuit du concierge allumait des étoiles.
 
-**** *book_ *id_body-4 *date_1877
+**** *book_ *id_body-3 *date_1877
 
 III
 
@@ -2480,7 +2441,7 @@ Et, comme les Lorilleux se décidaient à l'emmener, il se retourna, il balbutia
 
 – Quand on est mort… écoutez ça… quand on est mort, c'est pour longtemps.
 
-**** *book_ *id_body-5 *date_1877
+**** *book_ *id_body-4 *date_1877
 
 IV
 
@@ -3236,7 +3197,7 @@ Dès le lendemain, les Coupeau louèrent la boutique.
 Gervaise courut toute la journée, de la rue Neuve à la rue de la Goutte-d'Or.
 Dans le quartier, à la voir passer ainsi, légère, ravie au point de ne plus boiter, on racontait qu'elle avait dû se laisser faire une opération.
 
-**** *book_ *id_body-6 *date_1877
+**** *book_ *id_body-5 *date_1877
 
 V
 
@@ -4037,7 +3998,7 @@ Les jours où elle n'avait pas le temps de mettre quelque chose au feu, elle all
 Ou bien, elle s'arrêtait et causait, les mains chargées d'assiettes et de bols, devant quelque fenêtre du rez-de-chaussée, un intérieur de savetier entrevu, le lit défait, le plancher encombré de loques, de deux berceaux éclopés et de la terrine à la poix pleine d'eau noire.
 Mais le voisin qu'elle respectait le plus était encore, en face, l'horloger, le monsieur en redingote, l'air propre, fouillant continuellement des montres avec des outils mignons ; et souvent elle traversait la rue pour le saluer, riant d'aise à regarder, dans la boutique étroite comme une armoire, la gaieté des petits coucous dont les balanciers se dépêchaient, battant l'heure à contre-temps, tous à la fois.
 
-**** *book_ *id_body-7 *date_1877
+**** *book_ *id_body-6 *date_1877
 
 VI
 
@@ -4872,7 +4833,7 @@ Mais il la bouscula, sans desserrer les lèvres ; et, en passant, en gagnant de
 Il ressemblait à l'autre, au soûlard qui ronflait là-haut, las d'avoir tapé.
 Alors, elle resta toute froide, elle pensait aux hommes, à son mari, à Goujet, à Lantier, le cœur coupé, désespérant d'être jamais heureuse.
 
-**** *book_ *id_body-8 *date_1877
+**** *book_ *id_body-7 *date_1877
 
 VII
 
@@ -5628,7 +5589,6 @@ Une tempête de rires et de cris montait.
 
 Mais, brusquement, une voix forte imposa silence à tout le monde.
 C'était Boche, debout, prenant un air déhanché et canaille, qui chantait le Volcan d'amour ou le Troupier séduisant.
-
 C'est moi, Blavin, que je séduis les belles…
 
 Un tonnerre de bravos accueillit le premier couplet.
@@ -5640,26 +5600,18 @@ Cet animal de Boche avait la spécialité des chansons comiques.
 Il aurait fait rire les carafes, quand il imitait le tourlourou, les doigts écartés, le chapeau en arrière.
 Tout de suite après le Volcan d'amour, il entama la Baronne de Follebiche, un de ses succès.
 Lorsqu'il arriva au troisième couplet, il se retourna vers Clémence, il murmura d'une voix ralentie et voluptueuse :
-
 La baronne avait du monde,
-
 Mais c'étaient ses quatre sœurs,
-
 Dont trois brunes, l'autre blonde,
-
 Qu'avaient huit-z-yeux ravisseurs.
 
 Alors, la société, enlevée, alla au refrain.
 Les hommes marquaient la mesure à coups de talons.
 Les dames avaient pris leur couteau et tapaient en cadence sur leur verre.
 Tous gueulaient :
-
 Sapristi ! qu'est-ce qui paiera
-
 La goutte à la pa…, à la pa… pa…,
-
 Sapristi ! qu'est-ce qui paiera
-
 La goutte à la pa…, à la patrou… ou… ouille !
 
 Les vitres de la boutique sonnaient, le grand souffle des chanteurs faisait envoler les rideaux de mousseline.
@@ -5684,21 +5636,13 @@ Un profond silence, tout d'un coup, s'était fait.
 Madame Putois venait de se lever et chantait : À l'abordage !
 Les convives, muets et recueillis, la regardaient ; même Poisson avait posé sa pipe au bord de la table, pour mieux l'entendre.
 Elle se tenait raide, petite et rageuse, la face blême sous son bonnet noir ; elle lançait son poing gauche en avant avec une fierté convaincue, en grondant d'une voix plus grosse qu'elle :
-
 Qu'un forban téméraire
-
 Nous chasse vent arrière !
-
 Malheur au flibustier !
-
 Pour lui point de quartier !
-
 Enfants, aux caronades !
-
 Rhum à pleines rasades !
-
 Pirates et forbans
-
 Sont gibiers de haubans !
 
 Ça, c'était du sérieux.
@@ -5736,15 +5680,11 @@ Lui, engourdi, avec son masque immobile de peau tannée, regardait le monde, san
 On lui demanda s'il connaissait Les Cinq Voyelles.
 Il baissa le menton ; il ne se rappelait plus ; toutes les chansons du bon temps se mêlaient dans sa caboche.
 Comme on se décidait à le laisser tranquille, il parut se souvenir, il bégaya d'une voix caverneuse :
-
 Trou la la, trou la la,
-
 Trou la, trou la, trou la la !
 
 Sa face s'animait, ce refrain devait éveiller en lui de lointaines gaietés, qu'il goûtait seul, écoutant sa voix de plus en plus sourde, avec un ravissement d'enfant.
-
 Trou la la, trou la la,
-
 Trou la, trou la, trou la la !
 
 – Dites donc, ma chère, vint murmurer Virginie à l'oreille de Gervaise, vous savez que j'en arrive encore.
@@ -5766,9 +5706,7 @@ Il y avait des militaires, des bourgeois en redingote, trois petites filles de c
 Et Lantier, en effet, se trouvait planté là, au premier rang, écoutant et regardant d'un air tranquille.
 Pour le coup, c'était du toupet.
 Gervaise sentit un froid lui monter des jambes au cœur, et elle n'osait plus bouger, pendant que le père Bru continuait :
-
 Trou la la, trou la la,
-
 Trou la, trou la, trou la la !
 
 – Ah bien ! non, mon vieux, il y en a assez ! dit Coupeau.
@@ -5786,13 +5724,9 @@ Ensuite, elle demanda une larme d'eau-de-vie, la but, s'essuya longuement les l�
 – L'Enfant du bon Dieu, n'est-ce pas ? murmura-t-elle, l'Enfant du bon Dieu…
 
 Et, grande, masculine, avec son nez osseux et ses épaules carrées de gendarme, elle commença :
-
 L'enfant perdu que sa mère abandonne,
-
 Trouve toujours un asile au saint lieu.
-
 Dieu qui le voit le défend de son trône.
-
 L'enfant perdu, c'est l'enfant du bon Dieu.
 
 Sa voix tremblait sur certains mots, traînait en notes mouillées ; elle levait en coin ses yeux vers le ciel, pendant que sa main droite se balançait devant sa poitrine et s'appuyait sur son cœur, d'un geste pénétré.
@@ -5828,11 +5762,8 @@ Et, comme il se levait en bégayant des menaces atroces, Gervaise le supplia à 
 Virginie dut lui enlever le couteau qu'il avait pris sur la table.
 Mais elle ne put l'empêcher de sortir et de s'approcher de Lantier.
 La société, dans son émotion croissante, ne voyait rien, pleurait plus fort, pendant que madame Lerat chantait, avec une expression déchirante :
-
 Orpheline on l'avait perdue,
-
 Et sa voix n'était entendue
-
 Que des grands arbres et du vent.
 
 Le dernier vers passa comme un souffle lamentable de tempête.
@@ -5847,9 +5778,7 @@ Gervaise défaillait, fermait les yeux, parce que ça durait trop longtemps et q
 Puis, comme elle n'entendait plus rien, elle rouvrit les yeux, elle resta toute bête, en les voyant causer tranquillement.
 
 La voix de madame Lerat s'élevait, roucoulante et pleurarde, commençant un couplet :
-
 Le lendemain, à demi morte,
-
 On recueillit la pauvre enfant…
 
 – Y a-t-il des femmes qui sont garces, tout de même ! dit madame Lorilleux, au milieu de l'approbation générale.
@@ -5870,7 +5799,6 @@ On est fait pour se comprendre…
 
 Madame Lerat achevait le dernier refrain.
 Les dames répétaient toutes ensemble, en roulant leurs mouchoirs :
-
 L'enfant perdu, c'est l'enfant du bon Dieu.
 
 On complimenta beaucoup la chanteuse, qui s'assit en affectant d'être brisée.
@@ -5922,27 +5850,17 @@ Le vacarme reprenait, Lantier était oublié.
 Les dames apprêtèrent leurs verres et leurs couteaux, pour accompagner le refrain.
 On riait à l'avance, en regardant le zingueur, qui se calait sur les jambes d'un air canaille.
 Il prit une voix enrouée de vieille femme.
-
 Tous les matins, quand je m'lève,
-
 J'ai l'cœur sens sus d'sous ;
-
 J' l'envoi' chercher contr' la Grève
-
 Un poisson d' quatr' sous.
-
 Il rest' trois quarts d'heure en route,
-
 Et puis, en r'montant,
-
 I' m' lich' la moitié d' ma goutte :
-
 Qué cochon d'enfant !
 
 Et les dames, tapant sur leur verre, reprirent en chœur, au milieu d'une gaieté formidable :
-
 Qué cochon d'enfant !
-
 Qué cochon d'enfant !
 
 La rue de la Goutte-d'Or elle-même, maintenant, s'en mêlait.
@@ -5957,23 +5875,14 @@ Deux sergents de ville, croyant à une émeute, accoururent ; mais, en aperceva
 Ils s'éloignèrent lentement, côte à côte, le long des maisons noires.
 
 Coupeau en était à ce couplet :
-
 L' dimanche, à la P'tit'-Villette,
-
 Après la chaleur,
-
 J'allons chez mon oncl' Tinette,
-
 Qu'est maîtr' vidangeur.
-
 Pour avoir des noyaux d' c'rise,
-
 En nous en r'tournant,
-
 I' s'roul' dans la marchandise :
-
 Qué cochon d'enfant !
-
 Qué cochon d'enfant !
 
 Alors, la maison craqua, un tel gueulement monta dans l'air tiède et calme de la nuit, que ces gueulards-là s'applaudirent eux-mêmes, car il ne fallait pas espérer de pouvoir gueuler plus fort.
@@ -5996,7 +5905,7 @@ Cependant, comme madame Lerat refusait de retourner aux Batignolles à cette heu
 Elle dormit là, au milieu des miettes du dîner.
 Et, toute la nuit, dans le sommeil écrasé des Coupeau, cuvant la fête, le chat d'une voisine qui avait profité d'une fenêtre ouverte, croqua les os de l'oie, acheva d'enterrer la bête, avec le petit bruit de ses dents fines.
 
-**** *book_ *id_body-9 *date_1877
+**** *book_ *id_body-8 *date_1877
 
 VIII
 
@@ -7056,7 +6965,7 @@ Elle regarda son père roulé dans son vomissement ; puis, la figure collée co
 Elle était toute grave.
 Elle avait de grands yeux d'enfant vicieuse, allumés d'une curiosité sensuelle.
 
-**** *book_ *id_body-10 *date_1877
+**** *book_ *id_body-9 *date_1877
 
 IX
 
@@ -7690,17 +7599,11 @@ La porte du cabinet restait grande ouverte ; et, de cette ouverture béante, so
 Des rires d'enfants montaient dans la cour, une ronde de gamines tournait, au pâle soleil d'hiver.
 Tout à coup, on entendit Nana, qui s'était échappée de chez les Boche, où on l'avait envoyée.
 Elle commandait de sa voix aiguë, et les talons battaient les pavés, tandis que ces paroles chantées s'envolaient avec un tapage d'oiseaux braillards :
-
 Notre âne, notre âne,
-
 Il a mal à la patte.
-
 Madame lui a fait faire
-
 Un joli patatoire,
-
 Et des souliers lilas, la, la,
-
 Et des souliers lilas !
 
 Gervaise attendit pour dire à son tour :
@@ -7735,17 +7638,11 @@ J'ai nourri maman Coupeau sans vous, je l'enterrerai bien sans vous… Déjà un
 Alors, madame Lorilleux pleura, et Lantier dut l'empêcher de partir.
 La querelle devenait si bruyante, que madame Lerat, poussant des chut ! énergiques, crut devoir aller doucement dans le cabinet, et jeta sur la morte un regard fâché et inquiet, comme si elle craignait de la trouver éveillée, écoutant ce qu'on discutait à côté d'elle.
 À ce moment, la ronde des petites filles reprenait dans la cour, le filet de voix perçant de Nana dominait les autres.
-
 Notre âne, notre âne,
-
 Il a bien mal au ventre,
-
 Madame lui a fait faire
-
 Un joli ventrouilloire,
-
 Et des souliers lilas, la, la,
-
 Et des souliers lilas !
 
 – Mon Dieu ! que ces enfants sont énervants, avec leur chanson ! dit à Lantier Gervaise toute secouée et près de sangloter d'impatience et de tristesse.
@@ -8115,7 +8012,7 @@ Sa mère essaya de lui faire peur ; mais la petite était trop précoce, les mo
 Elle aimait les grands lits, cette gamine ; elle s'étalait, elle se roulait.
 Cette nuit-là, elle dormit joliment bien, dans la bonne chaleur et les chatouilles du matelas de plume.
 
-**** *book_ *id_body-11 *date_1877
+**** *book_ *id_body-10 *date_1877
 
 X
 
@@ -9028,7 +8925,7 @@ Mais, en face du visage hébété de la blanchisseuse, elle recula et trembla.
 Elle connaissait ce souffle d'eau-de-vie, ces yeux pâles, cette bouche convulsée.
 Alors, Gervaise passa en trébuchant, sans dire un mot, pendant que la petite, debout sur le seuil de sa porte, la suivait de son regard noir, muet et grave.
 
-**** *book_ *id_body-12 *date_1877
+**** *book_ *id_body-11 *date_1877
 
 XI
 
@@ -10071,7 +9968,7 @@ Puis, il leva sa face ravagée, il eut un rire d'idiot, en bégayant :
 – Dis donc, ma biche, je ne te retiens pas… T'es pas encore trop mal, quand tu te débarbouilles.
 Tu sais, comme on dit, il n'y a pas si vieille marmite qui ne trouve son couvercle… Dame ! si ça devait mettre du beurre dans les épinards !
 
-**** *book_ *id_body-13 *date_1877
+**** *book_ *id_body-12 *date_1877
 
 XII
 
@@ -10970,7 +10867,7 @@ Lui non plus ne pouvait donc rien pour elle ?
 Elle rentra dans sa chambre, stupide, et se jeta sur sa paille, en regrettant d'avoir mangé.
 Ah ! non, par exemple, la misère ne tuait pas assez vite !
 
-**** *book_ *id_body-14 *date_1877
+**** *book_ *id_body-13 *date_1877
 
 XIII
 

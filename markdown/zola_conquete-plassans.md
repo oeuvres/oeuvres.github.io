@@ -1,5 +1,5 @@
 ---
-identifier: zola_conquete  
+identifier: zola_conquete-plassans  
 creator: Zola, Émile  
 date: 1874  
 title: La conquête de Plassans  

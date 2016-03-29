@@ -1,5 +1,5 @@
 ---
-identifier: sade_philosophie  
+identifier: sade_philosophie-dans-le-boudoir  
 creator: Sade, Donatien Alphonse François de  
 date: 1795  
 title: La philosophie dans le boudoir ou les instituteurs immoraux. Dialogues destinés à l’éducation des jeunes demoiselles.  
@@ -1773,7 +1773,7 @@ MME DE SAINT-ANGE : Fous, fous-moi, mon frère, je décharge. *(À Augustin :)
 
 Le groupe se rompt.
 
-DOLMANCÉ : Tout est dit. *(À M*me* de Mistival :)* Putain, tu peux te rhabiller, et partir maintenant quand tu le voudras. Apprends que nous étions autorisés, par ton époux même, à tout ce que nous venons de faire, nous te l'avons dit, tu ne l'as pas cru, lis-en la preuve *(il lui montre la lettre)* : que cet exemple serve à te rappeler que ta fille est en âge de faire ce qu'elle veut, qu'elle aime à foutre, qu'elle est née pour foutre, et que si tu ne veux pas être foutue toi-même, le plus court est de la laisser faire ; sors, le Chevalier va te ramener ; salue la compagnie, putain, mets-toi à genoux devant ta fille, et demande-lui pardon de ton abominable conduite envers elle… Vous, Eugénie, appliquez deux bons soufflets à madame votre mère, et sitôt qu'elle sera sur le seuil de la porte, faites-le-lui passer à grands coups de pied dans le cul. *(Tout s'exécute.)* Adieu, Chevalier, ne va pas foutre madame en chemin, souviens-toi qu'elle est cousue et qu'elle a la vérole. *(Quand tout est sorti :)* Pour nous, mes amis, allons nous mettre à table, et de là, tous quatre dans le même lit. Voilà une bonne journée ; je ne mange jamais mieux, je ne dors jamais plus en paix, que quand je me suis suffisamment souillé dans le jour de ce que les sots appellent des crimes.<  >
+DOLMANCÉ : Tout est dit. *(À M*me* de Mistival :)* Putain, tu peux te rhabiller, et partir maintenant quand tu le voudras. Apprends que nous étions autorisés, par ton époux même, à tout ce que nous venons de faire, nous te l'avons dit, tu ne l'as pas cru, lis-en la preuve *(il lui montre la lettre)* : que cet exemple serve à te rappeler que ta fille est en âge de faire ce qu'elle veut, qu'elle aime à foutre, qu'elle est née pour foutre, et que si tu ne veux pas être foutue toi-même, le plus court est de la laisser faire ; sors, le Chevalier va te ramener ; salue la compagnie, putain, mets-toi à genoux devant ta fille, et demande-lui pardon de ton abominable conduite envers elle… Vous, Eugénie, appliquez deux bons soufflets à madame votre mère, et sitôt qu'elle sera sur le seuil de la porte, faites-le-lui passer à grands coups de pied dans le cul. *(Tout s'exécute.)* Adieu, Chevalier, ne va pas foutre madame en chemin, souviens-toi qu'elle est cousue et qu'elle a la vérole. *(Quand tout est sorti :)* Pour nous, mes amis, allons nous mettre à table, et de là, tous quatre dans le même lit. Voilà une bonne journée ; je ne mange jamais mieux, je ne dors jamais plus en paix, que quand je me suis suffisamment souillé dans le jour de ce que les sots appellent des crimes.
 
 -------
 

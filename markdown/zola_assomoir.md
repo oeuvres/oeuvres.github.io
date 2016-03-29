@@ -1,5 +1,5 @@
 ---
-identifier: zola_l'assomoir  
+identifier: zola_assomoir  
 creator: Zola, Émile  
 date: 1877  
 title: L'assomoir  
@@ -2260,28 +2260,19 @@ Alors, on ricana devant le dessert. Ça ne comptait pas, le dessert. Il arrivait
 Cette plaisanterie méchante eut un grand succès. Les allusions spirituelles se mirent à pleuvoir : Clémence n'avalait plus une cuillerée de fraises, sans dire qu'elle donnait un coup de fer ; madame Lerat prétendait que le fromage blanc sentait l'amidon ; tandis que madame Lorilleux, entre ses dents, répétait que c'était trouvé, bouffer si vite l'argent, sur les planches où l'on avait eu tant de peine à le gagner. Une tempête de rires et de cris montait.
 
 Mais, brusquement, une voix forte imposa silence à tout le monde. C'était Boche, debout, prenant un air déhanché et canaille, qui chantait *le Volcan d'amour ou le Troupier séduisant*.
-
-C'est moi, Blavin, que je séduis les belles…
+C'est moi, Blavin, que je séduis les belles…  
 
 Un tonnerre de bravos accueillit le premier couplet. Oui, oui, on allait chanter ! Chacun dirait la sienne. C'était plus amusant que tout. Et la société s'accouda sur la table, se renversa contre les dossiers des chaises, hochant le menton aux bons endroits, buvant un coup aux refrains. Cet animal de Boche avait la spécialité des chansons comiques. Il aurait fait rire les carafes, quand il imitait le tourlourou, les doigts écartés, le chapeau en arrière. Tout de suite après *le Volcan d'amour*, il entama *la Baronne de Follebiche*, un de ses succès. Lorsqu'il arriva au troisième couplet, il se retourna vers Clémence, il murmura d'une voix ralentie et voluptueuse :
-
-La baronne avait du monde,
-
-Mais c'étaient ses quatre sœurs,
-
-Dont trois brunes, l'autre blonde,
-
-Qu'avaient huit-z-yeux ravisseurs.
+La baronne avait du monde,  
+Mais c'étaient ses quatre sœurs,  
+Dont trois brunes, l'autre blonde,  
+Qu'avaient huit-z-yeux ravisseurs.  
 
 Alors, la société, enlevée, alla au refrain. Les hommes marquaient la mesure à coups de talons. Les dames avaient pris leur couteau et tapaient en cadence sur leur verre. Tous gueulaient :
-
-Sapristi ! qu'est-ce qui paiera
-
-La goutte à la pa…, à la pa… pa…,
-
-Sapristi ! qu'est-ce qui paiera
-
-La goutte à la pa…, à la patrou… ou… ouille !
+Sapristi ! qu'est-ce qui paiera  
+La goutte à la pa…, à la pa… pa…,  
+Sapristi ! qu'est-ce qui paiera  
+La goutte à la pa…, à la patrou… ou… ouille !  
 
 Les vitres de la boutique sonnaient, le grand souffle des chanteurs faisait envoler les rideaux de mousseline. Cependant, Virginie avait déjà disparu deux fois, et s'était, en rentrant, penchée à l'oreille de Gervaise, pour lui donner tout bas un renseignement. La troisième fois, lorsqu'elle revint, au milieu du tapage, elle lui dit :
 
@@ -2294,22 +2285,14 @@ Elle parlait de Lantier. C'était lui qu'elle allait ainsi guetter. À chaque no
 – Non, répondit la grande brune. Il a l'air rassis. C'est ça surtout qui est inquiétant. Hein ! pourquoi reste-t-il chez le marchand de vin, s'il est rassis ?… Mon Dieu ! mon Dieu ! pourvu qu'il n'arrive rien !
 
 La blanchisseuse, très inquiète, la supplia de se taire. Un profond silence, tout d'un coup, s'était fait. Madame Putois venait de se lever et chantait : *À l'abordage* ! Les convives, muets et recueillis, la regardaient ; même Poisson avait posé sa pipe au bord de la table, pour mieux l'entendre. Elle se tenait raide, petite et rageuse, la face blême sous son bonnet noir ; elle lançait son poing gauche en avant avec une fierté convaincue, en grondant d'une voix plus grosse qu'elle :
-
-Qu'un forban téméraire
-
-Nous chasse vent arrière !
-
-Malheur au flibustier !
-
-Pour lui point de quartier !
-
-Enfants, aux caronades !
-
-Rhum à pleines rasades !
-
-Pirates et forbans
-
-Sont gibiers de haubans !
+Qu'un forban téméraire  
+Nous chasse vent arrière !  
+Malheur au flibustier !  
+Pour lui point de quartier !  
+Enfants, aux caronades !  
+Rhum à pleines rasades !  
+Pirates et forbans  
+Sont gibiers de haubans !  
 
 Ça, c'était du sérieux. Mais, sacré mâtin ! ça donnait une vraie idée de la chose. Poisson, qui avait voyagé sur mer, dodelinait de la tête pour approuver les détails. On sentait bien, d'ailleurs, que cette chanson-là était dans le sentiment de madame Putois. Coupeau se pencha pour raconter comment madame Putois avait un soir, rue Poulet, souffleté quatre hommes qui voulaient la déshonorer.
 
@@ -2318,16 +2301,12 @@ Cependant, Gervaise, aidée de maman Coupeau, servit le café bien qu'on mangeâ
 – À vous, père Bru, à vous ! dit maman Coupeau. Chantez la vôtre. Les anciennes sont les plus jolies, allez !
 
 Et la société se tourna vers le vieux, insistant, l'encourageant. Lui, engourdi, avec son masque immobile de peau tannée, regardait le monde, sans paraître comprendre. On lui demanda s'il connaissait *Les Cinq Voyelles*. Il baissa le menton ; il ne se rappelait plus ; toutes les chansons du bon temps se mêlaient dans sa caboche. Comme on se décidait à le laisser tranquille, il parut se souvenir, il bégaya d'une voix caverneuse :
-
-Trou la la, trou la la,
-
-Trou la, trou la, trou la la !
+Trou la la, trou la la,  
+Trou la, trou la, trou la la !  
 
 Sa face s'animait, ce refrain devait éveiller en lui de lointaines gaietés, qu'il goûtait seul, écoutant sa voix de plus en plus sourde, avec un ravissement d'enfant.
-
-Trou la la, trou la la,
-
-Trou la, trou la, trou la la !
+Trou la la, trou la la,  
+Trou la, trou la, trou la la !  
 
 – Dites donc, ma chère, vint murmurer Virginie à l'oreille de Gervaise, vous savez que j'en arrive encore. Ça me taquinait… Eh bien ! Lantier a filé de chez François.
 
@@ -2340,10 +2319,8 @@ Mais Virginie, qui levait les yeux, s'interrompit et poussa un soupir étouffé.
 – Ah ! mon Dieu !… Il est là, sur le trottoir d'en face ; il regarde ici.
 
 Gervaise, toute saisie, hasarda un coup d'œil. Du monde s'était amassé dans la rue, pour entendre la société chanter. Les garçons épiciers, la tripière, le petit horloger faisaient un groupe, semblaient être au spectacle. Il y avait des militaires, des bourgeois en redingote, trois petites filles de cinq ou six ans, se tenant par la main, très graves, émerveillées. Et Lantier, en effet, se trouvait planté là, au premier rang, écoutant et regardant d'un air tranquille. Pour le coup, c'était du toupet. Gervaise sentit un froid lui monter des jambes au cœur, et elle n'osait plus bouger, pendant que le père Bru continuait :
-
-Trou la la, trou la la,
-
-Trou la, trou la, trou la la !
+Trou la la, trou la la,  
+Trou la, trou la, trou la la !  
 
 – Ah bien ! non, mon vieux, il y en a assez ! dit Coupeau. Est-ce que vous la savez tout entière ?… Vous nous la chanterez un autre jour, hein ! quand nous serons trop gais.
 
@@ -2352,14 +2329,10 @@ Il y eut des rires. Le vieux resta court, fit de ses yeux pâles le tour de la t
 – *L'Enfant du bon Dieu*, n'est-ce pas ? murmura-t-elle, l'*Enfant du bon Dieu…*
 
 Et, grande, masculine, avec son nez osseux et ses épaules carrées de gendarme, elle commença :
-
-L'enfant perdu que sa mère abandonne,
-
-Trouve toujours un asile au saint lieu.
-
-Dieu qui le voit le défend de son trône.
-
-L'enfant perdu, c'est l'enfant du bon Dieu.
+L'enfant perdu que sa mère abandonne,  
+Trouve toujours un asile au saint lieu.  
+Dieu qui le voit le défend de son trône.  
+L'enfant perdu, c'est l'enfant du bon Dieu.  
 
 Sa voix tremblait sur certains mots, traînait en notes mouillées ; elle levait en coin ses yeux vers le ciel, pendant que sa main droite se balançait devant sa poitrine et s'appuyait sur son cœur, d'un geste pénétré. Alors, Gervaise, torturée par la présence de Lantier, ne put retenir ses pleurs ; il lui semblait que la chanson disait son tourment, qu'elle était cette enfant perdue, abandonnée, dont le bon Dieu allait prendre la défense. Clémence, très soûle, éclata brusquement en sanglots ; et, la tête tombée au bord de la table, elle étouffait ses hoquets dans la nappe. Un silence frissonnant régnait. Les dames avaient tiré leur mouchoir, s'essuyaient les yeux, la face droite, en s'honorant de leur émotion. Les hommes, le front penché, regardaient fixement devant eux, les paupières battantes. Poisson, étranglant et serrant les dents, cassa à deux reprises des bouts de sa pipe, et les cracha par terre, sans cesser de fumer. Boche, qui avait laissé sa main sur le genou de la charbonnière, ne la pinçait plus, pris d'un remords et d'un respect vagues ; tandis que deux grosses larmes descendaient le long de ses joues. Ces noceurs-là étaient raides comme la justice et tendres comme des agneaux. Le vin leur sortait par les yeux, quoi ! Quand le refrain recommença, plus ralenti et plus larmoyant, tous se lâchèrent, tous viaupèrent dans leurs assiettes, se déboutonnant le ventre, crevant d'attendrissement.
 
@@ -2376,20 +2349,15 @@ Et, comme il se levait en bégayant des menaces atroces, Gervaise le supplia à 
 – Écoute, je t'en supplie… Laisse le couteau… Reste à ta place, ne fais pas un malheur.
 
 Virginie dut lui enlever le couteau qu'il avait pris sur la table. Mais elle ne put l'empêcher de sortir et de s'approcher de Lantier. La société, dans son émotion croissante, ne voyait rien, pleurait plus fort, pendant que madame Lerat chantait, avec une expression déchirante :
-
-Orpheline on l'avait perdue,
-
-Et sa voix n'était entendue
-
-Que des grands arbres et du vent.
+Orpheline on l'avait perdue,  
+Et sa voix n'était entendue  
+Que des grands arbres et du vent.  
 
 Le dernier vers passa comme un souffle lamentable de tempête. Madame Putois, en train de boire, fut si touchée, qu'elle renversa son vin sur la nappe. Cependant, Gervaise demeurait glacée, un poing serré contre la bouche pour ne pas crier, clignant les paupières d'épouvante, s'attendant à voir, d'une seconde à l'autre, l'un des deux hommes, là-bas, tomber assommé au milieu de la rue. Virginie et madame Boche suivaient aussi la scène, profondément intéressées. Coupeau, surpris par le grand air, avait failli s'asseoir dans le ruisseau, en voulant se jeter sur Lantier. Celui-ci, les mains dans les poches, s'était simplement écarté. Et les deux hommes maintenant s'engueulaient, le zingueur surtout habillait l'autre proprement, le traitait de cochon malade, parlait de lui manger les tripes. On entendait le bruit enragé des voix, on distinguait des gestes furieux, comme s'ils allaient se dévisser les bras, à force de claques. Gervaise défaillait, fermait les yeux, parce que ça durait trop longtemps et qu'elle les croyait toujours sur le point de s'avaler le nez, tant ils se rapprochaient, la figure dans la figure. Puis, comme elle n'entendait plus rien, elle rouvrit les yeux, elle resta toute bête, en les voyant causer tranquillement.
 
 La voix de madame Lerat s'élevait, roucoulante et pleurarde, commençant un couplet :
-
-Le lendemain, à demi morte,
-
-On recueillit la pauvre enfant…
+Le lendemain, à demi morte,  
+On recueillit la pauvre enfant…  
 
 – Y a-t-il des femmes qui sont garces, tout de même ! dit madame Lorilleux, au milieu de l'approbation générale.
 
@@ -2398,8 +2366,7 @@ Gervaise avait échangé un regard avec madame Boche et Virginie. Ça s'arrangea
 – Je vous dis que c'est de bon cœur ! criait-il. Vous boirez un verre de vin… Les hommes sont des hommes, n'est-ce pas ? On est fait pour se comprendre…
 
 Madame Lerat achevait le dernier refrain. Les dames répétaient toutes ensemble, en roulant leurs mouchoirs :
-
-L'enfant perdu, c'est l'enfant du bon Dieu.
+L'enfant perdu, c'est l'enfant du bon Dieu.  
 
 On complimenta beaucoup la chanteuse, qui s'assit en affectant d'être brisée. Elle demanda à boire quelque chose, parce qu'elle mettait trop de sentiment dans cette chanson-là, et qu'elle avait toujours peur de se décrocher un nerf. Toute la table, cependant, fixait les yeux sur Lantier, assis paisiblement à côté de Coupeau, mangeant déjà la dernière part du gâteau de Savoie, qu'il trempait dans un verre de vin. En dehors de Virginie et de madame Boche, personne ne le connaissait. Les Lorilleux flairaient bien quelque micmac ; mais ils ne savaient pas, ils avaient pris un air pincé. Goujet, qui s'était aperçu de l'émotion de Gervaise, regardait le nouveau venu de travers. Comme un silence gêné se faisait, Coupeau dit simplement :
 
@@ -2424,50 +2391,31 @@ Gervaise reçut un nouveau coup, à la vue d'Étienne. Elle se sentit étouffer,
 – Oui, oui, *Qué cochon d'enfant* ! criait toute la table.
 
 Le vacarme reprenait, Lantier était oublié. Les dames apprêtèrent leurs verres et leurs couteaux, pour accompagner le refrain. On riait à l'avance, en regardant le zingueur, qui se calait sur les jambes d'un air canaille. Il prit une voix enrouée de vieille femme.
-
-Tous les matins, quand je m'lève,
-
-J'ai l'cœur sens sus d'sous ;
-
-J' l'envoi' chercher contr' la Grève
-
-Un poisson d' quatr' sous.
-
-Il rest' trois quarts d'heure en route,
-
-Et puis, en r'montant,
-
-I' m' lich' la moitié d' ma goutte :
-
-Qué cochon d'enfant !
+Tous les matins, quand je m'lève,  
+J'ai l'cœur sens sus d'sous ;  
+J' l'envoi' chercher contr' la Grève  
+Un poisson d' quatr' sous.  
+Il rest' trois quarts d'heure en route,  
+Et puis, en r'montant,  
+I' m' lich' la moitié d' ma goutte :  
+Qué cochon d'enfant !  
 
 Et les dames, tapant sur leur verre, reprirent en chœur, au milieu d'une gaieté formidable :
-
-Qué cochon d'enfant !
-
-Qué cochon d'enfant !
+Qué cochon d'enfant !  
+Qué cochon d'enfant !  
 
 La rue de la Goutte-d'Or elle-même, maintenant, s'en mêlait. Le quartier chantait *Qué cochon d'enfant* ! En face, le petit horloger, les garçons épiciers, la tripière, la fruitière, qui savaient la chanson, allaient au refrain, en s'allongeant des claques pour rire. Vrai, la rue finissait par être soûle ; rien que l'odeur de noce qui sortait de chez les Coupeau, faisait festonner les gens sur les trottoirs. Il faut dire qu'à cette heure ils étaient joliment soûls, là-dedans. Ça grandissait petit à petit, depuis le premier coup de vin pur, après le potage. À présent, c'était le bouquet, tous braillant, tous éclatant de nourriture, dans la buée rousse des deux lampes qui charbonnaient. La clameur de cette rigolade énorme couvrait le roulement des dernières voitures. Deux sergents de ville, croyant à une émeute, accoururent ; mais, en apercevant Poisson, ils eurent un petit salut d'intelligence. Ils s'éloignèrent lentement, côte à côte, le long des maisons noires.
 
 Coupeau en était à ce couplet :
-
-L' dimanche, à la P'tit'-Villette,
-
-Après la chaleur,
-
-J'allons chez mon oncl' Tinette,
-
-Qu'est maîtr' vidangeur.
-
-Pour avoir des noyaux d' c'rise,
-
-En nous en r'tournant,
-
-I' s'roul' dans la marchandise :
-
-Qué cochon d'enfant !
-
-Qué cochon d'enfant !
+L' dimanche, à la P'tit'-Villette,  
+Après la chaleur,  
+J'allons chez mon oncl' Tinette,  
+Qu'est maîtr' vidangeur.  
+Pour avoir des noyaux d' c'rise,  
+En nous en r'tournant,  
+I' s'roul' dans la marchandise :  
+Qué cochon d'enfant !  
+Qué cochon d'enfant !  
 
 Alors, la maison craqua, un tel gueulement monta dans l'air tiède et calme de la nuit, que ces gueulards-là s'applaudirent eux-mêmes, car il ne fallait pas espérer de pouvoir gueuler plus fort.
 
@@ -3114,18 +3062,12 @@ Lantier rentra seulement à onze heures. Il avait demandé des renseignements au
 – Sans doute, c'est ce que je pense, reprit le chapelier. J'ai seulement pris les chiffres pour votre gouverne… Dites-moi ce que vous désirez ; après le déjeuner, j'irai commander.
 
 On parlait à demi-voix, dans le petit jour qui éclairait la pièce par les fentes des volets. La porte du cabinet restait grande ouverte ; et, de cette ouverture béante, sortait le gros silence de la mort. Des rires d'enfants montaient dans la cour, une ronde de gamines tournait, au pâle soleil d'hiver. Tout à coup, on entendit Nana, qui s'était échappée de chez les Boche, où on l'avait envoyée. Elle commandait de sa voix aiguë, et les talons battaient les pavés, tandis que ces paroles chantées s'envolaient avec un tapage d'oiseaux braillards :
-
-Notre âne, notre âne,
-
-Il a mal à la patte.
-
-Madame lui a fait faire
-
-Un joli patatoire,
-
-Et des souliers lilas, la, la,
-
-Et des souliers lilas !
+Notre âne, notre âne,  
+Il a mal à la patte.  
+Madame lui a fait faire  
+Un joli patatoire,  
+Et des souliers lilas, la, la,  
+Et des souliers lilas !  
 
 Gervaise attendit pour dire à son tour :
 
@@ -3144,18 +3086,12 @@ Mais madame Lorilleux éclata, furieuse.
 – On ne vous demande rien, finit par répondre Gervaise. Lorsque je devrais me vendre moi-même, je ne veux avoir aucun reproche à me faire. J'ai nourri maman Coupeau sans vous, je l'enterrerai bien sans vous… Déjà une fois, je ne vous l'ai pas mâché : je ramasse les chats perdus, ce n'est pas pour laisser votre mère dans la crotte.
 
 Alors, madame Lorilleux pleura, et Lantier dut l'empêcher de partir. La querelle devenait si bruyante, que madame Lerat, poussant des chut ! énergiques, crut devoir aller doucement dans le cabinet, et jeta sur la morte un regard fâché et inquiet, comme si elle craignait de la trouver éveillée, écoutant ce qu'on discutait à côté d'elle. À ce moment, la ronde des petites filles reprenait dans la cour, le filet de voix perçant de Nana dominait les autres.
-
-Notre âne, notre âne,
-
-Il a bien mal au ventre,
-
-Madame lui a fait faire
-
-Un joli ventrouilloire,
-
-Et des souliers lilas, la, la,
-
-Et des souliers lilas !
+Notre âne, notre âne,  
+Il a bien mal au ventre,  
+Madame lui a fait faire  
+Un joli ventrouilloire,  
+Et des souliers lilas, la, la,  
+Et des souliers lilas !  
 
 – Mon Dieu ! que ces enfants sont énervants, avec leur chanson ! dit à Lantier Gervaise toute secouée et près de sangloter d'impatience et de tristesse. Faites-les donc taire, et reconduisez Nana chez la concierge à coups de pied quelque part !
 

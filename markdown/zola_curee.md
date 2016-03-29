@@ -1863,8 +1863,7 @@ Mais la Ristori, avec ses fortes épaules secouées par les sanglots, avec sa fa
 – Attends, murmurait Maxime à son oreille, tu vas entendre le récit de Théramène. Il a une bonne tête, le vieux !
 
 Et il murmura d'une voix creuse :
-
-À peine nous sortions des portes de Trézène,Il était sur son char…
+À peine nous sortions des portes de Trézène, Il était sur son char…  
 
 Mais Renée, quand le vieux parla, ne regarda plus, n'écouta plus. Le lustre l'aveuglait, les chaleurs étouffantes lui venaient de toutes ces faces pâles tendues vers la scène. Le monologue continuait, interminable. Elle était dans la serre, sous les feuillages ardents, et elle rêvait que son mari entrait, la surprenait aux bras de son fils. Elle souffrait horriblement, elle perdait connaissance, quand le dernier râle de Phèdre, repentante et mourant dans les convulsions du poison, lui fit rouvrir les yeux. La toile tombait. Aurait-elle la force de s'empoisonner, un jour ? Comme son drame était mesquin et honteux à côté de l'épopée antique ! et tandis que Maxime lui nouait sous le menton sa sortie de théâtre, elle entendait encore gronder derrière elle cette rude voix de la Ristori, à laquelle répondait le murmure complaisant d'Œnone.
 

@@ -1,5 +1,5 @@
 ---
-identifier: zola_son  
+identifier: zola_excellence-eugene-rougon  
 creator: Zola, Émile  
 date: 1876  
 title: Son excellence Eugène Rougon  

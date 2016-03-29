@@ -15,15 +15,23 @@ else if (php_sapi_name() == "cli") {
 }
 class Oeuvres
 {
-  static $kindlegen;
   static $sets = array(
     "zola" => array(
       "glob" => '../zola/*.xml',
-      "publisher" => 'GitHub',
-      // "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
+      "publisher" => 'Œuvres',
       "source" => "http://oeuvres.github.io/zola/%s.xml",
     ),
-    /*
+    "flaubert" => array(
+      "glob" => '../flaubert/*.xml',
+      "publisher" => 'Œuvres',
+      "source" => "http://oeuvres.github.io/flaubert/%s.xml",
+    ),
+    "stendhal" => array(
+      "glob" => '../stendhal/*.xml',
+      "publisher" => 'Œuvres',
+      "source" => "http://oeuvres.github.io/stendhal/%s.xml",
+    ),
+        /*
     "verne" => array(
       "glob" => '../verne/*.xml',
       "publisher" => 'Lille III',
@@ -132,20 +140,9 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($srcfile, self::$_logger);
         $livre->epub($destfile);
-        // transformation auto en kindle si binaire présent
-        if (self::$kindlegen) {
-          $cmd = self::$kindlegen.' '.$destfile;
-          $last = exec ($cmd, $output, $status);
-          $mobi = dirname(__FILE__).'/'.$format.'/'.$teinte->filename.".mobi";
-          // error ?
-          if (!file_exists($mobi)) {
-            self::log(E_USER_ERROR, "\n".$status."\n".join("\n", $output)."\n".$last."\n");
-          }
-          else {
-            rename( $mobi, dirname(__FILE__).'/kindle/'.$teinte->filename.".mobi");
-            $echo .= " kindle";
-          }
-        }
+        // transformation auto en mobi, toujours après epub
+        $mobifile = dirname(__FILE__).'/kindle/'.$srcname.".mobi";
+        Livrable_Tei2epub::mobi($destfile, $mobifile);
       }
       else if ($format == 'docx') {
         $echo .= " docx";
@@ -155,7 +152,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     if ($echo) self::log(E_USER_NOTICE, $srcfile.$echo);
   }
   /**
-   * Insertion de la pièce
+   * Insertion of books
    */
   private function insert($teinte, $setcode) {
     // supprimer la pièce, des triggers doivent normalement supprimer la cascade.
@@ -275,15 +272,6 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     else {
       include_once($inc);
     }
-    $inc = dirname(__FILE__).'/../Livrable/kindlegen';
-    if (!file_exists($inc)) $inc = dirname(__FILE__).'/../Livrable/kindlegen.exe';
-    if (!file_exists($inc)) {
-      echo "Si vous souhaitez la conversion de vos epubs pour Kindle, il faut télécharger chez Amazon
-      le programme kindlegen pour votre système http://www.amazon.fr/gp/feature.html?ie=UTF8&docId=1000570853
-      à placer dans le dossier Livrable : ".dirname($inc);
-    }
-    if (file_exists($inc)) self::$kindlegen = realpath($inc);
-
 
     $inc = dirname(__FILE__).'/../Teinte/Doc.php';
     if (!file_exists($inc)) {
@@ -326,6 +314,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     else if (is_resource(self::$_logger)) fwrite(self::$_logger, $errstr."\n");
     else if ( is_string(self::$_logger) && function_exists(self::$_logger)) call_user_func(self::$_logger, $errstr);
   }
+
   static function epubcheck($glob) {
     echo "epubcheck epub/*.epub\n";
     foreach(glob($glob) as $file) {
