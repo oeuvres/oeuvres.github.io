@@ -60,6 +60,13 @@ class Oeuvres
     'article' => '.html',
     // 'docx' => '.docx',
   );
+  static $mime = array(
+    'epub' => "application/epub+zip",
+    'kindle' => "application/x-mobipocket-ebook",
+    'markdown' => "text/markdown; charset=UTF-8",
+    'iramuteq' => "text/plain; charset=UTF-8",
+    // 'docx' => '.docx',
+  );
   /** petite base sqlite pour conserver la mémoire des doublons etc */
   static $create = "
 PRAGMA encoding = 'UTF-8';
@@ -212,7 +219,9 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       $sep = ", ";
       foreach ( self::$formats as $label=>$extension) {
         if ($label == 'article') continue;
-        echo $sep.'<a href="'.$label.'/'.$oeuvre['code'].$extension.'">'.$label.'</a>';
+        $type = '';
+        if ( isset( self::$mime[$label] ) ) $type = ' type="'.self::$mime[$label].'"';
+        echo $sep.'<a href="'.$label.'/'.$oeuvre['code'].$extension.'"'.$type.'>'.$label.'</a>';
       }
       echo "      </td>\n";
       echo "    </tr>\n";
