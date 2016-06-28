@@ -54,7 +54,7 @@ class Oeuvres
   static $formats = array(
     'epub' => '.epub',
     'kindle' => '.mobi',
-    'markdown' => '.md',
+    'markdown' => '.txt',
     'iramuteq' => '.txt',
     'html' => '.html',
     'article' => '.html',
