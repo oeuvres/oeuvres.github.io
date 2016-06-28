@@ -1,6 +1,6 @@
 ---
-identifier: dumas_trois  
-creator: Dumas, Alexandre (1802-1870)  
+identifier: dumas_trois-mousquetaires  
+creator: Dumas, Alexandre  
 date: 1844  
 title: Les Trois Mousquetaires  
 ---
@@ -8,13 +8,7 @@ title: Les Trois Mousquetaires
 
 
 
-
-
-
-
-
-
-# INTRODUCTION
+# INTRODUCTION.
 
 Il y a un an à peu près, qu'en faisant à la Bibliothèque royale des recherches pour mon histoire de Louis XIV, je tombai par hasard sur les Mémoires de M. d'Artagnan, imprimés – comme la plus grande partie des ouvrages de cette époque, où les auteurs tenaient à dire la vérité sans aller faire un tour plus ou moins long à la Bastille – à Amsterdam, chez Pierre Rouge. Le titre me séduisit : je les emportai chez moi, avec la permission de M. le conservateur ; bien entendu, je les dévorai.
 
@@ -43,7 +37,7 @@ En attendant, comme le parrain est un second père, nous invitons le lecteur à 
 Cela posé, passons à notre histoire.
 
 
-# CHAPITRE PREMIER. LES TROIS PRÉSENTS DE M. D'ARTAGNAN PÈRE
+# CHAPITRE PREMIER. LES TROIS PRÉSENTS DE M. D'ARTAGNAN PÈRE.
 
 Le premier lundi du mois d'avril 1625, le bourg de Meung, où naquit l'auteur du Roman de la Rose, semblait être dans une révolution aussi entière que si les huguenots en fussent venus faire une seconde Rochelle. Plusieurs bourgeois, voyant s'enfuir les femmes du côté de la Grande-Rue, entendant les enfants crier sur le seuil des portes, se hâtaient d'endosser la cuirasse et, appuyant leur contenance quelque peu incertaine d'un mousquet ou d'une pertuisane, se dirigeaient vers l'hôtellerie du Franc Meunier, devant laquelle s'empressait, en grossissant de minute en minute, un groupe compact, bruyant et plein de curiosité.
 
@@ -302,7 +296,7 @@ Après quoi, content de la façon dont il s'était conduit à Meung, sans remord
 Ce sommeil, tout provincial encore, le conduisit jusqu'à neuf heures du matin, heure à laquelle il se leva pour se rendre chez ce fameux M. de Tréville, le troisième personnage du royaume d'après l'estimation paternelle.
 
 
-# CHAPITRE II. L'ANTICHAMBRE DE M. DE TRÉVILLE
+# CHAPITRE II. L'ANTICHAMBRE DE M. DE TRÉVILLE.
 
 M. de Troisvilles, comme s'appelait encore sa famille en Gascogne, ou M. de Tréville, comme il avait fini par s'appeler lui-même à Paris, avait réellement commencé comme d'Artagnan, c'est-à-dire sans un sou vaillant, mais avec ce fonds d'audace, d'esprit et d'entendement qui fait que le plus pauvre gentillâtre gascon reçoit souvent plus en ses espérances de l'héritage paternel que le plus riche gentilhomme périgourdin ou berrichon ne reçoit en réalité. Sa bravoure insolente, son bonheur plus insolent encore dans un temps où les coups pleuvaient comme grêle, l'avaient hissé au sommet de cette échelle difficile qu'on appelle la faveur de cour, et dont il avait escaladé quatre à quatre les échelons.
 
@@ -429,7 +423,7 @@ Cette affirmation parut avoir fixé tous les doutes à l'endroit du baudrier ; 
 À cette annonce, pendant laquelle la porte demeurait ouverte, chacun se tut, et au milieu du silence général le jeune Gascon traversa l'antichambre dans une partie de sa longueur et entra chez le capitaine des mousquetaires, se félicitant de tout son cœur d'échapper aussi à point à la fin de cette bizarre querelle.
 
 
-# CHAPITRE III. L'AUDIENCE
+# CHAPITRE III. L'AUDIENCE.
 
 M. de Tréville était pour le moment de fort méchante humeur ; néanmoins il salua poliment le jeune homme, qui s'inclina jusqu'à terre, et il sourit en recevant son compliment, dont l'accent béarnais lui rappela à la fois sa jeunesse et son pays, double souvenir qui fait sourire l'homme à tous les âges. Mais, se rapprochant presque aussitôt de l'antichambre et faisant à d'Artagnan un signe de la main, comme pour lui demander la permission d'en finir avec les autres avant de commencer avec lui, il appela trois fois, en grossissant la voix à chaque fois, de sorte qu'il parcourut tous les tons intervallaires entre l'accent impératif et l'accent irrité :
 
@@ -628,7 +622,7 @@ Et il disparut.
 « Diable de fou ! murmura M. de Tréville. À moins toutefois, ajouta-t-il, que ce ne soit une manière adroite de s'esquiver, en voyant qu'il a manqué son coup. »
 
 
-# CHAPITRE IV. L'ÉPAULE D'ATHOS, LE BAUDRIER DE PORTHOS ET LE MOUCHOIR D'ARAMIS
+# CHAPITRE IV. L'ÉPAULE D'ATHOS, LE BAUDRIER DE PORTHOS ET LE MOUCHOIR D'ARAMIS.
 
 D'Artagnan, furieux, avait traversé l'antichambre en trois bonds et s'élançait sur l'escalier, dont il comptait descendre les degrés quatre à quatre, lorsque, emporté par sa course, il alla donner tête baissée dans un mousquetaire qui sortait de chez M. de Tréville par une porte de dégagement, et, le heurtant du front à l'épaule, lui fit pousser un cri ou plutôt un hurlement.
 
@@ -801,7 +795,7 @@ Les deux jeunes gens se saluèrent, puis Aramis s'éloigna en remontant la rue q
 « Décidément, je n'en puis pas revenir ; mais au moins, si je suis tué, je serai tué par un mousquetaire. »
 
 
-# CHAPITRE V. LES MOUSQUETAIRES DU ROI ET LES GARDES DE M. LE CARDINAL
+# CHAPITRE V. LES MOUSQUETAIRES DU ROI ET LES GARDES DE M. LE CARDINAL.
 
 D'Artagnan ne connaissait personne à Paris. Il alla donc au rendez-vous d'Athos sans amener de second, résolu de se contenter de ceux qu'aurait choisis son adversaire. D'ailleurs son intention était formelle de faire au brave mousquetaire toutes les excuses convenables, mais sans faiblesse, craignant qu'il ne résultât de ce duel ce qui résulte toujours de fâcheux, dans une affaire de ce genre, quand un homme jeune et vigoureux se bat contre un adversaire blessé et affaibli : vaincu, il double le triomphe de son antagoniste ; vainqueur, il est accusé de forfaiture et de facile audace.
 
@@ -1058,7 +1052,7 @@ La bravoure est toujours respectée, même dans un ennemi. Les mousquetaires sal
 « Si je ne suis pas encore mousquetaire, dit-il à ses nouveaux amis en franchissant la porte de l'hôtel de M. de Tréville, au moins me voilà reçu apprenti, n'est-ce pas ? »
 
 
-# CHAPITRE VI. SA MAJESTÉ LE ROI LOUIS TREIZIÈME
+# CHAPITRE VI. SA MAJESTÉ LE ROI LOUIS TREIZIÈME.
 
 L'affaire fit grand bruit. M. de Tréville gronda beaucoup tout haut contre ses mousquetaires, et les félicita tout bas ; mais comme il n'y avait pas de temps à perdre pour prévenir le roi, M. de Tréville s'empressa de se rendre au Louvre. Il était déjà trop tard, le roi était enfermé avec le cardinal, et l'on dit à M. de Tréville que le roi travaillait et ne pouvait recevoir en ce moment. Le soir, M. de Tréville vint au jeu du roi. Le roi gagnait, et comme Sa Majesté était fort avare, elle était d'excellente humeur ; aussi, du plus loin que le roi aperçut Tréville :
 
@@ -1455,7 +1449,7 @@ Et le cardinal, comme l'avait dit Sa Majesté, fut effectivement furieux, si fu
 « Eh bien, monsieur le cardinal, comment vont ce pauvre Bernajoux et ce pauvre Jussac, qui sont à vous ? »
 
 
-# CHAPITRE VII. L'INTÉRIEUR DES MOUSQUETAIRES
+# CHAPITRE VII. L'INTÉRIEUR DES MOUSQUETAIRES.
 
 Lorsque d'Artagnan fut hors du Louvre, et qu'il consulta ses amis sur l'emploi qu'il devait faire de sa part des quarante pistoles, Athos lui conseilla de commander un bon repas à la Pomme de Pin, Porthos de prendre un laquais, et Aramis de se faire une maîtresse convenable.
 
@@ -1550,7 +1544,7 @@ En attendant, les promesses de M. de Tréville allaient leur train. Un beau jo
 Alors ce fut le tour d'Athos, de Porthos et d'Aramis de monter la garde avec d'Artagnan quand il était de garde. La compagnie de M. le chevalier des Essarts prit ainsi quatre hommes au lieu d'un, le jour où elle prit d'Artagnan.
 
 
-# CHAPITRE VIII. UNE INTRIGUE DE CŒUR
+# CHAPITRE VIII. UNE INTRIGUE DE CŒUR.
 
 Cependant les quarante pistoles du roi Louis XIII, ainsi que toutes les choses de ce monde, après avoir eu un commencement avaient eu une fin, et depuis cette fin nos quatre compagnons étaient tombés dans la gêne. D'abord Athos avait soutenu pendant quelque temps l'association de ses propres deniers. Porthos lui avait succédé, et, grâce à une de ces disparitions auxquelles on était habitué, il avait pendant près de quinze jours encore subvenu aux besoins de tout le monde ; enfin était arrivé le tour d'Aramis, qui s'était exécuté de bonne grâce, et qui était parvenu, disait-il, en vendant ses livres de théologie, à se procurer quelques pistoles.
 
@@ -1813,7 +1807,7 @@ Ils comprirent donc, sur les quelques mots échappés à d'Artagnan, de quelle a
 Lorsqu'ils entrèrent dans la chambre de d'Artagnan, la chambre était vide : le propriétaire, craignant les suites de la rencontre qui allait sans doute avoir lieu entre le jeune homme et l'inconnu, avait, par suite de l'exposition qu'il avait faite lui-même de son caractère, jugé qu'il était prudent de décamper.
 
 
-# CHAPITRE IX. D'ARTAGNAN SE DESSINE
+# CHAPITRE IX. D'ARTAGNAN SE DESSINE.
 
 Comme l'avaient prévu Athos et Porthos, au bout d'une demi-heure d'Artagnan rentra. Cette fois encore il avait manqué son homme, qui avait disparu comme par enchantement. D'Artagnan avait couru, l'épée à la main, toutes les rues environnantes, mais il n'avait rien trouvé qui ressemblât à celui qu'il cherchait, puis enfin il en était revenu à la chose par laquelle il aurait dû commencer peut-être, et qui était de frapper à la porte contre laquelle l'inconnu était appuyé ; mais c'était inutilement qu'il avait dix ou douze fois de suite fait résonner le marteau, personne n'avait répondu, et des voisins qui, attirés par le bruit, étaient accourus sur le seuil de leur porte ou avaient mis le nez à leurs fenêtres, lui avaient assuré que cette maison, dont au reste toutes les ouvertures étaient closes, était depuis six mois complètement inhabitée.
 
@@ -2058,7 +2052,7 @@ Vaincu par l'exemple, maugréant tout bas, Porthos étendit la main, et les quat
 « C'est bien, que chacun se retire maintenant chez soi, dit d'Artagnan comme s'il n'avait fait autre chose que de commander toute sa vie, et attention, car à partir de ce moment, nous voilà aux prises avec le cardinal. »
 
 
-# CHAPITRE X. UNE SOURICIÈRE AU XVIIe SIÈCLE
+# CHAPITRE X. UNE SOURICIÈRE AU XVIIe SIÈCLE.
 
 L'invention de la souricière ne date pas de nos jours ; dès que les sociétés, en se formant, eurent inventé une police quelconque, cette police, à son tour, inventa les souricières.
 
@@ -2327,7 +2321,7 @@ Alors d'Artagnan fit à M. de Tréville une longue histoire sur la reine. Il l
 À dix heures sonnant, d'Artagnan quitta M. de Tréville, qui le remercia de ses renseignements, lui recommanda d'avoir toujours à cœur le service du roi et de la reine, et qui rentra dans le salon. Mais, au bas de l'escalier, d'Artagnan se souvint qu'il avait oublié sa canne : en conséquence, il remonta précipitamment, rentra dans le cabinet, d'un tour de doigt remit la pendule à son heure, pour qu'on ne pût pas s'apercevoir, le lendemain, qu'elle avait été dérangée, et sûr désormais qu'il y avait un témoin pour prouver son alibi, il descendit l'escalier et se trouva bientôt dans la rue.
 
 
-# CHAPITRE XI. L'INTRIGUE SE NOUE
+# CHAPITRE XI. L'INTRIGUE SE NOUE.
 
 Sa visite faite à M. de Tréville, d'Artagnan prit, tout pensif, le plus long pour rentrer chez lui.
 
@@ -2794,7 +2788,7 @@ Quant à d'Artagnan, il se rendit aussitôt au cabaret de la Pomme de Pin, où 
 Mais, sans leur donner d'autre explication sur le dérangement qu'il leur avait causé, il leur dit qu'il avait terminé seul l'affaire pour laquelle il avait cru un instant avoir besoin de leur intervention. Et maintenant, emportés que nous sommes par notre récit, laissons nos trois amis rentrer chacun chez soi, et suivons, dans les détours du Louvre, le duc de Buckingham et son guide.
 
 
-# CHAPITRE XII. GEORGES VILLIERS, DUC DE BUCKINGHAM
+# CHAPITRE XII. GEORGES VILLIERS, DUC DE BUCKINGHAM.
 
 Madame Bonacieux et le duc entrèrent au Louvre sans difficulté ; Mme Bonacieux était connue pour appartenir à la reine ; le duc portait l'uniforme des mousquetaires de M. de Tréville, qui, comme nous l'avons dit, était de garde ce soir-là. D'ailleurs Germain était dans les intérêts de la reine, et si quelque chose arrivait, Mme Bonacieux serait accusée d'avoir introduit son amant au Louvre, voilà tout ; elle prenait sur elle le crime : sa réputation était perdue, il est vrai, mais de quelle valeur était dans le monde la réputation d'une petite mercière ?
 
@@ -2941,7 +2935,7 @@ Et, fidèle à la promesse qu'il avait faite, il s'élança hors de l'appartemen
 Dans le corridor, il rencontra Mme Bonacieux qui l'attendait, et qui, avec les mêmes précautions et le même bonheur, le reconduisit hors du Louvre.
 
 
-# CHAPITRE XIII. MONSIEUR BONACIEUX
+# CHAPITRE XIII. MONSIEUR BONACIEUX.
 
 Il y avait dans tout cela, comme on a pu le remarquer, un personnage dont, malgré sa position précaire, on n'avait paru s'inquiéter que fort médiocrement ; ce personnage était M. Bonacieux, respectable martyr des intrigues politiques et amoureuses qui s'enchevêtraient si bien les unes aux autres, dans cette époque à la fois si chevaleresque et si galante.
 
@@ -3182,7 +3176,7 @@ Cette menace rassura quelque peu Bonacieux : si l'on eût dû l'exécuter en Gr
 Cette fois, il n'y avait plus de doute, c'était à la Croix-du-Trahoir qu'on exécutait les criminels subalternes. Bonacieux s'était flatté en se croyant digne de Saint-Paul ou de la place de Grève : c'était à la Croix-du-Trahoir qu'allaient finir son voyage et sa destinée ! Il ne pouvait voir encore cette malheureuse croix, mais il la sentait en quelque sorte venir au-devant de lui. Lorsqu'il n'en fut plus qu'à une vingtaine de pas, il entendit une rumeur, et la voiture s'arrêta. C'était plus que n'en pouvait supporter le pauvre Bonacieux, déjà écrasé par les émotions successives qu'il avait éprouvées ; il poussa un faible gémissement, qu'on eût pu prendre pour le dernier soupir d'un moribond, et il s'évanouit.
 
 
-# CHAPITRE XIV. L'HOMME DE MEUNG
+# CHAPITRE XIV. L'HOMME DE MEUNG.
 
 Ce rassemblement était produit non point par l'attente d'un homme qu'on devait pendre, mais par la contemplation d'un pendu.
 
@@ -3577,7 +3571,7 @@ Voici ce que contenait la lettre :
 « Aussitôt que ces ferrets seront en votre possession, prévenez-moi. »
 
 
-# CHAPITRE XV. GENS DE ROBE ET GENS D'ÉPÉE
+# CHAPITRE XV. GENS DE ROBE ET GENS D'ÉPÉE.
 
 Le lendemain du jour où ces événements étaient arrivés, Athos n'ayant point reparu, M. de Tréville avait été prévenu par d'Artagnan et par Porthos de sa disparition.
 
@@ -3768,7 +3762,7 @@ Au reste, M. de Tréville avait raison de se défier du cardinal et de penser 
 « Maintenant que nous ne sommes plus que nous deux, nous allons causer sérieusement, s'il plaît à Votre Majesté. Sire, M. de Buckingham était à Paris depuis cinq jours et n'en est parti que ce matin. »
 
 
-# CHAPITRE XVI. OÙ M. LE GARDE DES SCEAUX SÉGUIER CHERCHA PLUS D'UNE FOIS LA CLOCHE POUR LA SONNER, COMME IL LE FAISAIT AUTREFOIS
+# CHAPITRE XVI. OÙ M. LE GARDE DES SCEAUX SÉGUIER CHERCHA PLUS D'UNE FOIS LA CLOCHE POUR LA SONNER, COMME IL LE FAISAIT AUTREFOIS.
 
 Il est impossible de se faire une idée de l'impression que ces quelques mots produisirent sur Louis XIII. Il rougit et pâlit successivement ; et le cardinal vit tout d'abord qu'il venait de conquérir d'un seul coup tout le terrain qu'il avait perdu.
 
@@ -4069,7 +4063,7 @@ Puis le cardinal ajouta :
 « À propos, Sire, n'oubliez pas de dire à Sa Majesté, la veille de cette fête, que vous désirez voir comment lui vont ses ferrets de diamants. »
 
 
-# CHAPITRE XVII. LE MÉNAGE BONACIEUX
+# CHAPITRE XVII. LE MÉNAGE BONACIEUX.
 
 C'était la seconde fois que le cardinal revenait sur ce point des ferrets de diamants avec le roi. Louis XIII fut donc frappé de cette insistance, et pensa que cette recommandation cachait un mystère.
 
@@ -4440,7 +4434,7 @@ Au moment où elle disait ces mots, un coup frappé au plafond lui fit lever la 
 « Chère madame Bonacieux, ouvrez-moi la petite porte de l'allée, et je vais descendre près de vous. »
 
 
-# CHAPITRE XVIII. L'AMANT ET LE MARI
+# CHAPITRE XVIII. L'AMANT ET LE MARI.
 
 « Ah ! madame, dit d'Artagnan en entrant par la porte que lui ouvrait la jeune femme, permettez-moi de vous le dire, vous avez là un triste mari.
 
@@ -4723,7 +4717,7 @@ Mme Bonacieux le suivit des yeux avec ce long regard d'amour dont la femme acco
 « O mon Dieu ! s'écria-t-elle, protégez la reine, protégez-moi ! »
 
 
-# CHAPITRE XIX. PLAN DE CAMPAGNE
+# CHAPITRE XIX. PLAN DE CAMPAGNE.
 
 D'Artagnan se rendit droit chez M. de Tréville. Il avait réfléchi que, dans quelques minutes, le cardinal serait averti par ce damné inconnu, qui paraissait être son agent, et il pensait avec raison qu'il n'y avait pas un instant à perdre.
 
@@ -5028,7 +5022,7 @@ Planchet, Grimaud, Mousqueton et Bazin partirent en toute hâte.
 Et chacun, allongeant la main vers le sac, prit soixante-quinze pistoles et fit ses préparatifs pour partir à l'heure convenue.
 
 
-# CHAPITRE XX. VOYAGE
+# CHAPITRE XX. VOYAGE.
 
 À deux heures du matin, nos quatre aventuriers sortirent de Paris par la barrière Saint-Denis ; tant qu'il fit nuit, ils restèrent muets ; malgré eux, ils subissaient l'influence de l'obscurité et voyaient des embûches partout.
 
@@ -5399,7 +5393,7 @@ Et il brisa le cachet.
 Et tous deux reprirent au galop le chemin de la capitale.
 
 
-# CHAPITRE XXI. LA COMTESSE DE WINTER
+# CHAPITRE XXI. LA COMTESSE DE WINTER.
 
 Tout le long de la route, le duc se fit mettre au courant par d'Artagnan non pas de tout ce qui s'était passé, mais de ce que d'Artagnan savait. En rapprochant ce qu'il avait entendu sortir de la bouche du jeune homme de ses souvenirs à lui, il put donc se faire une idée assez exacte d'une position de la gravité de laquelle, au reste, la lettre de la reine, si courte et si peu explicite qu'elle fût, lui donnait la mesure. Mais ce qui l'étonnait surtout, c'est que le cardinal, intéressé comme il l'était à ce que le jeune homme ne mît pas le pied en Angleterre, ne fût point parvenu à l'arrêter en route. Ce fut alors, et sur la manifestation de cet étonnement, que d'Artagnan lui raconta les précautions prises, et comment, grâce au dévouement de ses trois amis qu'il avait éparpillés tout sanglants sur la route, il était arrivé à en être quitte pour le coup d'épée qui avait traversé le billet de la reine, et qu'il avait rendu à M. de Wardes en si terrible monnaie. Tout en écoutant ce récit, fait avec la plus grande simplicité, le duc regardait de temps en temps le jeune homme d'un air étonné, comme s'il n'eût pas pu comprendre que tant de prudence, de courage et de dévouement s'alliât avec un visage qui n'indiquait pas encore vingt ans.
 
@@ -5634,7 +5628,7 @@ Il avait fait près de soixante lieues en douze heures.
 M. de Tréville le reçut comme s'il l'avait vu le matin même ; seulement, en lui serrant la main un peu plus vivement que de coutume, il lui annonça que la compagnie de M. des Essarts était de garde au Louvre et qu'il pouvait se rendre à son poste.
 
 
-# CHAPITRE XXII. LE BALLET DE LA MERLAISON
+# CHAPITRE XXII. LE BALLET DE LA MERLAISON.
 
 Le lendemain, il n'était bruit dans tout Paris que du bal que MM. les échevins de la ville donnaient au roi et à la reine, et dans lequel Leurs Majestés devaient danser le fameux ballet de la Merlaison, qui était le ballet favori du roi.
 
@@ -5773,7 +5767,7 @@ Et à ces mots elle ouvrit la porte du corridor et poussa d'Artagnan hors du cab
 D'Artagnan obéit comme un enfant, sans résistance et sans objection aucune, ce qui prouve qu'il était bien réellement amoureux.
 
 
-# CHAPITRE XXIII. LE RENDEZ-VOUS
+# CHAPITRE XXIII. LE RENDEZ-VOUS.
 
 D'Artagnan revint chez lui tout courant, et quoiqu'il fût plus de trois heures du matin, et qu'il eût les plus méchants quartiers de Paris à traverser, il ne fit aucune mauvaise rencontre. On sait qu'il y a un dieu pour les ivrognes et les amoureux.
 
@@ -6110,7 +6104,7 @@ Planchet, voyant qu'il n'y avait plus aucun espoir de faire renoncer son maître
 Quant à d'Artagnan, comme c'était au fond un garçon plein de prudence, au lieu de rentrer chez lui, il s'en alla dîner chez ce prêtre gascon qui, au moment de la détresse des quatre amis, leur avait donné un déjeuner de chocolat.
 
 
-# CHAPITRE XXIV. LE PAVILLON
+# CHAPITRE XXIV. LE PAVILLON.
 
 À neuf heures, d'Artagnan était à l'hôtel des Gardes ; il trouva Planchet sous les armes. Le quatrième cheval était arrivé.
 
@@ -6343,7 +6337,7 @@ D'ailleurs, il vint au jeune homme cette idée, qu'en restant aux environs du li
 Vers six heures du matin, d'Artagnan se réveilla avec ce malaise qui accompagne ordinairement le point du jour après une mauvaise nuit. Sa toilette n'était pas longue à faire ; il se tâta pour savoir si on n'avait pas profité de son sommeil pour le voler, et ayant retrouvé son diamant à son doigt, sa bourse dans sa poche et ses pistolets à sa ceinture, il se leva, paya sa bouteille et sortit pour voir s'il n'aurait pas plus de bonheur dans la recherche de son laquais le matin que la nuit. En effet, la première chose qu'il aperçut à travers le brouillard humide et grisâtre fut l'honnête Planchet qui, les deux chevaux en main, l'attendait à la porte d'un petit cabaret borgne devant lequel d'Artagnan était passé sans même soupçonner son existence.
 
 
-# CHAPITRE XXV. PORTHOS
+# CHAPITRE XXV. PORTHOS.
 
 Au lieu de rentrer chez lui directement, d'Artagnan mit pied à terre à la porte de M. de Tréville, et monta rapidement l'escalier. Cette fois, il était décidé à lui raconter tout ce qui venait de se passer. Sans doute il lui donnerait de bons conseils dans toute cette affaire ; puis, comme M. de Tréville voyait presque journellement la reine, il pourrait peut-être tirer de Sa Majesté quelque renseignement sur la pauvre femme à qui l'on faisait sans doute payer son dévouement à sa maîtresse.
 
@@ -6824,7 +6818,7 @@ Mais là s'arrêta la confidence de d'Artagnan ; il annonça seulement qu'à so
 En ce moment Planchet entra ; il prévenait son maître que les chevaux étaient suffisamment reposés, et qu'il serait possible d'aller coucher à Clermont.
 
 
-# CHAPITRE XXVI. LA THÈSE D'ARAMIS
+# CHAPITRE XXVI. LA THÈSE D'ARAMIS.
 
 D'Artagnan n'avait rien dit à Porthos de sa blessure ni de sa procureuse. C'était un garçon fort sage que notre Béarnais, si jeune qu'il fût. En conséquence, il avait fait semblant de croire tout ce que lui avait raconté le glorieux mousquetaire, convaincu qu'il n'y a pas d'amitié qui tienne à un secret surpris, surtout quand ce secret intéresse l'orgueil ; puis on a toujours une certaine supériorité morale sur ceux dont on sait la vie.
 
@@ -7261,7 +7255,7 @@ Bazin, qui regardait son maître et qui ne comprenait rien à ce changement, lai
 – Allez-vous-en au diable avec votre latin ! Mon cher d'Artagnan, buvons, morbleu, buvons frais, buvons beaucoup, et racontez-moi un peu ce qu'on fait là-bas. »
 
 
-# CHAPITRE XXVII. LA FEMME D'ATHOS
+# CHAPITRE XXVII. LA FEMME D'ATHOS.
 
 « Il reste maintenant à savoir des nouvelles d'Athos, dit d'Artagnan au fringant Aramis, quand il l'eut mis au courant de ce qui s'était passé dans la capitale depuis leur départ, et qu'un excellent dîner leur eut fait oublier à l'un sa thèse, à l'autre sa fatigue.
 
@@ -7776,7 +7770,7 @@ D'Artagnan ne pouvait plus supporter cette conversation, qui l'eût rendu fou ;
 « Les jeunes gens ne savent plus boire, dit Athos en le regardant en pitié, et pourtant celui-là est des meilleurs !… »
 
 
-# CHAPITRE XXVIII. RETOUR
+# CHAPITRE XXVIII. RETOUR.
 
 D'Artagnan était resté étourdi de la terrible confidence d'Athos ; cependant bien des choses lui paraissaient encore obscures dans cette demi-révélation ; d'abord elle avait été faite par un homme tout à fait ivre à un homme qui l'était à moitié, et cependant, malgré ce vague que fait monter au cerveau la fumée de deux ou trois bouteilles de bourgogne, d'Artagnan, en se réveillant le lendemain matin, avait chaque parole d'Athos aussi présente à son esprit que si, à mesure qu'elles étaient tombées de sa bouche, elles s'étaient imprimées dans son esprit. Tout ce doute ne lui donna qu'un plus vif désir d'arriver à une certitude, et il passa chez son ami avec l'intention bien arrêtée de renouer sa conversation de la veille mais il trouva Athos de sens tout à fait rassis, c'est-à-dire le plus fin et le plus impénétrable des hommes.
 
@@ -8247,7 +8241,7 @@ Ce mot de procureur réveilla Porthos.
 – Plus, dit Athos, en attendant que d'Artagnan qui allait remercier M. de Tréville eût fermé la porte, plus ce beau diamant qui brille au doigt de notre ami. Que diable ! d'Artagnan est trop bon camarade pour laisser des frères dans l'embarras, quand il porte à son médius la rançon d'un roi. »
 
 
-# CHAPITRE XXIX. LA CHASSE À L'ÉQUIPEMENT
+# CHAPITRE XXIX. LA CHASSE À L'ÉQUIPEMENT.
 
 Le plus préoccupé des quatre amis était bien certainement d'Artagnan, quoique d'Artagnan, en sa qualité de garde, fût bien plus facile à équiper que messieurs les mousquetaires, qui étaient des seigneurs ; mais notre cadet de Gascogne était, comme on a pu le voir, d'un caractère prévoyant et presque avare, et avec cela (expliquez les contraires) glorieux presque à rendre des points à Porthos. À cette préoccupation de sa vanité, d'Artagnan joignait en ce moment une inquiétude moins égoïste. Quelques informations qu'il eût pu prendre sur Mme Bonacieux, il ne lui en était venu aucune nouvelle. M. de Tréville en avait parlé à la reine ; la reine ignorait où était la jeune mercière et avait promis de la faire chercher.
 
@@ -8462,7 +8456,7 @@ Porthos remarqua un dernier combat entre l'amour et l'avarice.
 – À demain, flamme de ma vie ! »
 
 
-# CHAPITRE XXX. MILADY
+# CHAPITRE XXX. MILADY.
 
 D'Artagnan avait suivi Milady sans être aperçu par elle : il la vit monter dans son carrosse, et il l'entendit donner à son cocher l'ordre d'aller à Saint-Germain.
 
@@ -8661,7 +8655,7 @@ Athos demanda par signe à Grimaud une bouteille.
 Quant à d'Artagnan, il arrangea en lui-même un petit plan dont nous verrons plus tard l'exécution, et qui lui promettait quelque gracieuse aventure, comme on pouvait le voir aux sourires qui, de temps en temps, passaient sur son visage dont ils éclairaient la rêverie.
 
 
-# CHAPITRE XXXI. ANGLAIS ET FRANÇAIS
+# CHAPITRE XXXI. ANGLAIS ET FRANÇAIS.
 
 L'heure venue, on se rendit avec les quatre laquais, derrière le Luxembourg, dans un enclos abandonné aux chèvres. Athos donna une pièce de monnaie au chevrier pour qu'il s'écartât. Les laquais furent chargés de faire sentinelle.
 
@@ -8850,7 +8844,7 @@ Chaque fois aussi, soit dans l'antichambre, soit dans le corridor, soit sur l'es
 Mais, comme nous l'avons dit, d'Artagnan ne faisait aucune attention à cette persistance de la pauvre Ketty.
 
 
-# CHAPITRE XXXII. UN DÎNER DE PROCUREUR
+# CHAPITRE XXXII. UN DÎNER DE PROCUREUR.
 
 Cependant le duel dans lequel Porthos avait joué un rôle si brillant ne lui avait pas fait oublier le dîner auquel l'avait invité la femme du procureur. Le lendemain, vers une heure, il se fit donner le dernier coup de brosse par Mousqueton, et s'achemina vers la rue aux Ours, du pas d'un homme qui est en double bonne fortune.
 
@@ -9073,7 +9067,7 @@ Ces conditions arrêtées, et les intérêts stipulés ainsi que l'époque du re
 Le mousquetaire rentra chez lui avec une faim de fort mauvaise humeur.
 
 
-# CHAPITRE XXXIII. SOUBRETTE ET MAÎTRESSE
+# CHAPITRE XXXIII. SOUBRETTE ET MAÎTRESSE.
 
 Cependant, comme nous l'avons dit, malgré les cris de sa conscience et les sages conseils d'Athos, d'Artagnan devenait d'heure en heure plus amoureux de Milady ; aussi ne manquait-il pas tous les jours d'aller lui faire une cour à laquelle l'aventureux Gascon était convaincu qu'elle ne pouvait, tôt ou tard, manquer de répondre.
 
@@ -9386,7 +9380,7 @@ D'ailleurs il lui promit que le soir il sortirait de bonne heure de chez sa maî
 Cette promesse acheva de consoler la pauvre Ketty.
 
 
-# CHAPITRE XXXIV. OÙ IL EST TRAITÉ DE L'ÉQUIPEMENT D'ARAMIS ET DE PORTHOS
+# CHAPITRE XXXIV. OÙ IL EST TRAITÉ DE L'ÉQUIPEMENT D'ARAMIS ET DE PORTHOS.
 
 Depuis que les quatre amis étaient chacun à la chasse de son équipement, il n'y avait plus entre eux de réunion arrêtée. On dînait les uns sans les autres, où l'on se trouvait, ou plutôt où l'on pouvait. Le service, de son côté, prenait aussi sa part de ce temps précieux, qui s'écoulait si vite. Seulement on était convenu de se trouver une fois la semaine, vers une heure, au logis d'Athos, attendu que ce dernier, selon le serment qu'il avait fait, ne passait plus le seuil de sa porte.
 
@@ -9625,7 +9619,7 @@ Et tous deux se séparèrent en se disant : « À ce soir. »
 « Diable ! pensa Porthos en s'éloignant, il me semble que je me rapproche enfin du bahut de maître Coquenard. »
 
 
-# CHAPITRE XXXV. LA NUIT TOUS LES CHATS SONT GRIS
+# CHAPITRE XXXV. LA NUIT TOUS LES CHATS SONT GRIS.
 
 Ce soir, attendu si impatiemment par Porthos et par d'Artagnan, arriva enfin.
 
@@ -9826,7 +9820,7 @@ Ketty crut qu'elle se trouvait mal et se précipita pour ouvrir son corsage. Mai
 Et de la main elle fit signe à Ketty de sortir.
 
 
-# CHAPITRE XXXVI. RÊVE DE VENGEANCE
+# CHAPITRE XXXVI. RÊVE DE VENGEANCE.
 
 Le soir Milady donna l'ordre d'introduire M. d'Artagnan aussitôt qu'il viendrait, selon son habitude. Mais il ne vint pas.
 
@@ -10117,7 +10111,7 @@ Milady lui tendit une main qu'il baisa tendrement.
 « Voyons, dit-il en se retirant et en répondant à peine aux reproches de Ketty, voyons, ne soyons pas un sot ; décidément cette femme est une grande scélérate : prenons garde. »
 
 
-# CHAPITRE XXXVII. LE SECRET DE MILADY
+# CHAPITRE XXXVII. LE SECRET DE MILADY.
 
 D'Artagnan était sorti de l'hôtel au lieu de monter tout de suite chez Ketty, malgré les instances que lui avait faites la jeune fille, et cela pour deux raisons : la première parce que de cette façon il évitait les reproches, les récriminations, les prières ; la seconde, parce qu'il n'était pas fâché de lire un peu dans sa pensée, et, s'il était possible, dans celle de cette femme.
 
@@ -10312,7 +10306,7 @@ Ketty ne comprenait que trop ; en un tour de main elle l'affubla d'une robe à 
 « N'ouvrez pas ! »
 
 
-# CHAPITRE XXXVIII. COMMENT, SANS SE DÉRANGER, ATHOS TROUVA SON ÉQUIPEMENT
+# CHAPITRE XXXVIII. COMMENT, SANS SE DÉRANGER, ATHOS TROUVA SON ÉQUIPEMENT.
 
 Le jeune homme s'enfuit tandis qu'elle le menaçait encore d'un geste impuissant. Au moment où elle le perdit de vue, Milady tomba évanouie dans sa chambre.
 
@@ -10625,7 +10619,7 @@ Une demi-heure après, d'Artagnan revint avec les deux mille livres et sans qu'i
 Ce fut ainsi qu'Athos trouva dans son ménage des ressources auxquelles il ne s'attendait pas.
 
 
-# CHAPITRE XXXIX. UNE VISION
+# CHAPITRE XXXIX. UNE VISION.
 
 À quatre heures, les quatre amis étaient donc réunis chez Athos. Leurs préoccupations sur l'équipement avaient tout à fait disparu, et chaque visage ne conservait plus l'expression que de ses propres et secrètes inquiétudes ; car derrière tout bonheur présent est cachée une crainte à venir.
 
@@ -10848,7 +10842,7 @@ L'huissier l'introduisit et se retira sans dire une parole. D'Artagnan crut d'ab
 D'Artagnan reconnut le cardinal.
 
 
-# CHAPITRE XL. LE CARDINAL
+# CHAPITRE XL. LE CARDINAL.
 
 Le cardinal appuya son coude sur son manuscrit, sa joue sur sa main, et regarda un instant le jeune homme. Nul n'avait l'œil plus profondément scrutateur que le cardinal de Richelieu, et d'Artagnan sentit ce regard courir par ses veines comme une fièvre.
 
@@ -11015,7 +11009,7 @@ En arrivant au faubourg Saint-Antoine, il se retourna pour regarder gaiement la 
 Les deux hommes suivirent alors la compagnie, et, à la sortie du faubourg Saint-Antoine, montèrent sur des chevaux tout préparés qu'un domestique sans livrée tenait en les attendant.
 
 
-# CHAPITRE XLI. LE SIÈGE DE LA ROCHELLE
+# CHAPITRE XLI. LE SIÈGE DE LA ROCHELLE.
 
 Le siège de La Rochelle fut un des grands événements politiques du règne de Louis XIII, et une des grandes entreprises militaires du cardinal. Il est donc intéressant, et même nécessaire, que nous en disions quelques mots ; plusieurs détails de ce siège se liant d'ailleurs d'une manière trop importante à l'histoire que nous avons entrepris de raconter, pour que nous les passions sous silence.
 
@@ -11282,7 +11276,7 @@ Au reste, comme toute belle action porte avec elle sa récompense, la belle acti
 Cette tranquillité prouvait une chose, c'est que d'Artagnan ne connaissait pas encore Milady.
 
 
-# CHAPITRE XLII. LE VIN D'ANJOU
+# CHAPITRE XLII. LE VIN D'ANJOU.
 
 Après des nouvelles presque désespérées du roi, le bruit de sa convalescence commençait à se répandre dans le camp ; et comme il avait grande hâte d'arriver en personne au siège, on disait qu'aussitôt qu'il pourrait remonter à cheval, il se remettrait en route.
 
@@ -11529,7 +11523,7 @@ Ce fut d'Artagnan qui secoua la tête à son tour.
 Et sur cette assurance, les quatre amis, qui avaient achevé leur modeste repas, se séparèrent avec promesse de se revoir le soir même : d'Artagnan retourna aux Minimes, et les trois mousquetaires rejoignirent le quartier du roi, où ils avaient à faire préparer leur logis.
 
 
-# CHAPITRE XLIII. L'AUBERGE DU COLOMBIER-ROUGE
+# CHAPITRE XLIII. L'AUBERGE DU COLOMBIER-ROUGE.
 
 À peine arrivé au camp, le roi, qui avait si grande hâte de se trouver en face de l'ennemi, et qui, à meilleur droit que le cardinal, partageait sa haine contre Buckingham, voulut faire toutes les dispositions, d'abord pour chasser les Anglais de l'île de Ré, ensuite pour presser le siège de La Rochelle ; mais, malgré lui, il fut retardé par les dissensions qui éclatèrent entre MM. de Bassompierre et Schomberg, contre le duc d'Angoulême.
 
@@ -11710,7 +11704,7 @@ L'hôte ouvrit la porte d'une grande salle, dans laquelle justement on venait de
 Et tandis que les trois mousquetaires entraient dans la chambre du rez-de-chaussée, le cardinal, sans demander plus amples renseignements, monta l'escalier en homme qui n'a pas besoin qu'on lui indique son chemin.
 
 
-# CHAPITRE XLIV. DE L'UTILITÉ DES TUYAUX DE POÊLE
+# CHAPITRE XLIV. DE L'UTILITÉ DES TUYAUX DE POÊLE.
 
 Il était évident que, sans s'en douter, et mus seulement par leur caractère chevaleresque et aventureux, nos trois amis venaient de rendre service à quelqu'un que le cardinal honorait de sa protection particulière.
 
@@ -11927,7 +11921,7 @@ Porthos et Aramis allèrent reprendre leur place près du tuyau de poêle.
 Quant à Athos, il sortit sans aucun mystère, alla prendre son cheval attaché avec ceux de ses deux amis aux tourniquets des contrevents, convainquit en quatre mots l'écuyer de la nécessité d'une avant-garde pour le retour, visita avec affectation l'amorce de ses pistolets, mit l'épée aux dents et suivit, en enfant perdu, la route qui conduisait au camp.
 
 
-# CHAPITRE XLV. SCÈNE CONJUGALE
+# CHAPITRE XLV. SCÈNE CONJUGALE.
 
 Comme l'avait prévu Athos, le cardinal ne tarda point à descendre ; il ouvrit la porte de la chambre où étaient entrés les mousquetaires, et trouva Porthos faisant une partie de dés acharnée avec Aramis. D'un coup d'œil rapide, il fouilla tous les coins de la salle, et vit qu'un de ses hommes lui manquait.
 
@@ -12080,7 +12074,7 @@ D'un autre côté, comme l'avait prévu Athos, Milady, en retrouvant à la porte
 En conséquence, après avoir voyagé toute la nuit, à sept heures du matin elle était au fort de La Pointe, à huit heures elle était embarquée, et à neuf heures le bâtiment, qui, avec des lettres de marque du cardinal, était censé être en partance pour Bayonne, levait l'ancre et faisait voile pour l'Angleterre.
 
 
-# CHAPITRE XLVI. LE BASTION SAINT-GERVAIS
+# CHAPITRE XLVI. LE BASTION SAINT-GERVAIS.
 
 En arrivant chez ses trois amis, d'Artagnan les trouva réunis dans la même chambre : Athos réfléchissait, Porthos frisait sa moustache, Aramis disait ses prières dans un charmant petit livre d'heures relié en velours bleu.
 
@@ -12297,7 +12291,7 @@ Tous les spectateurs lui rendirent son salut, accompagnant cette politesse d'un 
 Après quoi, ils disparurent tous quatre dans le bastion, où les avait déjà précédés Grimaud.
 
 
-# CHAPITRE XLVII. LE CONSEIL DES MOUSQUETAIRES
+# CHAPITRE XLVII. LE CONSEIL DES MOUSQUETAIRES.
 
 Comme l'avait prévu Athos, le bastion n'était occupé que par une douzaine de morts tant Français que Rochelois.
 
@@ -12870,7 +12864,7 @@ Le lendemain à huit heures du matin, le valet de M. des Essarts entra chez d'A
 C'était le prix du diamant de la reine.
 
 
-# CHAPITRE XLVIII. AFFAIRE DE FAMILLE
+# CHAPITRE XLVIII. AFFAIRE DE FAMILLE.
 
 Athos avait trouvé le mot : affaire de famille. Une affaire de famille n'était point soumise à l'investigation du cardinal ; une affaire de famille ne regardait personne ; on pouvait s'occuper devant tout le monde d'une affaire de famille.
 
@@ -13255,7 +13249,7 @@ Puis appelant Planchet :
 – Eh bien, voulez-vous que je vous avoue la vérité ? et moi aussi ! » dit Athos.
 
 
-# CHAPITRE XLIX. FATALITÉ
+# CHAPITRE XLIX. FATALITÉ.
 
 Cependant Milady, ivre de colère, rugissant sur le pont du bâtiment comme une lionne qu'on embarque, avait été tentée de se jeter à la mer pour regagner la côte, car elle ne pouvait se faire à l'idée qu'elle avait été insultée par d'Artagnan, menacée par Athos, et qu'elle quittait la France sans se venger d'eux. Bientôt, cette idée était devenue pour elle tellement insupportable, qu'au risque de ce qui pouvait arriver de terrible pour elle-même, elle avait supplié le capitaine de la jeter sur la côte ; mais le capitaine, pressé d'échapper à sa fausse position, placé entre les croiseurs français et anglais, comme la chauve-souris entre les rats et les oiseaux, avait grande hâte de regagner l'Angleterre, et refusa obstinément d'obéir à ce qu'il prenait pour un caprice de femme, promettant à sa passagère, qui au reste lui était particulièrement recommandée par le cardinal, de la jeter, si la mer et les Français le permettaient, dans un des ports de la Bretagne, soit à Lorient, soit à Brest ; mais en attendant, le vent était contraire, la mer mauvaise, on louvoyait et l'on courait des bordées. Neuf jours après la sortie de la Charente, Milady, toute pâle de ses chagrins et de sa rage, voyait apparaître seulement les côtes bleuâtres du Finistère.
 
@@ -13438,7 +13432,7 @@ Puis, se retournant vers la porte, et voyant que le jeune officier attendait ses
 « C'est bien, dit-il, je vous remercie ; maintenant, laissez-nous, monsieur Felton. »
 
 
-# CHAPITRE L. CAUSERIE D'UN FRÈRE AVEC SA SŒUR
+# CHAPITRE L. CAUSERIE D'UN FRÈRE AVEC SA SŒUR.
 
 Pendant le temps que Lord de Winter mit à fermer la porte, à pousser un volet et à approcher un siège du fauteuil de sa belle-sœur, Milady, rêveuse, plongea son regard dans les profondeurs de la possibilité, et découvrit toute la trame qu'elle n'avait pas même pu entrevoir, tant qu'elle ignorait en quelles mains elle était tombée. Elle connaissait son beau-frère pour un bon gentilhomme, franc-chasseur, joueur intrépide, entreprenant près des femmes, mais d'une force inférieure à la sienne à l'endroit de l'intrigue. Comment avait-il pu découvrir son arrivée ? la faire saisir ? Pourquoi la retenait-il ?
 
@@ -13589,7 +13583,7 @@ Un instant après on entendait dans le corridor le pas pesant d'un soldat de mar
 Milady demeura pendant quelques minutes dans la même position, car elle songea qu'on l'examinait peut-être par la serrure ; puis lentement elle releva sa tête, qui avait repris une expression formidable de menace et de défi, courut écouter à la porte, regarda par la fenêtre, et revenant s'enterrer dans un vaste fauteuil, elle songea.
 
 
-# CHAPITRE LI. OFFICIER
+# CHAPITRE LI. OFFICIER.
 
 Cependant le cardinal attendait des nouvelles d'Angleterre, mais aucune nouvelle n'arrivait, si ce n'est fâcheuse et menaçante.
 
@@ -13768,7 +13762,7 @@ Pendant ce temps, Son Éminence continuait sa promenade mélancolique en murmura
 « Décidément, il faut que ces quatre hommes soient à moi. »
 
 
-# CHAPITRE LII. PREMIERE JOURNÉE DE CAPTIVITÉ
+# CHAPITRE LII. PREMIERE JOURNÉE DE CAPTIVITÉ.
 
 Revenons à Milady, qu'un regard jeté sur les côtes de France nous a fait perdre de vue un instant.
 
@@ -13903,7 +13897,7 @@ Donc Felton avait parlé en sa faveur, puisque Lord de Winter n'avait pas voulu 
 Et Milady se coucha et s'endormit le sourire sur les lèvres ; quelqu'un qui l'eût vue dormant eût dit une jeune fille rêvant à la couronne de fleurs qu'elle devait mettre sur son front à la prochaine fête.
 
 
-# CHAPITRE LIII. DEUXIÈME JOURNÉE DE CAPTIVITÉ
+# CHAPITRE LIII. DEUXIÈME JOURNÉE DE CAPTIVITÉ.
 
 Milady rêvait qu'elle tenait enfin d'Artagnan, qu'elle assistait à son supplice, et c'était la vue de son sang odieux, coulant sous la hache du bourreau, qui dessinait ce charmant sourire sur les lèvres.
 
@@ -14092,7 +14086,7 @@ Et à ces mots, Felton, sentant qu'il ne pourrait pas conserver longtemps sa sé
 « Vous avez bien fait, lieutenant, dit le soldat ; ces chants bouleversent l'âme ; cependant on finit par s'y accoutumer : sa voix est si belle ! »
 
 
-# CHAPITRE LIV. TROISIÈME JOURNÉE DE CAPTIVITÉ
+# CHAPITRE LIV. TROISIÈME JOURNÉE DE CAPTIVITÉ.
 
 Felton était venu ; mais il y avait encore un pas à faire : il fallait le retenir, ou plutôt il fallait qu'il restât tout seul ; et Milady ne voyait encore qu'obscurément le moyen qui devait la conduire à ce résultat.
 
@@ -14303,7 +14297,7 @@ Mais, quoique sa voix douce, pleine et sonore eût vibré plus harmonieuse et pl
 Seulement, quelques instants après qu'elle eût fini son chant religieux, Milady crut entendre un profond soupir ; puis les mêmes pas qu'elle avait entendus s'approcher s'éloignèrent lentement et comme à regret.
 
 
-# CHAPITRE LV. QUATRIÈME JOURNÉE DE CAPTIVITÉ
+# CHAPITRE LV. QUATRIÈME JOURNÉE DE CAPTIVITÉ.
 
 Le lendemain, lorsque Felton entra chez Milady, il la trouva debout, montée sur un fauteuil, tenant entre ses mains une corde tissée à l'aide de quelques mouchoirs de batiste déchirés en lanières tressées les unes avec les autres et attachées bout à bout ; au bruit que fit Felton en ouvrant la porte, Milady sauta légèrement à bas de son fauteuil, et essaya de cacher derrière elle cette corde improvisée, qu'elle tenait à la main.
 
@@ -14498,7 +14492,7 @@ Quant à elle, elle revint à sa place, un sourire de sauvage mépris sur les l�
 « Mon Dieu ! dit-elle, fanatique insensé ! mon Dieu ! c'est moi, moi et celui qui m'aidera à me venger. »
 
 
-# CHAPITRE LVI. CINQUIÈME JOURNÉE DE CAPTIVITÉ
+# CHAPITRE LVI. CINQUIÈME JOURNÉE DE CAPTIVITÉ.
 
 Cependant Milady en était arrivée à un demi-triomphe, et le succès obtenu doublait ses forces.
 
@@ -14805,7 +14799,7 @@ Felton écoutait sans faire entendre autre chose qu'une espèce de rugissement s
 Felton s'appuyait sur un meuble, et Milady voyait avec une joie de démon que la force lui manquerait peut-être avant la fin du récit.
 
 
-# CHAPITRE LVII. UN MOYEN DE TRAGÉDIE CLASSIQUE
+# CHAPITRE LVII. UN MOYEN DE TRAGÉDIE CLASSIQUE.
 
 Après un moment de silence employé par Milady à observer le jeune homme qui l'écoutait, elle continua son récit :
 
@@ -14988,7 +14982,7 @@ Quant à Lord de Winter, il se contenta d'appeler la femme qui servait Milady et
 Cependant, comme à tout prendre, malgré ses soupçons, la blessure pouvait être grave, il envoya, à l'instant même, un homme à cheval chercher un médecin.
 
 
-# CHAPITRE LVIII. ÉVASION
+# CHAPITRE LVIII. ÉVASION.
 
 Comme l'avait pensé Lord de Winter, la blessure de Milady n'était pas dangereuse ; aussi dès qu'elle se trouva seule avec la femme que le baron avait fait appeler et qui se hâtait de la déshabiller, rouvrit-elle les yeux.
 
@@ -15297,7 +15291,7 @@ Il fut convenu que Milady attendrait Felton jusqu'à dix heures ; si à dix heu
 Alors, en supposant qu'il fût libre, il la rejoindrait en France, au couvent des Carmélites de Béthune.
 
 
-# CHAPITRE LIX. CE QUI SE PASSAIT À PORTSMOUTH LE 23 AOÛT 1628
+# CHAPITRE LIX. CE QUI SE PASSAIT À PORTSMOUTH LE 23 AOÛT 1628.
 
 Felton prit congé de Milady comme un frère qui va faire une simple promenade prend congé de sa sœur en lui baisant la main.
 
@@ -15622,7 +15616,7 @@ Felton baissa la tête sans prononcer une syllabe.
 Quant à de Winter, il descendit rapidement l'escalier et se rendit au port.
 
 
-# CHAPITRE LX. EN FRANCE
+# CHAPITRE LX. EN FRANCE.
 
 La première crainte du roi d'Angleterre, Charles Ier, en apprenant cette mort, fut qu'une si terrible nouvelle ne décourageât les Rochelois ; il essaya, dit Richelieu dans ses Mémoires, de la leur cacher le plus longtemps possible, faisant fermer les ports par tout son royaume, et prenant soigneusement garde qu'aucun vaisseau ne sortit jusqu'à ce que l'armée que Buckingham apprêtait fût partie, se chargeant, à défaut de Buckingham, de surveiller lui-même le départ.
 
@@ -15733,7 +15727,7 @@ Le garçon d'écurie, enchanté de la bonne journée qu'il avait faite, rentra d
 Et les quatre compagnons s'élancèrent au galop sur la route de Béthune.
 
 
-# CHAPITRE LXI. LE COUVENT DES CARMÉLITES DE BÉTHUNE
+# CHAPITRE LXI. LE COUVENT DES CARMÉLITES DE BÉTHUNE.
 
 Les grands criminels portent avec eux une espèce de prédestination qui leur fait surmonter tous les obstacles, qui les fait échapper à tous les dangers, jusqu'au moment que la Providence, lassée, a marqué pour l'écueil de leur fortune impie.
 
@@ -16110,7 +16104,7 @@ Milady resta seule, les yeux fixés sur la porte ; un instant après on entendi
 Milady jeta un cri de joie : cet homme c'était le comte de Rochefort, l'âme damnée de Son Éminence.
 
 
-# CHAPITRE LXII. DEUX VARIÉTÉS DE DÉMONS
+# CHAPITRE LXII. DEUX VARIÉTÉS DE DÉMONS.
 
 « Ah ! s'écrièrent ensemble Rochefort et Milady, c'est vous !
 
@@ -16369,7 +16363,7 @@ Une heure après, Rochefort partit au grand galop de son cheval ; cinq heures a
 Nos lecteurs savent déjà comment il avait été reconnu par d'Artagnan, et comment cette reconnaissance, en inspirant des craintes aux quatre mousquetaires, avait donné une nouvelle activité à leur voyage.
 
 
-# CHAPITRE LXIII. UNE GOUTTE D'EAU
+# CHAPITRE LXIII. UNE GOUTTE D'EAU.
 
 À peine Rochefort fut-il sorti, que Mme Bonacieux rentra. Elle trouva Milady le visage riant.
 
@@ -16850,7 +16844,7 @@ D'Artagnan tressaillit, car il comprit qu'Athos était sûr de sa vengeance, pui
 – Tu vois bien, dit Athos, qu'il y a un Dieu dans le ciel ! »
 
 
-# CHAPITRE LXIV. L'HOMME AU MANTEAU ROUGE
+# CHAPITRE LXIV. L'HOMME AU MANTEAU ROUGE.
 
 Le désespoir d'Athos avait fait place à une douleur concentrée, qui rendait plus lucides encore les brillantes facultés d'esprit de cet homme.
 
@@ -16957,7 +16951,7 @@ Lord de Winter et les trois mousquetaires s'interrogèrent du regard. Nul d'entr
 C'était un triste aspect que celui de ces six hommes courant en silence, plongés chacun dans sa pensée, mornes comme le désespoir, sombres comme le châtiment.
 
 
-# CHAPITRE LXV. LE JUGEMENT
+# CHAPITRE LXV. LE JUGEMENT.
 
 C'était une nuit orageuse et sombre, de gros nuages couraient au ciel, voilant la clarté des étoiles ; la lune ne devait se lever qu'à minuit.
 
@@ -17188,7 +17182,7 @@ Athos étendit la main vers elle.
 Lord de Winter, d'Artagnan, Athos, Porthos et Aramis sortirent derrière elle. Les valets suivirent leurs maîtres et la chambre resta solitaire avec sa fenêtre brisée, sa porte ouverte et sa lampe fumeuse qui brûlait tristement sur la table.
 
 
-# CHAPITRE LXVI. L'EXÉCUTION
+# CHAPITRE LXVI. L'EXÉCUTION.
 
 Il était minuit à peu près ; la lune, échancrée par sa décroissance et ensanglantée par les dernières traces de l'orage, se levait derrière la petite ville d'Armentières, qui détachait sur sa lueur blafarde la silhouette sombre de ses maisons et le squelette de son haut clocher découpé à jour. En face, la Lys roulait ses eaux pareilles à une rivière d'étain fondu ; tandis que sur l'autre rive on voyait la masse noire des arbres se profiler sur un ciel orageux envahi par de gros nuages cuivrés qui faisaient une espèce de crépuscule au milieu de la nuit. À gauche s'élevait un vieux moulin abandonné, aux ailes immobiles, dans les ruines duquel une chouette faisait entendre son cri aigu, périodique et monotone. Çà et là dans la plaine, à droite et à gauche du chemin que suivait le lugubre cortège, apparaissaient quelques arbres bas et trapus, qui semblaient des nains difformes accroupis pour guetter les hommes à cette heure sinistre.
 
@@ -17329,7 +17323,7 @@ Trois jours après, les quatre mousquetaires rentraient à Paris ; ils étaient
 – Prodigieusement », répondit Athos, les dents serrées.
 
 
-# CHAPITRE LXVII. CONCLUSION
+# CHAPITRE LXVII. CONCLUSION.
 
 Le 6 du mois suivant, le roi, tenant la promesse qu'il avait faite au cardinal de quitter Paris pour revenir à La Rochelle, sortit de sa capitale tout étourdi encore de la nouvelle qui venait de s'y répandre que Buckingham venait d'être assassiné.
 
@@ -17616,7 +17610,7 @@ Et il laissa tomber sa tête entre ses deux mains, tandis que deux larmes roulai
 « Vous êtes jeune, vous, répondit Athos, et vos souvenirs amers ont le temps de se changer en doux souvenirs ! »
 
 
-# ÉPILOGUE
+# ÉPILOGUE.
 
 La Rochelle, privée du secours de la flotte anglaise et de la division promise par Buckingham, se rendit après un siège d'un an. Le 28 octobre 1628, on signa la capitulation.
 
@@ -17648,4 +17642,4 @@ M. Bonacieux vivait fort tranquille, ignorant parfaitement ce qu'était devenue
 
 En effet, le lendemain, M. Bonacieux, étant sorti à sept heures du soir de chez lui pour se rendre au Louvre, ne reparut plus rue des Fossoyeurs ; l'avis de ceux qui parurent les mieux informés fut qu'il était nourri et logé dans quelque château royal aux frais de sa généreuse Éminence.
 
-FIN
+<FIN>

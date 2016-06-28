@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1844
+**** *book_ *id_body-1 *date_1844 *creator_dumas
 
 INTRODUCTION
 
@@ -36,7 +36,7 @@ En attendant, comme le parrain est un second père, nous invitons le lecteur à 
 
 Cela posé, passons à notre histoire.
 
-**** *book_ *id_I *date_1844
+**** *book_ *id_I *date_1844 *creator_dumas
 
 CHAPITRE PREMIER. LES TROIS PRÉSENTS DE M. D'ARTAGNAN PÈRE
 
@@ -387,7 +387,7 @@ Après quoi, content de la façon dont il s'était conduit à Meung, sans remord
 
 Ce sommeil, tout provincial encore, le conduisit jusqu'à neuf heures du matin, heure à laquelle il se leva pour se rendre chez ce fameux M. de Tréville, le troisième personnage du royaume d'après l'estimation paternelle.
 
-**** *book_ *id_II *date_1844
+**** *book_ *id_II *date_1844 *creator_dumas
 
 CHAPITRE II. L'ANTICHAMBRE DE M. DE TRÉVILLE
 
@@ -580,7 +580,7 @@ Je serai abbé s'il me convient ; en attendant, je suis mousquetaire : en cett
 
 À cette annonce, pendant laquelle la porte demeurait ouverte, chacun se tut, et au milieu du silence général le jeune Gascon traversa l'antichambre dans une partie de sa longueur et entra chez le capitaine des mousquetaires, se félicitant de tout son cœur d'échapper aussi à point à la fin de cette bizarre querelle.
 
-**** *book_ *id_III *date_1844
+**** *book_ *id_III *date_1844 *creator_dumas
 
 CHAPITRE III. L'AUDIENCE
 
@@ -867,7 +867,7 @@ Et il disparut.
 « Diable de fou ! murmura M. de Tréville.
 À moins toutefois, ajouta-t-il, que ce ne soit une manière adroite de s'esquiver, en voyant qu'il a manqué son coup. »
 
-**** *book_ *id_IV *date_1844
+**** *book_ *id_IV *date_1844 *creator_dumas
 
 CHAPITRE IV. L'ÉPAULE D'ATHOS, LE BAUDRIER DE PORTHOS ET LE MOUCHOIR D'ARAMIS
 
@@ -1097,7 +1097,7 @@ Les deux jeunes gens se saluèrent, puis Aramis s'éloigna en remontant la rue q
 
 « Décidément, je n'en puis pas revenir ; mais au moins, si je suis tué, je serai tué par un mousquetaire. »
 
-**** *book_ *id_V *date_1844
+**** *book_ *id_V *date_1844 *creator_dumas
 
 CHAPITRE V. LES MOUSQUETAIRES DU ROI ET LES GARDES DE M. LE CARDINAL
 
@@ -1423,7 +1423,7 @@ Le cœur de d'Artagnan nageait dans l'ivresse, il marchait entre Athos et Portho
 
 « Si je ne suis pas encore mousquetaire, dit-il à ses nouveaux amis en franchissant la porte de l'hôtel de M. de Tréville, au moins me voilà reçu apprenti, n'est-ce pas ? »
 
-**** *book_ *id_VI *date_1844
+**** *book_ *id_VI *date_1844 *creator_dumas
 
 CHAPITRE VI. SA MAJESTÉ LE ROI LOUIS TREIZIÈME
 
@@ -1950,7 +1950,7 @@ Et le cardinal, comme l'avait dit Sa Majesté, fut effectivement furieux, si fu
 
 « Eh bien, monsieur le cardinal, comment vont ce pauvre Bernajoux et ce pauvre Jussac, qui sont à vous ? »
 
-**** *book_ *id_VII *date_1844
+**** *book_ *id_VII *date_1844 *creator_dumas
 
 CHAPITRE VII. L'INTÉRIEUR DES MOUSQUETAIRES
 
@@ -2117,7 +2117,7 @@ D'Artagnan se retira sur cette promesse et, dès le lendemain, commença son ser
 Alors ce fut le tour d'Athos, de Porthos et d'Aramis de monter la garde avec d'Artagnan quand il était de garde.
 La compagnie de M. le chevalier des Essarts prit ainsi quatre hommes au lieu d'un, le jour où elle prit d'Artagnan.
 
-**** *book_ *id_VIII *date_1844
+**** *book_ *id_VIII *date_1844 *creator_dumas
 
 CHAPITRE VIII. UNE INTRIGUE DE CŒUR
 
@@ -2414,7 +2414,7 @@ Ils comprirent donc, sur les quelques mots échappés à d'Artagnan, de quelle a
 
 Lorsqu'ils entrèrent dans la chambre de d'Artagnan, la chambre était vide : le propriétaire, craignant les suites de la rencontre qui allait sans doute avoir lieu entre le jeune homme et l'inconnu, avait, par suite de l'exposition qu'il avait faite lui-même de son caractère, jugé qu'il était prudent de décamper.
 
-**** *book_ *id_IX *date_1844
+**** *book_ *id_IX *date_1844 *creator_dumas
 
 CHAPITRE IX. D'ARTAGNAN SE DESSINE
 
@@ -2685,7 +2685,7 @@ Vaincu par l'exemple, maugréant tout bas, Porthos étendit la main, et les quat
 
 « C'est bien, que chacun se retire maintenant chez soi, dit d'Artagnan comme s'il n'avait fait autre chose que de commander toute sa vie, et attention, car à partir de ce moment, nous voilà aux prises avec le cardinal. »
 
-**** *book_ *id_X *date_1844
+**** *book_ *id_X *date_1844 *creator_dumas
 
 CHAPITRE X. UNE SOURICIÈRE AU XVIIe SIÈCLE
 
@@ -3006,7 +3006,7 @@ Il lui exposa les craintes qu'il avait conçues à l'égard de Sa Majesté ; i
 À dix heures sonnant, d'Artagnan quitta M. de Tréville, qui le remercia de ses renseignements, lui recommanda d'avoir toujours à cœur le service du roi et de la reine, et qui rentra dans le salon.
 Mais, au bas de l'escalier, d'Artagnan se souvint qu'il avait oublié sa canne : en conséquence, il remonta précipitamment, rentra dans le cabinet, d'un tour de doigt remit la pendule à son heure, pour qu'on ne pût pas s'apercevoir, le lendemain, qu'elle avait été dérangée, et sûr désormais qu'il y avait un témoin pour prouver son alibi, il descendit l'escalier et se trouva bientôt dans la rue.
 
-**** *book_ *id_XI *date_1844
+**** *book_ *id_XI *date_1844 *creator_dumas
 
 CHAPITRE XI. L'INTRIGUE SE NOUE
 
@@ -3579,7 +3579,7 @@ Quant à d'Artagnan, il se rendit aussitôt au cabaret de la Pomme de Pin, où 
 Mais, sans leur donner d'autre explication sur le dérangement qu'il leur avait causé, il leur dit qu'il avait terminé seul l'affaire pour laquelle il avait cru un instant avoir besoin de leur intervention.
 Et maintenant, emportés que nous sommes par notre récit, laissons nos trois amis rentrer chacun chez soi, et suivons, dans les détours du Louvre, le duc de Buckingham et son guide.
 
-**** *book_ *id_XII *date_1844
+**** *book_ *id_XII *date_1844 *creator_dumas
 
 CHAPITRE XII. GEORGES VILLIERS, DUC DE BUCKINGHAM
 
@@ -3787,7 +3787,7 @@ Et, fidèle à la promesse qu'il avait faite, il s'élança hors de l'appartemen
 
 Dans le corridor, il rencontra Mme Bonacieux qui l'attendait, et qui, avec les mêmes précautions et le même bonheur, le reconduisit hors du Louvre.
 
-**** *book_ *id_XIII *date_1844
+**** *book_ *id_XIII *date_1844 *creator_dumas
 
 CHAPITRE XIII. MONSIEUR BONACIEUX
 
@@ -4078,7 +4078,7 @@ Il ne pouvait voir encore cette malheureuse croix, mais il la sentait en quelque
 Lorsqu'il n'en fut plus qu'à une vingtaine de pas, il entendit une rumeur, et la voiture s'arrêta.
 C'était plus que n'en pouvait supporter le pauvre Bonacieux, déjà écrasé par les émotions successives qu'il avait éprouvées ; il poussa un faible gémissement, qu'on eût pu prendre pour le dernier soupir d'un moribond, et il s'évanouit.
 
-**** *book_ *id_XIV *date_1844
+**** *book_ *id_XIV *date_1844 *creator_dumas
 
 CHAPITRE XIV. L'HOMME DE MEUNG
 
@@ -4507,7 +4507,7 @@ Il aura à son pourpoint douze ferrets de diamants, approchez-vous de lui et cou
 
 « Aussitôt que ces ferrets seront en votre possession, prévenez-moi. »
 
-**** *book_ *id_XV *date_1844
+**** *book_ *id_XV *date_1844 *creator_dumas
 
 CHAPITRE XV. GENS DE ROBE ET GENS D'ÉPÉE
 
@@ -4725,7 +4725,7 @@ Au reste, M. de Tréville avait raison de se défier du cardinal et de penser 
 « Maintenant que nous ne sommes plus que nous deux, nous allons causer sérieusement, s'il plaît à Votre Majesté.
 Sire, M. de Buckingham était à Paris depuis cinq jours et n'en est parti que ce matin. »
 
-**** *book_ *id_XVI *date_1844
+**** *book_ *id_XVI *date_1844 *creator_dumas
 
 CHAPITRE XVI. OÙ M. LE GARDE DES SCEAUX SÉGUIER CHERCHA PLUS D'UNE FOIS LA CLOCHE POUR LA SONNER, COMME IL LE FAISAIT AUTREFOIS
 
@@ -5072,7 +5072,7 @@ Puis le cardinal ajouta :
 
 « À propos, Sire, n'oubliez pas de dire à Sa Majesté, la veille de cette fête, que vous désirez voir comment lui vont ses ferrets de diamants. »
 
-**** *book_ *id_XVII *date_1844
+**** *book_ *id_XVII *date_1844 *creator_dumas
 
 CHAPITRE XVII. LE MÉNAGE BONACIEUX
 
@@ -5512,7 +5512,7 @@ Au moment où elle disait ces mots, un coup frappé au plafond lui fit lever la 
 
 « Chère madame Bonacieux, ouvrez-moi la petite porte de l'allée, et je vais descendre près de vous. »
 
-**** *book_ *id_XVIII *date_1844
+**** *book_ *id_XVIII *date_1844 *creator_dumas
 
 CHAPITRE XVIII. L'AMANT ET LE MARI
 
@@ -5821,7 +5821,7 @@ Mme Bonacieux le suivit des yeux avec ce long regard d'amour dont la femme acco
 
 « O mon Dieu ! s'écria-t-elle, protégez la reine, protégez-moi ! »
 
-**** *book_ *id_XIX *date_1844
+**** *book_ *id_XIX *date_1844 *creator_dumas
 
 CHAPITRE XIX. PLAN DE CAMPAGNE
 
@@ -6174,7 +6174,7 @@ D'Artagnan, porteur de la lettre, est naturellement le chef de l'entreprise ; q
 
 Et chacun, allongeant la main vers le sac, prit soixante-quinze pistoles et fit ses préparatifs pour partir à l'heure convenue.
 
-**** *book_ *id_XX *date_1844
+**** *book_ *id_XX *date_1844 *creator_dumas
 
 CHAPITRE XX. VOYAGE
 
@@ -6595,7 +6595,7 @@ Venez, monsieur, venez. »
 
 Et tous deux reprirent au galop le chemin de la capitale.
 
-**** *book_ *id_XXI *date_1844
+**** *book_ *id_XXI *date_1844 *creator_dumas
 
 CHAPITRE XXI. LA COMTESSE DE WINTER
 
@@ -6889,7 +6889,7 @@ Il avait fait près de soixante lieues en douze heures.
 
 M. de Tréville le reçut comme s'il l'avait vu le matin même ; seulement, en lui serrant la main un peu plus vivement que de coutume, il lui annonça que la compagnie de M. des Essarts était de garde au Louvre et qu'il pouvait se rendre à son poste.
 
-**** *book_ *id_XXII *date_1844
+**** *book_ *id_XXII *date_1844 *creator_dumas
 
 CHAPITRE XXII. LE BALLET DE LA MERLAISON
 
@@ -7058,7 +7058,7 @@ Et à ces mots elle ouvrit la porte du corridor et poussa d'Artagnan hors du cab
 
 D'Artagnan obéit comme un enfant, sans résistance et sans objection aucune, ce qui prouve qu'il était bien réellement amoureux.
 
-**** *book_ *id_XXIII *date_1844
+**** *book_ *id_XXIII *date_1844 *creator_dumas
 
 CHAPITRE XXIII. LE RENDEZ-VOUS
 
@@ -7443,7 +7443,7 @@ Planchet, voyant qu'il n'y avait plus aucun espoir de faire renoncer son maître
 
 Quant à d'Artagnan, comme c'était au fond un garçon plein de prudence, au lieu de rentrer chez lui, il s'en alla dîner chez ce prêtre gascon qui, au moment de la détresse des quatre amis, leur avait donné un déjeuner de chocolat.
 
-**** *book_ *id_XXIV *date_1844
+**** *book_ *id_XXIV *date_1844 *creator_dumas
 
 CHAPITRE XXIV. LE PAVILLON
 
@@ -7728,7 +7728,7 @@ Vers six heures du matin, d'Artagnan se réveilla avec ce malaise qui accompagne
 Sa toilette n'était pas longue à faire ; il se tâta pour savoir si on n'avait pas profité de son sommeil pour le voler, et ayant retrouvé son diamant à son doigt, sa bourse dans sa poche et ses pistolets à sa ceinture, il se leva, paya sa bouteille et sortit pour voir s'il n'aurait pas plus de bonheur dans la recherche de son laquais le matin que la nuit.
 En effet, la première chose qu'il aperçut à travers le brouillard humide et grisâtre fut l'honnête Planchet qui, les deux chevaux en main, l'attendait à la porte d'un petit cabaret borgne devant lequel d'Artagnan était passé sans même soupçonner son existence.
 
-**** *book_ *id_XXV *date_1844
+**** *book_ *id_XXV *date_1844 *creator_dumas
 
 CHAPITRE XXV. PORTHOS
 
@@ -8319,7 +8319,7 @@ Mais là s'arrêta la confidence de d'Artagnan ; il annonça seulement qu'à so
 
 En ce moment Planchet entra ; il prévenait son maître que les chevaux étaient suffisamment reposés, et qu'il serait possible d'aller coucher à Clermont.
 
-**** *book_ *id_XXVI *date_1844
+**** *book_ *id_XXVI *date_1844 *creator_dumas
 
 CHAPITRE XXVI. LA THÈSE D'ARAMIS
 
@@ -8837,7 +8837,7 @@ Bazin, qui regardait son maître et qui ne comprenait rien à ce changement, lai
 – Allez-vous-en au diable avec votre latin !
 Mon cher d'Artagnan, buvons, morbleu, buvons frais, buvons beaucoup, et racontez-moi un peu ce qu'on fait là-bas. »
 
-**** *book_ *id_XXVII *date_1844
+**** *book_ *id_XXVII *date_1844 *creator_dumas
 
 CHAPITRE XXVII. LA FEMME D'ATHOS
 
@@ -9474,7 +9474,7 @@ D'Artagnan ne pouvait plus supporter cette conversation, qui l'eût rendu fou ;
 
 « Les jeunes gens ne savent plus boire, dit Athos en le regardant en pitié, et pourtant celui-là est des meilleurs !… »
 
-**** *book_ *id_XXVIII *date_1844
+**** *book_ *id_XXVIII *date_1844 *creator_dumas
 
 CHAPITRE XXVIII. RETOUR
 
@@ -10006,7 +10006,7 @@ Ce mot de procureur réveilla Porthos.
 – Plus, dit Athos, en attendant que d'Artagnan qui allait remercier M. de Tréville eût fermé la porte, plus ce beau diamant qui brille au doigt de notre ami.
 Que diable ! d'Artagnan est trop bon camarade pour laisser des frères dans l'embarras, quand il porte à son médius la rançon d'un roi. »
 
-**** *book_ *id_XXIX *date_1844
+**** *book_ *id_XXIX *date_1844 *creator_dumas
 
 CHAPITRE XXIX. LA CHASSE À L'ÉQUIPEMENT
 
@@ -10261,7 +10261,7 @@ Heureusement que, par contrat de mariage, nous nous sommes tout passé au dernie
 
 – À demain, flamme de ma vie ! »
 
-**** *book_ *id_XXX *date_1844
+**** *book_ *id_XXX *date_1844 *creator_dumas
 
 CHAPITRE XXX. MILADY
 
@@ -10498,7 +10498,7 @@ Athos demanda par signe à Grimaud une bouteille.
 
 Quant à d'Artagnan, il arrangea en lui-même un petit plan dont nous verrons plus tard l'exécution, et qui lui promettait quelque gracieuse aventure, comme on pouvait le voir aux sourires qui, de temps en temps, passaient sur son visage dont ils éclairaient la rêverie.
 
-**** *book_ *id_XXXI *date_1844
+**** *book_ *id_XXXI *date_1844 *creator_dumas
 
 CHAPITRE XXXI. ANGLAIS ET FRANÇAIS
 
@@ -10731,7 +10731,7 @@ Chaque fois aussi, soit dans l'antichambre, soit dans le corridor, soit sur l'es
 
 Mais, comme nous l'avons dit, d'Artagnan ne faisait aucune attention à cette persistance de la pauvre Ketty.
 
-**** *book_ *id_XXXII *date_1844
+**** *book_ *id_XXXII *date_1844 *creator_dumas
 
 CHAPITRE XXXII. UN DÎNER DE PROCUREUR
 
@@ -10977,7 +10977,7 @@ Celle-ci voulait bien le retenir en lui faisant les yeux doux ; mais Porthos pr
 
 Le mousquetaire rentra chez lui avec une faim de fort mauvaise humeur.
 
-**** *book_ *id_XXXIII *date_1844
+**** *book_ *id_XXXIII *date_1844 *creator_dumas
 
 CHAPITRE XXXIII. SOUBRETTE ET MAÎTRESSE
 
@@ -11319,7 +11319,7 @@ D'ailleurs il lui promit que le soir il sortirait de bonne heure de chez sa maî
 
 Cette promesse acheva de consoler la pauvre Ketty.
 
-**** *book_ *id_XXXIV *date_1844
+**** *book_ *id_XXXIV *date_1844 *creator_dumas
 
 CHAPITRE XXXIV. OÙ IL EST TRAITÉ DE L'ÉQUIPEMENT D'ARAMIS ET DE PORTHOS
 
@@ -11594,7 +11594,7 @@ Et tous deux se séparèrent en se disant :
 
 « Diable ! pensa Porthos en s'éloignant, il me semble que je me rapproche enfin du bahut de maître Coquenard. »
 
-**** *book_ *id_XXXV *date_1844
+**** *book_ *id_XXXV *date_1844 *creator_dumas
 
 CHAPITRE XXXV. LA NUIT TOUS LES CHATS SONT GRIS
 
@@ -11833,7 +11833,7 @@ Quand on m'insulte, je ne me trouve pas mal, je me venge, entendez-vous ! »
 
 Et de la main elle fit signe à Ketty de sortir.
 
-**** *book_ *id_XXXVI *date_1844
+**** *book_ *id_XXXVI *date_1844 *creator_dumas
 
 CHAPITRE XXXVI. RÊVE DE VENGEANCE
 
@@ -12152,7 +12152,7 @@ Milady lui tendit une main qu'il baisa tendrement.
 
 « Voyons, dit-il en se retirant et en répondant à peine aux reproches de Ketty, voyons, ne soyons pas un sot ; décidément cette femme est une grande scélérate : prenons garde. »
 
-**** *book_ *id_XXXVII *date_1844
+**** *book_ *id_XXXVII *date_1844 *creator_dumas
 
 CHAPITRE XXXVII. LE SECRET DE MILADY
 
@@ -12367,7 +12367,7 @@ Le portier tira le cordon à la voix de Ketty au moment même où Milady, à dem
 
 « N'ouvrez pas ! »
 
-**** *book_ *id_XXXVIII *date_1844
+**** *book_ *id_XXXVIII *date_1844 *creator_dumas
 
 CHAPITRE XXXVIII. COMMENT, SANS SE DÉRANGER, ATHOS TROUVA SON ÉQUIPEMENT
 
@@ -12737,7 +12737,7 @@ Une demi-heure après, d'Artagnan revint avec les deux mille livres et sans qu'i
 
 Ce fut ainsi qu'Athos trouva dans son ménage des ressources auxquelles il ne s'attendait pas.
 
-**** *book_ *id_XXXIX *date_1844
+**** *book_ *id_XXXIX *date_1844 *creator_dumas
 
 CHAPITRE XXXIX. UNE VISION
 
@@ -12992,7 +12992,7 @@ Au bout d'un instant, le poète ferma son manuscrit sur la couverture duquel ét
 
 D'Artagnan reconnut le cardinal.
 
-**** *book_ *id_XL *date_1844
+**** *book_ *id_XL *date_1844 *creator_dumas
 
 CHAPITRE XL. LE CARDINAL
 
@@ -13207,7 +13207,7 @@ Puis, certaine qu'il ne pouvait plus y avoir de méprise dans l'exécution de se
 
 Les deux hommes suivirent alors la compagnie, et, à la sortie du faubourg Saint-Antoine, montèrent sur des chevaux tout préparés qu'un domestique sans livrée tenait en les attendant.
 
-**** *book_ *id_XLI *date_1844
+**** *book_ *id_XLI *date_1844 *creator_dumas
 
 CHAPITRE XLI. LE SIÈGE DE LA ROCHELLE
 
@@ -13508,7 +13508,7 @@ En effet, d'Artagnan croyait pouvoir être tranquille, puisque, de ses deux enne
 
 Cette tranquillité prouvait une chose, c'est que d'Artagnan ne connaissait pas encore Milady.
 
-**** *book_ *id_XLII *date_1844
+**** *book_ *id_XLII *date_1844 *creator_dumas
 
 CHAPITRE XLII. LE VIN D'ANJOU
 
@@ -13769,7 +13769,7 @@ On est très bien dans un couvent, et aussitôt le siège de La Rochelle termin�
 
 Et sur cette assurance, les quatre amis, qui avaient achevé leur modeste repas, se séparèrent avec promesse de se revoir le soir même : d'Artagnan retourna aux Minimes, et les trois mousquetaires rejoignirent le quartier du roi, où ils avaient à faire préparer leur logis.
 
-**** *book_ *id_XLIII *date_1844
+**** *book_ *id_XLIII *date_1844 *creator_dumas
 
 CHAPITRE XLIII. L'AUBERGE DU COLOMBIER-ROUGE
 
@@ -13961,7 +13961,7 @@ L'hôte ouvrit la porte d'une grande salle, dans laquelle justement on venait de
 
 Et tandis que les trois mousquetaires entraient dans la chambre du rez-de-chaussée, le cardinal, sans demander plus amples renseignements, monta l'escalier en homme qui n'a pas besoin qu'on lui indique son chemin.
 
-**** *book_ *id_XLIV *date_1844
+**** *book_ *id_XLIV *date_1844 *creator_dumas
 
 CHAPITRE XLIV. DE L'UTILITÉ DES TUYAUX DE POÊLE
 
@@ -14198,7 +14198,7 @@ Porthos et Aramis allèrent reprendre leur place près du tuyau de poêle.
 
 Quant à Athos, il sortit sans aucun mystère, alla prendre son cheval attaché avec ceux de ses deux amis aux tourniquets des contrevents, convainquit en quatre mots l'écuyer de la nécessité d'une avant-garde pour le retour, visita avec affectation l'amorce de ses pistolets, mit l'épée aux dents et suivit, en enfant perdu, la route qui conduisait au camp.
 
-**** *book_ *id_XLV *date_1844
+**** *book_ *id_XLV *date_1844 *creator_dumas
 
 CHAPITRE XLV. SCÈNE CONJUGALE
 
@@ -14365,7 +14365,7 @@ D'un autre côté, comme l'avait prévu Athos, Milady, en retrouvant à la porte
 
 En conséquence, après avoir voyagé toute la nuit, à sept heures du matin elle était au fort de La Pointe, à huit heures elle était embarquée, et à neuf heures le bâtiment, qui, avec des lettres de marque du cardinal, était censé être en partance pour Bayonne, levait l'ancre et faisait voile pour l'Angleterre.
 
-**** *book_ *id_XLVI *date_1844
+**** *book_ *id_XLVI *date_1844 *creator_dumas
 
 CHAPITRE XLVI. LE BASTION SAINT-GERVAIS
 
@@ -14595,7 +14595,7 @@ Tous les spectateurs lui rendirent son salut, accompagnant cette politesse d'un 
 
 Après quoi, ils disparurent tous quatre dans le bastion, où les avait déjà précédés Grimaud.
 
-**** *book_ *id_XLVII *date_1844
+**** *book_ *id_XLVII *date_1844 *creator_dumas
 
 CHAPITRE XLVII. LE CONSEIL DES MOUSQUETAIRES
 
@@ -15224,7 +15224,7 @@ Le lendemain à huit heures du matin, le valet de M. des Essarts entra chez d'A
 
 C'était le prix du diamant de la reine.
 
-**** *book_ *id_XLVIII *date_1844
+**** *book_ *id_XLVIII *date_1844 *creator_dumas
 
 CHAPITRE XLVIII. AFFAIRE DE FAMILLE
 
@@ -15691,7 +15691,7 @@ Dors bien, Planchet !
 
 – Eh bien, voulez-vous que je vous avoue la vérité ? et moi aussi ! » dit Athos.
 
-**** *book_ *id_XLIX *date_1844
+**** *book_ *id_XLIX *date_1844 *creator_dumas
 
 CHAPITRE XLIX. FATALITÉ
 
@@ -15899,7 +15899,7 @@ Puis, se retournant vers la porte, et voyant que le jeune officier attendait ses
 
 « C'est bien, dit-il, je vous remercie ; maintenant, laissez-nous, monsieur Felton. »
 
-**** *book_ *id_L *date_1844
+**** *book_ *id_L *date_1844 *creator_dumas
 
 CHAPITRE L. CAUSERIE D'UN FRÈRE AVEC SA SŒUR
 
@@ -16079,7 +16079,7 @@ Un instant après on entendait dans le corridor le pas pesant d'un soldat de mar
 
 Milady demeura pendant quelques minutes dans la même position, car elle songea qu'on l'examinait peut-être par la serrure ; puis lentement elle releva sa tête, qui avait repris une expression formidable de menace et de défi, courut écouter à la porte, regarda par la fenêtre, et revenant s'enterrer dans un vaste fauteuil, elle songea.
 
-**** *book_ *id_LI *date_1844
+**** *book_ *id_LI *date_1844 *creator_dumas
 
 CHAPITRE LI. OFFICIER
 
@@ -16313,7 +16313,7 @@ Pendant ce temps, Son Éminence continuait sa promenade mélancolique en murmura
 
 « Décidément, il faut que ces quatre hommes soient à moi. »
 
-**** *book_ *id_LII *date_1844
+**** *book_ *id_LII *date_1844 *creator_dumas
 
 CHAPITRE LII. PREMIERE JOURNÉE DE CAPTIVITÉ
 
@@ -16488,7 +16488,7 @@ Mais Felton, c'est autre chose ; c'est un jeune homme naïf, pur et qui semble 
 
 Et Milady se coucha et s'endormit le sourire sur les lèvres ; quelqu'un qui l'eût vue dormant eût dit une jeune fille rêvant à la couronne de fleurs qu'elle devait mettre sur son front à la prochaine fête.
 
-**** *book_ *id_LIII *date_1844
+**** *book_ *id_LIII *date_1844 *creator_dumas
 
 CHAPITRE LIII. DEUXIÈME JOURNÉE DE CAPTIVITÉ
 
@@ -16699,7 +16699,7 @@ Et à ces mots, Felton, sentant qu'il ne pourrait pas conserver longtemps sa sé
 
 « Vous avez bien fait, lieutenant, dit le soldat ; ces chants bouleversent l'âme ; cependant on finit par s'y accoutumer : sa voix est si belle ! »
 
-**** *book_ *id_LIV *date_1844
+**** *book_ *id_LIV *date_1844 *creator_dumas
 
 CHAPITRE LIV. TROISIÈME JOURNÉE DE CAPTIVITÉ
 
@@ -16955,7 +16955,7 @@ Il parut bien à Milady, dans un des regards furtifs qu'elle lançait sur le pet
 
 Seulement, quelques instants après qu'elle eût fini son chant religieux, Milady crut entendre un profond soupir ; puis les mêmes pas qu'elle avait entendus s'approcher s'éloignèrent lentement et comme à regret.
 
-**** *book_ *id_LV *date_1844
+**** *book_ *id_LV *date_1844 *creator_dumas
 
 CHAPITRE LV. QUATRIÈME JOURNÉE DE CAPTIVITÉ
 
@@ -17182,7 +17182,7 @@ Quant à elle, elle revint à sa place, un sourire de sauvage mépris sur les l�
 
 « Mon Dieu ! dit-elle, fanatique insensé ! mon Dieu ! c'est moi, moi et celui qui m'aidera à me venger. »
 
-**** *book_ *id_LVI *date_1844
+**** *book_ *id_LVI *date_1844 *creator_dumas
 
 CHAPITRE LVI. CINQUIÈME JOURNÉE DE CAPTIVITÉ
 
@@ -17547,7 +17547,7 @@ Oh ! je vous le dis, Felton, je le croyais insensé !
 
 Felton s'appuyait sur un meuble, et Milady voyait avec une joie de démon que la force lui manquerait peut-être avant la fin du récit.
 
-**** *book_ *id_LVII *date_1844
+**** *book_ *id_LVII *date_1844 *creator_dumas
 
 CHAPITRE LVII. UN MOYEN DE TRAGÉDIE CLASSIQUE
 
@@ -17759,7 +17759,7 @@ Quant à Lord de Winter, il se contenta d'appeler la femme qui servait Milady et
 
 Cependant, comme à tout prendre, malgré ses soupçons, la blessure pouvait être grave, il envoya, à l'instant même, un homme à cheval chercher un médecin.
 
-**** *book_ *id_LVIII *date_1844
+**** *book_ *id_LVIII *date_1844 *creator_dumas
 
 CHAPITRE LVIII. ÉVASION
 
@@ -18099,7 +18099,7 @@ Il fut convenu que Milady attendrait Felton jusqu'à dix heures ; si à dix heu
 
 Alors, en supposant qu'il fût libre, il la rejoindrait en France, au couvent des Carmélites de Béthune.
 
-**** *book_ *id_LIX *date_1844
+**** *book_ *id_LIX *date_1844 *creator_dumas
 
 CHAPITRE LIX. CE QUI SE PASSAIT À PORTSMOUTH LE 23 AOÛT 1628
 
@@ -18442,7 +18442,7 @@ Felton baissa la tête sans prononcer une syllabe.
 
 Quant à de Winter, il descendit rapidement l'escalier et se rendit au port.
 
-**** *book_ *id_LX *date_1844
+**** *book_ *id_LX *date_1844 *creator_dumas
 
 CHAPITRE LX. EN FRANCE
 
@@ -18577,7 +18577,7 @@ Armentières, je ne connais pas cela !
 
 Et les quatre compagnons s'élancèrent au galop sur la route de Béthune.
 
-**** *book_ *id_LXI *date_1844
+**** *book_ *id_LXI *date_1844 *creator_dumas
 
 CHAPITRE LXI. LE COUVENT DES CARMÉLITES DE BÉTHUNE
 
@@ -18993,7 +18993,7 @@ Milady resta seule, les yeux fixés sur la porte ; un instant après on entendi
 
 Milady jeta un cri de joie : cet homme c'était le comte de Rochefort, l'âme damnée de Son Éminence.
 
-**** *book_ *id_LXII *date_1844
+**** *book_ *id_LXII *date_1844 *creator_dumas
 
 CHAPITRE LXII. DEUX VARIÉTÉS DE DÉMONS
 
@@ -19265,7 +19265,7 @@ Une heure après, Rochefort partit au grand galop de son cheval ; cinq heures a
 
 Nos lecteurs savent déjà comment il avait été reconnu par d'Artagnan, et comment cette reconnaissance, en inspirant des craintes aux quatre mousquetaires, avait donné une nouvelle activité à leur voyage.
 
-**** *book_ *id_LXIII *date_1844
+**** *book_ *id_LXIII *date_1844 *creator_dumas
 
 CHAPITRE LXIII. UNE GOUTTE D'EAU
 
@@ -19792,7 +19792,7 @@ Seulement, d'Artagnan, si vous ne l'avez pas perdu, remettez-moi ce papier qui s
 
 – Tu vois bien, dit Athos, qu'il y a un Dieu dans le ciel ! »
 
-**** *book_ *id_LXIV *date_1844
+**** *book_ *id_LXIV *date_1844 *creator_dumas
 
 CHAPITRE LXIV. L'HOMME AU MANTEAU ROUGE
 
@@ -19933,7 +19933,7 @@ Cependant ils pensèrent que cela devait être ainsi, puisque la chose se faisai
 
 C'était un triste aspect que celui de ces six hommes courant en silence, plongés chacun dans sa pensée, mornes comme le désespoir, sombres comme le châtiment.
 
-**** *book_ *id_LXV *date_1844
+**** *book_ *id_LXV *date_1844 *creator_dumas
 
 CHAPITRE LXV. LE JUGEMENT
 
@@ -20194,7 +20194,7 @@ Si vous savez quelque prière, dites-la, car vous êtes condamnée et vous allez
 Lord de Winter, d'Artagnan, Athos, Porthos et Aramis sortirent derrière elle.
 Les valets suivirent leurs maîtres et la chambre resta solitaire avec sa fenêtre brisée, sa porte ouverte et sa lampe fumeuse qui brûlait tristement sur la table.
 
-**** *book_ *id_LXVI *date_1844
+**** *book_ *id_LXVI *date_1844 *creator_dumas
 
 CHAPITRE LXVI. L'EXÉCUTION
 
@@ -20347,7 +20347,7 @@ Trois jours après, les quatre mousquetaires rentraient à Paris ; ils étaient
 
 – Prodigieusement », répondit Athos, les dents serrées.
 
-**** *book_ *id_LXVII *date_1844
+**** *book_ *id_LXVII *date_1844 *creator_dumas
 
 CHAPITRE LXVII. CONCLUSION
 
@@ -20660,7 +20660,7 @@ Et il laissa tomber sa tête entre ses deux mains, tandis que deux larmes roulai
 
 « Vous êtes jeune, vous, répondit Athos, et vos souvenirs amers ont le temps de se changer en doux souvenirs ! »
 
-**** *book_ *id_Epilogue *date_1844
+**** *book_ *id_Epilogue *date_1844 *creator_dumas
 
 ÉPILOGUE
 
@@ -20700,5 +20700,3 @@ M. Bonacieux vivait fort tranquille, ignorant parfaitement ce qu'était devenue 
 Un jour, il eut l'imprudence de se rappeler au souvenir du cardinal ; le cardinal lui fit répondre qu'il allait pourvoir à ce qu'il ne manquât jamais de rien désormais.
 
 En effet, le lendemain, M. Bonacieux, étant sorti à sept heures du soir de chez lui pour se rendre au Louvre, ne reparut plus rue des Fossoyeurs ; l'avis de ceux qui parurent les mieux informés fut qu'il était nourri et logé dans quelque château royal aux frais de sa généreuse Éminence.
-
-FIN

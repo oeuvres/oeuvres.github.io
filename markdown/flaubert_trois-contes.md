@@ -1,6 +1,6 @@
 ---
-identifier: gustave_trois  
-creator: Gustave Flaubert  
+identifier: flaubert_trois-contes  
+creator: Flaubert, Gustave  
 date:   
 title: Les Trois Contes  
 ---
@@ -8,10 +8,10 @@ title: Les Trois Contes
 
 
 
-# UN CŒUR SIMPLE
+# UN CŒUR SIMPLE.
 
 
-## I
+## I.
 
 Pendant un demi-siècle, les bourgeoises de Pont l'Évêque envièrent à Mme Aubain sa servante Félicité.
 
@@ -44,7 +44,7 @@ En toute saison elle portait un mouchoir d'indienne fixé dans le dos par une é
 Son visage était maigre et sa voix aiguë. À vingt-cinq ans, on lui en donnait quarante. Dès la cinquantaine, elle ne marqua plus aucun âge ; et, toujours silencieuse, la taille droite et les gestes mesurés, semblait une femme en bois, fonctionnant d'une manière automatique.
 
 
-## II
+## II.
 
 ⁎Elle avait eu, comme une autre, son histoire d'amour !
 
@@ -273,7 +273,7 @@ M. Bourais l'éclaira sur le choix d'un collège. Celui de Caen passait pour le
 Mme Aubain se résigna à l'éloignement de son fils, parce qu'il était indispensable. Virginie y songea de moins en moins. Félicité regrettait son tapage. Mais une occupation vint la distraire ; à partir de Noël, elle mena tous les jours la petite fille au catéchisme.
 
 
-## III
+## III.
 
 Quand elle avait fait à la porte une génuflexion, elle s'avançait sous la haute nef entre la double ligne des chaises, ouvrait le banc de Mme Aubain, s'asseyait, et promenait ses yeux autour d'elle.
 
@@ -678,7 +678,7 @@ Il occupait depuis longtemps l'imagination de Félicité, car il venait d'Améri
 Le nègre avait redit le propos à sa maîtresse, qui, ne pouvant l'emmener, s'en débarrassait de cette façon.
 
 
-## IV
+## IV.
 
 Il s'appelait Loulou. Son corps était vert, le bout de ses ailes rose, son front bleu, et sa gorge dorée.
 
@@ -943,7 +943,7 @@ Un peu plus tard, elle prit Loulou, et, l'approchant de Félicité :
 Bien qu'il ne fût pas un cadavre, les vers le dévoraient ; une de ses ailes était cassée, l'étoupe lui sortait du ventre. Mais, aveugle à présent, elle le baisa au front, et le gardait contre sa joue. La Simonne le reprit, pour le mettre sur le reposoir.
 
 
-## V
+## V.
 
 Les herbages envoyaient l'odeur de l'été ; des mouches bourdonnaient ; le soleil faisait luire la rivière, chauffait les ardoises. La mère Simon, revenue dans la chambre, s'endormait doucement.
 
@@ -996,10 +996,10 @@ Les fabriciens, les chantres, les enfants se rangèrent sur les trois côtés de
 Une vapeur d'azur monta dans la chambre de Félicité. Elle avança les narines, en la humant avec une sensualité mystique ; puis ferma les paupières. Ses lèvres souriaient. Les mouvements de son cœur se ralentirent un à un, plus vagues chaque fois, plus doux, comme une fontaine s'épuise, comme un écho disparaît ; et, quand elle exhala son dernier souffle, elle crut voir, dans les cieux entrouverts, un perroquet gigantesque, planant au-dessus de sa tête.
 
 
-# LA LÉGENDE DE SAINT JULIEN L'HOSPITALIER
+# LA LÉGENDE DE SAINT JULIEN L'HOSPITALIER.
 
 
-## I
+## I.
 
 Le père et la mère de Julien habitaient un château, au milieu des bois, sur la pente d'une colline.
 
@@ -1348,7 +1348,7 @@ C'était sa mère, dont le bonnet à longues barbes restait cloué contre le mur
 Julien s'enfuit du château, et ne reparut plus.
 
 
-## II
+## II.
 
 Il s'engagea dans une troupe d'aventuriers qui passaient.
 
@@ -1697,7 +1697,7 @@ Il resta pendant la messe, à plat ventre au milieu du portail, les bras en croi
 Après l'ensevelissement, on le vit prendre le chemin qui menait aux montagnes. Il se retourna plusieurs fois, et finit par disparaître.
 
 
-## III
+## III.
 
 Il s'en alla, mendiant sa vie par le monde.
 
@@ -1918,10 +1918,10 @@ Alors le Lépreux l'étreignit ; et ses yeux tout à coup prirent une clarté d
 Et voilà l'histoire de saint Julien l'Hospitalier, telle à peu près qu'on la trouve, sur un vitrail d'église, dans mon pays.
 
 
-# HÉRODIAS
+# HÉRODIAS.
 
 
-## I
+## I.
 
 La citadelle de Machærous se dressait à l'orient de la mer Morte, sur un pic de basalte ayant la forme d'un cône. Quatre vallées profondes l'entouraient, deux vers les flancs, une en face, la quatrième au-delà. Des maisons se tassaient contre sa base, dans le cercle d'un mur qui ondulait suivant les inégalités du terrain ; et, par un chemin en zigzag tailladant le rocher, la ville se reliait à la forteresse, dont les murailles étaient hautes de cent vingt coudées, avec des angles nombreux, des créneaux sur le bord, et, çà et là, des tours qui faisaient comme des fleurons à cette couronne de pierres, suspendue au-dessus de l'abîme.
 
@@ -2270,7 +2270,7 @@ Un nègre survint. Son corps était blanc de poussière. Il râlait et ne put qu
 Les portières des corridors furent agitées comme par le vent. Une rumeur emplit le château, un vacarme de gens qui couraient, de meubles qu'on traînait, d'argenteries s'écroulant ; et, du haut des tours, des buccins sonnaient, pour avertir les esclaves dispersés.
 
 
-## II
+## II.
 
 Les remparts étaient couverts de monde quand Vitellius entra dans la cour. Il s'appuyait sur le bras de son interprète, suivi d'une grande litière rouge ornée de panaches et de miroirs, ayant la toge, le laticlave, les brodequins d'un consul et des licteurs autour de sa personne.
 
@@ -2759,7 +2759,7 @@ Le Tétrarque eut un souvenir, qu'il ne pouvait préciser.
 – Que t'importe ? » répondit Hérodias.
 
 
-## III
+## III.
 
 Les convives emplissaient la salle du festin.
 
@@ -3242,7 +3242,7 @@ Et tous les trois, ayant pris la tête de Iaokanann, s'en allèrent du côté de
 Comme elle était très lourde, ils la portaient alternativement.
 
 
-# À propos de cette édition électronique< Texte libre de droits. ><  >< Corrections, édition, conversion informatique et publication par le groupe : >< Ebooks libres et gratuits ><  >< http://fr.groups.yahoo.com/group/ebooksgratuits >< Adresse du site web du groupe : http://www.ebooksgratuits.com/ ><  >< — >< Octobre 2004 >< — ><  >
+# À propos de cette édition électronique.< Texte libre de droits. ><  >< Corrections, édition, conversion informatique et publication par le groupe : >< Ebooks libres et gratuits ><  >< http://fr.groups.yahoo.com/group/ebooksgratuits >< Adresse du site web du groupe : http://www.ebooksgratuits.com/ ><  >< — >< Octobre 2004 >< — ><  >
 
 – Dispositions :
 

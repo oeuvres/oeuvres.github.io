@@ -1,6 +1,6 @@
 <?php
 /**
-Génère les formats détachés et le site statique basique sur Œuvres
+ * Génère les formats détachés et le site statique basique sur Œuvres
  */
 // cli usage
 Oeuvres::deps();
@@ -16,10 +16,10 @@ else if (php_sapi_name() == "cli") {
 class Oeuvres
 {
   static $sets = array(
-    "zola" => array(
-      "glob" => '../zola/*.xml',
+    "dumas" => array(
+      "glob" => '../dumas/*.xml',
       "publisher" => 'Œuvres',
-      "source" => "http://oeuvres.github.io/zola/%s.xml",
+      "source" => "http://oeuvres.github.io/dumas/%s.xml",
     ),
     "flaubert" => array(
       "glob" => '../flaubert/*.xml',
@@ -44,6 +44,11 @@ class Oeuvres
       "publisher" => 'Œuvres',
       // "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://oeuvres.github.io/textes/%s.xml",
+    ),
+    "zola" => array(
+      "glob" => '../zola/*.xml',
+      "publisher" => 'Œuvres',
+      "source" => "http://oeuvres.github.io/zola/%s.xml",
     ),
   );
   static $formats = array(
@@ -114,7 +119,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
   /**
    * Produire les exports depuis le fichier XML
    */
-  public function add($srcfile, $setcode=null, $force=false) {
+  public function add( $srcfile, $setcode=null, $force=false ) {
     $srcname = pathinfo($srcfile, PATHINFO_FILENAME);
     $srcmtime = filemtime($srcfile);
     $this->_sqlmtime->execute(array($srcname));
@@ -145,7 +150,6 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
         Livrable_Tei2epub::mobi($destfile, $mobifile);
       }
       else if ($format == 'docx') {
-        $echo .= " docx";
         Toff_Tei2docx::docx($srcfile, $destfile);
       }
     }
@@ -154,40 +158,23 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
   /**
    * Insertion of books
    */
-  private function insert($teinte, $setcode) {
-    // supprimer la pièce, des triggers doivent normalement supprimer la cascade.
-    $this->pdo->exec("DELETE FROM oeuvre WHERE code = ".$this->pdo->quote($teinte->filename));
+  private function insert( $teinte, $setcode ) {
     // métadonnées de pièces
-    $year = null;
-    $verse = null;
-    $genrecode = null;
-    $genre = null;
-    $author = $teinte->xpath->query("/*/tei:teiHeader//tei:author");
-    if ($author->length) $author = $author->item(0)->textContent;
-    else $author = null;
-    $nl = $teinte->xpath->query("/*/tei:teiHeader/tei:profileDesc/tei:creation/tei:date");
-    if ($nl->length) {
-      $n = $nl->item(0);
-      $year = 0 + $n->getAttribute ('when');
-      if(!$year) $year = 0 + $n->nodeValue;
-    }
-    if(!$year) $year = null;
-    $title = $teinte->xpath->query("/*/tei:teiHeader//tei:title");
-    if ($title->length) $title = $title->item(0)->textContent;
-    else $title = null;
-
-    if (isset(self::$sets[$setcode]['identifier'])) $identifier = sprintf (self::$sets[$setcode]['identifier'], $teinte->filename);
-    else $identifier = null;
+    $meta = $teinte->meta();
+    // supprimer la pièce, des triggers doivent normalement supprimer la cascade.
+    $this->pdo->exec("DELETE FROM oeuvre WHERE code = ".$this->pdo->quote( $meta['filename'] ) );
+    // les consignes
+    if (isset(self::$sets[$setcode]['identifier']))
+      $meta['identifier'] = sprintf (self::$sets[$setcode]['identifier'], $meta['filename'] );
     $this->_insert->execute(array(
-      $teinte->filename,
-      $teinte->filemtime,
+      $meta['filename'],
+      $meta['filemtime'],
       self::$sets[$setcode]['publisher'],
-      $identifier,
-      sprintf (self::$sets[$setcode]['source'], $teinte->filename),
-      $author,
-      $title,
-      $year,
-
+      $meta['identifier'],
+      sprintf (self::$sets[$setcode]['source'], $meta['filename'] ),
+      $meta['creator'],
+      $meta['title'],
+      $meta['date'],
     ));
   }
 
@@ -199,10 +186,11 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
   <thead>
     <tr>
       <th>N°</th>
-      <th>Éditeur</th>
+      <th>Code</th>
       <th>Auteur</th>
       <th>Date</th>
       <th>Titre</th>
+      <th>Éditeur</th>
       <th>Téléchargements</th>
     </tr>
   </thead>
@@ -211,13 +199,14 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     foreach ($this->pdo->query("SELECT * FROM oeuvre ORDER BY author, year") as $oeuvre) {
       echo "\n    <tr>\n";
       echo "      <td>$i</td>\n";
-      if ($oeuvre['identifier']) echo '      <td><a href="'.$oeuvre['identifier'].'">'.$oeuvre['publisher']."</a></td>\n";
-      else echo '      <td>'.$oeuvre['publisher']."</td>\n";
+      echo '      <td>'.$oeuvre['code']."</td>\n";
       echo '      <td>'.$oeuvre['author']."</td>\n";
       echo '      <td>'.$oeuvre['year']."</td>\n";
       if ($oeuvre['identifier']) echo '      <td><a href="'.$oeuvre['identifier'].'">'.$oeuvre['title']."</a></td>\n";
       else echo '      <td>'.$oeuvre['title']."</td>\n";
 
+      if ($oeuvre['identifier']) echo '      <td><a href="'.$oeuvre['identifier'].'">'.$oeuvre['publisher']."</a></td>\n";
+      else echo '      <td>'.$oeuvre['publisher']."</td>\n";
       echo "      <td>\n";
       if ($oeuvre['source']) echo '<a href="'.$oeuvre['source'].'">TEI</a>';
       $sep = ", ";
@@ -260,6 +249,9 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     ");
     $this->_sqlmtime = $this->pdo->prepare("SELECT filemtime FROM oeuvre WHERE code = ?");
   }
+  /**
+   * Régularise les dépendances
+   */
   static function deps() {
     if(self::$_deps) return;
     // Deps
