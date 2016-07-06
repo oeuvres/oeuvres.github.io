@@ -26,6 +26,11 @@ class Oeuvres
       "publisher" => 'Œuvres',
       "source" => "http://oeuvres.github.io/flaubert/%s.xml",
     ),
+    "hugo" => array(
+      "glob" => '../hugo/*.xml',
+      "publisher" => 'Œuvres',
+      "source" => "http://oeuvres.github.io/hugo/%s.xml",
+    ),
     "stendhal" => array(
       "glob" => '../stendhal/*.xml',
       "publisher" => 'Œuvres',
@@ -52,20 +57,12 @@ class Oeuvres
     ),
   );
   static $formats = array(
-    'epub' => '.epub',
-    'kindle' => '.mobi',
-    'markdown' => '.txt',
-    'iramuteq' => '.txt',
-    'html' => '.html',
-    'article' => '.html',
-    // 'docx' => '.docx',
-  );
-  static $mime = array(
-    'epub' => "application/epub+zip",
-    'kindle' => "application/x-mobipocket-ebook",
-    'markdown' => "text/markdown; charset=UTF-8",
-    'iramuteq' => "text/plain; charset=UTF-8",
-    // 'docx' => '.docx',
+    'epub' => array( "ext"=>'.epub', "mime"=>"application/epub+zip", "title"=>"Livre électronique" ),
+    'kindle' => array( "ext"=>'.mobi', "mime"=>"application/x-mobipocket-ebook", "title"=>"Livre électronique" ),
+    'markdown' => array( "ext"=>'.txt', "mime"=>"text/markdown; charset=UTF-8", "title"=>"Texte brut" ),
+    'iramuteq' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "title"=>"Texte brut avec métadonnées au format Iramuteq" ),
+    'html' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "title"=>"Page web complète avec table des matières"),
+    'article' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "label"=>"fragment html", "title"=>"Page web insérable dans un site web"),
   );
   /** petite base sqlite pour conserver la mémoire des doublons etc */
   static $create = "
@@ -116,7 +113,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     self::$_logger = $logger;
     $this->connect($sqlitefile);
     // create needed folders
-    foreach (self::$formats as $format => $extension) {
+    foreach (self::$formats as $format => $row) {
       if (!file_exists($dir = dirname(__FILE__).'/'.$format)) {
         mkdir($dir, 0775, true);
         @chmod($dir, 0775);  // let @, if www-data is not owner but allowed to write
@@ -137,8 +134,8 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       $this->insert($teinte, $setcode);
     }
     $echo = "";
-    foreach (self::$formats as $format => $extension) {
-      $destfile = dirname(__FILE__).'/'.$format.'/'.$srcname.$extension;
+    foreach (self::$formats as $format => $row) {
+      $destfile = dirname(__FILE__).'/'.$format.'/'.$srcname.$row["ext"];
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
       if (!$teinte) $teinte = new Teinte_Doc($srcfile);
       // delete destfile if exists ?
@@ -149,6 +146,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       if ($format == 'article') $teinte->article($destfile);
       else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
+      else if ($format == 'naked') $teinte->naked($destfile);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($srcfile, self::$_logger);
         $livre->epub($destfile);
@@ -217,11 +215,10 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       echo "      <td>\n";
       if ($oeuvre['source']) echo '<a href="'.$oeuvre['source'].'">TEI</a>';
       $sep = ", ";
-      foreach ( self::$formats as $label=>$extension) {
-        if ($label == 'article') continue;
-        $type = '';
-        if ( isset( self::$mime[$label] ) ) $type = ' type="'.self::$mime[$label].'"';
-        echo $sep.'<a href="'.$label.'/'.$oeuvre['code'].$extension.'"'.$type.'>'.$label.'</a>';
+      foreach ( self::$formats as $label=>$row ) {
+        // if ( $label == 'article') continue;
+        if ( isset($row['label']) ) $label = $row['label'];
+        echo $sep.'<a target="_blank" title="'.$row['title'].'" type="'. $row['mime'].'" href="'.$label.'/'.$oeuvre['code'].$row["ext"].'">'.$label.'</a>';
       }
       echo "      </td>\n";
       echo "    </tr>\n";
