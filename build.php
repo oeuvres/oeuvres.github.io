@@ -338,6 +338,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
       foreach(self::$sets as $setcode=>$setrow) {
         $glob = $setrow['glob'];
         foreach(glob($glob) as $file) {
+          if ( basename($file) == "import.xml" ) continue;
           $base->add($file, $setcode);
         }
       }
@@ -352,6 +353,7 @@ CREATE INDEX oeuvre_year_author ON oeuvre(year, author, title);
     if (!count($_SERVER['argv'])) exit("\n    Quel set insérer ?\n");
     $setcode = array_shift($_SERVER['argv']);
     foreach(glob(self::$sets[$setcode]['glob']) as $file) {
+      if ( basename($file) == "import.xml" ) continue;
       $base->add($file, $setcode);
     }
   }
