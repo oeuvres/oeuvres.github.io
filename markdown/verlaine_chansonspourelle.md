@@ -1,0 +1,774 @@
+---
+identifier: verlaine_chansonspourelle  
+creator: Verlaine, Paul  
+date: 1891  
+title: Chansons pour elle  
+---
+
+ 
+
+
+# I.
+
+Tu n'es pas du tout vertueuse,  
+Je ne suis pas du tout jaloux !  
+C'est de se la couler heureuse  
+Encor le moyen le plus doux.  
+
+Vive l'amour et vivent nous !  
+
+Tu possèdes et tu pratiques  
+Les tours les plus intelligents  
+Et les trucs les plus authentiques  
+A l'usage des braves gens,  
+
+Et tu m'as quels soins indulgents !  
+
+D'aucuns clabaudent sur ton âge  
+Qui n'est plus seize ans ni vingt ans,  
+Mais ô ton opulent corsage,  
+Tes yeux riants, comme chantants,  
+
+Et ô tes baisers épatants !   
+
+Sois-moi fidèle si possible  
+Et surtout si cela te plaît,  
+Mais reste souvent accessible  
+A mon désir, humble valet  
+
+Content d'un « viens ! » ou d'un soufflet.  
+
+« Hein ? passé le temps des prouesses ! »  
+Me disent les sots d'alentour.  
+Ça, non, car grâce à tes caresses  
+C'est encor, c'est toujours mon tour.  
+
+Vivent nous et vive l'amour !   
+
+
+# II.
+
+Compagne savoureuse et bonne  
+A qui j'ai confié le soin  
+Définitif de ma personne,  
+Toi mon dernier, mon seul témoin,  
+Viens çà, chère, que je te baise,  
+Que je t'embrasse long et fort,  
+Mon cœur près de ton cœur bat d'aise  
+Et d'amour pour jusqu'à la mort :  
+   Aime-moi,  
+   Car, sans toi,  
+   Rien ne puis,  
+   Rien ne suis.  
+
+Je vais gueux comme un rat d'église,  
+Et toi tu n'as que tes dix doigts ;  
+La table n'est pas souvent mise  
+Dans nos sous-sols et sous nos toits ;   
+Mais jamais notre lit ne chôme,  
+Toujours joyeux, toujours fêté,  
+Et j'y suis le roi du royaume  
+De ta gaîté, de ta santé !  
+   Aime-moi,  
+   Car, sans toi,  
+   Rien ne puis,  
+   Rien ne suis.  
+
+Après nos nuits d'amour robuste,  
+Je sors de tes bras mieux trempé,  
+Ta riche caresse est la juste  
+Sans rien de ma chair de trompé,  
+Ton amour répand la vaillance  
+Dans tout mon être, comme un vin,  
+Et, seule, tu sais la science  
+De me gonfler un cœur divin.  
+   Aime-moi,  
+   Car, sans toi,  
+   Rien ne puis,  
+   Rien ne suis.  
+
+Qu'importe ton passé, ma belle,  
+Et qu'importe, parbleu ! le mien :  
+Je t'aime d'un amour fidèle  
+Et tu ne m'as fait que du bien.   
+Unissons dans nos deux misères  
+Le pardon qu'on nous refusait,  
+Et je t'étreins et tu me serres  
+Et zut au monde qui jasait !  
+   Aime-moi  
+   Car, sans toi,  
+   Rien ne puis,  
+   Rien ne suis.   
+
+
+# III.
+
+Voulant te fuir (fuir ses amours !  
+  Mais un poète est bête),  
+J'ai pris, l'un de ces derniers jours,  
+  La poudre d'escampette.  
+Qui fut penaud, qui fut nigaud  
+  Dès après un quart d'heure ?  
+Et je revins en mendigot  
+  Qui supplie et qui pleure.  
+
+Tu pardonnas : mais pas longtemps  
+  Depuis la fois première  
+Je filais, pareil aux autans,  
+  Comme la fois dernière.  
+Tu me cherchas, me dénichas ;  
+  Courte et bonne, l'enquête !  
+Qui fut content du doux pourchas ?  
+  Moi donc, ta grosse bête !   
+
+Puisque nous voici réunis,  
+  Dis, sans ruse et sans feinte,  
+Ne nous cherchons plus d'autres nids  
+  Que ma, que ton étreinte.  
+Malgré mon caractère affreux,  
+  Malgré ton caractère  
+Affreux, restons toujours heureux :  
+  Fois première et dernière.   
+
+
+# IV.
+
+Or, malgré ta cruauté  
+Affectée, et l'air très faux  
+De sale méchanceté  
+Dont, bête, tu te prévaux  
+
+J'aime ta lasciveté !  
+
+Et quoiqu'en dépit de tout  
+Le trop factice dégoût  
+Que me dicte ton souris  
+Qui m'est, à mes dams et coût,  
+
+Rouge aux crocs blancs de souris ! —  
+
+Je t'aime comme l'on croit,  
+Et mon désir fou qui croît,  
+Tel un champignon des prés,  
+S'érige ainsi que le Doigt  
+
+D'un Terme là tout exprès.   
+
+Donc, malgré ma cruauté  
+Affectée, et l'air très faux  
+De pire méchanceté,  
+Dont, bête, je me prévaux,  
+
+Aime ma simplicité.   
+
+
+# V.
+*Zon, flûte et basse*  
+*Zon, violon.*  *Béranger*
+
+
+Jusques aux pervers nonchaloirs  
+   De ces yeux noirs,  
+Jusques, depuis ces flemmes blanches  
+   De larges hanches  
+Et d'un ventre et de beaux seins  
+   Aux fiers dessins,  
+
+Tout pervertit, tout convertit tous mes desseins  
+
+Jusques à votre menterie,  
+   Bouche fleurie,  
+Jusques aux pièges mal tendus  
+   Tant attendus,  
+De tant d'appas, de tant de charmes.  
+   De tant d'alarmes,  
+
+Tout pervertit, tout avertit mes tristes larmes,   
+
+Et, chère, ah ! dis : Flûtes et zons  
+   A mes chansons  
+Qui vont brâmant, tels des cerfs prestes  
+   Aux gestes lestes,  
+Ah ! dis donc, Chère : Flûte et zon !  
+   A ma chanson,  
+
+Et si je fais l'âne, eh bien, donne-moi du son !   
+
+
+# VI.
+
+La saison qui s'avance  
+Nous baille la défense  
+D'user des us d'été,  
+Le frisson de l'automne  
+Déjà nous pelotonne  
+Dans le lit mieux fêté.  
+
+Fi de l'été morose,  
+Toujours la même chose :  
+« J'ai chaud, t'as chaud, dormons ! »  
+Dormir au lieu de vivre,  
+S'ennuyer comme un livre...  
+Voici l'automne, aimons !  
+
+L'un dans l'autre, à notre aise,  
+Soyons pires que braise  
+Puisque s'en vient l'hiver,  
+Tous les deux, corps et âme,  
+Soyons pires que flamme,  
+Soyons pires que chair !   
+
+
+# VII.
+
+Je suis plus pauvre que jamais  
+   Et que personne ;  
+Mais j'ai ton cou gras, tes bras frais,  
+   Ta façon bonne  
+De faire l'amour, et le tour  
+   Leste et frivole,  
+Et la caresse, nuit et jour,  
+   De ta parole.  
+
+Je suis riche de tes beaux yeux,  
+   De ta poitrine,  
+Nid follement voluptueux,  
+   Couche ivoirine  
+Où mon désir, las d'autre part,  
+   Se ravigore  
+Et pour d'autres ébats repart  
+   Plus brave encore...   
+
+Sans doute tu ne m'aimes pas  
+   Comme je t'aime,  
+Je sais combien tu me trompes  
+   Jusqu'à l'extrême.  
+Que me fait, puisque je ne vis  
+   Qu'en ton essence,  
+Et que tu tiens mes sens ravis  
+   Sous ta puissance ?   
+
+
+# VIII.
+
+Que ton âme soit blanche ou noire,  
+Que fait ? Ta peau de jeune ivoire  
+Est rose et blanche et jaune un peu.  
+Elle sent bon, ta chair, perverse  
+Ou non, que fait ? puisqu'elle berce  
+La mienne de chair, nom de Dieu !  
+
+Elle la berce, ma chair folle,  
+Ta folle de chair, ma parole  
+La plus sacrée ! — et que donc bien !  
+Et la mienne, grâce à la tienne,  
+Quelque réserve qui la tienne,  
+Elle s'en donne, nom d'un chien !  
+
+Quant à nos âmes, dis, Madame,  
+Tu sais, mon âme et puis ton âme,  
+Nous en moquons-nous ? Que non pas !  
+Seulement nous sommes au monde.  
+Ici-bas, sur la terre ronde,  
+Et non au ciel, mais ici-bas.   
+
+Or, ici-bas, faut qu'on profite  
+Du plaisir qui passe si vite  
+Et du bonheur de se pâmer,  
+Aimons, ma petite méchante,  
+Telle l'eau va, tel l'oiseau chante,  
+Et tels, nous ne devons qu'aimer.   
+
+
+# IX.
+
+Tu m'as frappé, c'est ridicule,  
+Je t'ai battue et c'est affreux :  
+Je m'en repens et tu m'en veux.  
+C'est bien, c'est selon la formule.  
+
+Je n'avais qu'à me tenir coi  
+Sous l'aimable averse des gifles  
+De ta main experte en mornifles,  
+Sans même demander pourquoi.  
+
+Et toi, ton droit, ton devoir même,  
+Au risque de t'exténuer,  
+Il serait de continuer  
+De façon extrême et suprême...  
+
+Seulement, ô ne m'en veux plus,  
+Encore que ce fût un crime  
+De t'avoir faite ma victime...  
+Dis, plus de refus absolus,   
+
+Bats-moi, petite, comme plâtre,  
+Mais ensuite viens me baiser,  
+Pas ? quel besoin d'éterniser  
+Une querelle trop folâtre.  
+
+Pour se brouiller plus d'un instant,  
+Le temps de nous faire une moue  
+Qu'éteint un bécot sur la joue,  
+Puis sur la bouche en attendant  
+
+Mieux encor, n'est-ce pas, gamine ?  
+Promets-le-moi sans biaiser.  
+C'est convenu ? Oui ? Puis-je oser ?  
+Allons, plus de ta grise mine !   
+
+
+# X.
+
+L'horrible nuit d'insomnie !  
+— Sans la présence bénie  
+De ton cher corps près de moi,  
+Sans ta bouche tant baisée  
+Encore que trop rusée  
+En toute mauvaise foi,  
+
+Sans ta bouche tout mensonge,  
+Mais si franche quand j'y songe,  
+Et qui sait me consoler  
+Sous l'aspect et sous l'espèce  
+D'une fraise — et, bonne pièce ! —  
+D'un très plausible parler,  
+
+Et surtout sans le pentacle  
+De tes sens et le miracle  
+Multiple est un, fleur et fruit,  
+De tes durs yeux de sorcière,  
+Durs et doux à ta manière...  
+Vrai Dieu ! la terrible nuit !   
+
+
+# XI.
+
+Vrai, nous avons trop d'esprit,  
+   Chérie !  
+Je crois que mal nous en prit,  
+   Chérie !  
+D'ainsi lutter corps à corps  
+   Encore !  
+Sans repos et sans remords  
+   Encore !  
+
+Plus, n'est-ce pas ? de ces luttes  
+   Sans but,  
+Plus de ces mauvaises flûtes.  
+   Ce luth,  
+O ce luth de bien se faire  
+   Tel air,  
+Toujours vibrant, chanson hère  
+   Dans l'air !   
+
+Et n'ayons plus d'esprit,  
+   T'en prie !  
+Tu vois que mal nous en prit...  
+   T'en prie.  
+Soyons bons tout bêtement,  
+   Charmante,  
+Aimons-nous aimablement  
+   M'amante !   
+
+
+# XII.
+
+Tu bois, c'est hideux ! presque autant que moi.  
+Je bois, c'est honteux, presque plus que toi,  
+Ce n'est plus ce qu'on appelle une vie...  
+Ah ! la femme, fol, fol est qui s'y fie !  
+
+Les hommes, bravo ! c'est fier et soumis,  
+On peut s'y fier, voilà des amis !  
+Nous buvons, mais, vous mesdames, l'ivresse  
+Vous va moins qu'à nous, — te change en tigresse,  
+
+Moi tout au plus en un simple cochon ;  
+Quelque idéal sot dans mon cabochon,  
+Quelque bêtise en sus, quelque sottise  
+En outre, — mais toi, la fainéantise,  
+
+La méchanceté, l'obstination,  
+Un peu le vice et beaucoup l'option,  
+Pour être plus folle, sur ma parole !  
+Que ma folie à moi déjà si folle.   
+
+Ces réflexions me coûtent beaucoup,  
+Mais ce soir je suis d'une humeur de loup.  
+Excuse, si mon discours va si rogue,  
+Mais ce soir je suis d'une humeur de dogue.  ⁎  
+⁎ ⁎
+
+Bah ! buvons pas trop (s'il nous est possible),  
+Ma bouche est un trou, la tienne est un crible.  
+Dieu saura bien reconnaître les siens.  
+Morale : surtout baisons-nous — et viens !   
+
+
+# XIII.
+
+  Es-tu brune ou blonde ?  
+  Sont-ils noirs ou bleus,  
+    Tes yeux ?  
+Je n'en sais rien, mais j'aime leur clarté profonde,  
+Mais j'adore le désordre de tes cheveux.  
+
+  Es-tu douce ou dure ?  
+  Est-il sensible ou moqueur,  
+    Ton cœur ?  
+Je n'en sais rien, mais je rends grâce à la nature  
+D'avoir fait de ton cœur mon maître et mon vainqueur.  
+
+  Fidèle, infidèle ?  
+  Qu'est-ce que ça fait,  
+    Au fait ?  
+Puisque, toujours disposé à couronner mon zèle  
+Ta beauté sert de gage à mon plus cher souhait.   
+
+
+# XIV.
+
+Je ne t'aime pas en toilette  
+Et je déteste la voilette  
+Qui t'obscurcit tes yeux, mes cieux,  
+Et j'abomine la « tournure »  
+Parodie et caricature,  
+De tels tiens appas somptueux.  
+
+Je suis hostile à toute robe  
+Qui plus ou moins cache et dérobe  
+Ces charmes, au fond les meilleurs :  
+Ta gorge, mon plus cher délice,  
+Tes épaules et la malice  
+De tes mollets ensorceleurs.  
+
+Fi d'une femme trop bien mise !  
+Je te veux, ma belle, en chemise,  
+— Voile aimable, obstacle badin,  
+Nappe d'autel pour l'alme messe,  
+Drapeau mignard vaincu sans cesse  
+Matin et soir, soir et matin.   
+
+
+# XV.
+
+Chemise de femme, armure *ad hoc *  
+Pour les chers combats et le gai choc,  
+Avec, si frais et que blancs et gras,  
+Sortant tout nus, joyeux, les deux bras,  
+
+  Vêtement suprême,  
+  De mode toujours,  
+  C'est toi seul que j'aime  
+  De tous ses atours.  
+
+Quand Elle s'en vient devers le lit,  
+L'orgueil des beaux seins cambrés emplit  
+Et bombe le linge tout parfumé  
+Du seul vrai parfum, son corps pâmé.  
+
+  Vêtement suprême,  
+  De mode toujours,  
+  C'est toi seul que j'aime  
+  De tous ses atours.   
+
+Quand elle entre dans le lit, c'est mieux  
+Encor : sous ma main le précieux  
+Trésor de sa croupe frémit dans  
+Les plis de batiste redondants.  
+
+  Vêtement suprême,  
+  De mode toujours,  
+  C'est toi seul que j'aime  
+  De tous ses atours.  
+
+Mais lorsqu'elle a pris place à côté  
+De moi, l'humble serf de sa beauté,  
+Il est divin et mieux mon bonheur  
+A bousculer le linge et l'honneur !  
+
+  Vêtement suprême,  
+  De mode toujours,  
+  C'est toi seul que j'aime  
+  De tous ses atours.   
+
+
+# XVI.
+
+L'été ne fut pas adorable  
+Après cet hiver infernal,  
+Et quel printemps défavorable !  
+Et l'automne commence mal,  
+  Bah ! nous nous réchauffâmes  
+  En mêlant nos deux âmes.  
+
+La pauvreté, notre compagne  
+Dont nous nous serions bien passés,  
+Vainement menait la campagne  
+Durant tous ces longs mois glacés...  
+  Nous incaguions l'intruse,  
+  Son astuce et sa ruse.  
+
+Et riches, de baisers sans nombre,  
+— La seule opulence, crois-moi, —  
+Que nous fait que le temps soit sombre  
+S'il fait soleil en moi, chez toi,  
+  Et que le plaisir rie  
+  A notre gueuserie ?   
+
+
+# XVII.
+
+Je ne suis plus de ces esprits philosophiques,  
+Et ce n'est pas de morale que tu te piques  
+Deux admirables conditions pour l'amour  
+Tel que nous l'entendrons, c'est-à-dire sans tour  
+Aucun de bête convenance ou de limites,  
+Mais chaud, rieur — et zut à tous us hypocrites !  
+
+  Aimons gaîment  
+  Et franchement.  
+
+J'ai reconnu que la vertu, quand s'agit d'Elles,  
+Est duperie et que la plupart d'elles ont  
+Raison de s'en passer, nous prenant pour modèles :  
+Si bien qu'il est très bien de faire comme font  
+Les bonnes bêtes de la terre et les célestes,  
+N'est-ce pas ? prompts moineaux, n'est-ce pas, les cerfs prestes  
+
+  Aimons bien fort  
+  Jusqu'à la mort.   
+
+Pratique mon bon conseil et reste amusante.  
+S'il se peut, sois-le plus encore et représente  
+Toi bien que c'est ta loi d'être pour nous charmer  
+Et la fleur n'est pas plus faite pour se fermer  
+Que vos cœurs et vos sens, ô nos belles amies...  
+Tête en l'air, sens au clair, vos « pudeurs » endormies,  
+
+  Aimons dûment  
+  Et verdement   
+
+
+# XVIII.
+
+Si tu le veux bien, divine Ignorante,  
+Je ferai celui qui ne sait plus rien  
+Que te caresser d'une main errante,  
+En le geste expert du pire vaurien,  
+
+Si tu le veux bien, divine Ignorante.  
+
+Soyons scandaleux sans plus nous gêner  
+Qu'un cerf et sa biche ès bois authentiques.  
+La honte, envoyons-la se promener.  
+Même exagérons et, sinon cyniques,  
+
+Soyons scandaleux sans plus nous gêner.  
+
+Surtout ne parlons pas littérature.  
+Au diable lecteurs, auteurs, éditeurs  
+Surtout ! Livrons-nous à notre nature  
+Dans l'oubli charmant de toutes pudeurs,  
+
+Et, ô ! ne parlons pas littérature !   
+
+Jouir et dormir, ce sera, veux-tu ?  
+Notre fonction première et dernière,  
+Notre seule et notre double vertu,  
+Conscience unique, unique lumière.  
+
+Jouir et dormir, m'amante, veux-tu ?   
+
+
+# XIX.
+
+Ton rire éclaire mon vieux cœur  
+Comme une lanterne une cave  
+Où mûrirait tel cru vainqueur :  
+Aï, Beaune, Sauterne, Grave.  
+
+Ton rire éclaire mon vieux cœur.  
+
+Ta voix claironne dans mon âme :  
+Tel un signal d'aller au feu...  
+... De tes yeux en effet tout flamme  
+On y va, sacré nom de Dieu !  
+
+Ta voix claironne dans mon âme.  
+
+Ta manière, ton *meneo,*  
+Ton chic, ton galbe, ton que sais-je,  
+Me disent : « Viens ça » *Prodeo.*  
+(O ces souvenirs de collège !)  
+
+Ta manière ! ton *meneo !*   
+
+Ta gorge, tes hanches, ton geste,  
+Et le reste, odeur et fraîcheur  
+Et chaleur m'insinuent : reste !  
+Si j'y reste, en ton lit mangeur !  
+
+Ta gorge, tes hanches ! ton geste !   
+
+
+# XX.
+
+Tu crois au marc de café,  
+Aux présages, aux grands jeux :  
+Moi je ne crois qu'en tes grands yeux.  
+
+Tu crois aux contes de fées,  
+Aux jours néfastes, aux songes,  
+Moi je ne crois qu'en tes mensonges.  
+
+Tu crois en un vague Dieu,  
+En quelque saint spécial,  
+En tel *Ave* contre tel mal.  
+
+Je ne crois qu'aux heures bleues  
+Et rose que tu m'épanches  
+Dans la volupté des nuits blanches !  
+
+Et si profonde est ma foi  
+Envers tout ce que je croi  
+Que je ne vis plus que pour toi.   
+
+
+# XXI.
+
+Lorsque tu cherches tes puces,  
+  C'est très rigolo.  
+Que de ruses, que d'astuces !  
+  J'aime ce tableau.  
+C'est, alliciant en diable  
+  Et mon cœur en bat  
+D'un battement préalable  
+  A quelque autre ébat  
+
+Sous la chemise tendue  
+  Au large, à deux mains  
+Tes yeux scrutent l'étendue  
+  Entre tes durs seins.  
+Toujours tu reviens bredouille,  
+  D'ailleurs, de ce jeu.  
+N'importe, il me trouble et brouille,  
+  Ton sport, et pas peu !   
+
+Lasse-toi d'être défaite  
+  Aussi sottement.  
+Viens payer une autre fête  
+  A ton corps charmant  
+Qu'une chasse infructueuse  
+  Par monts et par vaux.  
+Tu seras victorieuse...  
+  Si je ne prévaux !   
+
+
+# XXII.
+
+J'ai rêvé de toi cette nuit :  
+Tu te pâmais en mille poses  
+Et roucoulais des tas de choses...  
+
+Et moi, comme on savoure un fruit,  
+Je te baisais à bouche pleine  
+Un peu partout, mont, val ou plaine.  
+
+J'étais d'une élasticité,  
+D'un ressort vraiment admirable :  
+Tudieu, quelle haleine et quel rable !  
+
+Et toi, chère, de ton côté,  
+Quel rable, quelle haleine, quelle  
+Élasticité de gazelle...  
+
+Au réveil ce fut, dans tes bras,  
+Mais plus aiguë et plus parfaite,  
+Exactement la même fête !   
+
+
+# XXIII.
+
+Je n ai pas de chance en femme,  
+Et, depuis mon âge d'homme,  
+
+Je ne suis tombé guère, en somme,  
+Que sur des criardes infâmes.  
+
+C'est vrai que je suis criard  
+Moi-même et d'un révoltant  
+Caractère tout autant,  
+Peut-être plus par hasard.  
+
+Mes femmes furent légères,  
+Toi-même tu l'es un peu,  
+Cet épouvantable aveu  
+Soit dit entre nous, ma chère.  
+
+C'est vrai que je fus coureur.  
+Peut-être le suis-je encore :  
+Cet aveu me déshonore.  
+Parfois je me fais horreur.   
+
+Baste : restons tout de même  
+Amants fervents, puisqu'en somme  
+
+Toi, bonne fille et moi, brave homme,  
+Tu m'aimes, dis, et que je t'aime.   
+
+
+# XXIV.
+
+Bien qu'elle soit ta meilleure amie,  
+C'est farce ce que nous la trompons  
+Jusques à l'excès, sans penser mie  
+A elle, tant nos instants sont bons,  
+
+ Nos instants sont bons !  
+
+Je fais des comparaisons, de même  
+Toi cocufiant ton autre amant,  
+Et je dois dire que ton système  
+Pour le cocufier est charmant,  
+
+ Ton us est charmant !  
+
+Mon plaisir est d'autant plus coupable  
+(Et plus exquis, grâce à ton concours)  
+Qu'elle se montre aussi très capable  
+Et fort experte aux choses d'amours.  
+
+ Mais sans ton concours ?   
+
+Trompons-la bien, car elle nous trompe  
+Peut-être aussi, tant on est coquins  
+Et qu'il n'est de pacte qu'on ne rompe.  
+Trompons-*les* bien. Nuls remords mesquins !  
+
+ Soyons bien coquins !   
+
+
+# XXV.
+
+Je fus mystique et je ne le suis plus  
+(La femme m'aura repris tout entier),  
+Non sans garder des respects absolus  
+Pour l'idéal qu'il fallut renier.  
+
+Mais la femme m'a repris tout entier !  
+
+J'allais priant le Dieu de mon enfance  
+(Aujourd'hui c'est toi qui m'as à genoux),  
+J'étais plein de foi, de blanche espérance,  
+De charité sainte aux purs feux si doux.  
+
+Mais aujourd'hui tu m'as à tes genoux !  
+
+La femme, par toi, redevient *le* maître,  
+Un maître tout-puissant et tyrannique,  
+Mais qu'insidieux ! feignant de tout permettre  
+Pour en arriver à tel but satanique...  
+
+O le temps béni quand j'étais ce mystique !  

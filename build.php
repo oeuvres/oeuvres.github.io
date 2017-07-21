@@ -27,6 +27,16 @@ $build = new Teinte_Build (
         "publisher" => 'Œuvres',
         "source" => "http://oeuvres.github.io/hugo/%s.xml",
       ),
+      "maupassant" => array(
+        "glob" => '../maupassant/*_*.xml',
+        "publisher" => 'Œuvres',
+        "source" => "http://oeuvres.github.io/maupassant/%s.xml",
+      ),
+      "verlaine" => array(
+        "glob" => '../verlaine/*_*.xml',
+        "publisher" => 'Œuvres',
+        "source" => "http://oeuvres.github.io/verlaine/%s.xml",
+      ),
       "stendhal" => array(
         "glob" => '../stendhal/*_*.xml',
         "publisher" => 'Œuvres',

@@ -1,0 +1,734 @@
+---
+identifier: verlaine_louiseleclercq  
+creator: Verlaine, Paul  
+date: 1886  
+title: Louise Leclercq  
+---
+
+ 
+
+
+# LOUISE LECLERCQ.
+
+
+## I.
+
+Il n y a guère de mélancolie plus épaisse, de tristesse plus lourde que la pensée de vivre dans ces énormes maisons de plâtre, à cinq et six étages, avec leurs innombrables volets gris, comme des poitrines de squelettes à plat sur le blanc sale du mur, de l'ancienne banlieue parisienne. Je parle plus spécialement des quartiers paisibles, honnêtes, où la bâtisse a prospéré grâce aux locataires bons payeurs, où ont pu se former de très longues rues sans air et sans soleil. Le petit rentier qui rente si magnifiquement le possesseur de ces hideux phalanstères a bien raison d'être pour la plupart du temps un imbécile, car qui pourrait, à un certain âge, le temps du repos venu, finir sa vie, non pas même heureusement, mais tranquillement, dans de pareilles conditions d'insalubre laideur et de platitude vénéneuse ? L'homme jeune, le ménage qui a sa fortune à faire ou son pain à gagner sur la vie de tous les jours, peut à la rigueur admettre cette hygiène absurde, s'y faire, la supporter, — au prix de quel ennui méchant, toutefois, de quelles sensations perverses, de quelles envies de briser à jamais ce cadre noir et d'en sortir pour quelles fuites ! Et combien de lamentables culpabilités de quelque ordre que ce soit pourraient s'expliquer, sinon s'excuser, par ces motifs tortueux, inavoués, insoupçonnés, de milieux analogues ou pareils ?
+
+La rue des Dames, aux Batignolles, peut servir de type à ces mornes enfilades de bâtisses à suer les revenus... et la santé des braves bourgeois qu'engouffre et pressure l'immense spéculation moderne sur les immeubles. Relativement passante et très commerçante à proportion, elle présente assez de vie normale et de mouvement nécessaire pour ne pas entrer logiquement dans la catégorie de ce que l'on a appelé des coins d'idylle parisienne. Du reste, le quartier lui-même des Batignolles ne prête pas le moins du monde à ces galantes ou sinistres suggestions, tout entier bâti qu'il est pour la location en masse, sans presque de jardins, ni de murs surmontés de branches, ni de ces terrains à gazon, théâtres de bien des scènes qui ne sont pas toujours polissonnes : l'aspect général y est mesquinement bourgeois, cossu pauvrement, rangé, chiche, mais propre autant que possible en dépit des ruisseaux taris, des bouches d'égoûts insuffisamment étroites, et des bornes-fontaines ridiculement rares. Les magasins, sinon beaux, du moins assez bien fournis et point trop mal décorés à l'étalage, nouveautés, merceries, boucheries quasi-coquettes et charcuteries essayant de rire un brin, foisonnent dans la rue des Dames. Des bureaux de tabac, quelques libraires et plusieurs cafés très anciens mêlent leur superflu bien modeste, au confortable qui fait la gloire des ménagères et la sécurité bourgeoise des habitants de cette étroite, humide, interminable artère principale des Batignolles proprement dites. De nombreuses crémeries à l'usage des employés pauvres et des ouvriers célibataires du quartier, complètent cette physionomie qu'on voudrait croire provinciale, n'étaient telle lacune dans la bonhomie, tel manque de naïveté forte, telle négligence, telle brutalité, telle ignorance bien faubourienne, comme une enseigne prise à un roman qui fut à la mode, comme l'affichage d'une ordure de plume ou de crayon dont Paris seul encore ne rougit point, comme ce je ne sais quoi de trivial et de provisoire qui gâte à Paris et dans ses environs immédiats toute installation de modeste importance.
+
+Au coin de la rue des Dames et d'une des rues qui aboutissent sur le boulevard des Batignolles se trouve une assez grande épicerie. Le magasin s'ouvre à l'angle même de la maison dont l'entrée pour les locataires donne sur la rue transversale. Les boiseries extérieures sont peintes en jaune foncé rehaussé de filets bruns ; le mot « denrées » en gros caractères noirs surmonte la partie du magasin située sur la rue des Dames, les syllabes « colo » continuent cette enseigne au-dessus de la porte vitrée d'entre les deux rues, et la désinence « niales » l'achève dans la rue transversale. La raison sociale « Eugène Costeaux, Leclercq successeur », s'étalait il y a un peu plus de deux ans en deux lignes de lettres rouges imitant l'écriture anglaise sur les battants vitrés de la porte d'entrée du magasin. Le nom « Leclercq » était répété, seul cette fois, sur la dalle de marbre blanc et bleu du seuil étroit qui s'allonge entre deux hauts vitrages grillés à hauteur d'homme. Un paillasson précède immédiatement la porte dont le battant resté libre s'ouvre en dedans. Le magasin est bas de plafond. Son plancher reste poussiéreux bien que balayé plusieurs fois par jour et arrosé tous les matins abondamment, mais il vient tant de monde et la rue est si sale !
+
+A l'époque dont il s'agit, deux garçons revêtus de la longue blouse grise de l'emploi, faisaient le service sous la direction très active du patron et de la patronne. Ceux-ci, de bien braves gens quelconques, tout à leur magasin qu'ils tenaient d'un oncle au mari, mort sans enfants, il y avait une vingtaine d'années, étaient originaires de Saint-Denis, où leurs ascendants avaient vécu de père en fils du même commerce d'épiceries, exercé en tout petit. C'étaient donc des Parisiens de race et d'habitudes, qui ne sortaient jamais, la femme et la fille, que pour aller à une messe basse le Dimanche, le ménage qu'aux jours de réjouissance nationale ou de telles grandes fêtes parisiennes comme l'Assomption et Noël, pour voir les illuminations ou les baraques du boulevard, ou faire hors des fortifications, jusqu'aux premières maisons de Clichy et de Saint-Ouen, un tour dans ce qu'on appelle la campagne chez les petites gens de Paris. Le Spectacle, si cher à tout ce qui provient de la grande ville ou qui vit d'elle, leur était pour ainsi dire inconnu, ainsi qu'il arrive d'ailleurs très souvent aux boutiquiers besoigneux ou simplement sérieux, comme on dit dans ce monde-là. Mais ils devaient à leur origine parisienne comme à l'obstination de leur vie dans ce pourtour de la capitale, de partager avec leurs concitoyens le préjugé, presque la vénération du Théâtre, de ses choses et de ses hommes. Ils recevaient le Petit Journal et en collectionnaient les feuilletons qu'ils prêtaient à des voisins et qui ne rentraient pas toujours aussi exactement qu'il eût fallu pour bien faire. L'épargne la plus stricte sans trop d'exagération toutefois présidait à leurs dépenses de ménage. Une nourriture très simple, bœuf et légumes de la saison, peu de mouton, du veau rarement et presque jamais de charcuterie, le tout arrosé de vin au litre, — égayé de dessert et de café tous les dimanches sans faute et parfois un jour de la semaine, selon le caprice du père, un peu despote, — leur bilan était très simple, comme vous voyez, et peu de nature à nuire en quoi que ce fût à la mise de côté comme au sûr placement des bénéfices réalisés chaque année, de trois mille cinq cents à quatre mille francs en bonnes espèces sonnantes et qui ne devaient rien à personne.
+
+M. Leclercq pouvait avoir dans les quarante-cinq et sa femme dans les quarante ans ; leur fille Louise en avait vingt-deux. Elle tenait surtout de sa mère au physique, beaucoup de fraîcheur sans grande beauté : un nez un peu long, bien modelé, avec une tendance à paraître pointu, de fort beaux yeux bleus et des cheveux châtain-foncé à reflets blonds formaient un ensemble assez agréable que complétaient un front bas et large d'une belle ligne bien précise, et des tempes où le sang jeune épanouissait des veines pâles en deux fleurs d'un violet rose si délicat que l'on eût cru parfois pouvoir s'attendre à voir couler la vie par les pores exquis de cette peau littéralement diaphane. La taille moyenne encore frêle, elle marchait non sans grâce, gesticulait peu mais cependant en vraie parisienne de Paris ; de longues mains blanches aux doigts des mieux faits, des pieds presque mignons ajoutaient à la distinction naturelle de cette fille charmante en somme. La simplicité vraie, absolue, qui est très souvent le partage heureux, l'élégance et l'honneur de ces classes inférieures du commerce en détail, le parfum de ces âmes humbles, régnait dans toute sa personne, souverainement. Son accent légèrement précieux et flûté, — mais née de parents parisiens et n'ayant jamais vécu qu'aux Batignolles, comment voulez-vous qu'elle ne chantât pas, qu'elle ne traînât pas un tantinet en parlant ? — son accent prêtait à sa parole toujours sobre, juste et bienveillante, une musique qui la rendait délicieuse. Ses parents l'avaient beaucoup mieux élevée qu'on n'eût été en droit de l'attendre de gens en apparence si bornés et que leur trafic semblait devoir absorber tout entiers. C'est ainsi qu'elle avait été recommandée à la maîtresse de l'externat de la rue Lemercier pour des travaux d'aiguille et des notions de ménage de préférence à toutes les autres matières enseignées. Bien qu'elle eût montré dès son enfance des dispositions pour le dessin et la musique, ces deux arts d'agrément avaient été rayés de son programme d'études de par un bon sens dont donne trop peu d'exemples notre petite bourgeoisie parisienne d'aujourd'hui, si superficielle en tout autre chose qu'en le travail pour le pain quotidien, où elle est admirable, par exemple, de prévoyance, d'économie et d'honnête savoir-faire. Elle avait aussi, sur l'insistance de ces bonnes gens, suivi un an de plus qu'il n'était d'usage dans l'institution Brodeau le précieux catéchisme de persévérance de M. l'abbé de Guimard, le second vicaire si malheureusement enlevé l'année dernière par les suites d'une bronchite contractée au confessionnal pendant l'effroyable hiver de 1879, à l'affection de son vénérable supérieur, de ses dignes confrères et de tous les paroissiens de Sainte-Marie des Batignolles. Par un sentiment exquis des délicatesses d'une âme de jeune fille, par un tact presque instinctif, infiniment supérieur à leurs habitudes de vie et de raisonnement, les Leclercq avaient compris qu'il fallait à Louise une atmosphère intellectuelle et morale qui fût autre que la leur, moins épaisse, moins saturée d'odeurs mercantiles. De la boutique paternelle elle ne connaissait en quelque sorte que la quintessence, l'expression abstraite seule, la résultante intellectuelle, l'esprit, je veux dire la comptabilité, que ses parents n'eussent pu tenir et dont ils se félicitaient chaque jour de l'avoir chargée en remplacement d'une mercenaire, tant elle s'en acquittait avec zèle et vaillance. Une poésie s'en dégageait pour elle, mêlée aux senteurs prédominantes de l'épicerie, les plus fines ensemble et les plus fortes, les plus intelligentes si l'on peut ainsi parler, cannelles et vinaigres, cires et fruits confits, oranges et citrons, qui lui arrivaient par bouffées vagues, à travers la porte souvent entrebâillée de l'arrière-boutique, où elle se tenait la plupart du temps. 
+
+Cette arrière-boutique se composait d'une pièce principale qui servait de chambre à coucher aux époux Leclercq et de salle à manger, et d'un cabinet ne prenant un peu de lumière que par une lucarne percée sur la première pièce. Louise avait son lit dans ce cabinet. Dès le matin la pièce principale perdait l'aspect d'une chambre à coucher, grâce à une alcôve fermée à deux battants par une porte de chêne peinte en blanc, à ferrures d'armoire ancienne. La jeune fille, après avoir fait son lit et celui de ses parents, mettait minutieusement en ordre la pièce où ceux-ci avaient passé la nuit. Comme c'était là qu'elle restait dans la journée, occupée à sa comptabilité et aux travaux d'aiguille de la maison, elle avait l'endroit en prédilection, changeait souvent les rideaux de la fenêtre, laquelle donnait sur la rue transversale à la rue des Dames, frottait la haute glace de dessus la cheminée, ainsi que le globe de la pendule et ceux des flambeaux de composition argentée qui se faisaient pendant à droite et à gauche du Léonidas mourant pour Lacédémone, à cheval sur un cadran signé Lepaute à Paris. La table ronde à rallonges qui servait aux repas de famille, recouverte d'une étoffe rouge et noire, garnissait le milieu de la pièce que meublaient deux fauteuils dans des housses pour les époux Leclercq et six chaises d'acajou à siège de velours épinglé violet. Le parquet, soigneusement ciré et frotté tous les trois jours par le plus jeune des garçons de boutique, disparaissait presque sous un tapis un peu criard d'étoffe à bon marché, grand luxe de petite bourgeoisie justifié en l'occasion par une cruelle disposition du père Leclercq au froid aux pieds.
+
+Louise ne lisait jamais : le même bon sens dont il a été question plus haut avait détourné ses parents de l'habitude parisienne de laisser traîner livres et journaux sous les yeux des enfants petits ou grands. D'abord, de livres, il n'y en avait pas un seul chez eux en dehors du paroissien romain de Mme Leclercq, du livre de messe de Louise et des quelques ouvrages classiques qui lui avaient servi à l'école ; quand au Petit Journal mentionné tout à l'heure, Monsieur le lisait au soir, après la fermeture du magasin ; Madame se tenait au courant du feuilleton qu'elle coupait aussitôt après lecture faite et serrait dans un placard à linge dont elle seule avait la clef ; le reste du journal, mis à part dans un coin spécial de la boutique, servait à l'empaquetage des menus objets de vente. On avait dès le principe accoutumé « la petite » à ne pas toucher au journal de peur qu'il pût se perdre ou se salir.
+
+L'enfant en grandissant continua de porter le même respect à la chose imprimée, n'en conçut jamais la curiosité, et, n'en ayant pas goûté la douceur, y restait dès lors absolument indifférente.
+
+Les Leclercq profitèrent tout naturellement, mais, il faut y insister, avec un tact bien rare dans leur classe, de cette heureuse disposition de leur fille et s'arrangèrent pour qu'il parût aller de soi, pour qu'il fût à la fois entendu et sous-entendu que toute lecture oiseuse resterait étrangère à la Ménagère, à la Demoiselle qu'elle était. N'échappaient à cette prohibition tacite et tacitement consentie que les seuls fascicules des Annales de la Propagation de la foi, dont Louise était zélatrice. Ce merveilleux recueil, écrit simplement, rondement, par des hommes d'action dans le plus haut sens du mot, lettrés sans être littérateurs, quelque chose comme les commentaires de César autrement plus militants, inestimable trésor historique et géographique, qui formera plus tard le livre certainement le plus important à tous égards de ce siècle, paraissait aux Leclercq, qui en feuilletaient souvent les livraisons avec le plus naïf et le plus sincère intérêt, tout à fait en rapport avec l'instruction supérieure à la leur de Louise et son éducation religieuse relativement forte : ces excellentes gens, qui participaient largement, on l'a vu et on le verra, aux ignorances de leur caste, à ses préjugés de toute catégorie et de toute saison, à ses entêtements dans la palinodie périodique, du moins n'étaient pas devenus irréligieux, au milieu de la dégringolade morale de ces dernières années dans ces régions peu intellectuelles. Sans jamais avoir pratiqué depuis ses quinze ou seize ans sonnés, — pareil en cette chose à tant d'autres français, — le père Leclercq ne s'était pas laissé gagner à la très basse, très crapuleuse, mais d'autant plus formidable corruption actuelle, œuvre réciproque de la presse et des mœurs, logique, dès longtemps prévue, prédite et... point assez combattue par qui de droit, et dont le trait dominant est le reniement brutal de Dieu, la mort sans phrase à toute idée spiritualiste. Son esprit droit d'origine, solidement trempé pour la bataille des principes de fond dans un long exercice de la probité commerciale la plus scrupuleuse, aiguisé et affiné sur la roue de ce gagne-petit, le commerce en détail, le mettait en garde contre de pareils dangers, — même attaquant de biais, même insinués tortueusement par telle feuille doucereuse. Il approuvait donc ce qu'il appelait « la dévotion » de « ces dames », tout en les plaisantant quelquefois à ce sujet ; mais si peu ! — (« à la Voltaire », comme il disait, croyant dire « spirituellement », — sans quoi eût-il été parfaitement épicier ?) Il revenait très vite d'ailleurs sur ces échappées de la toute petite incrédulité qui était en lui, et qui ne prenaient aussi bien guère place que les jours « d'extra », après le pousse-café bu, en compagnie de souvenirs de jeunesse et de récits gazés, frasques d'adolescent, fredaines d'avant le mariage (bien peu nombreuses en tout cas, car il s'était marié si tôt ! — « trop tôt », ajoutait-il dans ces occasions-là). Mais, en somme, et à part ces bêtises d'un esprit droit mais de très court vol, son langage était respectueux de la religion et de la morale, et des plus convenables, des plus plausibles, généralement. Quant à la pratique de la religion, lorsque sa femme lui reprochait d'être inconséquent dans son abstention comparée à ses paroles, « il faut de la religion, même pour les hommes, peut-être même surtout pour eux », il répondait avec une entière bonne foi, — terrible et lamentable au fond : — Que veux-tu, ma bonne, ce diable de commerce !... Quand je serai retiré, certainement.
+
+Mais M*me* Leclercq était la reine des femmes douces ; son portrait sera parfait quand on saura, qu'elle joignait à une grande indulgence pour les autres une sagacité sociale des plus remarquables.
+
+Louise avait donc en somme une destinée heureuse que beaucoup d'autres plus riches ou d'une naissance plus haute eussent pu envier. Aimée de ses parents, estimée d'eux, et mise spontanément par eux à la place sinon supérieure, du moins très honorablement spéciale que ses mérites et son acquis lui assignaient à côté d'eux, rien n'eût paru lui manquer, rien à coup sûr ne paraissait à elle-même lui manquer sur cette terre de demi-bonheurs et dans cette peu récréative rue des Dames aux Batignolles.
+
+Cependant à certains jours, quand il pleuvait, par exemple, que la fenêtre de la pièce du rez-de-chaussée où elle travaillait soit de la plume, soit de l'aiguille, ruisselait ou dégouttait, ou simplement ne laissait passer qu'un jour sale au lieu du jour jamais bien chaud ni clair mais du moins net et doux des beaux temps, l'ennui la prenait, un ennui vague et dont elle n'eût su constater seulement l'existence, loin de pouvoir le définir. Cette fille occupée à des travaux rationnellement équilibrés où l'intelligence et le corps avaient leur juste part, était en outre trop dégagée de toute phrase de roman, de toute conversation pointue, de tout entortillage, de toute chinoiserie de la pensée, pour devoir admettre, fût-ce un instant, fût-ce par surprise, que quelque chose comme un « ennui vague » pût se glisser dans l'active régularité de sa vie. Elle avait bien eu parfois des chagrins plus ou moins vifs, des contrariétés comme tout le monde est appelé à en subir et dont elle se souvenait très nettement, moralisant en elle-même à leur propos, tirant de ces minimes catastrophes la somme d'expériences qu'elles étaient susceptibles de contenir, exploitant jusqu'au souvenir du déplaisir souffert, s'en faisant un cuisant prétexte pour éviter, fuir, ou repousser l'occasion même la plus plausible (en dehors d'un devoir à remplir, bien entendu) de s'y exposer à nouveau ; — mais d'ennui, de cette chose molle, pénétrante, inconsistante comme le brouillard, comme un air, non, elle n'aurait pu parler d'un phénomène analogue par rapport à elle-même, elle aurait au contraire pu sans mentir nier qu'elle en eût jamais eu conscience.
+
+Et pourtant elle s'ennuyait parfois. Surtout ces jours de pluie dont il a été parlé ; vers le soir aussi principalement en été, quand il fait encore assez clair pour travailler et déjà suffisamment obscur pour allumer la lampe ou les bougies. L'hiver la nuit tombe sans presque de transition, le feu d'ailleurs vit à côté de vous, lumineux et bruyant, cause avec vous, voudrait-on croire, vous envoie sa chaude haleine, vous regarde de ses mille yeux familiers ; mais Ventre-chien-et-loup des fins d'après-midi de la belle saison est vraiment redoutable aux organisations tant soit peu délicates : tout s'efface, s'estompe, semble se désoler, vous laisser seul entre quatre murs d'ombre à tout instant épaissie. C'est alors qu'à l'insu de sa fierté de fourmi qui eût bien envoyé chanter et danser toute idée de vapeurs, de langueur, et autre forme plus ou moins actuelle de l'immortel Ennui, tombait sur elle, lui pesait sur les tempes, s'appuyait à ses épaules cet on ne sait quoi qui trouble le dessein, émousse la volonté du jour et de l'heure, rend le cœur vague, la tête vide, la chair et le sang et les nerfs prépondérants sur l'esprit, et le temps si long, si lourd, si sottement insupportable ! 
+
+Cela durait peu, quelquefois une minute ou deux, rarement quatre ou cinq ; bien vite les yeux errants, vacants, revenaient sur le surget commencé, sur le total à reporter, — la main pendante ou qui caressait le front du bout d'un doigt sans but, prenait à nouveau la plume ou l'aiguille, — la sage Louise, pratique, sérieuse, pareille à elle-même, descendait de l'hippogriffe, fermait le château en Espagne, se retrouvait aux Batignolles, rue des Dames, dans l'arrière-boutique de son père, M. Leclercq, marchand épicier, successeur de Costeaux, — et comme elle s'y plaisait, toute rassurée, toute chez elle !
+
+Sa mère avait surpris cette presque imperceptible assomption sur la Chimère d'une pensée rendue un instant incapable de lest. Du reste elle n'en parlait pas à Louise, thésaurisant ses observations pour les dépenser au besoin en utiles conseils, en reproches modérés : mais cette rigueur se trouverait-elle jamais nécessaire vis-à-vis d'une enfant aussi sensée, aussi bonne ? On ne savait, pensait M*me* Leclercq, qui pouvait répondre ? Et sans s'alarmer elle s'inquiétait un peu.
+
+Louise, on le sait, était entrée dans sa vingt-troisième année. Sans précisément s'occuper d'un établissement pour elle, ses parents ne pouvaient s'empêcher d'y penser quelquefois. A deux ou trois reprises même, à des mois d'intervalle, ils s'en étaient parlé en cette année 188... Dame, ils n'étaient plus tout à fait jeunes, bien qu'encore dans l'âge du commerce actif. Avec l'extrême intelligence de Louise, ses qualités solides, et son bon caractère, il serait évidemment avantageux de lui faire épouser un garçon sérieux, de quelque dot bien entendu, connaissant la partie, dans les vingt-cinq vingt-six ans, fils de commerçants retirés après cession de leur établissement à des tiers, qui reprendrait le magasin avec Louise comme comptable ; celle-ci pourrait aider un peu son mari dans la vente, à l'exemple de M*me* Leclercq, — à condition toutefois que cela plût à la chère enfant et ne la dérangeât pas trop des soins du ménage. Eux autres ils se retireraient à Saint-Denis, chez un jardinier de leurs parents qui leur louerait le rez-de-chaussée de sa maison avec un bon coin de son potager qu'ils pourraient cultiver à leur gré ou transformer en pur jardin de fleurs : ils viendraient voir les enfants de temps en temps, les enfants aux grands jours les visiteraient, et tous les et cœtera de cet ordre d'idées.
+
+Mais, mais,... c'était plutôt madame que monsieur qui disait ces mais-là ou les accueillait le plus attentivement quand ils se produisaient dans la conversation. — Et le plus important de ces mais pouvait se développer en ceci : Louise aimerait-elle à se marier ?
+
+M*me* Leclercq répondait que non, le craignant, car elle eût bien voulu, elle, d'un mariage au plus tôt. — « Pourquoi donc ? — Une idée comme çà ! — Que le diable soit des femmes avec leurs idées qu'elles ne veulent pas dire ! »
+
+En vérité, sans rien redouter de positif, M*me* Leclercq pressentait un malheur,
+
+
+## II.
+
+D'abord Louise s'ennuyait parfois (ceci, comme il a été dit, M*me* Leclercq le gardait pour elle).
+
+Ensuite il y avait un jeune homme.
+
+Le premier jeune homme venu, joli garçon, tout jeune, employé de commerce, suffisamment éduqué dans le chic et dans le toc, qui s'appelait Léon Doucet, et mangeait régulièrement dans la crémerie contiguë à la boutique des époux Leclercq.
+
+Il venait souvent chez ceux-ci acheter des allumettes et une bougie, s'attardant quelquefois à causer, accoudé au comptoir, politique ou « affaires » avec le père, intérieur et popote avec la mère, et chiffons, avec la fille, quand celle-ci devait, le soir, à l'heure du dîner, suppléer pour quelques instants ses parents occupés à la table et à la cave, — car il était dans les Docks du Blanc, les grands magasins d'en face, l'un des préposés aux articles pour dames et pouvait causer des mille riens de la lingerie féminine en toute connaissance de cause. 
+
+M*me* Leclercq, avec son œil de mère, de femme, et de négociant parisien — (au fond c'était elle, comme tant de femmes françaises, qui avait l'initiative dans les affaires de la maison) M*me* Leclercq avait pénétré au fond du creux de ce garçon. Elle avait comparé ce vide avec le vide actuel de cœur, de tête, et de sens de Louise. La beauté réelle, substantielle, du commis des Docks du Blanc l'effrayait, mère, l'indignait, femme, et commerçant, la dégoûtait.
+
+Un beau jour elle découvrit un immense amour de sa fille pour cette poupée imberbe, et ce quelle pleura ! Sa tête s'y serait perdue sans l'affection maternelle. Son mari, lui, naturellement, ne vit, n'entrevit rien de rien. Les hommes, les pères dans ces questions !
+
+Et M*me* Leclercq avait raison... L'amour a souvent été comparé à un aigle. A tort. Parbleu, de l'aigle, il a la rapidité, mais c'est tout. Il n'aime pas le grand jour, d'abord. Ceci dans tous les cas. Puis il ne tue que les faibles, et s'il s'attaque à d'autres par mégarde, ce qui lui arrive souvent, il a lieu de s'en repentir presque toujours. Non, c'est le hibou qu'il rappelle plutôt. Il a l'obliquité, le plumage élastique du hibou ; — et ses serres ! Il a les grands beaux yeux fixes, les belles ailes emphatiques et muettes du hibou, son doux cri sinistre, son élan d'ouate sur la proie jamais manquée, puis, la proie dévorée, le renvoi sourd devers la tour ou le chaume noirs dans la nuit charmante. Mais quelles serres et quel bec ils ont donc, l'amour et le hibou ?
+
+La pauvre Louise, victime dévouée, l'éprouvait, cette fatalité, et devait l'éprouver en tous sens, contre elle, pour elle, par elle !
+
+Doucet ne s'aperçut tout d'abord pas de l'amour insensé de Louise pour lui. Habitué qu'il était aux seules anecdotes de bal public ou de canotage, l'idée ne lui serait jamais venue, il faut lui rendre cette justice, qu'une jeune fille de bonne famille et d'éducation sévère dût jamais prendre garde à sa « pomme » toute destinée rien qu'aux beautés faciles de la brasserie et de l'atelier. Il ne se serait par conséquent jamais mis dans sa petite tête pas méchante au fond, de faire une cour pour le mauvais motif (il se croyait trop jeune et se sentait trop pauvre pour même rêver à du sérieux dans cet ordre d'idées) chez des gens calés comme les Leclercq. D'ailleurs le genre de charme de Louise n'était pas pour l'attirer. La jeunesse moins piquante que délicate de M*lle* Leclercq, sa modestie un peu hautaine et l'habitude chaste de toute sa démarche ne disaient rien aux sens naïfs de cet adolescent trivial.
+
+A la fin pourtant, à force d'avoir ses regards croisés par ceux de Louise aussitôt éteints sous des palpitements de cils, et de remarquer sur son visage ce va-et-vient des couleurs qui décèle encore plus la passion que la pudeur, il lui fallait bien se rendre à l'évidence et reconnaître ce qui l'effraya tout d'abord. Mais de ces frayeurs-là, on s'en remet vite à vingt ans, et dès qu'il se vit aimé, sans aimer il désira, et dès lors sans plus y réfléchir, il manœuvra au-devant de la marche en avant de Louise.
+
+La pauvre fille fut vite « perdue ».
+
+Comment arriva la catastrophe, c'est ce qu'il est inutile de préciser : la vie parisienne de ces régions a tant de coins et de recoins, d'allées et de venues, de carrés d'ombre et d'occasions pour quelqu'un de très pur ou de très brutal, qu'on serait surpris de compter tous les malheurs dans ce genre qui s'y préparent et s'y installent. Louise tomba victime de cette malice des choses autant que de leur ennui intrinsèque, cet ennui qui la déprimait depuis son enfance, à son insu, malgré son héroïsme inconscient et la simplicité presque virile de ses vertus.
+
+Pendant quelques jours ce fut pour la chère enfant un délice énorme, un vertige de joie. Son innocence gardée en dépit de la faute, ou plutôt l'ignorance de son innocence envolée (où ? qu'en savait-elle ?) la faisait à son tour désirer et se complaire à l'assouvissement du désir... Hélas ! le sang et les nerfs l'emportaient sur les pauvres principes, sur l'âme vaillante mais faible, sur la raison, sur l'amour filial, sur le juste orgueil, sur tout ! Et que celle qui fut sans faiblesse lui jette la première pierre ! 
+
+Puis l'effroi vint avec l'excès. Car ils avaient mille ruses pour se voir trop longtemps, et Louise n'était pas la plus malhabile ni la moins ardente à trouver de ces rendez-vous instantanés, en quelque sorte sous l'œil et loin des regards de ses parents.
+
+Maintenant que faire ? Elle ne pouvait plus rester. Sa franchise répugnait à ces cachotteries d'ailleurs si graves, puis disons tout, d'ailleurs ici la vérité s'impose cruellement quoique nous en ayons, il fallait plus de champ à sa passion qu'elle avait besoin de place et d'espace pour satisfaire bien, pour assouvir comme il fallait, car la flamme du sang grandissait avec les jours écoulés et c'était toute la luxure, pour parler franc, qui possédait l'innocente, nous maintenons le mot — la luxure bestiale, l'immortelle démangeaison, le besoin impérieux du mâle, non pas l'hystérie, saine et robuste qu'elle était, vierge forte qu'elle sortait d'être, femme qu'elle se sentait depuis quinze jours, femme normale, bon instrument bien manié ; car de son côté Doucet était bâti pour l'amour physique, ardent et caresseur et rieur, souple, d'attaque et de riposte, gai dans l'expansion, allègre après et persévérant sans plus d'effort que cela. Chose naturelle ! lui aussi avait subi une transformation. Et de même que le corps chez Louise s'était magnifié, que sa taille, sa poitrine, ses membres, prenaient de jour en jour plus d'autorité en quelque sorte et de beauté définitive, que ses yeux hardis plus grand ouverts sur les choses brillaient de la lumière nette qui sied à la compagne heureuse d'un homme heureux et jeune et vigoureux, que sa voix avait des notes décidées, graves presque, et doucement, mais pas trop, impératives, — de même ce beau garçon, sans se féminiser au contraire, avait au contact d'une nature distinguée, infiniment supérieure à la sienne (artificiel produit du gamin gentil de Paris un peu formé par la pratique de clientes bien élevées et l'élégance relativement moins calicotière de son genre d'emploi), contracté quelque chose de simple, de bien, dans ses allures. Ses sens glorifiés dans cet amour qui l'élevait, donnaient à sa tenue générale et aux détails de sa beauté un tour plus sympathique vraiment. Son regard brun s'approfondissait en restant vif et toujours un peu luron, le geste devenait sobre et juste, le teint assez haut se nuançait mieux et sa bouche rouge et forte prenait un pli tout à fait viril en même temps que plus avenant, l'esprit aussi se dégourdissait. Plus de niaiseries rapportées du rayon, plus de jeux aisés ou non de mots. Convenance, discrétion, égalité de manières et en somme de l'amabilité sincère. C'est que l'amour l'avait investi à la longue. Une immense reconnaissance, la satisfaction, le bonheur complet, la fierté d'avoir une telle maîtresse, fierté plausible qui était encore de l'hommage, et toute bonne volonté devers Louise complétaient la dangereuse métamorphose de Doucet. Est-il besoin de dire que des deux amants c'était Louise qui dominait, et son sérieux quand ils étaient bien entendu, de sang rassis, sa parole calme mais définitivement formulée faisait plier Doucet comme un roseau. Il tremblait de la contrarier, et par suite, de la perdre, et puis ce lui était délicieux de lui obéir !
+
+— Non. Pour toutes les raisons possibles elle ne pouvait, elle ne voulait rester. Elle partirait avec Doucet pour toujours et voici ce qu'elle lui proposa autant dire lui ordonna dans la troisième semaine de leur liaison :
+
+Faire une bourse. Il gagnait deux mille francs et avait une somme de deux cents francs de côté. Elle avait plus encore d'étrennes du dernier jour de l'an et de ses espèces d'appointements comme comptable. Il possédait une chaîne et une montre d'or, elle aussi, plus quelques bijoux, qu'ils pourraient vendre ou engager. Il avait un parent à Bruxelles. Ils iraient là. Elle se placerait comme comptable ou quelque chose d'approchant, lui dans un grand magasin de blanc. On aimait les Français et surtout les Parisiens là-bas. C'était entendu ?
+
+Oui, et la bourse fut faite en huit jours.. Le lendemain ils se réunissaient à une heure convenue de l'après-midi à la gare du Nord. 
+
+Elle avait quitté ses parents sans un mot d'adieu, rien, rien et rien ! Ce n'était ni une fuite ni un départ. C'était une destinée qui allait où elle devait aller. Tout sentiment autre que l'amour était aboli pour elle. Son action n'était pas de la révolte même instinctive, mais bel et bien la vie qui passait, la tirant à sa suite. Avec cela le plus grand sang-froid. Valise pleine d'objets utiles adroitement expédiée en secret à la consigne sous un faux nom vraisemblable, sa comptabilité en ordre jusqu'au dernier guillemet et durant toute cette période de préparatifs, comme du reste depuis le jour de sa chute, la même fille docile, soumise, travailleuse et doucement gaie absolument qu'auparavant. M*me* Leclercq n'y vit que du feu cette fois.
+
+Il était deux heures de l'après-midi. Le train ne partait qu'à six. Ils allèrent dans un hôtel voisin où ils mangèrent, après quoi Louise demanda une chambre pour la nuit. Ils signèrent M. et M*me* Doucet sur le livre de police. Louise avait écrit la première. Doucet était un peu surpris de cette remise du voyage au lendemain, mais il eut tôt compris et certes il ne songeait pas à se plaindre. Le soir Doucet sur son désir la mena dans un café-concert où il était sûr de ne pas rencontrer de camarades. Ce spectacle lui plut beaucoup comme il doit plaire, en dépit des sots, à tout spectateur neuf, par sa franchise et sa variété, de même qu'il plaît aux dégoûtés de la musique et de la littérature courantes par son outrance.
+
+Rentrés à l'hôtel et couchés, comme Louise avait joui de toute cette intimité du linge dernier, du lit à deux, de l'entrée à corps perdu dans les bras, sur le sein, dans tout l'être l'un de l'autre ! Doucet bien qu'assez habitué à des fêtes analogues mais qu'incomparables ! n'en revenait franchement pas de ce qu'il aurait pu appeler sa gloire. Par moments il se pressait le front dans une main et accoudé sur les oreillers, regardait un gros moment Louise, puis le plongeait sous l'épaule d'elle, aux longs cheveux d'ombre d'or. La bougie s'éteignit. Ils s'en passèrent et le petit jour les retrouva joyeux et plus réveillés que lui.
+
+Deux heures après, tout en s'habillant sous mille baisers et caresses partout, au cou, sur le dos, au long des reins et des jambes, sur les pieds et au bout de chaque doigt, de l'endiablé Doucet, Louise écrivit au crayon, vite et mal, comme pour se débarrasser d'une corvée, le mot suivant à ses parents :
+
+
+Je pars. Rassurez-vous. Je suis et serai heureuse. Prenez pour les écritures M*lle* Moreau. C'est une bonne femme qui me remplacera avantageusement.
+
+Votre fille qui vous embrasse.
+
+Louise. 
+
+D'autre part Doucet avait assuré ses derrières et sur l'avis de Louise, pour le cas où ils échoueraient à Bruxelles, s'était ménagé une rentrée aux Docks. Un ou deux confortables mensonges réglaient au mieux ses affaires partout jusque chez sa mère, infirme et gâteau qui même lui avait donné deux billets de 50 francs en lui recommandant l'économie. De la sorte ils se voyaient quelque pain sur la planche et un bon mois libre à partir de ce jour.
+
+A Bruxelles tout leur réussit. Le cousin de Doucet fut charmant, comprit à demi-mot la situation des jeunes gens, apprécia tout ce qu'il y avait de sûr et de solide dans Louise, alla jusqu'à la trouver un trésor pour le « petit » comme il disait en parlant de Doucet qui au bout de deux jours fut placé aussi avantageusement qu'à Paris et avec plus de chances d'avenir. Louise trouva aussi quelque chose, mi-éducation, mi-tenue de livres, de très sortable.
+
+Ils louèrent une belle chambre garnie où ils furent heureux sans nuage. Louise était d'une résolution mais d'une grâce parfaites ; attirante, séduisante, épouse et maîtresse au point que jamais la moindre idée d'une autre femme ne se dressa durant ce temps paradisiaque dans les sens ni même dans l'idée de son amant, que, jamais lui, habitué aux longues soirées de bals ou de cafés et aux « rentrages » tard, ne sortit qu'avec elle au bras, ne faisant pas de camarades tout en se maintenant cordial avec ses entours. Louise s'enfonçait de plus en plus dans son bonheur. Elle aimait son beau Léon tant et tant ! Sa tendresse, sa bonne humeur, ses petits soins et son obéissance l'enveloppaient, comme son amour toujours en éveil d'ardent gamin promu tendre amoureux la pénétrait. Elle ne pouvait se lasser de le contempler, d'entendre sa voix forte et douce qui ne proférait plus maintenant de vulgarités. Elle se pâmait à ces yeux plutôt petits mais si vifs et voluptueusement fendus que voilait d'une légère humidité le frisson des minutes adorables, à ce nez fin un peu relevé de l'extrême bout, juste assez long, aux ailes vivantes, à cette bouche forte dont la lèvre supérieure un peu surplombante sombrait d'une petite ligne de soie noire qui était une moustache, cette bouche à tant de sourires, à tant de baisers savants, ingénus, fous ! Des cheveux courts avec une petite disposition à friser folâtraient en mèches noires sur un beau front blanc moyen, et le menton et la joue et le cou d'une belle carnation un peu vive et de magnifiques dents contribuaient à l'aspect sensuel et irrésistiblement gentil de cette tête tant baisée, caressée à deux mains, bercée sur l'épaule et dans les bras et sur les seins et dans les seins ! dans tous les sens.
+
+Un matin, elle lui dit : je suis enceinte.
+
+Ce fut une joie !
+
+Doucet voyait son couronnement dans ce fait, l'apogée et le définitif de sa jeunesse qui lui semblait être et qui était en fait la plus heureuse qu'on pût rêver.
+
+Louise plus profonde, d'une imagination moins fleurie, sentait là une consommation, une consécration, et son bonheur n'en existait que davantage.
+
+Huit ou dix jours passèrent d'enfantillages délicieux. Serait-ce une fille ou un garçon ? Et tous les projets bêtas mais si gentils d'usage. Et un redoublement d'amour et d'amours !
+
+Un matin la pensée de ses parents frappa Louise, tout d'abord à l'endroit sensible...
+
+Les pauvres gens, eux aussi, avaient goûté ce délice quand elle fut conçue, et maintenant !
+
+Et les visions du cœur ! Leur désespoir, peut-être quelque malheur cérébral ou encore pire. Et les réflexions d'après. Ils avaient été si bons pour elle, elle enfant unique, leur joie ! Les avoir quittés si sèchement ! Sans doute, certes, elle referait ce qu'elle avait fait, avouaient ses manières de remords : Léon avant tout, et Léon le verrait ! Mais maintenant, — ici la chrétienne reparaissait, — le devoir aussi, un devoir doux, revoir ces gens qu'elle avait désolés et qu'elle consolerait, ne sacrifier qu'elle-même, faire une part magnifique à Léon — et plaire à Dieu.
+
+Comme Léon, selon son habitude après leur lever, se tenait à genoux les deux coudes sur les genoux d'elle éprise, leurs yeux perdus dans leurs visages, elle lui dit lui passant la main sur les cheveux lentement, s'arrêtant quelquefois :
+
+— Mon Léon, tu sais que je t'aime plus que moi-même et que tout au monde. Je suis toute à toi, donnée et prise. Tu m'as conquise absolument. Ton sang coule dans mes veines et ta chair respire dans mon sein. Mais, homme chéri, il faut penser à toi. Je ne puis plus faire ton bonheur que loin de toi désormais. Loin de toi par l'espace, car je serai toujours là par le désir et par toutes mes actions et par toutes mes pensées, qui ne seront que pour toi. J'ai des parents que j'ai laissés, il faut que j'aille les retrouver et consoler les derniers jours que je leur aurai tant avancés. Tu resteras ici où tu seras mieux qu'à Paris. Je t'écrirai tous les jours. Et puis je le veux, tout ton bonheur est dans ma volonté accomplie. Tu verras qu'il y a autant de plaisir dans la privation comme ça que dans la satisfaction...
+
+Tout cela moins bien dit, plus délayé, plus à la portée du pauvre garçon ébahi mais que, par degrés, cette parole accoutumée ramena au calme et qui finit par dire oui, oui, et par s'en aller à son magasin tout en pleurant après avoir promis d'être sage.
+
+D'ailleurs, dit-elle, je ne pars pas encore. A ce soir, cinq heures.
+
+Elle lui donna une nuit qui les mena, ravis, exténués, jusqua midi. A deux heures elle prenait le train de Paris, le laissant triste à mourir, mais calme et comme vaguement espérant.
+
+
+## III.
+
+Il y a, dans l'église dartreuse de Sainte-Marie des Batignolles, à droite en entrant par le bas côté, un Christ en croix, grandeur naturelle, effroyable et merveilleux, quelque débris d'un couvent espagnol pillé sous le premier Empire, retrouvé chez un marchand de bric-à-brac, respectueusement restauré, repeint et réédifié contre un mur chargé d'ex-voto tout flamboyant, dans l'éclat d'innombrables petits cierges votifs, d'un large ruban d'or formant gloire, qui serpente autour de l'image sainte. Cette statue est de bois, d'une belle anatomie. La tête très grosse en raison évidemment de l'élévation énorme où ce crucifix devait se trouver dans la chapelle conventuelle (espagnole, ne pas l'oublier) crie penchée, et sa convulsion épouvante dès d'abord, puis touche infiniment, tant il y a de douceur restée, d'esprit de miséricorde et de pensée vraiment catholique dans ce visage en avant qui se meurt et qui meurt pour tous. En bas, au-dessus d'un tronc, ces mots : cinq pater et cinq ave. J'aime pour ma part cet appel à la munificence des fidèles pour l'entretien glorieux du Simulacre et ce rappel aux prières efficaces de surérogation.
+
+A six heures juste, comme on ouvrait l'église, Louise qui avait couché à l'hôtel entrait se prosterner aux pieds du douloureux Symbole. Elle y resta longtemps ; son industrie catholique lui suggérait de n'aller pas plus haut d'abord et de déposer, en ce lieu humble et par devant la seule représentation sensible des saints mystères de l'autel, le fardeau de ses péchés si griefs pour ensuite, humiliée et toute encore, par le péché mortel non remis, dans la main de son Sauveur et de son Juge, mais assouplie, la langue purifiée par la prière vocale, — elle avait récité plusieurs chapelets de pure supplication et non les cinq pater et cinq ave prescrits en vue d'indulgences qui ne peuvent s'obtenir qu'en état de grâce, — pour le porter ensuite au confessionnal. Ses aveux furent courts. L'absolution obtenue, elle assista à l'une des messes célébrées à l'autel de la Sainte Vierge, au bout de ce même bas côté, puis communia.
+
+Rentrée rue des Dames, elle trouva au comptoir le plus âgé des garçons qui lui apprit que son père était mort il y avait six semaines d'une attaque d'apoplexie foudroyante en sortant de déjeuner, et que sa mère ne valait pas beaucoup mieux, ayant été prise ce même jour d'un tremblement par tout son corps. Depuis ce temps elle n'avait pas quitté le lit. Le médecin ne lui donnait pas un an à vivre. La tête y était pourtant encore et dès le commencement M*me* Leclercq avait fait venir M*lle* Moreau qui tenait les comptes et servait les clients alternativement avec lui, Ernest. Tout ceci raconté d'une voix tremblée par le jeune homme en longue toile grise. Louise, immobile dans sa toilette sombre, accueillit d'un lent soupir ces nouvelles dont elle se doutait puis alla voir sa mère. Elle la trouva yeux grands ouverts qui se laissa baiser sur les joues et ne lui dit que ces deux mots : — ô Louise ! A quoi celle-ci répondit : maman, je suis rentrée pour toujours, ne vous inquiétez de rien. Tout ira pour le mieux. Prions pour mon père et pour votre santé. Dieu sera bon.
+
+Elle parlait d'autorité. Rien d'inutile dans son discours ni dans son verbe. Une décision absolue la dirigeait, une conviction inébranlable, la certitude même. Sa mère subit tout de suite cette volonté raisonnable, froide, douce et qu'elle sentait réparatrice. Elle ne revint jamais sur le passé. M*lle* Moreau et Louise gouvernaient la maison. La première arrivait à huit heures, prenait ses repas chez M*lle* Leclercq et ne repartait que quand on fermait. Les garçons couchaient dans une mansarde de la maison. Ces jeunes gens étaient bien convenables, comme disait le pauvre M. Leclercq. Quoique âgés de dix-huit et seize ans, les deux frères se montraient dévoués, actifs, probes et comme des enfants de la maison. S'ils avaient quelque amourette là-haut, où logeaient les bonnes, il n'y paraissait ni à leur exactitude ni à leurs dépenses ni à leur langage, qui était toujours des plus respectueux.
+
+Louise tint parole à Léon et lui écrivait tous les jours. Ses lettres plus maternelles encore que conjugales faisaient le meilleur effet sur le bon garçon. Elle le mit au courant de la situation, — lui promettant, et Léon savait bien que promettre pour Louise c'était tenir, — de se marier avec lui aussitôt que serait morte sa mère malheureusement condamnée par les médecins. Ils vivraient à Bruxelles de sa place à lui et de la petite fortune qu'elle réaliserait par la vente du fonds d'épicerie en outre des économies du ménage Leclercq.
+
+Léon se résignait, se tenait sage, sourd aux grosses tentations belges, tout à Louise et à l'avenir en elle.
+
+Ce fut patiemment donc en somme qu'il attendit. Il avait fait part de son changement à sa mère avec laquelle il garda de bons rapports et dont il pouvait attendre quelques mille francs. La mort de M*me* Leclercq prit place deux mois après le retour de sa fille qui l'avait soignée divinement. La vente du magasin s'opéra dans les meilleures conditions et le mariage put avoir lieu avant la naissance de Léonie Doucet, que celle d'un Louis suivit à un intervalle d'un an. 
+
+Le ménage est heureux. Léon est devenu un homme intelligent. Il reste enjoué, de bonne composition et pour toujours reconnaissant à sa femme. Elle, c'est la bonne chrétienne, la mère par excellence, l'épouse aimante et la femme forte, en un mot l'unième sur mille. 
+
+
+# PIERRE DUCHATELET.
+
+C'était dans l'un des derniers mois du siège, au bastion Tant.
+
+Il avait neigé la veille et gelé pendant la nuit. Il pouvait être huit heures du matin. Le ciel était rouge sur les villages et les forts de l'extrême horizon, et trouble sur la ville.
+
+De temps en temps le canon des forts floconnait au lointain, une courte détonation s'ensuivait. On disait sceptiquement :
+
+— Encore un que les Prussiens n'auront pas !
+
+Car on commençait à désespérer du salut final et la colère montait à bien des têtes.
+
+Le bataillon de garde attendait que les camarades vinssent le relever. La nuit blanche passée dans les casemates avait défait toutes les mines, fripé toutes les frusques. Ce n'étaient que faces jaunes ou violettes à cheveux et barbes emmêlés, que vareuses chiffonnées indiciblement, que capotes souillées aux coudes, aux épaules et partout. L'ennui d'une besogne inutile et presque ridicule somnolait dans ces yeux battus, rougis, caves, cernés, miteux ; du pain quotidien suffisant et dignement gagné pour la femme et les enfants, celle du feu, celle du loyer, assombrissaient ces fronts, les plissaient, fronçant et confondant les sourcils furieux sous un poids plus lourd que les képis avachis, encore détrempés par la neige d'hier, enfoncés rageusement à deux mains contre les farces de cet hiver comme on en avait peu vu.
+
+Des groupes stationnaient ou circulaient le long du chemin de ronde, auprès des casernes d'octroi, l'entrée des premières rues du faubourg. D'aucuns battaient la semelle, d'autres lisaient à haute voix l'Avant-Garde, que venaient de crier de petits marchands :
+
+— Achetez Frédérick-Charles prisonnier !
+
+— Voyez l'armée de la délivrance ! Nouvelles victoires sur la Loire !
+
+— La vraie chanson de Charles Bourbaki !
+
+— La jonction avec Chanzy !
+
+— Marche de Garibaldi sur Paris ! La grande déroute des Allemands !
+
+— Le dernier discours de Léon Gambetta !
+
+— Réponse du gouvernement de la Défense Nationale aux délégués du dix-huitième arrondissement !
+
+— Dix centimes, deux sous !
+
+D'autres, enfin, mains dans les poches, à trois ou quatre sur un rang, marchaient vite, généralement précédés d'un interlocuteur allant à reculons, en tambour-maître.
+
+Des isolés, boudeurs ou philosophes, fumaient la pipe, assis sur des pavés près de feux de bivouac aux trois quarts éteints depuis le petit matin qu'on avait permis de les rallumer, ou se promenaient pour des heures dans le même périmètre.
+
+Parmi ces derniers — les isolés marcheurs — il s'en trouvait un, d'environ vingt-six ans, plutôt maigre et pâle, toute sa barbe, une barbe légère blonde et noire, des sourcils de jaloux, qui se touchaient, l'air très doux qui devait changer vite à la moindre émotion, taille au-dessus de la moyenne, démarche gauche et l'apparence timide.
+
+Sinon qu'il faisait assez irrégulièrement son service et qu'il était poli au suprême degré, complaisant si besoin était et fort peu causeur, on ne connaissait rien de lui dans le bataillon. Tout neuf d'ailleurs dans le quartier où il s'était installé en août avec sa femme qu'il avait récemment épousée. Employé, dans une administration publique, une petite aisance avec ça, à en juger par les toilettes de madame et leur appartement à mille francs voilà ce que la compagnie tenait des expansifs de l'escouade.
+
+Il s'appelait Duchatelet. On avait entendu sa femme le prénommer Pierre.
+
+Il marchait de long en large depuis la porte jusqu'à la caserne d'octroi, suivant le chemin de terre tracé entre le gazon du rempart et le pavé du trottoir, le tout d'ailleurs, chemin, gazon et trottoir, recouvert d'un pied de neige durcie et passablement glissant, mais les bottes de l'homme étaient clouées à glace, et il marchait, grâce à leur poids considérable, lourdement et comme carrément.
+
+Les réflexions dans lesquelles il paraissait enfoncé étaient de la nature la plus simple.
+
+Par un entraînement très naturel et très louable, bien qu'il fût employé du Gouvernement et de ce fait exempt du service militaire pendant la période obsidionale, il s'était laissé inscrire au bataillon de son quartier, avait pris part aux premières réunions d'instruction, manœuvré, été à la cible, etc., plein de zèle, — d'un zèle assez superficiel, histoire de jouer au soldat, de porter un « képi », comme un peu tout le monde — puis, selon l'hiver avançant, la gelée pinçant de plus en plus les mains sur l'acier du fusil, les pieds sur le verglas des trottoirs, au fur et à mesure de l'illusion s'en allant, pigeons menteurs, affiches emphatiquement trompeuses, décrets fallacieusement déclamatoires, les camarades ! ceux du bureau capons et insolents, ceux du bataillon bravaches et bêtes et tant d'autres et cœtera ! — il s'était refroidi comme les mois ; glacé comme les nuits de cet immense siège dérisoire, banqueroute au patriotisme, plaisanterie prussienne et emballage parisien, énigme farce dans l'horreur psychologique d'un siècle éminemment ironique et sinistre s'il en fut !
+
+Une dernière chose l'avait tout à fait dégoûté, sa condamnation à quarante-huit heures de prison en raison de manques fréquents à l'exercice. Ce qu'il en voulait à son capitaine, un avoué ! de lui être si sévère, et à son chef de bureau pour ne pas l'avoir exempté de ce ridicule par un mot d'excuse !
+
+Il avait été trouver celui-ci, lui expliquant d'un mot son affaire et s'en était attiré la moquerie suivante :
+
+— Eh ! mon Dieu ! cher monsieur, comment voudriez-vous que j'essayasse de vous faire effacer votre prison ? A quel titre, en vertu de quoi ? Vous n'avez pas, au commencement du siège, voulu vous prévaloir de votre qualité d'employé du gouvernement pour éviter le service militaire et selon moi vous avez bien fait. Votre exemple était excellent et trop peu de nos collaborateurs l'ont donné après vous. Je regrette beaucoup, pour ma part, que la nature de mes fonctions ne me permette pas en ce moment de servir mon pays autrement que par des travaux administratifs. Vous comprenez bien que mon autorité ne peut s'exercer en aucune façon dans votre bataillon. Ce serait un conflit intolérable et vos supérieurs me le feraient très justement sentir en me priant de me mêler de mes affaires. Tout ce que je puis faire pour vous est de vous excuser, comme employé, du temps que vous ne pourriez venir au bureau ; je ne mentionnerai pas de cause précise, je mettrai « retenu à son bataillon ». Allons, cher monsieur, au revoir. Ne vous ennuyez pas trop... Aussi, permettez-moi de vous le dire, pourquoi n'êtes-vous pas plus exact que ça à l'exercice, vous, un volontaire, en quelque sorte ? — A bientôt donc, monsieur Duchatelet...
+
+Et il avait dû faire sa prison, parmi une trentaine de punis pour fautes analogues à la sienne, rester quarante-huit heures dans cette camaraderie bonhomme si l'on veut, mais ennuyeuse, turbulente, bavarde, buveuse et bêtasse au possible, subir la température (en plein hiver de 1870-71 !) d'un plafond extrêmement haut et celle d'un poêle énorme qui ronflait nuit et jour, entretenu du dehors par des geôliers que la « pièce » rendait trop complaisants sous ce rapport et sous les autres. Il dut même à cette dernière circonstance de sa courte mais exaspérante incarcération un fort commencement de bronchite qui le retint au lit pendant près d'une semaine.
+
+Et il était, ce matin-là, précisément en train de penser à l'un de ses amis intimes, chirurgien-major au bataillon, qui venait de le soigner pour sa gorge non sans lui recommander la plus grande prudence et, si possible, une complète abstention ultérieure de service militaire, lui offrant même tous les possibles pour ce dernier cas. Il avait refusé en souriant l'occasion d'ainsi se soustraire « aux grands devoirs assumés ».
+
+Mais ce matin-là il pensait à cette proposition d'autant plus sérieusement que depuis quelques jours il était question du versement dans les bataillons de marche d'une certaine catégorie de gardes mariés. Son âge de vingt-six ans semblait devoir l'exempter encore cette fois, — mais il n'y avait plus de temps à perdre pour quelqu'un de dégoûté comme lui, de découragé, — et de malade susceptible de passer impropre au service.
+
+Non, il n'y avait plus de temps à perdre.
+
+Il allait donc, dès rentré en ville, courir chez son ami le docteur, emporter le fameux certificat, l'envoyer à son féroce capitaine — et vive la liberté !
+
+Tout rasséréné par cet avenir qu'il touchait de la main, auprès de quelques camarades d'ailleurs presque inconnus assis aux feux de bivouac, échangeant avec eux des nouvelles de la nuit passée, lâchant même quelques plaisanteries, jusqu'à des calembours, pour laisser du moins de lui un souvenir cordial et pas fier à ces chers compagnons d'armes dont il « devait » bientôt se séparer, il songeait comme en un gîte.
+
+Soudain un coup de tambour retentit. ;
+
+Il s'agissait d'une communication générale de l'État-Major aux bataillons, officiers, sous-officiers et gardes ; chaque compagnie était convoquée immédiatement à l'effet d'entendre son capitaine, dans tel, tel ou tel endroit selon le numéro de la compagnie du bataillon.
+
+La compagnie dont faisait partie Pierre Duchatelet devait s'assembler sans armes auprès de la porte du bastion, entre les deux murs des bureaux de l'octroi.
+
+Pierre Duchatelet se rendit là comme les autres.
+
+L'endroit était militaire vraiment, avec ce pont-levis muni d'une garde d'honneur et protégé plus efficacement par deux grosses pièces de rempart, — et le nu des murs, le farouche des visages — par intervalles le canon des forts voisins et celui guère plus lointain de l'ennemi, ajoutaient le positif de la guerre à l'appareil puéril de cette garde bourgeoise et ouvriasse mal équilibrée dans la surcharge de son zèle aux emblèmes civiques et soldatesques théâtralement, comme tout à Paris.
+
+Le capitaine, bedonnant, rougeaud, barbe poivre et sel, une bonne voix d'audience aigre et nette, lut un décret reportant telles classes de sédentaires dans celles de marche.
+
+Un profond ennui se fit lisible dans des yeux assez nombreux. Même une voix tremblante de colère ou d'autre chose s'écria, aux chuts plus décents qu'indignés de l'assistance :
+
+— A quoi bon, maintenant que la trahison a tout gâté, même ici à Paris, même en République ? C'est faire charcuter les gens pour rien !
+
+Le capitaine tira de sa poitrine un second papier qu'il déploya, gargarisa sa voix dans un : hem ! qui le cambrait, changea le parallèle impératif de ses jambes en un repos de défi à l'ennemi sur le pied gauche, le pied droit en avant battant comme une Marseillaise sur l'humidité noire des pavés, — et d'un ton suraigu, vibrant, très ému du reste, proclama un appel du commandant du secteur au patriotisme de tous les gardes de bonne volonté : — Que vos frères d'armes, disait la conclusion de cette pièce, ne partent pas seuls. La République compte qu'une bonne escorte de volontaires accompagnera les hommes désignés pour aller combattre les derniers combats de la délivrance !
+
+De très jeunes gens regardèrent leurs compagnons qui souriaient goguenardement. Le silence était glacial comme ce vent des derniers mois en r qui vient geler les haleines dans les barbes. Le capitaine avait remis ses papiers dans sa poitrine, désappointé sans trop d'étonnement, sentiment traduit par un presque imperceptible mouvement d'épaules.
+
+Pierre Duchatelet, tour à tour pâle et rouge, tout tremblant, dit à voix entrecoupée :
+
+— Pauvre patrie ! Je m'engage aux bataillons de marche ! 
+
+On cria bravo. C'était un beau coup de théâtre.
+
+Quatre ou cinq d'entre les plus jeunes gardes s'écrièrent, presque en chœur, la main étendue en avant :
+
+— Nous aussi !
+
+Les bravos redoublèrent, on entoura les volontaires, leur serrant la main, non sans un attendrissement trop visiblement gouailleur pour bien faire. Ce fut tout. Le bataillon de garde arrivait, le cérémonial de la relevée puis du départ s'opéra dans l'ordre accoutumé, l'on reprit le chemin du lieu de réunion du bataillon, au son d'une polka jouée plus allègrement que d'ordinaire par la fanfare. Au bout d'un quart d'heure de marche accélérée, l'on rompit les rangs et les cafés du voisinage s'emplirent de conversations relatives à l'incident de tout à l'heure.
+
+— On n'est pas plus bête ! dit un lieutenant, bel homme blond qui battait son absinthe.
+
+Rentré chez lui, après avoir embrassé sa femme, petite brune un peu zézayante, à l'embonpoint naissant, dont les yeux gris disaient une malice crue sans fiel, Pierre, sous prétexte de fatigue, passa au salon et s'y étendit au long d'un canapé, méditant sur ce qu'il venait de faire il y avait quelques instants.
+
+Un médaillon de cire un peu plus grand qu'une pièce de cent sous, précieusement encadré sous verre, pendait au mur, à la portée de sa main. Il prit le délicat objet et le considéra longuement. 
+
+Le visage de sa femme, était de profil. La ligne du front petit, du nez un peu retroussé, la bouche rouge, nette, le teint haut sans exagération et l'œil bien fait sous le sourcil bien arqué, lui entraient dedans en même temps que les jours d'une cour assez longue, correspondance innocente et confidences naïves sous la surveillance des bonnes gens de beaux-parents, passaient dans sa mémoire, obscurcissant la chère image d'un brouillard de pleurs. Au cou frêle encore flambait une cravate ponceau dont le gros nœud se renflait sur le haut d'une robe noire toute simple, coupée par le cadre à la tombée des épaules. Le cadre d'ébène neutralisait un peu les teintes trop ambrées à dessein de la cire et restituait à l'image la pâleur chaude de l'original.
+
+Pierre pleura, puis sanglota. Qu'est-ce qu'il avait fait, imbécile ? La chère enfant, qu'allait-elle devenir ?
+
+Maudit enthousiasme, ridicule peut-être, à coup sûr odieux quand on est le mari d'un tel trésor ! Et il serrait le portrait entre ses mains, le couvrait de baisers et de larmes.
+
+A ce moment dans la rue le rappel battit.
+
+Il battait souvent à cette époque d'héroïsme assez factice. Pierre se rendait compte tout aussi bien qu'un autre de cette fréquence abusive et l'avait, surtout dans les derniers temps, ressentie d'une façon particulièrement nerveuse. Mais dans la le rappel, cri d'alarme enroué, rauque, haletant, le rappel méritait pour lui, le Volontaire, bien son nom : rappel aux dangers, rappel au sacrifice promis, voix désespérée de la Patrie, hoquets de cette sainte Moribonde, que le sang seul de ses enfants, un bain de sang où il avait juré de verser sa goutte, pouvait sauver, si salut il y avait, — et s'il n'y en avait pas, devait empourprer sur son sol sacré, doublement sacré par la chute de cette Reine auguste !
+
+Il ouvrit une fenêtre donnant sur le balcon. La vue, de là, était magnifique : l'Hôtel de Ville à gauche, à droite le Grenier d'abondance, en face, le trou d'une rue étroite, populeuse, commerçante, prolongement et trait d'union de deux ponts des plus passants, immédiatement sous ses yeux la Seine, verte, légère avec ses bateaux pour rire et ses lavoirs en congé ; le soleil était gai, froid, ironique d'être lointain mais sympathique de luire encore.
+
+Le long du quai, un vieux, vêtu de la vareuse — cette vareuse qui ne sera pas légendaire, je le crains — tapait, vieux tapin, sur sa caisse, allègrement, en artiste, le képi, à défaut de shako, sur l'oreille, mais triste tout de même. Évidemment, soldat, ça l'ennuyait, cette besogne civique à moitié. Rappeler des civils... enfin... c'était militaire à peu près, — et il y allait de son voyage. 
+
+Pas civil, peu civique, militaire beaucoup. Des ra, des fla très bien mais peu convaincus, eût-on dit.
+
+Duchatelet comprenait cruellement ces nuances, bien que civil, civique, et pas militaire du tout.
+
+Néanmoins, sa promesse, son engagement, l'honneur quelconque, patriotique, ô patriotique ! l'empoignaient au son de cette caisse sombre, sonnant la mort, qui passait, guerrière découragée mais toujours brave, dans ses yeux pleins d'une vision chevaleresque à sa façon.
+
+Le vieux tambour était accompagné d'un petit clairon, en vareuse aussi, képi sur l'oreille aussi, quatorze ans ou quinze, parisien en diable et le diable au corps évidemment, qui, le vieux cessant de battre sa caisse, souffla dans son instrument un rappel pas correct, aux notes fausses, mais en mesure, mais vibrant et empoignant aussi. L'air aigre, le voyou maigre au pas allègre alternaient presque joyeusement avec les coups sourds, avec la marche lourde du tambour, et les suppléaient gaminement, mais virilement encore.
+
+Pour le coup, Duchatelet, parisien, se livra tout à fait : le patriotisme, complètement réveillé par cette note patrouillote, dressa en lui toutes ses énergies et dès lors sa résolution fut prise.
+
+Un léger bruit se fit : sa femme entrait.
+
+Il avait gardé le médaillon. Sa main héroïque comme la serre d'un aigle ce frêle trésor de son cœur tout à l'heure encore amoureux.
+
+Deux bras enlacèrent son cou. Deux mains exquises, parfumées, blanchettes aux ongles roses, se trouvèrent sous ses lèvres qui ne les baisèrent pas.
+
+Stupéfaites, les mains s'écartèrent dans un geste gentil, et la voix de la petite épouse, de l'enfant gâtée, s'éleva dans le silence de sa préoccupation.
+
+— Chéri, à quoi penses-tu ?
+
+Il tressaillit. Le médaillon tomba de sa main, le verre cassa.
+
+— Toujours à toi, tu vois, petit chou bien-aimé.
+
+Et il ramassa le médaillon, le baisant à travers la brisure.
+
+— Mauvais augure, dit-elle fronçant ses sourcils sur des yeux véritablement alarmés dont un baiser triste but les pleurs naissants.
+
+Car ce qu'il l'aimait ! Et comme il cherchait un mensonge qui la rassurât, qui l'endormît en des rêves meilleurs que la vie, — mais qui l'affranchît, lui, le laissât libre d'agir pour la Patrie, de faire le Devoir, dussent-ils en mourir tous deux !
+
+Elle, de son côté, restait méfiante d'une catastrophe pressentie. Et ses yeux qui lui souriaient maintenant, à lui, néanmoins demeuraient vagues, errant dans quelque avenir deviné sinistre.
+
+Il lui prit les mains et les baisa longuement, savourant cette caresse comme on jouit d'une tendresse qu'on a...
+
+— Écoute, Jeanne, un grand secret. Mais ne le dis à personne surtout...
+
+Elle se dressa sur ses petits pieds chaussés de mules vertes et gentiment lui donna un soufflet mignard.
+
+— Comme si je n'étais pas la discrétion même !
+
+— Ça va sans dire que tu l'es. Mais enfin on peut bien te faire une recommandation spéciale.
+
+— Ce secret ! tout de suite !
+
+C'était dit en souriant à travers des larmes.
+
+— Voici... Écoute... Mais le plus grand secret, n'est-ce pas ? (Le mensonge était long à sortir. La tromper, même pieusement !) J'ai été nommé sergent et devrai tous ces temps-ci assister à des conférences de sous-officiers. Ça m'ennuie, puisque ça m'éloigne encore un peu plus souvent de toi, mais ce me sera une très bonne note au bureau : preuve de bonne conduite, de zèle, etc. Seulement, d'ici, à huit ou dix jours, pour des raisons techniques qui ne t'intéresseraient pas, pas un mot, ni à tes parents, ni aux fournisseurs, et encore moins à la bonne, tu sais quelle langue elle a dans la bouche.
+
+— Sois tranquille, petit homme, dit Jeanne, qui coupa complètement dans l'absurde pont, à la satisfaction attendrie, presque attristée, du pauvre blagueur. Puis, dans une moue de pressentiment, elle ajouta :
+
+— O ces raisons techniques !
+
+Et un long baiser d'elle mit une fin délicieuse à ce plus que pénible entretien...⁎  
+⁎ ⁎
+
+— Rataplan, taratata, le jour de gloire est ar-rivé !⁎  
+⁎ ⁎
+
+Une plaine, villas démantibulées, arbres doublement morts, et par l'hiver, et sous les boulets des deux nations en lutte. D'immenses volées de corbeaux. La pluie et le dégel. Quel froid sale et quel sale froid ! Nom d'une pipe !
+
+Et le bataillon de marche, crâne, chic avec ses couvertes en bandoulière et ses guêtres de toutes fantaisies, arrive, chantant, les mains bleues sur le bois des fusils à l'épaule gauche :
+
+Laïtou, c'te chaleur me lasse,  
+Laïtou, je r'tir'mon tricot,  
+Laïtou, j'voudrais bien qu'il passe  
+Laïtou, un marchand d'coco !  
+
+Mais voici le commandant, à cheval, s'il vous plaît, un peu trognonnant, très brandouillant sur son cheval d'omnibus étonné d'être monté, surtout ainsi, — mais, en somme chouette et strict assez sous d'énormes galons blancs et dans des bottes d'un vernis que je ne vous en dis que ça, montant jusqu'au genou, ah mais vrai, on se met bien au 16*e*.
+
+L'excellent bougre, haussant sa voix jusqu'à des diapasons inconnus même aux plus étonnants marchefs, commanda :
+
+— Halte !
+
+Et ajouta :
+
+— Pas tant de potin. Silence ! L'ennemi est là, à deux pas. De la dignité, du silence, surtout du silence ! C'est l'A B C de la stratégie, ça, le silence. Et maintenant, citoyens, en tirailleurs.
+
+On se disposa en assez bon ordre en tirailleurs.
+
+Pierre, isolé de dix mètres entre deux camarades, se coucha dans la boue, le fusil contre la joue, tenu sur les coudes et attendit.
+
+La plaine grise rejoignait au loin le ciel gris ; vers l'horizon, des murs gris de jardins, de cimetières, s'étiraient tristement par places ; des balles prussiennes en sortaient à tout bout de champ, faisant tout près, devant, derrière, sauter la terre en petites mottes de boue qui fumaient. Quelquefois un des tirailleurs criait dans des convulsions : c'était une balle qui avait atteint son but entre mille et mille.
+
+A gauche, loin, loin, en avant des forts, une canonnade sérieuse grommelait comme un coup de tonnerre qui n'en finirait pas. En même temps, un bruit d'un tas de crécelles tournant pas à l'unisson, grêle, sec, terriblement précipité, crépitait, pétillait sur la droite : c'était la division Chose qui attaquait des positions sur la Marne, une démonstration pour nous faciliter le travail de l'artillerie.
+
+Le clairon donna le signal d'avancer. Les tirailleurs se relevèrent, marchant le dos courbé, la main sur la gâchette, puis mirent le genou en terre.
+
+— Feu à volonté ! signifia le clairon.
+
+Le commandement s'exécuta à la lettre. Ce fut une belle pétarade dont il est à redouter que l'ennemi, derrière ses murs, ne souffrit pas plus que ça.
+
+Pierre passait par des sensations qu'il est inutile de décrire, étant donné les deux amours qui le poignaient maintenant, sa femme et la Patrie. Cette dernière, toutefois, maintenant qu'il se battait pour elle, l'emportait de tout le poids d'une chose générale, traditionnelle, cordiale aussi, parbleu ! dans la balance, oscillante un instant, de ses tendresses. Et ce fut, de toute sa vie, la plus grande émotion, la meilleure joie, que ce danger réel, cruel, que ce courage froid de la guerre moderne, toute topographique et panoramique, pour la « pauvre Patrie ! » comme il avait dit en s'enrôlant ! Maintenant, qu'il mourût, que lui faisait ! puisque c'eût été le sacrifice par excellence, — et puis, des réminiscences classiques, ces bons, ces forts conseils du Collège à l'Adolescence,
+
+Dulce et decorum pro patria mori !  
+
+C'était surtout cette attente de la mort pour la France, un doux espoir comme la France, comme le nom de France, doux comme la chère langue française, doux comme les souvenirs d'enfance et de jeunesse, qui lui faisait battre son cœur fortement, mâlement, délicieusement.
+
+Ah ! oui, mourir pour tout ça, rendre tout ça, en sang, à la Terre qui vous berça, qui vous nourrit, qui vous gâta, vous, vos parents, vos amis, vos fils, et bercera vos arrière-neveux, ah ! c'est bon, c'est bon, c'est bon !
+
+Et puis, que c'est beau, aussi !...
+
+... Le tambour battit, le clairon sonna, quoi ? la retraite !
+
+Cependant des hommes mouraient, criaient, emballés, entre des hurlements de souffrance :
+
+— Vive la France !
+
+Quelques-uns même de ces blessés mortellement, superbement exclusifs en l'honneur de nuances grandes encore dans la lumière immense du patriotisme à l'action, criaient, et avaient raison :
+
+— Vive la République !
+
+Vive le Roi !
+
+Vive l'Empereur ! 
+
+Vive la Commune !
+
+On se replia en bon ordre. Par file à ci, par file à là, en avant ! marche !
+
+Ra ta plan, taratata, le jour de gloire est arrivé ! —  
+
+Pierre, fier, plus grand que nature, lui semblait-il, marchait ferme sous l'obus parmi les balles. O sa petite femme, comme elle serait fière, elle aussi ! Les femmes aiment les militaires, aiment les militaires...
+
+Et il chantonnait, sincère, cette ariette bouffe.
+
+On rentra dans Paris. Que de cris, que de questions ! La trouée est donc faite ? Avez-vous vu Bourbaki ? Et Chanzy ? Et Garibaldi ?
+
+Beaucoup d'hommes, dégoûtés de cette farce meurtrière dont ils avaient été les héros, oui ! et les pantins répondaient :
+
+— Zut ! nous sommes trahis. Qu'on nous y reprenne !
+
+Pierre, ravi d'avoir été brave et de revoir sa femme, criait, lui, à pleins poumons :
+
+— Vive la République ! Vive la France !
+
+En rentrant chez lui, il ne retrouva plus sa femme. Une lettre lui disait :
+
+
+Monsieur,
+
+Adieu pour toujours.
+
+Jeanne Duchatelet. 
+
+Une cloche de bois tintait à ses oreilles, en syllabes sourdes, « pour toujours ».
+
+Il tomba par terre, évanoui.
+
+Son réveil, ce réveil !
+
+Quoi, partie, pourquoi ? mais pourquoi !
+
+Vexée de son beau mensonge ? Allons donc ! Elle était trop gentille et trop intelligente pour ça ! Croyait-elle, avait-elle cru en une carotte, en une cocotte ! Non ! Trop sûre de son amour pour ça ! Alors ! Alors !
+
+Son père !
+
+Le beau vieux veuf remarié, en calotte de drap d'or !
+
+Oh !
+
+Il exagérait ; d'abord ce beau-père, était moins noir qu'il ne se le faisait diable. Tout au plus un bourgeois prétentieux et serré, frotté d'artisterie et de littérature comme un chapon de salade le serait d'ail, méchant, parbleu ! pour un gendre et fourrant son nez dans un ménage où il n'avait que faire... mais tout le monde en est là avec un beau-père, surtout à espérances, et il était à espérances, donc jaloux d'un cohéritier de sa chère Jajeanne et lui souhaitant naturellement tout le mal possible.
+
+Et puis, il se trompait sur son compte dans le cas présent.
+
+Non, ce n'était pas le père de sa femme qui avait conseillé le dur, l'affreux départ de celle-ci. 
+
+C'était bel et bien elle qui avait trouvé ça, et il devait le comprendre plus tard.
+
+Il devait par expérience en arriver à cette déplorable conviction que Jeanne ayant, par quelque bruit de quartier (elle allait faire queue elle-même à la porte des fournisseurs, suivie de la bonne, comme elle eût fait ses marchés en temps normal), appris son enrôlement et son départ pour les avant-postes, n'avait précisément rien compris à son « beau mensonge », pleuré, jeté les hauts cris et des bras en l'air, puis, crises de nerfs bientôt converties en un mutisme hystérique, paquets faits, fiacre à la porte et fouette cocher !
+
+Mais sur le moment c'était le père qu'il rendait responsable.
+
+Irait-il le voir, lui réclamer sa femme ?
+
+Non, un malheur pouvait arriver, il ne pouvait répondre de lui-même dans son état d'esprit.
+
+Ma foi, il serait fier. A la fin, pour qui le prenait-il, ce birbe-là ? Il serait bien bon d'aller lui réclamer son ange séduit, et — ô inconséquence de ce douloureux cœur humain ! — cet homme qui eût donné la dernière goutte de son sang pour sa femme, alla cette nuit même chez une fille.
+
+Triste consolation que la prostitution de sa chair d'honnête homme honnêtement épris à la chair banale d'une traînée ! Son dégoût, au matin ! Et quelle hâte à sortir des bras infâmes et du lit affreux !
+
+...Personne encore chez lui que la bonne qui, interrogée à nouveau ne put que répondre comme la veille : — Madame m'avait envoyée très loin en courses, puis autorisée à aller voir ma tante des Buttes-Chaumont, à condition de revenir au plus tard à neuf heures du soir ; il en était huit et demie quand je suis rentrée et plus de madame. Rien que cette lettre d'elle pour monsieur, sur la table de la salle à manger. Je dis d'elle parce que je connais l'écriture de madame par le livre de dépenses qu'elle veut bien me montrer tous les soirs pour vérifier les additions.
+
+— C'est bien, dit Pierre que ce cruel verbiage, déjà entendu mot par mot, agaçait prodigieusement et blessait jusqu'au cœur par la vraisemblance même des faits énoncés, — c'est bien, vous êtes une brave et fidèle fille. Restez à mon service en attendant le retour de madame qui m'annonce un petit séjour près de sa mère souffrante... Faites-moi un bouillon au Liebig et ouvrez une boîte de conserves... une de celles où il y a écrit dessus « Australian beef ». Je reviens dans un quart d'heure.
+
+Et il sortit pour s'apaiser à la neige qui tombait à frais, à blanc, à doux flocons.
+
+Une immense affiche blanche, devant laquelle stationnait un groupe nombreux, s'étalait sur un des panneaux de la devanture d'un café situé au rez-de-chaussée même de la maison qu'il habitait. C'étaient deux proclamations, l'une du gouvernement, l'autre d'un des généraux divisionnaires de la garnison de Paris. Elles annonçaient avec une certaine maladresse crâne une sortie prochaine de toutes les forces assiégées et prédisaient la victoire en termes vraiment enthousiastes qui empoignaient quoi quon en eût.
+
+Cette fois ce serait décisif, on mourrait ou on vaincrait.
+
+— Bien envoyé ! tel était le résumé des opinions. A la suite des proclamations, l'affiche portait, en plus petit texte, des itinéraires de troupes et des dispositions stratégiques un peu naïves si précisément elles ne devaient pas tromper l'ennemi qui, certes, avait des espions dans la place.
+
+Pierre, lisant avec tout le monde, vit le numéro de son bataillon de marche, son lieu de réunion et sa destination devant l'ennemi. Justement, c'était pour ce soir le départ aux avant-postes. Pierre remonta chez lui, s'équipa, dépêcha son déjeuner, fit à la bonne les recommandations nécessaires et partit.
+
+Il fut brave à tous crins dans la bataille du lendemain, où plus d'un trouva la mort. Lui, la cherchant avidement, rageusement, n'attrapa pas la moindre, blessure et ce fut désolé qu'il rentra chez lui deux jours après, car il s'attendait bien à ne pas plus retrouver sa femme que précédemment.
+
+Elle était pourtant venue, se doutant bien que Pierre était aux avant-postes. Encore un peu, il l'aurait rencontrée, car elle pensait comme tout le monde du reste, que l'affaire durerait plus longtemps.
+
+Oui, elle était venue, la concierge le dit à Pierre, il y avait à peu près deux heures (il en était quatre de l'après-midi) et était repartie, à pied cette fois, sans bagage, avec la bonne.
+
+Elle avait, on peut le dire, soudoyé celle-ci, qui était une précieuse cuisinière et une femme de chambre parfaite, — n'emportant d'ailleurs que le médaillon de cire dont il a été question plus haut.
+
+Quel coup, pour le pauvre Pierre, quand il constata la disparition de cet unique objet ! Il y avait donc de la haine dans la fuite de sa femme ? Ah ! maintenant la rancune, — un esprit de vengeance conjugale l'envahissait. Il avait un couteau dans sa poche. Se débarrassant du fusil, du sabre-baïonnette et de tout son équipement de guerre, il descendit l'escalier quatre à quatre et fut en un quart d'heure à la porte de son beau-père.
+
+Son furieux coup de sonnette fit venir ce dernier qui, à ses questions précipitées, hachées : — Où est Jeanne ? Voilà deux jours qu'elle n'est pas rentrée. Que signifie cette lettre ? Savez-vous quoi ? vous ! répondit placidement : — Mon cher Pierre, calmez-vous. Tout ira bien avec de la patience. La pauvre enfant a un peu perdu la tête. Son affection même pour vous l'a égarée. Elle vous en veut de l'avoir ainsi surprise en vous enrôlant dans les bataillons de marche. Excusez ce sentiment bien naturel chez une femme si jeune. Et puis, pensez qu'elle est enceinte...
+
+— Enceinte du diable ! hurla Pierre. Je veux la voir, entendez-vous.
+
+— Elle n'est pas ici, répliqua l'impassible beau-père. Voyons, pas d'exaltation. Mais entrez donc, on nous entend de tout l'escalier. Voulez-vous dîner avec nous ? Je vous assure que sous très peu ma femme et moi vous la ramènerons...
+
+Pierre, voulant en effet être raisonnable, dîna, ce soir-là, chez ses beaux-parents, — puis les jours se passèrent, les semaines, et tous les jours, et chaque semaine c'étaient de nouvelles exhortations à la patience... Jeanne était chez des amis, très malade, — mais la vue de son mari la tuerait, celle même de ses parents lui était douloureuse et ils avaient dû se priver de la visiter... Aussi, là, sans reproche, que ne les avait-il consultés ou tout au moins que ne l'avait-il un peu prévenue, avant de prendre cette détermination, si honorable d'ailleurs...
+
+Oh !... Dans un autre goût, c'était le langage de son chef de bureau !!! 
+
+Et à ce propos, depuis tout ça, comme il avait terriblement négligé son bureau, maintenant que l'armistice était signé et qu'il n'y avait plus de réel service militaire qui pût plausiblement l'empêcher de reprendre son emploi, il pleuvait sur lui des reproches, des menaces. — Un jour même, il fut question à la Direction de le remercier : on le lui fit savoir « paternellement » et cette dernière attention le rendit pour un temps un peu plus exact.
+
+Survint la Commune.
+
+Le beau-père naturellement décampa après le premier coup de canon de la guerre sociale, sans laisser, lui, ni lettre, ni mot à son malheureux gendre. Pierre, qui n'avait pas vécu depuis la fuite de sa femme et que cette dernière trahison acheva, crut mourir. Ainsi plus d'espoir, c'était bien un coup monté, le père avait cédé à la fille ou celle-ci au père, mais la victime c'était toujours lui ! Seul donc désormais, sans famille, sans même l'espoir d'un bâton de vieillesse, car elle était partie, pour plus d'horreur, la malheureuse, portant au flanc l'enfant qui eût dû leur fermer les yeux.
+
+Il était devenu comme hébété.
+
+Ce fut avec des yeux de congre mort qu'il assista aux premières affres de cette redoutable période, ce fut machinalement que, requis par l'insurrection de reprendre du service dans son ancien bataillon, maintenant fédéré, il marcha et fit le coup de fusil comme un autre : ce fut comme mû par un ressort qu'après la dernière semaine de mai il s'échappa parmi cent périls, atteignit Bruxelles, puis Londres où il connut la boisson.
+
+Son odyssée fut courte. Les quelques demi-couronnes qu'il gagnait quotidiennement à donner des leçons, le soir il les dépensait en vins de Portugal et en bières d'Irlande. L'estomac s'oblitéra, la tête se prit, les leçons manquèrent, ce fut la faim et la névrose qui finalement eurent raison de ce brave garçon, tué par l'idée d'une femme, et dont le dernier mot fut, à l'hôpital de Leicester-place, où son agonie se vit soignée par des médecin français, bercée par des sœurs françaises, en pleine belle et bonne France :
+
+— Pauvre Patrie tout de même !... Je m'engage ! 
+
+
+# LE POTEAU.
+
+« Il se drosse, poteau des funestes chemins. » (Catulle M*endès*.)
+
+Edgar Poe me disait un jour, avec cette lucidité d'expression qui ne l'abandonnait jamais au milieu des plus grands écarts de sa magnifique imagination, qu'à son avis, la plupart de nos erreurs viennent de la facilité avec laquelle notre esprit exagère ou déprécie l'importance d'un objet, parce qu'il ne sait pas se rendre un compte exact de l'éloignement ou du rapprochement relatif de cet objet. — Tout en rendant justice à la part considérable d'évidence contenue dans cette proposition, je ne pus m'empêcher d'en combattre la forme axiomatique qui semblait mettre de côté toute une série de faits non moins intéressants que ceux qui me paraissaient véritablement justiciables de la sentence que venait de prononcer mon subtil ami. Je désignais par là les hallucinations, visions ou transfigurations d'objets quelconques produites par les forces morales de notre être, conscience, pressentiment, souvenir, and so on, et je prétendais que ces faits-là n'acceptent guère d'explication catégorique et que la plus sage conduite à tenir vis-à-vis d'eux serait l'abstention, sinon l'assentiment pur et simple et le respect. Comme j'avais mis de la chaleur et peut-être une certaine éloquence dans l'exposé de ces idées, Edgar Poe eut l'air de m'écouter avec intérêt, et la conversation continuant sur ce sujet, j'en vins à lui raconter une anecdote de ma jeunesse qui n'était pas sans quelque rapport avec les choses dites. Voici :
+
+— Des affaires m'appelaient dans un petit village assez éloigné de Paris pour que ce fût à travers une vraie campagne qu'il me fallût marcher à ma descente du chemin de fer. C'était en juin. On fanait, ce qui mettait un parfum gai dans l'air frais qu'attiédrissaient les rayons d'un soleil de neuf heures du matin. J'atteignis bientôt un bois assez considérable que traversait une grande allée gazonnée, piquée, çà et là, de lueurs pâles. Des oiseaux de tout ramage, particulièrement des geais, faisaient tapage dans les hêtres doucement agités et de loin on entendait le rire des femmes joyeuses de remuer le foin dont quelques brins s'envolaient, bientôt happés par les hirondelles nombreuses. Au sortir du bois, j'aperçus un poteau indicateur qui se trouvait là on ne peut mieux ; car depuis quelques années que je n'étais venu dans le pays, j'avais tant soit peu oublié la route. C'était un poteau à quatre bras se coupant en croix. Sur chacun des bras peints en blanc ainsi que l'arbre du poteau, se lisait en lettres noires un peu effacées par les intempéries le nom du village ainsi que le nombre de kilomètres à faire pour y arriver. Je n'en avais plus que pour un petit quart d'heure, et le chemin que me prescrivait le poteau était charmant. Je le suivis tout doucement, et j'aperçus bientôt le clocher du petit village de J... Cédant alors à un accès de paresse et tenté par l'herbe tendre, je me laissai aller par terre, et je restai couché quelque temps. Quand je me relevai, l'air me caressa le visage, des oiseaux qui picoraient dans une clairière voisine pépièrent, de grands nuages blancs pénétrés de soleil couraient dans l'azur lointain ; l'odeur du foin m'arrivait par bouffées enivrantes, et tout au fond de la vallée, le village où m'attendaient d'excellents parents faisait luire entre les arbres ses chaumes et ses tuiles. Un délicieux frisson me prit, et je me mis à penser qu'en somme là était le bonheur et qu'on avait bien tort d'habiter les villes. — Je me levai et instinctivement mes yeux se portèrent sur le chemin parcouru, tandis que je m'étirais avec cette volupté saine qui suit les méditations douces. Le bois dont j'ai parlé plus haut bleuissait à quelque distance, et sur ce fond sombre ressortait en blanc le poteau dont je ne voyais plus que le bras tourné dans la direction.de J... ; dans la situation d'esprit où je me trouvais, ce bras tendu me parut une bienveillante exhortation de la Destinée à poursuivre mon chemin et à gagner au plus vite le but de mon voyage. Ce que je fis avec empressement et en entonnant un allègre chœur de sortie autrefois entendu dans quelque vaudeville hilare.
+
+— Trois mois après je quittais J..., rebroussant le chemin en question ; cette fois je n'étais plus seul : une histoire d'amour banale et charmante avait eu lieu dans ma vie pendant ces trois mois écoulés au milieu des champs. Je vivais ou plutôt nous vivions heureux dans toutes les conditions de sécurité désirables quand je ne sais quel brutal désir de possession exclusive me détermina à un « enlèvement ».
+
+La prudence nous y engageant, nous partîmes de nuit, à pied, pareils pour la légèreté du bagage à des voleurs sans butin, et gais comme des pinsons. Une petite lanterne sourde d'assez longue portée guidait nos pas. Nous nous tenions par la main, causant. Tout à coup je me sentis par le corps comme une sueur froide, et mon babil cessa, au grand étonnement de mon gentil compagnon. En même temps je me pris à regarder autour de nous. La nuit était affreuse. Le ciel, d'une obscurité plus livide que noire, avait çà et là des points blafards semblables à de vastes taches de moisissure. Quelques étoiles brouillées scintillaient vaguement. Farouche, dans un coin, Saturne luisait rouge. La terre, détrempée par plusieurs jours de pluie torrentielle, glissait traîtreusement sous les pieds. En même temps il se passait quelque chose de singulier en moi : ma conscience me reprochait ce que je faisais là, et pour la première fois ma liaison avec la personne qui m'accompagnait m'apparut comme une mauvaise action. De plus l'imprudence et la folie de cet enlèvement me sautèrent aux yeux. A tous ces arguments du for intérieur je ne pus opposer que la raison de révolutions : il est trop tard ! et je pressai le pas serrant plus fortement la main de mon amie, quand le rayonnement de ma lanterne dressa devant mes yeux le spectre blanc d'un POTEAU dont le bras dirigé vers moi me sommait impérieusement de me retourner et de rebrousser chemin. La sensation de froide horreur que me donna cette vue est invraisemblable : le bras du poteau était là, terrible et implacable dans son immobilité. Je tournai vite ma lanterne et la vision sinistre disparut ; mais l'impression m'en restait et mes yeux dans l'ombre voyaient cette chose. Tout près et noir sur le ciel gris, le bois gémissait lugubrement sous le vent glacial. Nen pouvant plus d'immonde terreur et prétextant l'heure très prochaine du départ du train, j'engageai ma compagne à courir et courus moi-même avec des pieds de cerf. Un horrible choc m'arrêta : j'avais au moins toute l'épaule écorchée sinon cassée. J'eus néanmoins le courage de ne pas me plaindre, tant ma peur étant grande ; car c'était le poteau qui m'avait heurté si fort, — dernier avertissement. Nous courions en désespérés. La nuit continuait à être affreuse autour de nous. Nous nous enfonçâmes bientôt dans le bois et dans l'inconnu.
+
+— Quelques semaines se passèrent au bout desquelles je devins le héros contumax d'un des plus épouvantables drames judiciaires qui aient jamais défrayé la curiosité parisienne. Le juge d'instruction et le procureur du Roi n'eurent point cette fois à « rechercher la femme ». La femme était là dans des bocaux avec diverses autres pièces à conviction.
+
+M*e* ⁎⁎⁎, avocat d'office, y commença sa légitime réputation d'orateur ému. Moi, pendant ce temps, j'avais cinglé vers l'Amérique.
+
+Là j'ai vécu plus de vingt ans, tour à tour banquier et garçon de café, journaliste et flibustier, j'ai connu toutes les jouissances et toutes les épreuves, commis tous les attentats, surmené toutes les passions, en un mot fait tout. A Charlestown où j'écrivaillai, je fus longtemps le compagnon d'opium d'Edgar Poe, et un peu son collaborateur. Plus tard j'entrai, en ma qualité de possesseur d'esclaves, dans l'armée confédérée où je devins colonel. Proscrit après la capture de Davis et quelque peu inculpé dans l'affaire Booth-Lincoln, je passai au Mexique au plus fort de la seconde guerre de l'indépendance, pendant laquelle, sans acception d'aucun parti, je me mis à la tête d'une bande dont les exploits font encore trembler, à l'heure qu'il est, Matamoros, Oajaco et Queretaro. Redevenu riche et immensément riche après cette entreprise, je jugeai à propos de revenir aux États-Unis profiter des amnisties. Sur les bords de l'Hudson j'ai dressé un cottage entre les arbres. Là je vis très confortablement, je vous assure, mais s'il faut le dire, pas toujours en paix avec mes souvenirs. Pensez donc ! et réfléchissez que j'ai dû rêver guillotine et potence souvent, qu'on m'a fusillé quelque peu vers Guadalajara et que j'ai été des semaines prisonnier de sauvages !
+
+Mais entre toutes ces choses terribles, il n'en est aucune, alors que la mémoire ou le sommeil me sont incléments, aucune qui me pénètre d'une terreur aussi intense, qui fige autant la moelle de mes os et le sang de mes veines que ce poteau peint en blanc, vu jadis près d'un bois, au rayonnement d'une lanterne sourde, une nuit que je gagnais le chemin de fer en compagnie d'une enfant aimable. 
+
+
+# MADAME AUBIN.
+
+
+## Personnages.
+ * Aubin
+ * Madame Aubin
+ * Peltier
+(Un salon d'appartement d'hôtel.)
+
+
+
+## SCÈNE PREMIÈRE.< Peltier, à un domestique qui s’en va. >
+
+C'est bon. On vous sonnera quand on aura besoin de vous.⁎  
+⁎ ⁎
+A Mme Aubin.
+⁎  
+⁎ ⁎
+
+Un jour et une nuit de repos, ma chère, n'est-ce pas ? Après quoi nous partons à travers la Suisse pour Brindisi, sans guère nous arrêter, et gagnons l'Orient, comme c'était convenu.< madame aubin >
+
+C'était convenu ?< peltier >
+
+Dame oui. < madame aubin >
+
+C'est vrai. Comme vous voudrez, au fait.< peltier >
+
+Comment ? Enfin vous m'approuvez et je vais parcourir l'indicateur. Vous permettez.< madame aubin >
+
+Mon Dieu oui.⁎  
+⁎ ⁎
+Un court silence pendant lequel M*me* Aubin contemple ses bagues et mâche une pâte extraite d'un drageoir d'or.
+< Peltier, après avoir écrit des notes au crayon. >
+
+Voilà. Demain à midi nous prenons le rapide et nous arrêterons où vous voudrez. Regardez.⁎  
+⁎ ⁎
+Il tend ses notes à M*me* Aubin.
+< madame aubin >
+
+Mon ami, vous êtes parfait. Je vais y penser. Voulez-vous m'entendre un instant ; pour parler d'autre chose ?< peltier >
+
+Dites, ma chère. < madame aubin >
+
+J'ai envie de m'en arrêter là de notre aventure.< peltier >
+
+Je ne comprends pas.< madame aubin >
+
+Ne m'interrompez pas. C'est fou ce que nous faisons là. Ce n'est pas ridicule, c'est fou. Nous serions moins heureux que nous ne l'étions et il a fallu vraiment toute l'influence de votre charmant caractère et la persuasion de votre franchise (Elle lui tend une main qu'il prend et garde.) pour me faire faire ce pas énorme. Il n'est plus temps, je le sais ou plutôt je m'en doute, de revenir sur un entraînement tel, mais, que voulez-vous ? et j'en suis au désespoir, après toute cette bravoure qui m'a déterminée, soutenue, entraînée durant ce long trajet de Paris à ici, dans cet endroit de hasard, ah ! j'ai peur...< peltier, au comble de la surprise, quelque sceptique et résolu qu’il ait paru jusqu’ici. >
+
+— Peur de qui et de quoi ?⁎  
+⁎ ⁎
+Il laisse retomber la main de M*me* Aubin et se croise les bras, attendant d'en plus entendre.
+ < madame aubin >
+
+Peur du passé d'abord. Peur ! Remords à cause du passé. En définitive, et certainement, mon mari ne méritait pas tout cet outrage. C'est un homme à défauts certes, à vices peut-être même. Mais c'est l'honneur et la droiture mêmes. Et j'y pense maintenant, ces dissentiments entre lui et moi doivent être venus de moi plutôt, enfant gâtée et jeune fille trop libre que je fus avant mon mariage avec cet honnête, avec ce galant homme...< peltier >
+
+Laissons Aubin de côté. Qu'est-ce enfin que vous voulez dire et que voulez-vous faire ? Retourner à Paris et à votre ménage laissé ?< madame aubin >
+
+Je n'en sais rien encore. Mais ne me coupez pas à chaque instant la parole et vous serez de mon avis. Non, mon mari ne doit pas subir ces choses sur son honneur et sur son nom. Et c'est vrai que j'ai peur du passé. Je viens de vous dire comment et pourquoi. J'ai peur de l'avenir aussi. Ou plutôt non. C'est le présent qui m'effraie, oh sans m'épouvanter, monsieur ! Car l'avenir, j'en réponds et il sera conforme au vœu de ma conscience enfin réveillée. < peltier, qui a une colère qui monte en lui et se sentant provoqué à la fin. >
+
+Expliquez-vous ? Vous moquez-vous ou non ? Je veux vous comprendre.< madame aubin >
+
+Monsieur, vous n'avez pas le droit de me parler ainsi.⁎  
+⁎ ⁎
+*peltier* s'avance comme un homme qui a presque le droit dont parle son interlocutrice ou qui croit qu'il va l'avoir.
+< madame aubin, continuant. >
+
+Et je ne vous le donnerai jamais.< peltier >
+
+Madame !...< madame aubin >
+
+Entendez-vous, monsieur ?⁎  
+⁎ ⁎
+Tous deux se guindent et se regardent bien en face. Un silence.
+< peltier >
+
+Enfin, alors, pourquoi être venue avec moi de votre plein gré, même plutôt sur votre initiative ? < madame aubin qui s’est reprise. >
+
+Que voulez-vous ? j'ai changé d'idée.< peltier très sec et parlant des dents. >
+
+Bien. Vous vous êtes jouée de moi. Je ne suis pas à ce point un jeune homme encore. On ne me berne pas. Car, ma chère, je ne crois pas à un caprice de vous, à un revirement si subit, à un coup de tonnerre de vertu !...< madame aubin >
+
+N'employez plus ce mot vertu. Il est terrible à nos oreilles. Je vous disais tout à l'heure que j'avais comme peur du présent, oui peur de rester ici ainsi ; mais j'ajoutais que ce présent ne m'épouvantait pas. C'est là-dessus que vous vous êtes récrié, au moment où j'allais vous expliquer que par là j'entendais me fier à votre honneur pour me laisser me décider en paix... Et vous vous êtes emporté jusqu'à m'irriter aussi et vous venez de me dire des choses !...Un caprice, moi, à mon âge de vingt-huit ans ! Un revirement, oui ! un coup de tonnerre de... conscience, oui, là, croyez-y.< peltier >
+
+Mais quel rôle est-ce que vous voulez que je joue là dedans, moi ? Vous, vous êtes, alors, la raison, même illogique, et moi ? moi...< madame aubin >
+
+Votre rôle ? Tout tracé. Laissez-moi faire ! C'est ça qui serait chevaleresque et bien.< peltier >
+
+Mais je vous aime, mais...< madame aubin >
+
+Et moi aussi je vous aime et je vous dis : Ne peut-on donc s'aimer sans ça ? (Geste de mépris.), sans tout ça ? (Geste de dédain.)< peltier >
+
+Ah ! nous y sommes. Une vierge monte en vous quand par vous un satyre se dresse en moi, par vous.⁎  
+⁎ ⁎
+Il la saisit par la taille.
+
+
+Et vers vous !< madame aubin, qui s’est aussitôt dégagée. >
+
+Voyons, soyons sérieux.⁎  
+⁎ ⁎
+Peltier, qui pressent une longue explication, s'assied la tête inclinée et les mains l'une sur le dossier d'une chaise, l'autre jouant avec sa chaîne de montre...
+⁎  
+⁎ ⁎ 
+
+Qu'est-ce que vous risquez, vous, homme, célibataire, à ce voyage d'agrément ? Rien, un duel peut-être au retour ! Votre réputation sera loin d'en souffrir dans ce monde illogique où nous vivons, qui n'aime pas l'adultère de la femme et qui raffole de toutes les fautes galantes d'un homme comme il faut. Tandis que moi ! ! Et il n'est que tout naturel que même et que surtout sur le bord de la dernière résolution, j'hésite et me rejette en arrière, dussiez-vous en être fâché. Voyons, l'êtes-vous, fâché, pouvez-vous l'être, devez-vous l'être ?< peltier, comme inopinément délivré et déterminé, carré, net, confiant. >
+
+Questions, questions ! Sottises ! A mon tour je vous dirai : Soyons sérieux. Vous m'avez, avouez-le, encouragé à cette chose. Et précisément il était, comme vous dites, bien naturel à moi de l'entreprendre et il me l'est encore, je m'en rapporte à votre raisonnement, de la poursuivre en homme comme il faut, ou autrement !⁎  
+⁎ ⁎
+M*me* Aubin se recule vivement. Peltier fait un pas en avant.
+⁎  
+⁎ ⁎
+
+Et je vais vous le prouver !< madame aubin, droite, raide, sans reculer d’une ligne dorénavant. >
+
+Fi ! < peltier >
+
+Vous allez voir.⁎  
+⁎ ⁎
+Aubin ouvre brusquement la porte et paraît.
+
+
+
+## SCÈNE II.< aubin, s’adressant exclusivement à Pellier. >
+
+Oui, c'est moi qu'on n'attendait pas. Comment ai-je eu vent de votre mèche et pu vous rejoindre si tôt, inutile d'en parler. L'essentiel c'est que quatre officiers de la garnison veulent bien nous servir de témoins et nous attendent dans un bois à deux pas avec des épées et des pistolets à votre volonté, bien que j'aie le choix des armes.< peltier >
+
+Je vous suis.< aubin, à sa femme, haut, lui prenant une main qu’il baise. >
+
+Toi, Marie, attends-moi ici, mort ou vif. Entends-tu, ma belle.
+
+
+## SCÈNE III.< madame aubin >
+
+Quelle affaire ! Est-ce vraiment que je rêve, à la fin ?...⁎  
+⁎ ⁎
+Se jetant sur un canapé qui eût pu devenir dangereux tantôt.
+⁎  
+⁎ ⁎
+
+Un peu d'ordre dans mes pauvres idées. Là...⁎  
+⁎ ⁎
+Elle appuie des doigts sur son front.
+⁎  
+⁎ ⁎
+
+Oui, ce que je disais à M. Peltier, c'était pourtant vrai. J'étais une enfant gâtée quand Aubin m'a prise. Il m'a gâtée aussi, lui, et voilà peut-être d'où vient le mal. Je m'accoutumais à continuer mon enfance et ma jeunesse dans l'état de mariage. Je fus volontaire, exigeante, capricieuse. Dans les commencements mon mari trouvait cela charmant, puis il se lassa. Querelles, duretés de sa part, bouderies de la mienne. Sept ans après Peltier parut. Un homme charmant certes, mais moins qu'Aubin, maintenant que je vois bien les choses. Et ce sot départ est bien plus encore de ma faute, au fond, que de la sienne. Un moment de dépit féminin dont, avec nos mœurs, un homme est louable de profiter. — Je ne pouvais lui donner tort tout à l'heure de vouloir ce que notre fugue innocente encore et dont un peu d'énergie m'a aidée à conserver le caractère de folie sans plus. — Mais quoi, tandis que je me redis ces choses, deux hommes aimables qui m'aiment tous deux et dont décidément j'aime mieux l'un, mon mari, se battent pour moi, ô misère ! comme si j'étais une fille. Et au fait ! O punition ! Moi, moi ! Quelle angoisse, et quelle situation ! Et l'avenir ? Pourtant cette douce parole d'Aubin tout à l'heure... Je n'en suis que plus misérable d'attendre si lui ou l'autre... J'ai tout de même résisté ; et il y a eu un moment où j'y ai eu du mérite. Mais ce voyage ! Et cette attente ! — Mon Dieu, vous à qui l'on doit croire malgré toutes les stupides opinions des gens d'aujourd'hui, mon Dieu, ayez pitié de moi dans ma misère !⁎  
+⁎ ⁎
+Long silence pendant lequel elle reste prostrée.
+
+
+
+## SCÈNE IV.< aubin, blessé à l’épaule, rentrant soutenu par un officier d’état-major. >
+
+Voilà qui est fait. Madame Aubin, je vous présente un de mes témoins.⁎  
+⁎ ⁎
+S'adressant à l'officier.
+⁎  
+⁎ ⁎
+
+Monsieur ?... < l’officier, s’inclinant devant Mme Aubin. >
+
+Le Comte de Givors.< aubin >
+
+Monsieur le comte de Givors, je vous présente ma femme.< madame aubin qui, depuis l’entrée de son mari, n’a eu d’yeux que pour lui, salue comme machinalement. >
+
+Monsieur...⁎  
+⁎ ⁎
+Sautant en quelque sorte au cou de son mari.
+⁎  
+⁎ ⁎
+
+Ah ! mon ami... Mais... mais, tu es blessé...,< aubin >
+
+Ce n'est rien. Une balle qu'on va bien vite m'extraire — et puis, n'est-ce pas ? en route pour Paris dès moi pansé ! A propos, tu sais, Peltier n'a rien.< madame aubin, littéralement superbe. >
+
+Qu'est-ce que ça fait ?⁎  
+⁎ ⁎
+Silence.
+< aubin, immensément joyeux. >
+
+Hein ? < l’officier, à M. et à Mme Aubin. >
+
+Permettez...⁎  
+⁎ ⁎
+Il se retire après avoir salué, reconduit par l'un et par l'autre.
+< aubin, à sa femme. >
+
+Explique-toi, Marie.⁎  
+⁎ ⁎
+*Peltier* rentre.
+
+
+
+## SCÈNE V.< madame aubin à Peltier. >
+
+Dites, Monsieur, si vous avez jamais eu le droit de vous dire mon amant.< peltier >
+
+Sur ma parole d'honnête homme et de galant homme telle que la confirme mon retour dans cette chambre, Aubin, je jure que non. Ce départ fut un délire dont madame s'est réveillée la première, pure et invincible. Invincible, car j'ai voulu avoir le dernier mot et c'est elle qui l'a dit : et ça été un non à ne pas s'y tromper.< aubin >
+
+Au fait, chacun à rempli son devoir ici. Moi, après votre folie, d'être accouru pour ravoir ma femme et lui pardonner après un duel. Toi, Marie, d'être restée bonne épouse, — et je te réponds que les malentendus qui auraient pu t'excuser sont morts à jamais. Comme nous allons être heureux ! Et vous, Peltier, étant donné notre civilisation, qui ne vous approuverait d'avoir tenté de me souffler ma femme excepté moi qui vous en voudrais si cette balle dans mon épaule n'eût été là, qui supplée toute explication ? Or voici : nous retournons dès mon égratignure pansée. Naturellement nous serons quelque temps sans vous revoir, Peltier. N'êtes-vous pas en voyage ?⁎  
+⁎ ⁎
+A Peltier.
+⁎  
+⁎ ⁎
+
+Et la main !
