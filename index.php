@@ -7,8 +7,8 @@
   </head>
   <body>
       <article id="article">
-        <h1><a href="http://dramacode.github.io/">Œuvres</a>, textes français en libre accès sur GitHub</h1>
-        <p>Cette page est générée automatiquement pour fournir une liste de liens vers des formats d’export pour la lecture (epub, mobi), mais aussi la recherche (markdown, iramuteq), et surtout les sources XML/TEI.</p>
+        <h1><a href="http://dramacode.github.io/">Œuvres</a>, textes littéraires en français, sources libres accès sur GitHub</h1>
+        <p>Œuvres est une collection de textes français pour la recherche, convertis en XML/TEI par différents contributeurs crédités dans les fichiers. Cette page est générée automatiquement pour accéder à toute la collection dans différents formats : lecture (epub, mobi), recherche (markdown, iramuteq), sources XML/TEI. Pour d’autres format d’export, demander à <a onclick="this.href='mailto'+'\x3A'+'frederic.glorieux'+'\x40'+'fictif.org'" href="#">Frédéric Glorieux</a>.</p>
         <?php
 include( dirname(dirname(__FILE__))."/Teinte/Build.php" );
 $base = new Teinte_Build (
