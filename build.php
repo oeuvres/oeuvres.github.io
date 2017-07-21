@@ -7,11 +7,6 @@ include( dirname(dirname(__FILE__))."/Teinte/Build.php" );
 $build = new Teinte_Build (
   array(
     "sets" => array(
-      "verne" => array(
-        "glob" => '../verne/*_*.xml',
-        "publisher" => 'Lille III',
-        "source" => "http://oeuvres.github.io/verne/%s.xml",
-      ),
       "dumas" => array(
         "glob" => '../dumas/*_*.xml',
         "publisher" => 'Œuvres',
@@ -32,10 +27,10 @@ $build = new Teinte_Build (
         "publisher" => 'Œuvres',
         "source" => "http://oeuvres.github.io/maupassant/%s.xml",
       ),
-      "verlaine" => array(
-        "glob" => '../verlaine/*_*.xml',
+      "poesie" => array(
+        "glob" => '../poesie/*_*.xml',
         "publisher" => 'Œuvres',
-        "source" => "http://oeuvres.github.io/verlaine/%s.xml",
+        "source" => "http://oeuvres.github.io/poesie/%s.xml",
       ),
       "stendhal" => array(
         "glob" => '../stendhal/*_*.xml',
@@ -47,6 +42,16 @@ $build = new Teinte_Build (
         "publisher" => 'Œuvres',
         // "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
         "source" => "http://oeuvres.github.io/textes/%s.xml",
+      ),
+      "verlaine" => array(
+        "glob" => '../verlaine/*_*.xml',
+        "publisher" => 'Œuvres',
+        "source" => "http://oeuvres.github.io/verlaine/%s.xml",
+      ),
+      "verne" => array(
+        "glob" => '../verne/*_*.xml',
+        "publisher" => 'Lille III',
+        "source" => "http://oeuvres.github.io/verne/%s.xml",
       ),
       "zola" => array(
         "glob" => '../zola/*_*.xml',
