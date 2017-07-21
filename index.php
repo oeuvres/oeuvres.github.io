@@ -9,9 +9,14 @@
       <article id="article">
         <h1><a href="http://dramacode.github.io/">Œuvres</a>, textes français en libre accès sur GitHub</h1>
         <p>Cette page est générée automatiquement pour fournir une liste de liens vers des formats d’export pour la lecture (epub, mobi), mais aussi la recherche (markdown, iramuteq), et surtout les sources XML/TEI.</p>
-        <?php 
-include('build.php');
-$base = new Oeuvres('oeuvres.sqlite');
+        <?php
+include( dirname(dirname(__FILE__))."/Teinte/Build.php" );
+$base = new Teinte_Build (
+  array(
+    "sqlite" => "oeuvres.sqlite",
+    "formats" => "epub, kindle, html, iramuteq, markdown",
+  )
+);
 $base->table();
         ?>
       </article>
