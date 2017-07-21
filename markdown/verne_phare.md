@@ -1,0 +1,2680 @@
+---
+identifier: verne_phare  
+creator: Verne, Jules (1828-1905)  
+date: 1905  
+title: Le Phare du Bout du Monde  
+---
+
+
+
+
+# Chapitre I. Inauguration.
+
+Le soleil allait disparaître derrière les collines qui limitaient la vue à l'ouest. Le temps était beau. À l'opposé, au-dessus de la mer qui se confondait avec le ciel dans le nord-est et dans l'est, quelques petits nuages réfléchissaient les derniers rayons, qui ne tarderaient pas à s'éteindre dans les ombres du crépuscule, d'assez longue durée sous cette haute latitude du cinquante-cinquième degré de l'hémisphère austral.
+
+Au moment où le disque solaire ne montrait plus que sa partie supérieure, un coup de canon retentit à bord de l'aviso *Santa-Fé*, et le pavillon de la République Argentine, se déroulant à la brise, fut hissé à la corne de brigantine.
+
+Au même instant jaillit une vive lumière au sommet du phare construit à une portée de fusil en arrière de la baie d'Elgor, dans laquelle le *Santa-Fé* avait pris son mouillage. Deux des gardiens, les ouvriers réunis sur la grève, l'équipage rassemblé à l'avant du navire, saluaient de longues acclamations le premier feu allumé sur cette côte lointaine.
+
+Deux autres coups de canon leur répondirent, plusieurs fois répercutés par les bruyants échos du voisinage. Les couleurs de l'aviso furent alors amenées, conformément aux règles des bâtiments de guerre, et le silence reprit cette Île des États, située au point où se rencontrent les eaux de l'Atlantique et du Pacifique.
+
+Les ouvriers embarquèrent aussitôt à bord du *Santa-Fé*, et il ne resta à terre que les trois gardiens.
+
+L'un étant à son poste, dans la chambre de quart, les deux autres ne regagnèrent pas tout de suite leur logement et se promenèrent en causant le long du rivage.
+
+« Eh bien ! Vasquez, dit le plus jeune des deux, c'est demain que l'aviso va prendre la mer…
+
+– Oui, Felipe, répondit Vasquez, et j'espère qu'il n'aura pas une mauvaise traversée pour rentrer au port…
+
+– Il y a loin, Vasquez ! …
+
+– Pas plus quand on en vient que quand on y retourne, Felipe.
+
+– Je m'en doute un peu, répliqua Felipe en riant.
+
+– Et même, mon garçon, reprit Vasquez, on met quelquefois plus de temps à aller qu'à revenir, à moins que le vent ne soit bien établi ! … Après tout, quinze cents milles, ce n'est pas une affaire, lorsque le bâtiment possède une bonne machine et porte bien la toile.
+
+– Et puis, Vasquez, le commandant Lafayate connaît bien la route…
+
+– Qui est toute droite, mon garçon. Il a mis cap au sud pour venir, il mettra cap au nord pour s'en retourner, et, si la brise continue à souffler de terre, il aura l'abri de la côte et naviguera comme sur un fleuve.
+
+– Mais un fleuve qui n'aurait qu'une rive, repartit Felipe.
+
+– Qu'importe, si c'est la bonne, et c'est toujours la bonne quand on l'a au vent !
+
+– Juste, approuva Felipe ; mais si le vent vient à changer bord pour bord…
+
+– Ça, c'est la mauvaise chance, Felipe, et j'espère qu'elle ne tournera pas contre le *Santa-Fé.* En une quinzaine de jours, il peut avoir enlevé ses quinze cents milles et repris son mouillage en rade de Buenos-Ayres… Par exemple, si le vent venait à haler l'est…
+
+– Pas plus du côté de la terre que du côté du large, il ne trouverait de port de refuge !
+
+– Comme tu dis, garçon. Terre de Feu ou Patagonie, pas une seule relâche. Il faut piquer vers la haute mer, sous peine de se mettre à la côte !
+
+– Mais enfin, Vasquez, à mon avis, il y a apparence que le beau temps va durer.
+
+– Ton avis est le mien, Felipe. Nous sommes presque au début de la belle saison… Trois mois devant soi, c'est quelque chose…
+
+– Et, répondit Felipe, les travaux ont été terminés à bonne époque.
+
+– Je le sais, garçon, je le sais, au commencement de décembre. Comme qui dirait le commencement de juin pour les marins du nord. Ils deviennent plus rares en cette saison, les coups de chien qui ne mettent pas plus de façon à jeter un navire au plein qu'à vous décoiffer de votre surouët ! … Et puis, une fois le *Santa-Fé* au port, qu'il vente, survente et tempête tant qu'il plaira au Diable ! … Pas à craindre que notre île s'en aille par le fond et son phare avec !
+
+– Assurément, Vasquez. D'ailleurs, après avoir été donner de nos nouvelles là-bas, lorsque l'aviso reviendra avec la relève…
+
+– Dans trois mois, Felipe…
+
+– Il retrouvera l'île à sa place…
+
+– Et nous dessus, répondit Vasquez en se frottant les mains, après avoir humé une longue bouffée de sa pipe, qui l'enveloppa d'un épais nuage. Vois-tu, garçon, nous ne sommes pas ici à bord d'un bâtiment que la bourrasque pousse et repousse, ou, si c'est un bâtiment, il est solidement mouillé à la queue de l'Amérique, et il ne chassera pas sur son ancre… Que ces parages soient mauvais, j'en conviens ! Que l'on ait fait triste réputation aux mers du cap Horn, c'est justice ! Que, précisément, on ne compte plus les naufrages à l'Île des États, et que les pilleurs d'épaves ne puissent choisir meilleure place pour faire fortune, soit encore ! Mais tout cela va changer, Felipe ! Voilà l'Île des États avec son phare et ce n'est pas l'ouragan, quand il soufflerait de tous les coins de l'horizon, qui parviendrait à l'éteindre ! Les navires le verront à temps pour relever leur route ! … Ils se guideront sur son feu et ne risqueront pas de tomber sur les roches du cap Saint-Jean, de la pointe San-Diegos ou de la pointe Fallows, même par les nuits les plus noires ! … C'est nous qui tiendrons le fanal et il sera bien tenu ! »
+
+Il fallait entendre Vasquez parler avec cette animation qui ne laissait pas de réconforter son camarade. Peut-être Felipe envisageait-il, en effet, moins légèrement les longues semaines à passer sur cette île déserte, sans communication possible avec ses semblables, jusqu'au jour où tous trois seraient relevés de leur poste.
+
+Pour finir, Vasquez ajouta :
+
+« Vois-tu, garçon, depuis quarante ans, j'ai un peu couru toutes les mers de l'Ancien et du Nouveau Continent, mousse, novice, matelot, maître. Eh bien, maintenant qu'est venu l'âge de la retraite, je ne pouvais désirer mieux que d'être gardien d'un phare, et quel phare ! … Le Phare du bout du Monde ! … »
+
+Et, en vérité, à l'extrémité de cette île perdue, si loin de toute terre habitée et habitable, ce nom, il le justifiait bien !
+
+« Dis-moi, Felipe, reprit Vasquez, qui secoua sa pipe éteinte sur le creux de sa main, à quelle heure vas-tu remplacer Moriz ?
+
+– À dix heures.
+
+– Bon, et c'est moi qui, à deux heures du matin, irai prendre ton poste jusqu'au lever du jour.
+
+– Entendu, Vasquez. Aussi, ce que nous avons de plus sage à faire tous les deux, c'est d'aller dormir.
+
+– Au lit, Felipe, au lit ! »
+
+Vasquez et Felipe remontèrent vers la petite enceinte au milieu de laquelle se dressait le phare, et entrèrent dans le logement dont la porte se referma sur eux.
+
+La nuit fut tranquille. À l'instant où elle prenait fin, Vasquez éteignit le feu allumé depuis douze heures.
+
+Généralement faibles dans le Pacifique, surtout le long des côtes de l'Amérique et de l'Asie que baigne ce vaste Océan, les marées sont, au contraire, très fortes à la surface de l'Atlantique et elles se font sentir avec violence jusque dans les lointains parages de la Magellanie.
+
+Le jusant, ce jour-là, commençant à six heures du matin, l'aviso, pour en profiter, aurait dû appareiller dès la pointe du jour. Mais ses préparatifs n'étaient pas entièrement terminés, et le commandant ne comptait sortir de la baie d'Elgor qu'à la marée du soir.
+
+Le *Santa-Fé*, de la marine militaire de la République Argentine, jaugeant deux cents tonnes, possédant une force de cent soixante chevaux, commandé par un capitaine et un second officier, ayant une cinquantaine d'hommes d'équipage, compris les maîtres, était employé à la surveillance des côtes, depuis l'embouchure du Rio de la Plata jusqu'au détroit de Lemaire sur l'Océan Atlantique. À cette époque, le génie maritime n'avait pas encore construit ses bâtiments à marche rapide, croiseurs, torpilleurs et autres. Aussi, sous l'action de son hélice, le *Santa-Fé* ne dépassait-il pas neuf milles à l'heure, vitesse suffisante, d'ailleurs, pour la police des côtes patagones et fuégiennes uniquement fréquentées par les bateaux de pêche.
+
+Cette année-là, l'aviso avait eu pour mission de suivre les travaux de construction du phare que le gouvernement argentin faisait élever à l'entrée du détroit de Lemaire. C'est à son bord que furent transportés le personnel et le matériel nécessités par ce travail qui venait d'être mené à bonne fin suivant les plans d'un habile ingénieur de Buenos-Ayres.
+
+Il y avait environ trois semaines que le *Santa-Fé* se trouvait à ce mouillage au fond de la baie d'Elgor. Après avoir débarqué des provisions pour quatre mois, après s'être assuré que rien ne manquerait aux gardiens du nouveau phare jusqu'au jour de la relève, le commandant Lafayate allait ramener les ouvriers envoyés à l'Île des États. Si même certaines circonstances imprévues n'eussent retardé l'achèvement des travaux, le *Santa-Fé* aurait dû être, depuis un mois déjà, de retour à son port d'attache.
+
+En somme, pendant toute sa relâche, le commandant Lafayate n'avait rien eu à craindre au fond de cette baie très abritée contre les vents du nord, du sud et de l'ouest. Seuls les gros temps du large auraient pu le gêner. Mais le printemps s'était montré clément, et maintenant, au début de la saison d'été, il y avait lieu d'espérer qu'il ne se produirait que des troubles passagers dans les parages magellaniques.
+
+Il était sept heures, lorsque le capitaine Lafayate et le second officier Riegal sortirent de leurs cabines, situées en abord de la dunette, à l'arrière de l'aviso. Les matelots finissaient le lavage du pont, et les dernières eaux repoussées par les hommes de service s'écoulaient à travers les dalots. En même temps le premier maître prenait ses dispositions pour que tout fût paré, lorsque arriverait l'heure de l'appareillage. Bien qu'il ne dût s'effectuer que dans l'après-midi, on enlevait les étuis des voiles, on fourbissait les manches à air, les cuivres de l'habitacle et des claires-voies, on hissait le grand canot sur ses pistolets, le petit restant à flot pour le service du bord.
+
+Lorsque le soleil se leva, le pavillon monta à la corne de brigantine.
+
+Trois quarts d'heure plus tard, quatre coups furent piqués à la cloche de l'avant, et les matelots de quart prirent leur bordée.
+
+Après avoir déjeuné ensemble, les deux officiers remontèrent sur la dunette, examinèrent l'état du ciel assez dégagé par la brise de terre, et donnèrent l'ordre au maître de les débarquer.
+
+Pendant cette matinée, le commandant voulait inspecter une dernière fois le phare et ses annexes, le logement des gardiens, les magasins qui renfermaient les provisions et le combustible, s'assurer enfin du bon fonctionnement des appareils.
+
+Il descendit donc sur la grève, accompagné de l'officier, et se dirigea vers l'enceinte du phare.
+
+En s'y rendant, ils s'inquiétaient de ces trois hommes qui allaient rester dans la morne solitude de l'Île des États.
+
+« C'est vraiment dur, dit le capitaine. Toutefois, il faut tenir compte de ce que ces braves gens ont toujours mené une existence très rude, étant pour la plupart d'anciens marins. Pour eux, le service d'un phare, c'est un repos relatif.
+
+– Sans doute, répondit Riegal, mais autre chose est d'être gardien de phare sur les côtes fréquentées, en communication facile avec la terre, et autre chose de vivre sur une île déserte, que les navires ne font que reconnaître et encore du plus loin possible.
+
+– J'en conviens, Riegal. Aussi la relève se fera-t-elle dans trois mois. Vasquez, Felipe, Moriz vont débuter dans la période la moins rigoureuse.
+
+– En effet, mon commandant, et ils n'auront point à subir ces terribles hivers du cap Horn…
+
+– Terribles, approuva le capitaine. Depuis une reconnaissance que nous avons faite il y a quelques années dans le détroit, à la Terre de Feu et à la Terre de Désolation, du cap des Vierges au cap Pilar, je n'ai plus rien à apprendre en fait de tempêtes ! Mais, enfin, nos gardiens ont une habitation solide que les tourmentes ne démoliront pas. Ils ne manqueront ni de vivres ni de charbon, dût leur faction se prolonger deux mois de plus. Bien portants nous les laissons, bien portants nous les retrouverons, car, si l'air est vif, du moins il est pur, à l'entrée de l'Atlantique et du Pacifique ! … Et puis, Riegal, il y a ceci : c'est que, lorsque l'autorité maritime a demandé des gardiens pour le Phare du bout du Monde, elle n'a eu que l'embarras du choix ! »
+
+Les deux officiers venaient d'arriver devant l'enceinte où les attendaient Vasquez et ses camarades. La porte leur fut ouverte, et ils firent halte après avoir répondu au salut réglementaire des trois hommes.
+
+Le capitaine Lafayate, avant de leur adresser la parole, les examina depuis les pieds, chaussés de fortes bottes de mer, jusqu'à la tête, recouverte du capuchon de la capote cirée.
+
+« Tout s'est bien passé cette nuit ? demanda-t-il en s'adressant au gardien-chef.
+
+– Bien, mon commandant, répondit Vasquez.
+
+– Vous n'avez relevé aucun navire au large ? …
+
+– Aucun, et comme le ciel était sans brume, nous aurions aperçu un feu à tout au moins quatre mille.
+
+– Les lampes ont marché convenablement ? …
+
+– Sans arrêt, mon commandant, jusqu'au lever du soleil.
+
+– Vous n'avez pas souffert du froid dans la chambre de quart ?
+
+– Non, mon commandant. Elle est bien close et le vent est arrêté par la double vitre des fenêtres.
+
+– Nous allons visiter votre logement et le phare ensuite.
+
+– À vos ordres, mon commandant », répondit Vasquez.
+
+C'est au bas de la tour que le logement des gardiens avait été construit en murs épais, capables de braver toutes les bourrasques magellaniques. Les deux officiers visitèrent les différentes pièces convenablement aménagées. Rien à craindre ni de la pluie, ni du froid, ni des tempêtes de neige qui sont formidables sous cette latitude presque antarctique.
+
+Ces pièces étaient séparées par un couloir au fond duquel s'ouvrait la porte donnant accès à l'intérieur de la tour.
+
+« Montons, dit le capitaine Lafayate.
+
+– À vos ordres, répéta Vasquez.
+
+– Il suffit que vous nous accompagniez. »
+
+Vasquez fit signe à ses deux camarades de rester à l'entrée du couloir. Puis il poussa la porte de l'escalier, et les deux officiers le suivirent.
+
+Cette étroite vis, à marche de pierres encastrées dans la paroi, n'était pas obscure. Dix meurtrières l'éclairaient d'étage en étage.
+
+Lorsqu'ils eurent atteint la chambre de quart, au-dessus de laquelle étaient installés la lanterne et les appareils de lumière, les deux officiers s'assirent sur le banc circulaire fixé au mur. Par les quatre petites fenêtres percées dans cette chambre, le regard pouvait se porter vers tous les points de l'horizon.
+
+Bien que la brise fût modérée, elle sifflait assez fortement à cette hauteur, sans couvrir cependant les cris aigus des mouettes, des frégates et des albatros qui passaient à grands coups d'ailes.
+
+Le capitaine Lafayate et son second, afin d'avoir plus libre vue de l'île et de la mer environnante, grimpèrent par l'échelle conduisant à la galerie qui entourait la lanterne du phare.
+
+Toute la partie de l'île qui se dessinait sous leurs yeux vers l'ouest était déserte, comme la mer, dont leurs regards pouvaient parcourir, du nord-ouest au sud, un vaste arc de cercle interrompu seulement, vers le nord-est, par les hauteurs du cap Saint-Jean. Au pied de la tour se creusait la baie d'Elgor, dont le rivage s'animait d'un va-et-vient des matelots du *Santa-Fé.* Pas une voile, pas une fumée au large. Rien que les immensités de l'Océan.
+
+Après une station d'un quart d'heure à la galerie du phare, les deux officiers, suivis de Vasquez, redescendirent, et retournèrent à bord.
+
+Après déjeuner, le capitaine Lafayate et le second Riegal se firent de nouveau mettre à terre. Les heures qui précédaient le départ, ils allaient les consacrer à une promenade sur la rive nord de la baie. Plusieurs fois déjà, et sans pilote, – on comprendra qu'il n'y en eût point à l'Île des États – le commandant était rentré de jour pour prendre son mouillage habituel dans la petite crique au pied du phare. Mais, par prudence, il ne négligeait jamais de faire une reconnaissance nouvelle de cette région peu ou mal connue.
+
+Les deux officiers prolongèrent donc leur excursion. Traversant l'isthme étroit qui réunit au reste de l'île le cap Saint-Jean, ils examinèrent le rivage du havre du même nom, qui, de l'autre côté du cap, forme comme le pendant de la baie d'Elgor.
+
+« Ce havre Saint-Jean, observa le commandant, est excellent. Il y a partout assez d'eau pour les navires du plus fort tonnage. Il est vraiment fâcheux que l'entrée en soit si difficile. Un feu, même de la plus médiocre intensité, mis en alignement avec le phare d'Elgor, permettrait aux navires mal pris d'y trouver aisément refuge.
+
+– Et c'est le dernier qu'on trouve en sortant du détroit de Magellan », fit remarquer le lieutenant Riegal.
+
+À quatre heures les deux officiers étaient de retour. Ils remontèrent à bord après avoir pris congé de Vasquez, de Felipe, et de Moriz, qui restèrent sur la grève en attendant le moment du départ.
+
+À cinq heures, la pression commençait à monter dans la chaudière de l'aviso, dont la cheminée vomissait des tourbillons de fumée noire. La mer ne tarderait pas à être étale, et le *Santa-Fé* lèverait son ancre dès que le jusant se ferait sentir.
+
+À six heures moins le quart, le commandant donna l'ordre de virer au cabestan et de balancer la machine. Le trop-plein de la vapeur fusait par le tuyau d'échappement.
+
+À l'avant, le second officier surveillait la manœuvre ; l'ancre fut bientôt à pic, hissée au bossoir et traversée.
+
+Le *Santa-Fé* se mit en marche, salué par les adieux des trois gardiens. Et, quoi qu'en pût penser Vasquez, si ses camarades ne virent pas sans quelque émotion s'éloigner l'aviso, les officiers et l'équipage en éprouvaient une profonde à laisser ces trois hommes sur cette île de l'extrême Amérique.
+
+Le *Santa-Fé*, à vitesse modérée, suivit la côte limitant au nord-ouest la baie d'Elgor. Il n'était pas huit heures, lorsqu'il donna en pleine mer. Le cap San Juan doublé, il fila à toute vapeur, en laissant le détroit dans l'ouest, et, à la nuit close, le feu du Phare du bout du Monde n'apparaissait plus que comme une étoile au bord de l'horizon.
+
+
+# Chapitre II. L'Île des États.
+
+L'Île des États, nommée aussi Terre des États, est située à l'extrémité sud-est du nouveau continent. C'est le dernier et le plus oriental fragment de cet archipel magellanique que les convulsions de l'époque plutonienne ont lancé sur ces parages du cinquante-cinquième parallèle, à moins de sept degrés du cercle polaire antarctique. Baignée par les eaux de deux océans, elle est recherchée des navires qui passent de l'un dans l'autre, qu'ils viennent soit du nord-est, soit du sud-ouest, après avoir doublé le cap Horn.
+
+Le détroit de Lemaire, découvert au dix-septième siècle par le navigateur hollandais de ce nom, sépare l'Île des États de la Terre de Feu, distante de 25 à 30 kilomètres. Il offre aux bâtiments un passage plus court et plus facile, en leur évitant les formidables houles qui battent le littoral de l'Île des États. Celle-ci le limite à l'est sur une longueur de dix milles environ [1], du cap Saint-Antoine au cap Kempe, et les navires à vapeur ou à voiles y sont moins exposés qu'en passant au sud de l'île.
+
+L'Île des États mesure trente-neuf milles de l'ouest à l'est depuis le cap Saint-Barthélemy jusqu'au cap San Juan, sur onze de largeur entre les caps Colnett et Webster.
+
+Le littoral de l'Île des États est extrêmement déchiqueté. C'est une succession de golfes, de baies et de criques dont l'entrée est parfois défendue par des cordons d'îlots et de récifs. Aussi, que de naufrages se sont produits sur ces côtes, ici murées de falaises à pic, là bordées d'énormes roches contre lesquelles, même par temps calme, la mer se brise avec une incomparable fureur.
+
+L'île était inhabitée, mais peut-être n'eût-elle pas été inhabitable, au moins pendant la belle saison, c'est-à-dire pendant les quatre mois de novembre, de décembre, de janvier et de février, que comprend l'été de cette haute latitude. Des troupeaux eussent même trouvé suffisante nourriture sur les vastes plaines qui s'étendent à l'intérieur, plus particulièrement dans la région située à l'est du Port Parry et comprise entre la pointe Conway et le cap Webster. Lorsque l'épaisse couche de neige a fondu sous les rayons du soleil antarctique, l'herbe apparaît assez verdoyante, et le sol conserve jusqu'à l'hiver une salutaire humidité. Les ruminants, faits à l'habitat des contrées magellaniques, y pourraient prospérer. Mais, les froids venus, il serait nécessaire de ramener les troupeaux aux campagnes plus clémentes, soit de la Patagonie, soit même de la Terre de Feu.
+
+Cependant, on y rencontre à l'état sauvage quelques couples de ces guanaques, sortes de daims de nature très rustique, dont la chair est assez bonne, lorsqu'elle est convenablement rôtie ou grillée. Et, si ces animaux ne meurent pas de faim pendant la longue période hivernale, c'est qu'ils savent trouver sous la neige les racines et les mousses dont leur estomac doit se contenter.
+
+De part et d'autre des plaines s'étendent au centre de l'île, quelques bois déploient leurs maigres ramures et montrent d'éphémères frondaisons plus jaunâtres que verdoyantes. Ce sont principalement des hêtres antarctiques, au tronc haut parfois d'une soixantaine de pieds, dont les branches se ramifient horizontalement, puis des épines vinettes d'essence très dure, des écorces de Winter, ayant des propriétés analogues à celles de la vanille.
+
+En réalité, la surface de ces plaines et de ces bois ne comprend pas le quart de la superficie de l'Île des États. Le reste n'est que plateaux rocheux où domine le quartz, gorges profondes, longues traînées de blocs erratiques, qui se sont éparpillés à la suite d'éruptions très anciennes, car, maintenant, on chercherait vainement des cratères de volcans éteints dans cette partie de la Fuégie ou de la Magellanie. Vers le centre de l'île, les plaines largement développées prennent des apparences de steppes, lorsque, pendant les huit mois de l'hiver, aucune tumescence ne trouble l'uniformité de la couche de neige qui les recouvre. Puis, à mesure que l'on s'avance vers l'ouest, le relief de l'île s'accentue, les falaises du littoral sont plus hautes et plus escarpées. Là se dressent des cônes sourcilleux, des pics dont l'altitude considérable atteint jusqu'à trois mille pieds au-dessus du niveau de la mer, et qui permettraient au regard d'embrasser l'île tout entière. Ce sont les derniers anneaux de cette prodigieuse chaîne andine qui, du nord au sud, constitue comme la gigantesque ossature du nouveau continent.
+
+Assurément, dans de semblables conditions climatériques, sous le souffle des âpres et terribles ouragans, la flore de l'île se réduit à de rares échantillons, dont les espèces ne s'acclimatent guère au voisinage du détroit de Magellan ou dans l'archipel des Malouines, distant de la côte fuégienne d'environ cent lieues marines. Ce sont des calcéolaires, cytises, pimprenelles, bromes, véroniques, stipals chez lesquels la matière colorante ne se forme qu'à un faible degré. Sous le couvert des bois, entre les herbes des prairies, ces pâles florules montrent leurs corolles presque aussitôt fanées qu'écloses. Au pied des roches littorales, sur leurs déclivités où s'attache un peu d'humus, le naturaliste pourrait encore recueillir quelques mousses, et, à l'abri des arbres, certaines racines comestibles, celles d'une azalée, par exemple, dont les Pécherais se servent en guise de pain, mais toutes peu nourrissantes en somme.
+
+On chercherait vainement un cours d'eau régulier à la surface de l'Île des États. Ni rivière, ni ruisseau sourdant hors de ce sol pierreux. Mais la neige s'y accumule en couches épaisses ; elle persiste pendant huit mois sur douze, et, à l'époque de la saison chaude – moins froide serait plus exact – elle fond sous les obliques rayons du soleil, et entretient une humidité permanente. Alors se forment çà et là de petits lagons, des étangs, dont l'eau se conserve jusqu'aux premiers gels. C'est ainsi que, au moment où commence cette histoire, des masses liquides tombaient des hauteurs voisines du phare et allaient se perdre en rebondissant dans la petite crique de la baie d'Elgor ou dans le havre Saint-Jean.
+
+En revanche, si la faune et la flore sont à peine représentées dans cette île, le poisson abonde sur tout le littoral. Aussi, malgré les dangers très sérieux que courent leurs embarcations, en traversant le détroit de Lemaire, les Fuégiens y viennent quelquefois faire de fructueuses pêches. Les espèces y sont très variées, merluches, tiburons, éperlans, loches, bonites, dorades, gobies, mulets. La grande pêche pourrait même y attirer de nombreux navires, car, à cette époque du moins, les cétacés, baleines, cachalots, et aussi phoques et morses, fréquentaient volontiers ces parages. Ces animaux marins ont été pourchassés avec une telle imprévoyance qu'ils se réfugient à présent dans les mers antarctiques où les campagnes sont aussi périlleuses que pénibles.
+
+On le comprendra sans peine, sur tout le périmètre de cette île, où se succèdent les grèves, les anses, les bancs rocheux, les coquilles fourmillent non moins que les coquillages, bivalves ou autres, moules, vignots, huîtres, patelles, fissarelles, buccins, et c'est par milliers que les crustacés se faufilent entre les récifs.
+
+Quant à la gent volatile, elle est innombrablement représentée par les albatros d'une blancheur de cygne, les bécassines, les pluviers, les chevaliers, les alouettes de mer, les mouettes bruyantes, les goélands criards, les labbes assourdissants.
+
+Toutefois, il ne faudrait pas conclure de cette description que l'Île des États fût de nature à exciter les convoitises du Chili ou de la République Argentine. Ce n'est en somme qu'un énorme rocher, à peu près inhabitable. À qui appartenait-elle à l'époque où débute cette histoire ? … Tout ce que l'on peut dire, c'est qu'elle faisait partie de l'archipel magellanique, alors indivis entre les deux Républiques de l'extrême continent américain [2].
+
+Pendant la belle saison, les Fuégiens ou Pécherais y font de rares apparitions, lorsque le gros temps les oblige à y relâcher. Quant aux navires de commerce, le plus grand nombre préfère donner dans le détroit de Magellan, tracé avec une extrême précision sur les cartes marines, et qu'ils peuvent suivre sans danger, qu'ils viennent de l'est ou de l'ouest, pour aller d'un océan à l'autre, grâce aux progrès de la navigation à vapeur. Seuls viennent prendre connaissance de l'Île des États, les bâtiments qui se préparent à doubler ou qui ont doublé le cap Horn.
+
+Il convient de le remarquer, la République Argentine avait montré une heureuse initiative en construisant ce Phare du bout du Monde, et les nations doivent lui en savoir gré. En effet, aucun feu n'éclairait, à cette époque, ces parages de la Magellanie depuis l'entrée du détroit de Magellan au cap des Vierges, sur l'Atlantique, jusqu'à sa sortie au cap Pilar, sur le Pacifique. Le phare de l'Île des États allait rendre d'incontestables services à la navigation en ces mauvais parages. Il n'en existe même pas au cap Horn, et celui-ci pouvait éviter bien des catastrophes, en assurant aux navires venant du Pacifique plus de sécurité pour embouquer le détroit de Lemaire.
+
+Le gouvernement argentin avait donc décidé la création de ce nouveau phare, au fond de la baie d'Elgor. Après un an de travaux bien conduits, son inauguration venait d'être faite à cette date du 9 décembre 1859.
+
+À cent cinquante mètres de la petite crique qui termine la baie, le sol présentait une tumescence d'une superficie de quatre à cinq cents mètres carrés, et d'une hauteur de trente à quarante mètres environ. Un mur de pierres sèches clôtura ce terre-plein, cette terrasse rocheuse qui devait servir de base à la tour du phare.
+
+Cette tour se dressait en son milieu au-dessus de l'ensemble de l'annexe, logements et magasins.
+
+L'annexe comprenait : 1° la chambre des gardiens, meublée de lits, d'armoires, de tables, de chaises, et que chauffait un poêle au charbon, dont le tuyau conduisait la fumée au-dessus du toit ; 2° la salle commune également munie d'un appareil de chauffage et qui servait de salle à manger, avec table au centre, lampes accrochées au plafond, placards qui contenaient divers instruments, tels que longue-vue, baromètre, thermomètre, et aussi les lampes destinées à remplacer celles de la lanterne en cas d'accident, enfin une horloge à poids disposée contre le mur latéral ; 3° les magasins où se conservaient les provisions pour une année, bien que le ravitaillement et la relève dussent s'effectuer tous les trois mois, conserves de sortes variées, viande salée, corned-beef, lard, légumes secs, biscuits de mer, thé, café, sucre, fûts de whisky et de brandevin, quelques médicaments d'un emploi usuel ; 4° la réserve d'huile nécessaire à la consommation des lampes du phare ; 5° le magasin, où était déposé le combustible en quantité suffisante pour les besoins du gardiennage pendant toute la durée des hivers antarctiques. Tel était l'ensemble des constructions formant un bâtiment qui s'arrondissait sur le terre-plein.
+
+La tour était d'une extrême solidité, bâtie avec les matériaux fournis par l'Île des États. Les pierres d'une grande dureté, maintenues par des entretoises de fer, appareillées avec grande précision, emboîtées les unes dans les autres à queue d'aronde, formaient une paroi capable de résister aux violentes tempêtes, aux ouragans terribles qui se déchaînent si fréquemment sur cette lointaine limite des deux plus vastes océans du globe. Ainsi que l'avait dit Vasquez, le vent ne l'emporterait pas, cette tour. Ce serait un fanal que tiendraient ses camarades et lui, et ils le tiendraient bien en dépit des tourmentes magellaniques !
+
+La tour mesurait trente-deux mètres de hauteur, et, en y joignant l'élévation du terre-plein, le feu se trouvait porté à deux cent vingt-trois pieds au-dessus du niveau de la mer. Il aurait donc pu être aperçu au large à la distance de quinze milles, distance que franchit le rayon visuel à cette altitude. Mais, en réalité, sa portée n'était que de dix milles [3]. À cette époque, il n'était pas encore question de phares fonctionnant au gaz hydrogène carburé ou à la lumière électrique. D'ailleurs, sur cette île éloignée, de communication difficile avec les États les plus rapprochés, le système le plus simple et nécessitant le minimum de réparations s'imposait. On avait donc adopté l'éclairage à l'huile, en le dotant de tous les perfectionnements que la science et l'industrie possédaient alors.
+
+En somme, cette visibilité à dix milles était suffisante. Il restait aux navires venant du nord-est, de l'est et du sud-est un large champ pour atteindre le détroit de Lemaire ou prendre direction par le sud de l'île. Tous les dangers seraient parés en observant ponctuellement les instructions publiées par les soins de l'autorité maritime : tenir le phare au nord-nord-ouest dans le second cas, et au sud-sud-ouest dans le premier. Le cap San Juan et la pointe Several ou Fallows seraient franchis en les laissant, celui-là sur bâbord, celle-ci sur tribord, et à temps pour n'y point être affalés par le vent, ni par les courants.
+
+En outre, et pour les occasions très rares où un bâtiment serait contraint de relâcher dans la baie d'Elgor, en se guidant sur le phare, il aurait toutes chances de gagner son mouillage. Au retour, le *Santa-Fé* pourrait donc facilement se rendre à la petite crique, même pendant la nuit. La baie ayant environ trois milles de longueur jusqu'à l'extrémité du cap Saint-Jean, et la portée de feu étant de dix, l'aviso en aurait encore sept devant lui avant d'être arrivé sur les premiers accords de l'île.
+
+Autrefois les phares étaient pourvus de miroirs paraboliques, qui avaient le grave inconvénient d'absorber au moins la moitié de la lumière produite. Mais le progrès avait dit son mot en cette matière comme en toutes choses. On employait dès cette époque des miroirs dioptriques, qui ne laissent perdre qu'une faible partie de la clarté des lampes.
+
+Il va sans dire que le Phare du bout du Monde possédait un feu fixe. Il n'était pas à craindre que le capitaine d'un navire pût le confondre avec un autre feu, puisqu'il n'en existait aucun sur ces parages, pas même, on le répète, au cap Horn. Il n'avait donc point paru nécessaire de le différencier, soit par des éclipses, soit par des éclats, ce qui permettait de supprimer un mécanisme toujours délicat, et dont les réparations eussent été malaisées sur cette île uniquement habitée par les trois gardiens.
+
+La lanterne était donc munie de lampes à double courant d'air et à mèches concentriques. Leur flamme, produisant une intense clarté sous un petit volume, pouvait dès lors être placée presque au foyer même des lentilles. L'huile leur arrivait en abondance par un système analogue à celui des Carcel. Quant à l'appareil dioptrique disposé à l'intérieur de la lanterne, il se composait de lentilles à échelons, comprenant un verre central de forme ordinaire, qu'entourait une série d'anneaux de médiocre épaisseur et d'un profil tel que tous se trouvaient avoir le même foyer principal. Dans ces conditions, le faisceau cylindrique de rayons parallèles produit derrière le système de lentilles était transmis au dehors dans les meilleures conditions de visibilité. En quittant l'île par un temps assez clair, le commandant de l'aviso put, en effet, constater que rien n'était à reprendre dans l'installation et le fonctionnement du nouveau phare.
+
+Il est évident que ce bon fonctionnement ne dépendait que de l'exactitude, de la vigilance des gardiens. À la condition de tenir les lampes en parfait état, d'en renouveler les mèches avec soin, de surveiller l'introduction de l'huile dans la proportion voulue, de bien régler le tirage en allongeant ou en raccourcissant les manchons des verres qui les entouraient, d'allumer et d'éteindre le feu au coucher et au lever du soleil, de ne jamais se départir d'une surveillance minutieuse, ce phare était appelé à rendre les plus grands services à la navigation dans ces lointains parages de l'océan Atlantique. Il n'y avait pas, d'ailleurs, à mettre en doute, la bonne volonté et le zèle de Vasquez et de ses deux camarades. Désignés après une sélection rigoureuse entre un grand nombre de candidats, ils avaient tous les trois, dans leurs fonctions antérieures, donné des preuves de conscience, de courage et d'endurance.
+
+Il n'est pas inutile de répéter que la sécurité des trois gardiens paraissait être complète, si isolée que fût l'Île des États, à quinze cents milles de Buenos-Ayres, d'où pouvaient seulement venir le ravitaillement et les secours. Les quelques Fuégiens ou Pécherais qui s'y transportaient parfois pendant la belle saison n'y faisaient point un long séjour, et ces pauvres gens sont, au surplus, tout à fait inoffensifs. La pêche achevée, ils avaient hâte de retraverser le détroit de Lemaire et de regagner le littoral de la Terre de Feu ou les îles de l'archipel. D'autres étrangers, jamais on n'avait eu l'occasion d'en signaler la présence. Les côtes de l'île étaient trop redoutées des navigateurs pour qu'un bâtiment fût tenté d'y chercher un refuge qu'il aurait trouvé plus sûrement et plus facilement sur plusieurs autres points de la Magellanie.
+
+Cependant toutes précautions avaient été prises en prévision de l'arrivée de gens suspects dans la baie d'Elgor. Les annexes étaient fermées de portes solides qui se verrouillaient à l'intérieur, et l'on n'aurait pu forcer les grillages des fenêtres des magasins et du logement. En outre, Vasquez, Moriz et Felipe possédaient des carabines, des revolvers, et les munitions ne leur feraient pas défaut.
+
+Enfin, au fond du couloir qui aboutissait au pied de la tour, on avait établi une porte de fer qu'il eût été impossible de briser ou d'enfoncer. Quant à pénétrer autrement à l'intérieur de la tour, comment cela eût-il été possible à travers les étroites meurtrières de l'escalier, défendues par de solides croisillons, et comment atteindre la galerie qui entourait la lanterne, à moins de s'élever par la chaîne du paratonnerre ?
+
+Tels étaient les travaux d'une si grande importance qui venaient d'être conduits à bonne fin sur l'Île des États par les soins du gouvernement de la République Argentine.
+
+
+# Chapitre III. Les trois gardiens.
+
+C'est à cette époque de l'année, de novembre à mars, que la navigation est la plus active dans les parages de la Magellanie. La mer y est toujours dure. Mais, si rien n'arrête et ne calme les immenses houles qui viennent des deux océans, du moins l'état de l'atmosphère est-il plus égal, et les tourmentes qui le troublent jusque dans les hautes zones ne sont que passagères. Les navires à vapeur et les voiliers s'aventurent plus volontiers, pendant cette période de temps maniable, à contourner le Nouveau Continent en doublant le cap Horn. Cependant, ce n'est pas le passage des bâtiments, soit par le détroit de Lemaire, soit par le sud de l'Île des États, qui pourrait rompre la monotonie des longues journées de cette saison. Ils n'ont jamais été nombreux, et ils sont devenus plus rares encore, depuis que le développement de la navigation à vapeur et le perfectionnement des cartes marines ont rendu moins dangereux le détroit de Magellan, route à la fois plus courte et plus facile.
+
+Toutefois cette monotonie, inhérente à l'existence dans les phares, n'est pas aisément perceptible aux gardiens préposés d'ordinaire à leur service. Ce sont, pour la plupart, d'anciens matelots ou d'anciens pêcheurs. Ils ne sont pas gens à compter les jours et les heures ; ils savent sans cesse s'occuper et se distraire. Le service, d'ailleurs, ne se borne pas à assurer l'éclairage entre le coucher et le lever du soleil. Il avait été recommandé à Vasquez et à ses camarades de surveiller avec soin les approches de la baie d'Elgor, de se porter plusieurs fois par semaine au cap San Juan, d'observer la côte est jusqu'à la pointe Several, sans jamais s'éloigner de plus de trois à quatre milles. Ils devaient tenir au courant le « livre du phare », y noter tous les incidents qui pourraient survenir, le passage des bâtiments à voile et à vapeur, leur nationalité, leur nom lorsqu'ils les enverraient avec leur numéro, la hauteur des marées, la direction et la force du vent, la relève du temps, la durée des pluies, la fréquence des orages, les hausses et baisses du baromètre, l'état de la température et autres phénomènes, ce qui permettrait d'établir la carte météorologique de ces parages.
+
+Vasquez, Argentin de naissance, comme Felipe et Moriz, devait remplir à l'Île des États les fonctions de gardien-chef du phare. Il était alors âgé de quarante-sept ans. Vigoureux, d'une santé à toute épreuve, d'une remarquable endurance, comme il sied à un marin qui a coupé et recoupé la majeure partie des cent quatre-vingts parallèles, résolu, énergique, familiarisé avec le danger, il avait su se tirer d'affaire en plus d'une circonstance où il y allait de la vie. Ce n'est pas seulement à l'âge qu'il devait d'avoir été choisi comme chef de la relève, mais à son caractère fortement trempé qui inspirait une entière confiance. Sans être arrivé plus haut que le grade de premier maître dans la marine de guerre de la République, il avait quitté le service avec l'estime de tous. Aussi, lorsqu'il sollicita cette place à l'Île des États, l'autorité maritime n'éprouva-t-elle aucune hésitation à la lui confier.
+
+Felipe et Moriz étaient également deux marins, âgés l'un de quarante, l'autre de trente-sept ans. Vasquez connaissait leurs familles de longue date et il les avait désignés au choix du gouvernement. Le premier, comme lui, était resté célibataire. Seul des trois, Moriz était marié, sans enfant, et sa femme, qu'il reverrait dans trois mois, servait chez une logeuse du port de Buenos-Ayres.
+
+Lorsque les trois mois seraient écoulés, Vasquez, Felipe et Moriz rembarqueraient sur le *Santa-Fé*, qui ramènerait à l'Île des États trois autres gardiens, dont ils reviendraient prendre la place trois mois plus tard.
+
+Ce serait en juin, juillet et août qu'ils reprendraient le service, c'est-à-dire vers le milieu de l'hiver. Donc, après n'avoir pas trop souffert des intempéries pendant leur premier séjour, ils devaient s'attendre à une pénible existence, à leur retour sur l'île. Mais, on l'imagine bien, cela n'était pas pour leur causer la moindre inquiétude. Vasquez et ses camarades seraient déjà presque acclimatés, et ils sauraient braver impunément le froid, les tempêtes, toutes les rigueurs des saisons antarctiques.
+
+Dès ce jour, 10 décembre, le service fut organisé régulièrement. Chaque nuit les lampes fonctionnèrent sous la surveillance de l'un des gardiens postés dans la chambre de quart, tandis que les deux autres se reposaient dans le logement. Le jour, les divers appareils étaient visités, nettoyés, munis de mèches nouvelles au besoin, et mis en état de projeter leurs puissants rayons au coucher du soleil.
+
+Entre temps, suivant les indications du service, Vasquez et ses camarades descendaient la baie d'Elgor jusqu'à la mer, soit à pied en suivant l'un ou l'autre rivage, soit dans l'embarcation laissée à la disposition des gardiens, une chaloupe demi-pontée gréée d'une misaine et d'un foc, qui s'abritait dans une petite crique où elle n'avait rien à craindre, de hautes falaises la protégeant contre les vents de l'est, les seuls à redouter.
+
+Il va de soi que, lorsque Vasquez, Felipe et Moriz faisaient ces excursions dans la baie ou aux alentours de l'enceinte, l'un d'eux restait toujours de garde dans la galerie supérieure du phare. En effet, il pouvait arriver qu'un bâtiment vînt à passer en vue de l'Île des États et voulût envoyer son numéro. Il importait donc que l'un des gardiens fût toujours à son poste. Du terre-plein, on n'apercevait la mer que de l'est au nord-est. Dans les autres directions, les falaises arrêtaient le regard à quelques centaines de toises de l'enceinte. D'où cette obligation de se tenir en permanence dans la chambre de quart, afin de pouvoir communiquer avec les navires.
+
+Les premiers jours qui suivirent le départ de l'aviso ne furent marqués par aucun incident. Le temps demeurait beau, la température assez élevée. Le thermomètre accusait parfois dix degrés au-dessus du zéro centigrade. Le vent soufflait du large, et généralement en petite brise entre le lever et le coucher du soleil ; puis, avec le soir, il halait la terre, c'est-à-dire qu'il remontait au nord-ouest, et venait des vastes plaines de la Patagonie et de la Terre-de-Feu. Il y eut cependant quelques heures de pluie, et, comme la chaleur s'accroissait, il fallait s'attendre à de prochains orages, qui pourraient modifier l'état atmosphérique.
+
+Sous l'influence des rayons solaires, qui acquéraient une force vivifiante, la flore commença à se manifester dans une certaine mesure. La prairie voisine de l'enceinte, entièrement dépouillée du manteau blanc de l'hiver, montrait son tapis d'un vert pâle. Dans le bois des hêtres antarctiques, on aurait même eu plaisir à s'étendre sous les frondaisons nouvelles. Le ruisseau largement alimenté coulait à pleins bords jusqu'à la crique. Les mousses, les lichens reparaissaient au pied des arbres et tapissaient le flanc des roches, de même que ces cochléarias si efficaces contre les affections scorbutiques. Enfin, si ce n'était pas le printemps – ce joli mot n'a pas cours en Magellanie – c'était l'été qui pour quelques semaines encore régnait sur l'extrême limite du continent américain.
+
+Cette journée finie, avant que le moment ne fût venu d'allumer le phare, Vasquez, Felipe et Moriz, assis tous trois sur le balcon circulaire qui régnait autour de la lanterne, causaient suivant leur habitude, et tout naturellement le gardien-chef dirigeait et entretenait la conversation.
+
+« Eh bien, garçons, dit-il après avoir consciencieusement bourré sa pipe – exemple qui fut suivi par les deux autres – cette nouvelle existence ? … commencez-vous à vous y faire ?
+
+– Bien sûr, Vasquez, répondit Felipe. Ce n'est point en si peu de temps que l'on peut avoir grand ennui ni grande fatigue.
+
+– En effet, ajouta Moriz, mais nos trois mois passeront plus vite que je ne l'aurais cru.
+
+– Oui, mon garçon, ils fileront comme une corvette sous ses cacatois, ses perruches, ses ailes de pigeons et ses bonnettes !
+
+– En fait de bâtiments, fit observer Felipe, nous n'en avons pas aperçu un seul aujourd'hui, pas même à l'horizon…
+
+– Il en viendra, Felipe, il en viendra, répliqua Vasquez, en arrondissant sa main sur ses yeux comme pour s'en faire une longue-vue. Ce ne serait pas la peine d'avoir élevé ce beau phare sur l'Île des États, un phare qui envoie ses éclats jusqu'à dix milles au large, pour que pas un navire ne vînt en profiter.
+
+– D'ailleurs, il est tout nouveau, notre phare, observa Moriz.
+
+– Comme tu dis, garçon ! répliqua Vasquez, et il faut le temps aux capitaines pour apprendre que cette côte est éclairée maintenant. Quand ils le sauront, ils n'hésiteront pas à la ranger de plus près et à donner dans le détroit au grand avantage de leur navigation ! Mais ce n'est pas tout de savoir qu'il y a un phare, encore faut-il être sûr qu'il est toujours allumé, depuis le coucher du soleil jusqu'à son petit lever.
+
+– Cela ne sera bien connu, fit remarquer Felipe, qu'après le retour du *Santa-Fé* à Buenos-Ayres.
+
+– Juste, garçon, déclara Vasquez, et, lorsqu'on aura publié le rapport du commandant Lafayate, les autorités s'empresseront de le répandre dans tout le monde maritime. Mais déjà la plupart des navigateurs ne doivent pas ignorer ce qui s'est fait ici.
+
+– Quant au *Santa-Fé*, qui n'est parti que depuis cinq jours, reprit Moriz, sa traversée durera…
+
+– Ce qu'elle durera, interrompit Vasquez, pas plus d'une semaine encore, je suppose ! Le temps est beau, la mer est calme, le vent souffle du bon côté… L'aviso a du largue dans ses voiles jour et nuit, et, en y ajoutant sa machine, je serais bien étonné s'il ne filait pas ses neuf à dix nœuds.
+
+– À l'heure qu'il est, dit Felipe, il doit avoir dépassé le détroit de Magellan et doublé le cap des Vierges d'une quinzaine de milles.
+
+– Sûr, mon garçon, déclara Vasquez. En ce moment, il longe la côte patagone, et il peut défier à la course les chevaux des Patagons… Dieu sait, pourtant, si, dans ce pays-là, hommes et bêtes détalent comme une frégate de premier rang, vent sous vergue ! »
+
+On comprendra que ce souvenir du *Santa-Fé* fût encore présent à l'esprit de ces braves gens. N'était-ce pas comme un morceau de la terre natale qui venait de les quitter pour retourner là-bas. Par la pensée, ils le suivraient jusqu'à la fin du voyage.
+
+« As-tu fait bonne pêche aujourd'hui ? … reprit Vasquez en s'adressant à Felipe.
+
+– Assez bonne, Vasquez, j'ai pris à la ligne quelques douzaines de gobies, et, à la main, un tourteau pesant bien trois livres, qui se défilait entre les roches.
+
+– Bien cela, répondit Vasquez, et ne crains pas de dépeupler la baie ! … Les poissons, plus on en prend, plus il y en a, comme on dit, et cela nous permettra d'économiser nos provisions de viande sèche et de lard salé ! … Quant aux légumes…
+
+– Moi, annonça Moriz, je suis descendu jusqu'au bois de hêtres. J'y ai déterré quelques racines, et, comme je l'ai vu faire au maître-coq de l'aviso, qui s'y entend, je vous en accommoderai une fameuse platée !
+
+– Elle sera la bienvenue, déclara Vasquez, car il ne faut pas abuser des conserves, même des meilleures ! … Ça ne vaut jamais ce qui est fraîchement tué, ou fraîchement pêché, ou fraîchement cueilli !
+
+– Eh ! fit Felipe, s'il nous venait quelques ruminants de l'intérieur de l'île… un couple de guanaques ou autres.
+
+– Je ne dis pas qu'un filet ou un cuissot de guanaque soit à dédaigner, répliqua Vasquez. Un bon morceau de venaison, et l'estomac n'a que des remerciements à faire lorsqu'on lui en a servi ! … Aussi, si le gibier se présente, on tâchera de l'abattre. Mais, garçons, attention à ne pas s'éloigner de l'enceinte pour aller chasser la grosse ou la petite bête. L'essentiel est de se conformer aux instructions et de ne point s'écarter du phare, si ce n'est pour observer ce qui se passe dans la baie d'Elgor, et au large entre le cap San Juan et la pointe Diegos.
+
+– Cependant, reprit Moriz, qui aimait la chasse, s'il venait une belle pièce à une portée de fusil…
+
+– À une portée de fusil et même à deux, et même à trois, je ne dis pas, répondit Vasquez. Mais, vous le savez, le guanaque est trop sauvage de sa nature pour fréquenter la bonne société… la nôtre s'entend, et je serais bien surpris si nous voyions seulement une paire de cornes au-dessus des roches, du côté du bois de hêtres ou à proximité de l'enceinte ! »
+
+En effet, depuis le commencement des travaux, aucun animal n'avait été signalé aux approches de la baie d'Elgor. Le second du *Santa-Fé*, déterminé Nemrod, avait plusieurs fois essayé de chasser le guanaque. Sa tentative avait été vaine, bien qu'il se fût avancé de cinq à six milles dans l'intérieur. Si le gros gibier ne faisait point défaut, du moins ne se laissait-il voir que de trop loin pour être tiré. Peut-être, s'il eût franchi les hauteurs et dépassé le port Parry, s'il eût poussé jusqu'à l'autre extrémité de l'île, le second aurait-il été plus heureux. Mais là où se dressaient de grands pics, dans la partie occidentale, le cheminement devait être sans doute fort difficile, et ni lui, ni personne de l'équipage du *Santa-Fé*, n'alla jamais reconnaître les environs du cap Saint-Barthélemy.
+
+Pendant la nuit du 16 au 17 décembre, Moriz étant de garde dans la chambre de quart de six heures à dix heures, un feu apparut en direction de l'est, à cinq ou six milles au large. C'était évidemment un feu de navire, le premier qui se fût montré dans les eaux de l'île depuis l'établissement du phare.
+
+Moriz pensa, avec raison, que cela devait intéresser ses camarades, qui ne dormaient pas encore, et il vint les prévenir.
+
+Vasquez et Felipe remontèrent aussitôt avec lui, et, la longue-vue aux yeux, ils se postèrent devant la fenêtre ouverte à l'est.
+
+« C'est un feu blanc, déclara Vasquez.
+
+– Et, par conséquent, dit Felipe, ce n'est point un feu de position, puisqu'il n'est ni vert ni rouge. »
+
+La remarque était juste. Ce n'était pas un de ces feux de position placés, suivant leur couleur, l'un à bâbord, l'autre à tribord du navire.
+
+« Et, ajouta Vasquez, puisque celui-ci est blanc, c'est qu'il est suspendu à l'étai de misaine, ce qui indique un steamer en vue de l'île. »
+
+Sur ce point, aucun doute. Il s'agissait bien d'un steamer qui ralliait le cap San Juan. Prendrait-il le détroit de Lemaire, ou passerait-il par le sud ? C'est la question que se posaient les gardiens.
+
+Ils suivirent donc la marche du bâtiment à mesure qu'il se rapprochait, et, après une demi-heure, ils furent fixés sur sa route.
+
+Le steamer, laissant le phare par bâbord au sud-sud-ouest, se dirigea franchement vers le détroit. On put apercevoir son feu rouge au moment où il passa à l'ouvert du havre Saint-Jean ; puis il ne tarda pas à disparaître au milieu de l'obscurité.
+
+« Voici le premier navire qui aura relevé le Phare du bout du Monde ! s'écria Felipe.
+
+– Ce ne sera pas le dernier ! » assura Vasquez.
+
+Le lendemain, dans la matinée, Felipe signala un grand voilier qui paraissait à l'horizon. Le temps était clair, l'atmosphère dégagée de brumes sous une petite brise du sud-est, ce qui permit d'apercevoir le navire à la distance d'au moins dix milles.
+
+Vasquez et Moriz, prévenus, montèrent à la galerie du phare. On distinguait le bâtiment signalé au-dessus des extrêmes falaises du littoral, un peu à droite de la baie d'Elgor, entre la pointe Diegos et la pointe Several.
+
+Ce navire cinglait rapidement, tout dessus, avec une vitesse qui ne devait pas être estimée à moins de douze ou treize nœuds. Il marchait grand largue, bâbord amures. Mais, comme il se dirigeait en droite ligne sur l'Île des États, on ne pouvait encore assurer s'il en passerait au nord ou au sud.
+
+En gens de mer que ces questions intéressent toujours, Vasquez, Felipe et Moriz discutaient ce point. Finalement, ce fut Moriz qui eut raison, ayant soutenu que le voilier ne cherchait pas l'entrée du détroit. En effet, lorsqu'il ne fut plus qu'à un mille et demi de la côte, il lofa, de manière à venir plus au vent, afin de doubler la pointe Several.
+
+C'était un grand bâtiment, jaugeant au moins dix-huit cents tonnes, gréé en trois-mâts barque du genre de ces clippers construits en Amérique, et dont la vitesse de marche est vraiment merveilleuse.
+
+« Que ma longue-vue se change en parapluie, s'écria Vasquez, si celui-là n'est pas sorti d'un chantier de la Nouvelle-Angleterre !
+
+– Peut-être va-t-il nous envoyer son numéro ? dit Moriz.
+
+– Il ne ferait que son devoir », répondit simplement le gardien-chef.
+
+C'est bien ce qui arriva au moment où le clipper tournait la pointe Several. Une série de pavillons monta à la corne de brigantine, signaux que Vasquez traduisit immédiatement après avoir consulté le livre déposé dans la chambre de quart.
+
+C'était le *Montank* du port de Boston, Nouvelle-Angleterre, États-Unis d'Amérique. Les gardiens lui répondirent en hissant le pavillon argentin à la tige du paratonnerre, et ils ne cessèrent d'observer le navire jusqu'au moment où l'extrémité de sa mâture disparut derrière les hauteurs du cap Webster, sur la côte sud de l'île.
+
+« Et maintenant, dit Vasquez, bon voyage au *Montank*, et fasse le ciel qu'il n'attrape pas quelque mauvais coup de temps au large du cap Horn ! »
+
+Pendant les jours qui suivirent, la mer demeura presque déserte. À peine put-on entrevoir une ou deux voiles à l'horizon de l'est.
+
+Les navires qui passaient à une dizaine de milles de l'Île des États ne cherchaient évidemment pas à rallier la terre d'Amérique. Dans l'opinion de Vasquez, ce devaient être des baleiniers qui se rendaient sur les lieux de pêche, dans les parages antarctiques. On aperçut du reste quelques souffleurs qui venaient des latitudes plus élevées. Ils se tenaient à bonne distance de la pointe Several en se dirigeant vers l'Océan Pacifique.
+
+Il n'y eut rien à noter jusqu'à la date du 20 décembre, si ce n'est des observations météorologiques. Le temps était devenu assez variable, avec des sautes de vent du nord-est au sud-est. À plusieurs reprises, il tomba des pluies assez fortes, parfois accompagnées de grêle, ce qui indiquait une certaine tension électrique de l'atmosphère. On pouvait donc craindre des orages qui ne laissent pas d'être redoutables, surtout à cette époque de l'année.
+
+Dans la matinée du 21, Felipe se promenait en fumant sur le terre-plein, lorsqu'il crut apercevoir un animal du côté du bois de hêtres.
+
+Après l'avoir observé pendant quelques instants, il alla prendre une longue-vue dans la salle commune.
+
+Felipe reconnut sans peine un guanaque de grande taille. C'était peut-être l'occasion de faire un bon coup.
+
+Aussitôt, Vasquez et Moriz, qu'il venait d'appeler, sortirent tous deux de l'annexe et le rejoignirent sur le terre-plein.
+
+Tous furent d'avis qu'il fallait se mettre en chasse. Si l'on parvenait à abattre le guanaque, cela vaudrait un supplément de viande fraîche, qui varierait agréablement l'ordinaire.
+
+Voici ce qui fut convenu : Moriz, armé d'une des carabines, quitterait l'enceinte, et essayerait, sans être aperçu, de tourner l'animal, qui restait immobile, et de le repousser du côté de la baie, où Felipe l'attendrait au passage.
+
+« En tout cas, prenez bien garde, garçons, recommanda Vasquez. Ces bêtes-là ont l'oreille fine et le nez fin ! Du plus loin que celle-ci verra ou sentira Moriz, elle décampera si vite, que vous ne pourrez ni la tirer ni la tourner. Laissez-la filer alors, car il ne faut pas vous éloigner… C'est bien entendu ? …
+
+– Bien entendu », répondit Moriz.
+
+Vasquez et Felipe se postèrent sur le terre-plein, et, en se servant de la longue-vue, ils constatèrent que le guanaque n'avait pas bougé de la place où il s'était montré tout d'abord. Leur attention se porta sur Moriz.
+
+Celui-ci se dirigeait vers le bois de hêtres. Il y serait à couvert, et peut-être pourrait-il, sans effrayer l'animal, gagner les roches, afin de le prendre à revers et de l'obliger de fuir du côté de la baie.
+
+Ses camarades purent le suivre du regard jusqu'au moment où il atteignit le bois sous lequel il disparut.
+
+Environ une demi-heure s'écoula. Le guanaque était toujours immobile et Moriz devait être à portée de lui envoyer son coup de fusil. Vasquez et Felipe attendaient donc qu'une détonation retentît et que l'animal tombât plus ou moins grièvement blessé, ou prît la fuite à toutes jambes.
+
+Cependant aucun coup ne fut tiré, et, à l'extrême surprise de Vasquez et de Felipe, voici que le guanaque, au lieu de détaler, s'étendit sur les roches, les jambes pendantes, le corps affaissé, comme s'il n'avait plus eu la force de se soutenir.
+
+Presque aussitôt, Moriz, qui était parvenu à se glisser derrière les roches, parut et s'élança vers le guanaque qui ne remua pas ; il se pencha sur lui, il le tâta de la main, et se releva brusquement.
+
+Puis, se tournant vers l'enceinte, il fit un geste auquel on ne pouvait se méprendre. Évidemment, il demandait à ses camarades de le rejoindre au plus tôt.
+
+« Il y a quelque chose d'extraordinaire, dit Vasquez. Viens, Felipe. »
+
+Et tous deux, dégringolant du terre-plein, coururent vers le bois de hêtres.
+
+Ils ne mirent pas plus de dix minutes à franchir la distance.
+
+« Eh bien… le guanaque ? … interrogea Vasquez.
+
+– Le voici, répondit Moriz, en montrant la bête couchée à ses pieds.
+
+– Il est mort ? demanda Felipe.
+
+– Mort, répliqua Moriz.
+
+– De vieillesse alors ? s'écria Vasquez.
+
+– Non… des suites d'une blessure !
+
+– Blessé ! il aurait été blessé ?
+
+– Oui… d'une balle au flanc !
+
+– Une balle ! … » répéta Vasquez.
+
+Rien de plus certain. Après avoir été frappé d'une balle et s'être traîné jusqu'à cette place, le guanaque y était tombé mort.
+
+« Il y a donc des chasseurs dans l'île ? » murmura Vasquez.
+
+Immobile et pensif, il porta un regard inquiet autour de lui.
+
+
+# Chapitre IV. La bande Kongre.
+
+Si Vasquez, Felipe et Moriz se fussent transportés à l'extrémité occidentale de l'Île des États, ils auraient constaté combien ce littoral différait de celui qui s'étendait entre le cap Saint-Jean et la pointe Several. Ce n'étaient que falaises s'élevant jusqu'à deux cents pieds de hauteur, la plupart coupées à pic et se prolongeant sous des eaux profondes, incessamment battues d'un violent ressac, même par temps calme.
+
+En avant de ces falaises arides, dont les brisures, les interstices, les failles, abritaient des myriades d'oiseaux de mer, se détachaient nombre de bancs de récifs, dont quelques-uns arrivaient jusqu'à deux milles au large à marée basse. Entre eux sinuaient d'étroits canaux, des passes impraticables, si ce n'est à de légères embarcations. Çà et là des grèves, des tapis de sable, où étouffaient quelques maigres plantes marines, semées de coquilles écrasées par le poids des lames au plein de la mer. Les cavernes ne manquaient pas à l'intérieur de ces falaises, grottes profondes, sèches, obscures, d'orifice resserré, dont l'intérieur n'était ni balayé par les rafales ni inondé par la houle, même aux redoutables époques de l'équinoxe. On y accédait en traversant des raidillons pierreux, des éboulis de rocs que les gros flux dérangeaient parfois. Des ravins rudes à gravir donnaient accès jusqu'à la crête, mais, pour atteindre le plateau du centre de l'île, il aurait fallu franchir des crêtes de plus de neuf cents mètres d'altitude, et la distance n'eût pas été moindre d'une quinzaine de milles. Au total, le caractère sauvage, désolé, s'accentuait plus de ce côté qu'au littoral opposé où s'ouvrait la baie d'Elgor.
+
+Bien que l'ouest de l'Île des États fût en partie protégé contre les vents de nord-ouest par les hauteurs de la Terre-de-Feu et de l'archipel Magellanique, la mer s'y déchaînait avec autant de fureur qu'aux abords du cap San Juan, de la pointe Diegos et de la pointe Several. Si donc un phare avait été établi du côté de l'Atlantique, un autre n'eût pas été moins nécessaire du côté du Pacifique, pour les bâtiments cherchant le détroit de Lemaire, après avoir doublé le cap Horn. Peut-être le gouvernement chilien se réservait-il, à cette époque, de suivre un jour l'exemple de la République Argentine.
+
+Dans tous les cas, si ces travaux eussent été entrepris en même temps sur les deux extrémités de l'Île des États, cela eût singulièrement compromis la situation d'une bande de pillards qui s'étaient réfugiés dans le voisinage du cap Saint-Barthélemy.
+
+Plusieurs années auparavant ces malfaiteurs avaient pris pied à l'entrée de la baie d'Elgor. Ils y avaient découvert une profonde caverne creusée dans la falaise. Cette caverne leur offrait un sûr abri, et, aucun navire ne relâchant jamais à l'Île des États, ils s'y trouvaient en parfaite sécurité.
+
+Ces hommes, au nombre d'une douzaine, avaient pour chef un individu du nom de Kongre, auquel un certain Carcante servait de second.
+
+Ce n'était qu'un ramassis de gens originaires du Sud-Amérique. Cinq d'entre eux étaient de nationalité argentine ou chilienne. Quant aux autres, vraisemblablement des natifs de la Fuégie, recrutés par Kongre, ils n'avaient eu qu'à traverser le détroit de Lemaire pour compléter la bande, sur cette île qu'ils connaissaient déjà pour y être venus pêcher pendant la belle saison.
+
+De Carcante, tout ce qu'on en savait, c'est qu'il était Chilien, mais il eût été difficile de dire en quelle ville ou village de la République il avait reçu naissance, ni à quelle famille il appartenait. Âgé de trente-cinq à quarante ans, de taille moyenne, plutôt maigre, mais tout nerfs et tout muscles, et par conséquent d'une extrême vigueur, de caractère sournois, d'âme fausse, jamais il n'eût reculé ni devant un vol à perpétrer, ni devant un meurtre à commettre.
+
+Quant au chef de la bande, on ignorait tout de son existence. Sa nationalité, il ne s'était jamais prononcé à ce sujet. Se nommait-il Kongre ? on ne le savait pas. Ce qui est certain, c'est que ce nom est assez répandu chez les indigènes de la Magellanie et de la Terre-de-Feu. Lors du voyage de *l'Astrolabe* et de la *Zélée*, le capitaine Dumont-d'Urville, en relâche au havre Peckett, sur le détroit de Magellan, reçut à son bord un Patagon qui portait ce nom. Mais il est douteux que Kongre fût originaire de la Patagonie. Il n'avait pas la figure rétrécie au sommet et large à sa partie inférieure des hommes de cette contrée, leur front étroit et fuyant, leurs yeux allongés, leur nez écrasé, leur taille généralement haute. En outre, sa physionomie était loin de présenter cette expression de douceur que l'on rencontre chez la plupart des types de ces peuplades.
+
+Kongre avait un tempérament aussi violent qu'énergique. Cela se reconnaissait aisément à ses traits farouches, mal dissimulés sous une barbe épaisse qui blanchissait déjà, bien qu'il ne fût âgé que d'une quarantaine d'années. C'était un véritable bandit, un malfaiteur redoutable, souillé de tous les crimes, qui n'avait pu trouver d'autre refuge que cette île déserte, dont on connaissait seulement le littoral.
+
+Mais, depuis qu'ils étaient venus y chercher asile, comment Kongre et ses compagnons étaient-ils parvenus à y subsister ? C'est ce qui va être sommairement expliqué.
+
+Lorsque Kongre et son complice Carcante, à la suite de forfaits qui leur auraient valu la corde ou le garrot, s'enfuirent de Punta-Arénas, le principal port du détroit de Magellan, ils gagnèrent la Terre-de-Feu, où il eût été difficile de les poursuivre. Là, vivant au milieu des Pécherais, ils apprirent combien étaient fréquents les naufrages sur l'Île des États, que n'éclairait pas encore le Phare du bout du Monde. Nul doute que ces rivages ne fussent couverts de débris de toutes sortes, dont quelques-uns devaient avoir une grande valeur. Kongre et Carcante eurent alors l'idée d'organiser une bande de pilleurs d'épaves, avec deux ou trois bandits de leur espèce rencontrés en Fuégie, auxquels se joignirent une dizaine de Pécherais qui ne valaient pas mieux. Une embarcation indigène les transporta sur l'autre rive du détroit de Lemaire. Mais, bien que Kongre et Carcante fussent marins, et eussent longtemps navigué dans les parages suspects du Pacifique, ils ne purent éviter une catastrophe. Un coup de vent les rejeta dans l'est, et la mer, très mauvaise, brisa leur embarcation contre les rochers du cap Colnett, au moment où ils s'efforçaient de relâcher dans les eaux tranquilles du port Parry.
+
+C'est alors qu'ils gagnèrent à pied la baie d'Elgor. Ils ne furent point déçus dans leurs espérances. Les grèves, entre le cap San Juan et la pointe Several, étaient couvertes des débris de naufrages anciens ou récents, ballots encore intacts, caisses de provisions, pouvant assurer la nourriture de la bande pendant de longs mois, des armes, revolvers et fusils, qu'il serait facile de remettre en état, munitions bien conservées dans leurs boîtes métalliques, barres d'or et d'argent de grande valeur, provenant de riches cargaisons australiennes, meubles, bordages, planches, bois de toutes sortes, çà et là quelques restes de squelettes, mais pas un seul survivant de ces sinistres maritimes.
+
+D'ailleurs, elle était bien connue des navigateurs, cette redoutable Île des États. Tout navire que la tempête poussait à cette côte s'y perdait immanquablement corps et biens.
+
+Ce ne fut pas au fond de la baie que Kongre s'établit avec ses compagnons, mais à l'entrée, ce qui lui convenait mieux pour ses projets, de manière à surveiller le cap San Juan. Le hasard lui fit découvrir une caverne, dont l'orifice se cachait sous d'épaisses plantes marines, laminaires et goémons, suffisamment spacieuse pour loger toute la bande. En retour d'un contrefort de la falaise sur la rive nord de la baie, elle n'avait rien à craindre des vents du large. On y transporta tout ce qui, provenant des naufrages, pouvait servir à la meubler, de la literie, des vêtements, et aussi, en quantité, des conserves de viandes, des caisses de biscuit, des fûts d'eau-de-vie et de vin. Une seconde grotte, voisine de la première, servit à emmagasiner celles de ces épaves qui avaient une valeur particulière, comme l'or, l'argent, les bijoux précieux trouvés sur les grèves. Si plus tard Kongre parvenait à s'emparer d'un navire traîtreusement attiré dans la baie, il le chargerait de tout ce pillage et retournerait dans ces îles du Pacifique, théâtre de ses premières pirateries.
+
+Jusqu'alors, l'occasion ne s'étant pas offerte, ces malfaiteurs n'avaient pu quitter l'Île des États. Il est vrai, dans l'espace de deux années, leur richesse ne cessa de s'accroître. D'autres naufrages se produisirent dont ils tirèrent grand profit. Et même, à l'exemple des pilleurs d'épaves sur certaines côtes dangereuses de l'Ancien et du Nouveau Monde, souvent ils provoquèrent ces catastrophes. La nuit, alors que les tourmentes de l'est faisaient rage, si un bâtiment se présentait en vue de l'île, ils l'attiraient avec des feux allumés en direction des récifs et si, exceptionnellement, un des naufragés parvenait à se sauver des lames, il était aussitôt massacré. Telle fut l'œuvre criminelle de ces bandits dont on ignorait même l'existence.
+
+Cependant, la bande continuait d'être prisonnière dans l'île. Kongre avait bien pu provoquer la perte de quelques navires, mais non les attirer dans la baie d'Elgor, où il aurait tenté de s'en emparer. D'autre part, aucun bâtiment n'était venu de lui-même en relâche au fond de la baie, peu connue des capitaines, et encore eût-il fallu qu'un équipage n'eût pas été de force à se défendre contre cette quinzaine de bandits.
+
+Le temps s'écoulait, la caverne regorgeait d'épaves de grande valeur. Ce que devaient être l'impatience, la rage de Kongre et des siens, on le conçoit. C'était l'éternel sujet de conversation entre Carcante et son chef.
+
+« Être échoué sur cette île, comme un navire à la côte ! répétait-il, et lorsque nous avons à embarquer une cargaison valant plus de cent mille piastres ! …
+
+– Oui, répondait Kongre, il faudra partir, coûte que coûte !
+
+– Quand et comment ? » répliquait Carcante. Et cette question restait toujours sans réponse.
+
+« Nos provisions finiront par s'épuiser, répétait Carcante. Si la pêche donne, la chasse peut faire défaut ! … Et puis, quels hivers on passe sur cette île ! Mille dieux ! Quand je songe à ceux que nous serons obligés de supporter encore ! »
+
+À tout cela, qu'eût pu dire Kongre ? Il était peu loquace, peu communicatif. Mais quelle colère bouillonnait en lui, à sentir son impuissance !
+
+Non, il ne pouvait rien… rien ! … À défaut d'un bâtiment que la bande eût surpris au mouillage, si quelque canot fuégien se fût aventuré vers l'est de l'île, Kongre n'aurait pas eu grand'peine à s'en emparer. Et alors, sinon lui, du moins Carcante et un des Chiliens s'en fussent servi pour se rendre au détroit de Magellan, où, une fois-là, l'occasion se serait présentée de gagner soit Buenos-Ayres, soit Valparaiso. Grâce à l'argent qui ne manquait pas, on aurait acheté un navire de cent cinquante à deux cents tonneaux, que Carcante, avec quelques matelots, eût amené à la baie d'Elgor. Ce navire une fois dans la crique, on se fût débarrassé de son équipage… Puis toute la bande s'y serait embarquée avec ses richesses, pour gagner les Salomon ou les Nouvelles-Hébrides ! …
+
+Or, les choses en étaient là, lorsque, quinze mois avant le début de cette histoire, la situation fut brusquement modifiée.
+
+Au commencement d'octobre 1858, un steamer, battant pavillon argentin, parut en vue de l'île et manœuvra de manière à donner dans la baie d'Elgor.
+
+Kongre et ses compagnons eurent bientôt reconnu un navire de guerre, contre lequel ils ne pourraient rien tenter. Après avoir fait disparaître toute trace de leur présence et dissimulé l'orifice des deux cavernes, ils se retirèrent à l'intérieur de l'île pour attendre le départ du bâtiment.
+
+C'était le *Santa-Fé*, qui venait de Buenos-Ayres, ayant à bord un ingénieur chargé de la construction d'un phare sur l'Île des États, et qui venait en déterminer l'emplacement.
+
+L'aviso ne resta que quelques jours à la baie d'Elgor, et il en repartit sans avoir découvert la retraite de Kongre et des siens.
+
+Cependant, Carcante, qui s'était glissé la nuit jusqu'à la crique, avait pu apprendre pour quel motif le *Santa-Fé* était venu relâcher à l'Île des États. Un phare allait être construit au fond de la baie d'Elgor ! … La bande n'avait plus qu'à quitter la place, semblait-il, et, assurément, c'est bien ce qui aurait été fait, si cela eût été possible.
+
+Kongre prit donc le seul parti à prendre. Il connaissait déjà la partie ouest de l'île aux environs du cap Saint-Barthélemy, où d'autres cavernes pourraient lui assurer refuge. Sans perdre un jour, l'aviso ne devant pas tarder à revenir avec une équipe d'ouvriers pour commencer les travaux, il s'occupa d'y transporter tout ce qui serait nécessaire en vue d'y vivre une année, ayant toute raison de croire que, à cette distance du cap Saint-Jean, il ne courait aucun risque d'être découvert. Toutefois le temps lui eût manqué pour vider les deux cavernes. Il dut se borner à retirer la majeure partie des provisions, conserves, boissons, literie, vêtements et aussi quelques-uns des objets précieux, puis, les orifices soigneusement obstrués de pierres et d'herbes sèches, le reste fut laissé à la garde du diable.
+
+Cinq jours après leur départ, le *Santa-Fé* reparaissait dans la matinée à l'ouvert de la baie d'Elgor, et venait reprendre son mouillage dans la crique. Les ouvriers qu'il amenait, le matériel qu'il transportait, furent débarqués. L'emplacement étant choisi sur le terre-plein, les travaux de construction furent aussitôt commencés, et, on le sait, conduits rapidement.
+
+C'est ainsi que la bande Kongre fut obligée de se réfugier au cap Saint-Barthélemy. Un ruisseau, alimenté par la fonte des neiges, lui fournit la quantité d'eau nécessaire. La pêche et, dans une certaine mesure, la chasse lui permirent d'économiser les provisions dont elle s'était pourvue avant de quitter la baie d'Elgor.
+
+Mais avec quelle impatience Kongre, Carcante et leurs compagnons attendaient-ils que le phare fût achevé et que le *Santa-Fé* partît pour ne revenir que trois mois après, lorsqu'il ramènerait la relève.
+
+Il va de soi que Kongre et Carcante se tenaient au courant de tout ce qui se faisait au fond de la baie. Soit en longeant le littoral au sud ou au nord, soit en s'approchant par l'intérieur, soit en observant des hauteurs qui bordent au sud le havre New-Year, ils purent se rendre compte de l'état des travaux, savoir à quelle époque ils prendraient fin. C'est alors que Kongre mettrait à exécution un projet longuement médité. Et qui sait, ensuite, si, maintenant qu'elle serait éclairée, un navire ne relâcherait pas dans la baie d'Elgor, navire dont il parviendrait à s'emparer après en avoir surpris et massacré l'équipage ?
+
+Quant à une excursion que les officiers de l'aviso auraient voulu faire à l'extrémité occidentale de l'île, Kongre ne pensa pas qu'il eût lieu de la craindre. Personne ne serait tenté, cette année du moins, de s'aventurer jusqu'au cap Saint-Barthélemy à travers ces plateaux dénudés, ces ravins presque impraticables, toute cette partie montagneuse qu'il faudrait franchir au prix d'énormes fatigues. Il est vrai, peut-être le commandant de l'aviso aurait-il l'idée de faire le tour de l'île. Mais il n'était pas probable qu'il cherchât à débarquer sur la côte hérissée d'écueils, et, en tout cas, la bande prendrait ses mesures pour n'être point découverte.
+
+Du reste, cette éventualité ne se produisit pas, et le mois de décembre arriva dans lequel les installations du phare allaient être terminées. Ses gardiens resteraient seuls, et Kongre en serait averti par les premiers rayons que le phare lancerait dans la nuit.
+
+Aussi, pendant ces dernières semaines, l'un ou l'autre de la bande venait-il se mettre en observation sur un des cônes d'où l'on pouvait apercevoir le phare à la distance de sept ou huit milles, avec l'ordre de revenir, le plus rapidement possible, dès que le feu serait pour la première fois allumé.
+
+Ce fut précisément Carcante qui, dans la nuit du 9 au 10 décembre, rapporta cette nouvelle au cap Saint-Barthélemy.
+
+« Oui, s'écria-t-il, lorsqu'il eut rejoint Kongre dans la caverne, le diable a fini par l'allumer, ce phare que le diable éteigne !
+
+– Nous n'aurons pas besoin de lui ! » répondit Kongre, dont la main menaçante se tendit vers l'est.
+
+Quelques jours se passèrent, et ce fut au début de la semaine suivante que Carcante, en chassant aux environs du port Parry, frappa un guanaque d'une balle. On le sait, l'animal lui échappa et vint s'abattre à l'endroit où Moriz le rencontra au bord de la lisière rocheuse, près du bois de hêtres. Et c'est à partir de ce jour que Vasquez et ses camarades, assurés de ne plus être seuls habitants de l'île, surveillèrent plus sévèrement les environs de la baie d'Elgor.
+
+Le jour était donc arrivé où Kongre allait quitter le cap Saint-Barthélemy pour revenir au cap San Juan. Les bandits avaient résolu de laisser leur matériel dans la caverne. Ils n'emporteraient que ce qu'il faudrait de vivres pour trois ou quatre journées de marche, comptant sur l'approvisionnement du phare. On était au 22 décembre. En partant dès l'aube, en suivant un chemin qu'ils connaissaient à l'intérieur de l'île à travers sa partie montagneuse, ils feraient le tiers de la route pendant le premier jour. À la fin de cette étape comprenant une dizaine de milles en terrain montagneux, la halte serait établie soit à l'abri des arbres, soit dans quelque anfractuosité.
+
+Après cette halte, le lendemain, avant même le lever du soleil, Kongre commencerait une seconde étape, à peu près égale à celle de la veille, puis, le surlendemain, une dernière l'amènerait à la baie d'Elgor, qu'il pourrait atteindre dans la soirée du troisième jour.
+
+Kongre supposait que deux gardiens seulement étaient affectés au service du phare, alors qu'il y en avait trois en réalité. Mais peu importait, en somme. Vasquez, Moriz, Felipe ne sauraient résister à la bande dont ils ne soupçonneraient pas la présence aux abords de l'enceinte. Deux succomberaient les premiers dans le logement, et l'on aurait facilement raison du troisième à son poste dans la chambre de quart.
+
+Kongre serait donc le maître du phare. Il aurait tout le loisir de rapporter ensuite du cap Saint-Barthélemy le matériel qu'il allait y laisser et de le placer de nouveau dans la caverne à l'entrée de la baie d'Elgor.
+
+Tel était le plan arrêté dans l'esprit de ce redoutable bandit. Qu'il dût réussir, ce n'était que trop certain. Mais la chance le favoriserait-elle ensuite, c'était moins sûr.
+
+En effet, les choses ne dépendaient plus de lui. Il faudrait qu'un bâtiment vînt relâcher dans la baie d'Elgor. Il est vrai, ce lieu de relâche serait bientôt connu des navigateurs après le voyage du *Santa-Fé.* Donc, rien d'impossible à ce qu'un navire, surtout s'il était de moyen tonnage, voulût se réfugier dans la baie désormais balisée par un phare, plutôt que de fuir à travers une mer démontée soit par le détroit, soit par le sud de l'île… Kongre avait résolu que ce navire tomberait en son pouvoir, et lui fournirait la possibilité tant attendue de s'enfuir à travers le Pacifique, où il s'assurerait l'impunité de ses crimes.
+
+Mais il faudrait que tout se passât ainsi, avant le retour de l'aviso à l'époque de la relève. S'ils n'avaient quitté l'île à ce moment, Kongre et les siens seraient forcés de retourner au cap Saint-Barthélemy.
+
+Et, alors, les circonstances ne seraient plus les mêmes. Lorsque le commandant Lafayate connaîtrait la disparition des trois gardiens du phare, il ne pourrait douter qu'ils n'eussent été victimes d'un enlèvement ou d'un assassinat. Des recherches seraient organisées sur toute l'île. L'aviso ne repartirait pas sans qu'elle eût été visitée d'un bout à l'autre. Comment la bande pourrait-elle échapper aux poursuites, et comment pourvoirait-elle à son existence, si cette situation se prolongeait ? … S'il le fallait, le gouvernement argentin enverrait d'autres navires. Si même Kongre parvenait à s'emparer d'une embarcation de Pécherais – chance bien improbable, – le détroit serait surveillé avec tant de soin qu'il ne pourrait plus le traverser, et se réfugier sur la Terre-de-Feu. La fortune favoriserait-elle donc assez ces bandits pour leur permettre de quitter l'île tandis qu'il en serait temps encore ?
+
+Dans la soirée du 22, Kongre et Carcante se promenaient en causant sur la pointe du cap Saint-Barthélemy, et, suivant l'habitude des marins, ils observaient le ciel et la mer.
+
+Le temps était moyen. Des nuages se levaient à l'horizon. Le vent soufflait du nord-est en forte brise.
+
+Il était alors six heures et demie du soir. Kongre et ses compagnons se disposaient à regagner leur retraite habituelle au moment où Carcante disait :
+
+« Il est bien entendu que nous laissons tout notre matériel au cap Saint-Barthélemy ?
+
+– Oui, répondit Kongre. Il sera facile de l'en rapporter plus tard… lorsque nous serons les maîtres là-bas… et que… »
+
+Il n'acheva pas. Les yeux dirigés vers le large, il s'arrêta et dit :
+
+« Carcante… regarde donc… là… là… par le travers du cap… »
+
+Carcante observa la mer dans la direction indiquée.
+
+« Oh ! fit-il, je ne me trompe pas… un navire ! …
+
+– Qui semble rallier l'île, reprit Kongre, et en courant de petits bords, car il a vent debout. »
+
+En effet, un bâtiment, sous pleine voilure, louvoyait à deux milles environ du cap Saint-Barthélemy.
+
+Bien qu'il eût le vent contre lui, ce navire gagnait peu à peu, et, s'il cherchait le détroit, il y serait engagé avant la nuit.
+
+« C'est une goélette, dit Carcante.
+
+– Oui… une goélette, de cent cinquante à deux cents tonneaux », répondit Kongre.
+
+Aucun doute à ce sujet, cette goélette voulait plutôt gagner le détroit que doubler le cap Saint-Barthélemy. Toute la question était de savoir si elle serait à sa hauteur avant que l'obscurité fût profonde. Avec ce vent qui calminait, ne courrait-elle pas le danger d'être jetée par le courant sur les récifs ?
+
+La bande entière s'était rassemblée à l'extrémité du cap.
+
+Ce n'était pas la première fois, depuis qu'elle y séjournait, qu'un bâtiment se présentait à si courte distance de l'Île des États. On sait que ces pillards cherchaient, dans ce cas, à l'attirer sur les roches par des feux mouvants. Cette fois encore la proposition fut faite de recourir à ce moyen.
+
+« Non, répondit Kongre, il ne faut pas que cette goélette se perde… Tâchons qu'elle tombe entre nos mains… Le vent et le courant sont contraires… la nuit va être noire. Il lui sera impossible de donner dans le détroit. Demain, nous l'aurons encore par le travers du cap, et on verra ce qu'il conviendra de faire. »
+
+Une heure plus tard, le navire disparut au milieu d'une obscurité profonde, sans qu'aucun feu décelât sa présence au large.
+
+Pendant la nuit, le vent vint à changer et sauta dans le sud-ouest.
+
+Le lendemain, à la pointe du jour, lorsque Kongre et ses compagnons descendirent sur la grève, ils aperçurent la goélette échouée sur les récifs du cap Saint-Barthélemy.
+
+
+# Chapitre V. La goélette *Maule*.
+
+Kongre n'en était plus à connaître le métier de marin. S'il avait commandé, quel navire et dans quelles mers ? Seul Carcante, marin comme lui, autrefois son second au cours de sa vie errante, comme il l'était encore sur l'Île des États, eût pu le dire. Mais il ne le disait pas.
+
+Assurément, ce n'eût pas été calomnier ces deux misérables que de leur jeter à la face le nom de pirates. Cette criminelle existence, ils devaient l'avoir menée dans ces parages des Salomon et des Nouvelles-Hébrides, où les navires étaient encore fréquemment attaqués à cette époque. Et, sans doute, ce fut après avoir échappé aux croisières organisées par le Royaume-Uni, la France et l'Amérique dans cette partie de l'Océan Pacifique, qu'ils vinrent se réfugier dans l'archipel magellanique, puis sur l'Île des États, où de pirates ils se firent pilleurs d'épaves.
+
+Cinq ou six des compagnons de Kongre et de Carcante avaient également navigué comme pêcheurs ou matelots du commerce, et, par conséquent, étaient faits à la mer. Quant aux Fuégiens, ils compléteraient l'équipage, si la bande parvenait à s'emparer de la goélette.
+
+Cette goélette, à en juger par sa coque et sa mâture, ne devait pas porter plus de cent cinquante à cent soixante tonneaux. Une rafale de l'ouest l'avait poussée pendant la nuit sur un banc de sable semé de roches contre lesquelles elle aurait pu se fracasser. Mais il ne semblait pas que sa coque eût souffert. Inclinée sur bâbord, l'étrave obliquement tournée vers la terre, elle présentait son flanc de tribord au large. Dans cette position, on voyait son pont depuis le gaillard d'avant jusqu'au rouf de l'arrière. Sa mâture était intacte, mât de misaine, grand mât, beaupré, avec leurs agrès, ses voiles à demi carguées, sauf la misaine, le petit cacatois et la flèche qui avaient été serrés.
+
+La veille au soir, lorsque cette goélette fut signalée au large du cap Saint-Barthélemy, elle luttait contre un vent de nord-est assez fort et, sous l'allure du plus près, amures à tribord, elle essayait de gagner l'entrée du détroit de Lemaire. Au moment où Kongre et ses compagnons l'avaient perdue de vue au milieu de l'obscurité, la brise montrait une tendance à mollir et devenait bientôt insuffisante pour assurer à un navire une vitesse appréciable. Il y avait donc lieu d'admettre que, drossée par les courants contre les récifs, elle s'en était trouvée trop rapprochée pour pouvoir regagner le large, lorsque, pendant la nuit, avec sa brusquerie habituelle dans ces parages, le vent avait changé cap pour cap. Le brasseyage des vergues montrait que l'équipage avait fait tous ses efforts pour s'élever au vent. Mais sans doute était-il trop tard, puisque, finalement, la goélette était venue se mettre au plein sur le banc de sable.
+
+En ce qui concernait le capitaine et l'équipage, on en était réduit aux conjectures. Mais, vraisemblablement, en se voyant drossés par le vent et le courant contre une côte dangereuse, hérissée de récifs, ils avaient mis le canot à la mer, ne doutant pas que leur navire n'allât se briser contre les roches et qu'ils ne courussent risque de se perdre jusqu'au dernier. Déplorable inspiration. En restant à bord, le capitaine et ses hommes s'en fussent tirés sains et saufs. Or, il n'était pas douteux qu'ils n'eussent péri, puisque leur canot apparaissait la quille en l'air, à deux milles dans le nord-est, poussé par le vent vers le fond de la baie Franklin.
+
+Se rendre à bord de la goélette, pendant que la mer baissait encore, ne présentait aucune difficulté. À partir du cap Saint-Barthélemy, on pouvait aller de roche en roche jusqu'au lieu de l'échouage, distant d'un demi-mille au plus. C'est ce que firent Kongre et Carcante, accompagnés de deux de leurs hommes. Les autres restèrent en observation au pied de la falaise, pour voir s'ils n'apercevraient pas quelques survivants du naufrage.
+
+Lorsque Kongre et ses compagnons arrivèrent au banc de sable, la goélette était entièrement à sec. Mais, comme le flot devait monter de sept à huit pieds à la marée prochaine, nul doute que le navire ne retrouvât son tirant d'eau s'il n'était pas avarié dans ses fonds.
+
+Kongre ne s'était pas trompé en évaluant à cent soixante tonneaux la jauge de cette goélette. Il en fit le tour et, arrivé en face du tableau d'arrière, il lut : *Maule, Valparaiso.*
+
+C'était donc un navire chilien, qui venait de s'échouer à l'Île des États pendant cette nuit du 22 au 23 décembre.
+
+« Voilà qui fera notre affaire, dit Carcante.
+
+– Si la goélette n'a pas une voie d'eau dans sa coque, objecta un des hommes.
+
+– Une voie d'eau ou toute autre avarie, cela se répare », se contenta de répondre Kongre.
+
+Il vint alors examiner la carène du côté du large. Le bordé ne paraissait pas avoir souffert. L'étrave, un peu enfoncée dans le sable, semblait intacte, de même l'étambot, et le gouvernail adhérait toujours à ses ferrures. Quant à la partie de la coque qui reposait sur le banc, faute de pouvoir la visiter extérieurement, impossible de se prononcer. Après deux heures de flot, Kongre saurait à quoi s'en tenir.
+
+« À bord ! » dit-il.
+
+Si l'inclinaison du navire rendait aisé l'embarquement par bâbord, elle ne permettait pas de marcher sur le pont. Il fallait s'y traîner, en rampant le long du bastingage. Kongre et les autres le franchirent en prenant appui sur le porte-hauban du grand mât.
+
+L'échouage n'avait pas dû être très rude, et, sauf quelques espars non amarrés, tout était en place. La goélette n'étant pas trop fine dans ses façons, ayant peu de relève de varangues, ne donnait pas une gîte considérable, et, assurément, elle se relèverait d'elle-même avec la marée, si, toutefois, elle ne s'emplissait pas, par suite d'avaries à ses œuvres vives.
+
+Le premier soin de Kongre fut de se glisser jusqu'au rouf, dont il n'ouvrit pas la porte sans quelque difficulté. Sur le carré il trouva la cabine du capitaine. Il y entra en s'arc-boutant contre les parois, prit les papiers du bord dans le tiroir d'un placard, et revint sur le pont où l'attendait Carcante.
+
+Tous deux examinèrent le rôle d'équipage, et apprirent ainsi que :
+
+La goélette *Maule*, du port de Valparaiso, Chili, jaugeant cent cinquante-sept tonnes, capitaine Pailha, ayant six hommes d'équipage, était partie sur lest le 23 novembre, à destination des îles Falkland.
+
+Après avoir heureusement doublé le cap Horn, la *Maule* se préparait donc à embouquer le détroit de Lemaire, lorsqu'elle s'était perdue sur les récifs de l'Île des États. Ni le capitaine Pailha, ni aucun de ses hommes n'avaient échappé au naufrage, car, en cas que l'un d'eux eût survécu, il aurait trouvé refuge au cap Saint-Barthélemy. Or, depuis deux heures qu'il faisait jour, personne n'avait encore reparu.
+
+On le voit, cette goélette ne portait point cargaison puisqu'elle se rendait sur lest aux Malouines. Mais l'essentiel était que Kongre eût un navire à sa disposition pour quitter l'île avec son stock de rapines, et il l'aurait, s'il parvenait à renflouer la *Maule.*
+
+Il eût fallu déplacer le lest pour vérifier l'intérieur de la cale.
+
+Ce lest se composait de vieilles ferrailles jetées en vrac. L'enlever aurait demandé un certain temps, et la goélette serait trop exposée si le vent fraîchissait du large. Il convenait avant tout de la déhaler du banc dès qu'elle flotterait. Or, le flot ne tarderait pas à se faire sentir, et, dans quelques heures, il y aurait pleine mer.
+
+Kongre dit à Carcante :
+
+« Nous allons tout préparer pour touer la goélette dès qu'elle aura suffisamment d'eau sous sa quille… Il est possible qu'elle n'ait point d'avaries graves et n'emplisse pas…
+
+– C'est ce que nous saurons bientôt, répondit Carcante, car la marée commence à monter ; et alors, que ferons-nous, Kongre ?
+
+– Nous déhalerons la *Maule* en dehors des récifs, et nous la conduirons le long du cap au fond de la crique des Pingouins, devant les cavernes. Là elle ne touchera pas, même au plus bas du jusant, puisqu'elle ne cale que six pieds.
+
+– Et puis ? demanda Carcante.
+
+– Et puis, nous embarquerons tout ce que nous avons apporté de la baie d'Elgor…
+
+– Et ensuite ? … fit Carcante.
+
+– Nous aviserons », répondit simplement Kongre.
+
+On se mit au travail, de manière à ne point perdre la prochaine marée, ce qui eût retardé de douze heures le renflouage de la goélette. Il fallait, à tout prix, qu'elle fût mouillée dans la crique avant midi. Là elle serait toujours à flot, et relativement en sûreté si le temps se maintenait.
+
+Tout d'abord, Kongre, aidé de ses hommes, fit enlever l'ancre du bossoir de tribord, et on la fixa en dehors du banc en allongeant la chaîne sur toute sa longueur. De cette façon, dès que la quille ne porterait plus sur le sable, il serait possible de touer la goélette jusqu'à l'endroit où elle se retrouverait en eau profonde. Avant que la marée ne commençât à perdre, on aurait le temps d'atteindre la crique, et pendant l'après-midi, d'effectuer une complète visite de la cale.
+
+Ces mesures, rapidement prises, furent achevées au moment où arriva le premier flot. Le banc de sable allait être en un instant recouvert.
+
+Aussi Kongre, Carcante et une demi-douzaine de leurs compagnons montèrent-ils à bord tandis que les autres regagnaient le pied de la falaise.
+
+Attendre maintenant, il n'y avait que cela à faire. Souvent le vent du large fraîchit avec la marée montante, et c'était ce que l'on devait surtout craindre, car il eût pu engraver davantage la *Maule* et la pousser plus avant sur le banc qui s'échancrait du côté de la terre. Or, on était presque dans la morte-eau et, peut-être, la mer n'eût-elle pas assez monté pour dégager la goélette si elle était drossée vers la côte, ne fût-ce que d'une demi-encablure.
+
+Mais il semblait bien que les circonstances favorisaient les projets de Kongre. La brise força un peu en halant le sud venant ainsi aider au dégagement de la *Maule.*
+
+Kongre et les autres se tenaient à l'avant qui devait flotter plus tôt que l'arrière. Si, comme on l'espérait non sans raison, la goélette pouvait pivoter sur son talon, il n'y aurait plus qu'à virer au cabestan pour faire abattre l'étrave au large, et alors, touée sur sa chaîne longue d'une centaine de brasses, elle retrouverait son élément naturel.
+
+Cependant, la mer gagnait peu à peu. Certains tressaillements indiquaient que la coque ressentait l'action de la marée. Le flot se déroulait en longues houles et pas une lame ne brisait au large. On n'aurait pu demander des circonstances plus heureuses.
+
+Mais, si Kongre se disait maintenant assuré de dégager la goélette et de la mettre en sûreté dans une des criques de la baie Franklin, une éventualité l'inquiétait encore. La coque de la *Maule* n'avait-elle pas été défoncée sur le flanc de bâbord, celui que portait le banc de sable et qu'on n'avait pu examiner ? S'il existait là quelque voie d'eau, on n'aurait pas le temps de la chercher sous le lest et de l'aveugler. La goélette ne quitterait pas sa souille, elle emplirait, et force serait de l'abandonner à cette place où la première tempête achèverait de la détruire…
+
+C'était là un gros souci. Aussi avec quelle impatience Kongre et ses compagnons suivaient les progrès de la marée ! Si quelque bordage était défoncé, ou si le calfatage avait joué, l'eau ne tarderait pas à envahir la cale, et la *Maule* ne se redresserait même pas.
+
+Mais peu à peu les esprits se rassurèrent. Le flot gagnait. À chaque instant la coque immergeait davantage. L'eau s'élevait le long des flancs sans pénétrer à l'intérieur. Quelques secousses indiquaient que la coque était intacte, et le pont reprenait son horizontalité normale.
+
+« Pas de voie d'eau ! … pas de voie d'eau ! s'écria Carcante.
+
+– Attention au cabestan ! » commanda Kongre.
+
+Les manivelles étaient prêtes. Les hommes n'attendaient qu'un ordre pour les manœuvrer.
+
+Kongre, penché sur le bossoir, observait le flot qui montait déjà depuis deux heures et demie. L'étrave commençait à s'ébranler, et l'avant de la quille ne touchait plus. Mais l'étambot était encore enfoncé dans le sable, et le gouvernail ne jouait pas librement. Il s'en fallait d'une demi-heure sans doute pour que l'arrière fût dégagé.
+
+Kongre voulut alors presser l'opération du renflouage, et, tout en restant à l'avant, il cria :
+
+« Virez. »
+
+Les manivelles, vigoureusement tournées, ne purent que tendre la chaîne, et l'étrave ne se rabattit pas du côté du large.
+
+« Tiens bon ! » s'écria Kongre.
+
+On pouvait craindre, en effet, que l'ancre ne vînt à déraper, et il eût été difficile de la mouiller de nouveau.
+
+La goélette était complètement redressée alors, et, en parcourant la cale, Carcante s'assura que l'eau n'y avait point pénétré. Donc, s'il existait quelque avarie, du moins le bordé ne s'était-il pas disjoint. On pouvait espérer que la *Maule* n'avait souffert ni au moment de l'échouage, ni pendant la douzaine d'heures passées sur le banc de sable. Dans ces conditions, sa relâche à la crique des Pingouins ne serait pas de longue durée.
+
+On la chargerait dans l'après-midi, et, dès le lendemain, elle serait en état de reprendre la mer. D'ailleurs, il fallait profiter du temps. Le vent favoriserait la marche de la* Maule*, soit qu'elle remontât le détroit de Lemaire, soit qu'elle longeât la côte méridionale de l'Île des États pour gagner l'Atlantique.
+
+C'est à neuf heures environ que la marée devait être étale, et, on le répète, une marée de quartier n'est jamais très forte. Mais enfin, étant donné le tirant d'eau relativement faible de la goélette, il y avait lieu de croire qu'elle se remettrait à flot.
+
+En effet, un peu après huit heures et demie, l'arrière commença à se soulever. La *Maule* talonna, sans risques d'avarie, par cette mer calme et sur ce banc de sable.
+
+Kongre, après avoir examiné la situation, en conclut que le touage pouvait être de nouveau tenté dans de bonnes conditions. Sur son ordre ses hommes se mirent à virer, et, après qu'ils eurent fait rentrer une douzaine de brasses de la chaîne, l'avant de la *Maule* fut enfin tourné vers le large. L'ancre avait tenu bon. Ses pattes étaient solidement encastrées dans un interstice de roches, et eussent plutôt cassé que cédé sous la traction du cabestan.
+
+« Hardi, les enfants ! » s'écria Kongre.
+
+Et tout le monde s'y mit, même Carcante, tandis que, penché au-dessus du couronnement, Kongre observait l'arrière de la goélette.
+
+Il y eut quelques moments d'hésitation, la seconde moitié de la quille raclait toujours le sable.
+
+Aussi, Kongre et les autres ne furent-ils pas sans éprouver une vive inquiétude. La mer ne monterait plus que pendant une vingtaine de minutes, et il importait que la *Maule* fût renflouée auparavant, ou elle serait clouée à cette place jusqu'à la marée prochaine. Or, pendant deux jours encore, la marée devait diminuer de hauteur, et elle ne reprendrait du revif que dans quarante-huit heures.
+
+Le moment était venu de faire un dernier effort. On se figure ce que pouvait être la fureur, plus que la fureur, la rage de ces hommes à se sentir impuissants ! Avoir sous les pieds le navire qu'ils convoitaient depuis si longtemps, qui leur assurait la liberté, l'impunité peut-être, et ne pouvoir l'arracher à ce banc de sable ! …
+
+Alors, les jurons, les imprécations d'éclater pendant qu'ils haletaient au cabestan avec la crainte que l'ancre ne vînt à casser ou à déraper ! Il faudrait alors attendre la marée du soir pour mouiller à nouveau cette ancre, pour y joindre la seconde. Or, d'ici vingt-quatre heures, savait-on ce qui arriverait et si les conditions atmosphériques seraient aussi favorables ? …
+
+Et, précisément, quelques nuages, assez épais, se formèrent dans le nord-est. Il est vrai, s'ils se tenaient de ce côté, la situation du navire ne serait pas empirée, le banc de sable ayant l'abri des hautes falaises du littoral. Mais la mer ne deviendrait-elle pas dure, et la houle n'achèverait-elle pas ce que l'échouage avait commencé pendant la nuit précédente ? …
+
+Et puis ces vents au nord-est, même à l'état de petite brise, ne seraient pas de nature à favoriser la navigation dans le détroit. Au lieu de filer avec du largue dans les voiles, la *Maule* serait forcée de bouliner peut-être pendant plusieurs jours, et, quand il s'agit de navigation, les conséquences d'un retard peuvent toujours être graves.
+
+La mer était presque étale alors, et, dans quelques minutes, le jusant se ferait sentir. Tout le banc de sable était couvert. Quelques têtes de récifs seulement se montraient à fleur d'eau. Du cap Saint-Barthélemy, la pointe ne se laissait plus voir, et, sur la grève, le dernier relais de marée, après avoir été un instant touché par le flot, restait à sec.
+
+Il était évident que la mer commençait à se retirer lentement et que les roches allaient bientôt découvrir autour du banc.
+
+Alors de nouveaux jurons furent proférés. Les hommes éreintés, hors d'haleine, allaient abandonner une besogne qui ne pouvait plus aboutir.
+
+Kongre courut à eux, les yeux en fureur, écumant de colère. Saisissant une hache, il menaça d'en frapper le premier qui déserterait son poste, et on savait bien qu'il n'hésiterait pas à le faire.
+
+Tous se remirent donc aux manivelles, et, sous leurs efforts, la chaîne se tendit à rompre, en écrasant la doublure de cuivre des écubiers.
+
+Enfin, un bruit se fit entendre. Le linguet du cabestan venait de retomber dans l'entaille. La goélette avait fait un petit mouvement vers le large. La barre du gouvernail, redevenue mobile, indiquait qu'elle se dégageait peu à peu du sable.
+
+« Hurrah ! … hurrah ! … » crièrent les hommes, en sentant que la *Maule* était libre. Son talon venait de glisser sur la souille. Le virage du cabestan s'accéléra, et, en quelques minutes, la goélette, halée par son ancre, flottait en dehors du banc.
+
+Aussitôt, Kongre se précipita à la roue. La chaîne mollit, l'ancre dérapa et fut rehissée à son bossoir. Il n'y avait plus qu'à donner dans la passe, entre les récifs, pour atteindre la crique de la baie Franklin.
+
+Kongre fit alors établir le grand foc qui devait suffire. En l'état de la mer, il y avait de l'eau partout. Une demi-heure plus tard, après avoir contourné les dernières roches le long de la grève, la goélette prenait son mouillage dans la crique des Pingouins, à deux milles de l'extrémité du cap Saint-Barthélemy.
+
+
+# Chapitre VI. À la baie d'Elgor.
+
+L'opération du renflouage avait donc pleinement réussi. Mais tout n'était pas terminé. Il s'en fallait que la goélette eût entière sécurité dans cette anse creusée dans le littoral du cap Saint-Barthélemy. Elle y était trop exposée à la houle du large et aux tempêtes du nord-ouest. À l'époque des fortes marées d'équinoxe, elle n'aurait pas même pu rester vingt-quatre heures à cette relâche.
+
+Kongre ne l'ignorait pas. Aussi, son intention était-elle d'abandonner l'anse, au jusant du lendemain, dont il comptait profiter pour remonter en partie le détroit de Lemaire.
+
+Auparavant, toutefois, il était indispensable de compléter la visite du navire, de vérifier l'état de sa coque à l'intérieur. Bien qu'on eût cette certitude qu'il ne faisait pas d'eau, il se pouvait néanmoins que, sinon son bordage, du moins sa membrure eût souffert de l'échouage et qu'il fût nécessaire de procéder à des réparations en vue d'une traversée assez longue.
+
+Kongre mit aussitôt ses hommes à la besogne, afin de déplacer le lest qui remplissait la cale jusqu'à la hauteur des varangues de bâbord et de tribord. On ne serait pas, d'ailleurs, obligé de le débarquer, ce qui épargnerait du temps et de la fatigue, le temps surtout, dont il importait de se montrer avare, dans la situation peu sûre où se trouvait la *Maule.*
+
+La vieille ferraille, qui constituait le lest, fut d'abord reportée de l'avant à l'arrière dans la cale pour permettre d'examiner la partie antérieure du vaigrage.
+
+Cet examen fut soigneusement fait par Kongre et Carcante, aidés d'un Chilien, nommé Vargas, qui avait travaillé autrefois comme charpentier dans les chantiers de construction de Valparaiso et connaissait bien ce métier.
+
+Dans toute la portion comprise entre l'étrave et l'emplanture du mât de misaine, aucune avarie ne fut constatée. Varangues, membrure, bordé étaient en bon état ; chevillés en cuivre, ils ne se ressentaient pas du choc de l'échouage sur le banc de sable.
+
+Le lest repoussé vers l'avant, la coque fut trouvée également intacte du mât de misaine au grand mât. Les épontilles n'étaient ni fléchies ni faussées, et l'échelle donnant accès au panneau central n'avait pas été déplacée.
+
+On s'occupa alors du dernier tiers de la cale comprenant le fond de la voûte jusqu'à l'étambot.
+
+Il y avait là une avarie de quelque importance. S'il n'existait pas de voie d'eau, la membrure de bâbord accusait un enfoncement sur une longueur d'un mètre et demi. Cet enfoncement devait provenir d'une collision contre une tête de rocher, avant que la goélette eût été dressée sur le banc de sable. Si le bordage n'avait pas entièrement cédé, si l'étoupe était restée sur place, ce qui avait empêché l'eau de s'introduire dans la cale, cette avarie n'en présentait pas moins une certaine gravité, et un marin devait s'en inquiéter à bon droit.
+
+Une réparation s'imposait donc au moment de reprendre la mer, à moins qu'il ne se fût agi d'une très courte traversée par temps calme. D'ailleurs, il était probable que cette réparation demanderait toute une semaine, en admettant que l'on eût les matériaux et les outils nécessaires au travail.
+
+Lorsque Kongre et ses compagnons surent à quoi s'en tenir, des malédictions justifiées dans les circonstances où l'on se trouvait succédèrent aux hurrahs qui avaient salué le renflouage de la *Maule.* Est-ce que la goélette allait être hors d'usage ? … Est-ce qu'ils ne pourraient pas enfin abandonner l'Île des États ? …
+
+Kongre intervint en disant :
+
+« L'avarie est grave en effet… Dans son état actuel, nous n'aurions pas à compter sur la *Maule*, qui, par gros temps, risquerait de s'entr'ouvrir… Et il y a des centaines de milles à parcourir avant d'atteindre les îles du Pacifique ! … Ce serait risquer de sombrer en route. Mais cette avarie est réparable, et nous la réparerons.
+
+– Où ? demanda un des Chiliens qui ne cachait point son inquiétude.
+
+– Pas ici, en tout cas, déclara un de ses compagnons.
+
+– Non, répondit Kongre d'un ton résolu. À la baie d'Elgor. »
+
+En quarante-huit heures, la goélette pouvait, en effet, franchir la distance qui la séparait de la baie. Elle n'aurait qu'à longer le littoral de l'île, soit par le sud, soit par le nord. Dans la caverne où avait été laissé tout ce qui provenait du pillage des épaves, le charpentier aurait à sa disposition le bois et les outils que nécessiterait cette réparation. Fallût-il rester en relâche quinze jours, trois semaines, la *Maule* y resterait. La belle saison devait encore durer deux mois et, du moins, lorsque Kongre et ses compagnons abandonneraient l'Île des États, ce serait à bord d'un navire qui, ses avaries réparées à fond, offrirait toute sécurité.
+
+Au surplus, Kongre avait toujours eu l'intention, en quittant le cap Saint-Barthélemy, de passer quelque temps à la baie d'Elgor. À aucun prix il n'eût voulu perdre les objets de toutes sortes, laissés dans la caverne, lorsque les travaux du phare obligèrent la bande à se réfugier sur l'autre extrémité de l'île. Ainsi, ses projets ne seraient modifiés que quant à la durée de la relâche, qui se prolongerait au-delà de ce qu'il eût désiré.
+
+La confiance revint donc, et l'on fit les préparatifs de manière à pouvoir partir au plein de la marée du lendemain.
+
+Quant à la présence des gardiens du phare, ce n'était pas pour inquiéter cette bande de pirates. En quelques mots, Kongre exposa ses projets à cet égard.
+
+« Avant l'arrivée de cette goélette, dit-il à Carcante, dès qu'ils furent seuls, j'étais décidé à reprendre possession de la baie d'Elgor. Mes intentions n'ont pas changé. Seulement, au lieu d'arriver par l'intérieur de l'île, en évitant d'être aperçus, nous arriverons par mer, ouvertement. La goélette ira mouiller dans la crique… on nous y accueillera sans rien soupçonner… et… »
+
+Un geste auquel Carcante ne se méprit pas acheva la pensée de Kongre. Et, en vérité, toutes les chances de réussite seraient acquises aux projets de ce misérable. À moins d'un miracle, comment Vasquez, Moriz et Felipe échapperaient-ils au sort qui les menaçait ? …
+
+L'après-midi fut consacré aux préparatifs du départ. Kongre fit remettre le lest en place et s'occupa de l'embarquement des provisions, des armes et autres objets apportés au cap Saint-Barthélemy.
+
+Le chargement s'effectua avec rapidité. Depuis le départ de la baie d'Elgor – et cela datait de plus d'un an – Kongre et ses compagnons s'étaient principalement alimentés sur leurs réserves, et il n'en restait plus qu'une faible quantité qui fut déposée dans la cambuse. Quant à la literie, aux vêtements, aux ustensiles, aux matières d'or et d'argent, la cuisine, le poste de l'équipage, le rouf à l'arrière et la cale de la *Maule* les reçurent, en attendant le matériel encore emmagasiné dans la caverne à l'entrée de la baie.
+
+Bref, on fit telle diligence que, vers quatre heures du soir, cette cargaison était à bord. La goélette aurait pu immédiatement appareiller, mais Kongre ne se souciait pas de naviguer, pendant la nuit, le long d'un littoral hérissé de récifs. Il ne savait même pas s'il prendrait ou non le détroit de Lemaire pour s'élever à la hauteur du cap San Juan. Cela dépendrait de la direction du vent. Oui, s'il halait le sud, et non, s'il se tenait dans le nord et tendait à fraîchir. Dans ce cas, il lui paraîtrait préférable de passer au sud de l'île, ce qui assurerait à la *Maule* l'abri de la terre. Au surplus, quelle que fût la route choisie, cette traversée, à son estime, ne devait pas durer plus d'une trentaine d'heures, compris la relâche pendant la nuit. Le soir venu, aucune modification de l'état atmosphérique ne s'était produite. Aucune brume au coucher du soleil, et telle était la pureté de la ligne du ciel et de l'eau qu'un rayon vert traversa l'espace, à l'instant où le disque disparaissait derrière l'horizon.
+
+Il y avait donc apparence que la nuit serait calme, et elle le fut en effet. La plupart des hommes l'avaient passée à bord, les uns dans le poste, les autres dans la cale. Kongre occupait la cabine du capitaine Pailha à droite, et Carcante celle du second à gauche du carré.
+
+À plusieurs reprises, ils vinrent sur le pont observer l'état du ciel et de la mer, s'assurer que, même au plein de la marée, la *Maule* ne courait aucun risque, et que rien ne retarderait le départ du lendemain.
+
+En effet, le lever du soleil fut superbe. À cette latitude, il est rare de le voir apparaître au-dessus d'un horizon si net.
+
+Dès la première heure, Kongre débarqua avec le canot, et, à travers un étroit ravin, presque à l'amorce du cap Saint-Barthélemy, il gagna l'arête de la falaise.
+
+De cette hauteur, son regard put parcourir un vaste espace de mer sur les trois quarts du compas. À l'est seulement il rencontrait les masses montagneuses qui s'élèvent entre le cap Saint-Antoine et le cap Kempe.
+
+La mer, calme dans la région du sud, était assez houleuse à l'ouvert du détroit, parce que le vent prenait de la force et tendait à fraîchir.
+
+Du reste, pas une voile, pas une fumée au large, et, sans doute, la *Maule* ne croiserait aucun navire pendant sa courte traversée jusqu'au cap San Juan.
+
+Le parti de Kongre fut aussitôt résolu. Craignant avec raison qu'il ne ventât grand frais, et désireux avant tout de ne pas fatiguer la goélette, en l'exposant aux houles du détroit, toujours dures lors du renversement de la marée, il se décida à longer la côte méridionale de l'île, et à gagner la baie d'Elgor en doublant les caps Kempe, Webster, Several et Diegos. Que ce fût par le sud ou par le nord, la distance était à peu près égale d'ailleurs.
+
+Kongre redescendit, regagna la grève, se dirigea vers la caverne, constata qu'aucun objet n'y avait été oublié. Rien ne décèlerait donc la présence d'une troupe d'hommes sur l'extrémité ouest de l'Île des États.
+
+Il était un peu plus de sept heures. Le jusant, qui commençait déjà, favoriserait la sortie de la crique.
+
+L'ancre fut aussitôt ramenée au bossoir, puis on hissa la trinquette et le foc, qui, avec cette brise du nord-est, devaient suffire à pousser la *Maule* en dehors des bancs.
+
+Kongre tenait la barre, tandis que Carcante veillait à l'avant. Dix minutes, il n'en fallut pas davantage pour se dégager du semis des récifs et la goélette ne tarda pas à ressentir un peu de roulis et de tangage.
+
+Sur l'ordre de Kongre, Carcante fit établir la misaine et la brigantine qui est la grande voile dans le gréement d'une goélette, puis hisser le hunier à bloc. Ces voiles amurées et bordées, la *Maule* mit le cap au sud-ouest grand largue, afin de doubler l'extrême pointe du cap Saint-Barthélemy.
+
+En une demi-heure, la *Maule* en eut contourné les roches. Elle lofa alors en grand et prit direction vers l'est, de manière à serrer le vent au plus près. Mais il favorisait sa marche, sous l'abri de la côte méridionale de l'île, que le bâtiment gardait à trois milles au vent.
+
+Entre temps, Kongre et Carcante purent reconnaître que ce léger navire se comportait bien sous toutes les allures. Assurément, pendant la belle saison, on ne courrait aucun danger à s'aventurer sur les mers du Pacifique, après avoir laissé en arrière les dernières îles de l'archipel magellanique.
+
+Peut-être Kongre aurait-il pu arriver à l'entrée de la baie d'Elgor dans la soirée, mais il préférait s'arrêter en un point quelconque du littoral avant que le soleil n'eût disparu derrière l'horizon. Il ne força donc pas de toile, il ne se servit ni du petit perroquet de misaine, ni du flèche du grand mât, et se contenta d'une moyenne de cinq à six milles à l'heure.
+
+Pendant cette première journée, la *Maule* ne rencontra aucun navire, et la nuit allait se faire lorsqu'elle vint relâcher à l'est du cap Webster, ayant effectué à peu près la moitié de sa traversée.
+
+Là s'entassaient d'énormes roches et s'élevaient les plus hautes falaises de l'île. La goélette mouilla à une encablure du rivage dans une anse couverte par la pointe ; un bâtiment n'eût pas été plus tranquille au fond d'un port et même dans un bassin. Assurément, si le vent halait le sud, la *Maule* eût été très exposée en cet endroit, où la mer, lorsqu'elle est soulevée par les tempêtes polaires, est aussi violente qu'aux abords du cap Horn.
+
+Mais le temps semblait devoir se maintenir avec brise de nord-est, et la chance continuait à favoriser les projets de Kongre et des siens !
+
+La nuit du 25 au 26 décembre fut des plus calmes. Le vent, qui était tombé vers dix heures du soir, reprit aux approches du jour vers quatre heures du matin.
+
+Dès les premières blancheurs de l'aube, Kongre prit ses dispositions pour l'appareillage. On rétablit la voilure, restée sur ses cargues pendant la nuit. Le cabestan ramena l'ancre à poste, et la *Maule* se mit en marche.
+
+Le cap Webster se prolonge d'environ quatre à cinq milles en mer, du nord au sud. La goélette dut donc remonter pour retrouver la côte qui court vers l'est jusqu'à la pointe Several, sur une longueur d'une vingtaine de milles environ.
+
+La *Maule* reprit sa marche dans les mêmes conditions que la veille, dès qu'elle eut rallié le littoral où elle retrouva des eaux paisibles sous l'abri des hautes falaises.
+
+Quelle côte affreuse et plus effrayante encore que celle du détroit ! Amoncellement de blocs énormes et d'un équilibre instable, car nombre de ces masses encombraient les grèves jusqu'aux extrêmes relais de marée, prodigieuse étendue de récifs noirâtres, qui ne laissaient pas une place libre, où, non pas un navire de petit tonnage mais une simple embarcation aurait pu accoster. Pas une crique qui fût abordable, pas un banc de sable, sur lequel il eût été possible de mettre le pied ! Et n'était-ce pas le monstrueux rempart que l'Île des États opposait aux terribles houles venues des parages antarctiques.
+
+La goélette filait sous moyenne voilure, à moins de trois milles du littoral. Kongre, ne connaissant pas cette côte, craignait avec raison de trop s'en approcher. D'autre part, ne voulant point fatiguer la *Maule*, il se maintenait au milieu des eaux tranquilles qu'il n'eût pas rencontrées plus au large de la terre.
+
+Vers dix heures, arrivé à l'ouvert de la baie Blossom, il ne put cependant éviter complètement la houle. Le vent, embouquant le golfe qui se creuse profondément dans les terres, soulevait la mer en longues lames que la *Maule* recevait par le travers en gémissant. Kongre laissa porter, afin de doubler la pointe qui limite la baie du côté oriental, puis, cette pointe franchie, il serra le vent au plus près, et, bâbord amures, tira un bord vers le large.
+
+Kongre avait pris la barre lui-même, et, les écoutes raidies à bloc, il serrait le vent le plus possible. Ce fut seulement vers quatre heures de l'après-midi qu'il s'estima avoir assez gagné au vent pour atteindre son but d'un seul bord. Virant alors lof pour lof, il changea ses amures et mit franchement le cap sur la baie d'Elgor, la pointe Several lui restant à ce moment à quatre milles dans le nord-ouest.
+
+De cette distance, la côte montrait son entier développement jusqu'au cap San Juan.
+
+En même temps, au revers de la pointe Diegos, apparaissait la tour du Phare du bout du Monde que Kongre voyait pour la première fois. Avec la longue-vue trouvée dans la cabine du capitaine Pailha, il put même distinguer un des gardiens qui, posté sur la galerie, observait la mer. Le soleil devant rester pendant trois heures encore au-dessus de l'horizon, la *Maule* serait certainement au mouillage avant la nuit.
+
+Il était certain que la goélette n'avait pu échapper aux regards des gardiens, et que son arrivée dans les eaux de l'Île des États était signalée maintenant. Tant que Vasquez et ses camarades l'avaient vue piquer vers le large, ils devaient penser qu'elle se dirigeait vers les Malouines. Mais, depuis qu'elle serrait le vent tribord amures, ils ne pouvaient douter qu'elle ne cherchât à donner dans la baie.
+
+Peu importait, d'ailleurs, à Kongre, que la *Maule* eût été aperçue, ni même qu'on lui supposât l'intention de relâcher. Cela ne modifierait en rien ses projets.
+
+À son extrême satisfaction, cette fin de la traversée allait s'effectuer dans des conditions assez favorables. Le vent venait un peu plus de l'est. En tenant ses voiles bordées à plat, prêtes à ralinguer, la goélette remontait sans avoir à courir des bordées pour doubler la pointe Diegos.
+
+C'était une très heureuse circonstance. Peut-être, dans l'état de sa coque, n'aurait-elle pu supporter une série de virements qui l'eussent fatiguée, et qui sait si une voie d'eau ne se serait pas déclarée avant l'arrivée dans la crique.
+
+C'est même ce qui se produisit. Alors que la *Maule* n'était plus qu'à deux milles de la baie, un des hommes qui venait de s'affaler dans la cale, remonta en criant que l'eau y pénétrait par une fissure du bordage.
+
+C'était précisément à cet endroit de la coque où la membrure avait cédé au choc d'une roche. Si le bordage avait tenu jusque-là, il venait de s'entr'ouvrir, mais seulement sur une longueur de quelques pouces.
+
+En somme, cette avarie ne présentait pas une très sérieuse importance. En déplaçant le lest, Vargas parvint sans trop de peine à boucher la voie d'eau au moyen d'un tampon d'étoupe.
+
+Mais, on le comprend, il serait indispensable de se réparer avec soin. Dans l'état où l'avait mise son échouage au cap Saint-Barthélemy, la goélette n'aurait pu, sans courir à une perte certaine, affronter les mers du Pacifique.
+
+Il était six heures, lorsque la *Maule* se trouva à l'ouvert de la baie d'Elgor, à la distance d'un mille et demi. Kongre fit alors serrer les voiles hautes dont il pouvait maintenant se passer. On ne conserva que le hunier, le grand foc et la brigantine. Sous cette voilure, la *Maule* atteindrait sans peine le mouillage de la crique au fond de la baie d'Elgor, sous le commandement de Kongre, qui, on le répète, connaissait parfaitement la route à suivre et eût pu servir de pilote.
+
+D'ailleurs, vers six heures et demie du soir, un faisceau de rayons lumineux fut projeté sur la mer. Le phare venait d'être allumé, et le premier navire dont il allait éclairer la marche à travers cette baie était une goélette chilienne, tombée entre les mains d'une bande de pirates.
+
+Il était près de sept heures, et le soleil déclinait derrière les hauts pics de l'Île des États, lorsque la *Maule* laissa sur tribord le cap San Juan. La baie s'ouvrait devant elle. Kongre y donna vent arrière.
+
+Kongre et Carcante, en passant devant les cavernes, purent s'assurer que leurs orifices ne semblaient pas avoir été découverts sous l'entassement des pierres et le rideau des broussailles qui les obstruaient. Rien n'avait donc signalé leur présence sur cette partie de l'île, et ils retrouveraient le produit de leurs rapines dans l'état où ils l'avaient laissé.
+
+« Cela va bien, dit Carcante à Kongre près duquel il se tenait à l'arrière.
+
+– Et cela ira mieux encore tout à l'heure ! » répondit Kongre.
+
+En vingt minutes au plus, la *Maule* eut gagné la crique où elle devait jeter l'ancre.
+
+C'est à cet instant qu'elle fut « raisonnée » par deux hommes qui venaient de descendre du terre-plein sur la grève.
+
+Felipe et Moriz étaient là. Ils préparaient leur chaloupe pour monter à bord de la goélette. Quant à Vasquez, il se trouvait de service dans la chambre de quart.
+
+Lorsque la goélette fut arrivée au milieu de la crique, sa brigantine et son hunier étaient déjà cargués et elle ne portait plus que son grand foc que Carcante fit amener.
+
+Au moment où l'ancre était envoyée par le fond, Moriz et Felipe sautèrent sur le pont de la *Maule.*
+
+Aussitôt, sur un signe de Kongre, le premier était frappé d'un coup de hache à la tête et tombait. Simultanément deux coups de revolver abattaient Felipe près de son camarade. En un instant, tous deux étaient morts. À travers une des fenêtres de la chambre de quart, Vasquez avait entendu les coups de feu, et vu le meurtre de ses camarades.
+
+Le même sort lui était réservé, si l'on s'emparait de sa personne. Aucune grâce n'était à espérer de ces assassins. Pauvre Felipe, pauvre Moriz, il n'avait rien pu faire pour les sauver, et il restait là-haut, épouvanté de cet horrible crime accompli en quelques secondes !
+
+Après le premier moment de stupeur, il reprit son sang-froid et envisagea rapidement la situation. Il fallait à tout prix échapper aux coups de ces misérables. Peut-être ignoraient-ils son existence, mais il était à supposer que, les manœuvres du mouillage terminées, plusieurs d'entre eux auraient l'idée de monter au phare et, sans doute, avec l'intention de l'éteindre et de rendre la baie impraticable, au moins jusqu'au jour ? …
+
+Sans hésiter, Vasquez quitta la chambre de quart et se précipita par l'escalier dans le logement du rez-de-chaussée.
+
+Il n'y avait pas un instant à perdre. On entendait déjà le bruit de la chaloupe qui débordait la goélette et allait mettre à terre quelques hommes de l'équipage.
+
+Vasquez prit deux revolvers qu'il passa dans sa ceinture, mit quelques provisions dans un sac qu'il jeta sur son épaule, puis il sortit du logement, descendit rapidement le talus de l'enceinte, et, sans avoir été aperçu, disparut au milieu de l'obscurité.
+
+
+# Chapitre VII. La caverne.
+
+Quelle horrible nuit allait passer le malheureux Vasquez, quelle situation que la sienne ! Ses infortunés camarades massacrés, puis jetés par-dessus bord, et dont le jusant entraînait maintenant les cadavres vers la mer ! … Il ne pensait pas que, s'il n'eût été de garde au phare, leur sort eût été le sien. Il songeait uniquement aux amis qu'il venait de perdre.
+
+« Pauvre Moriz, pauvre Felipe ! se disait-il, ils auront été offrir, en toute confiance, leurs services à ces misérables, et on leur a répondu par des coups de revolver ! … Je ne les reverrai plus… ils ne reverront plus leur pays et leur famille ! … Et la femme de Moriz… qui l'attendait dans deux mois… quand elle apprendra sa mort ! »
+
+Vasquez était atterré. C'était une sincère affection qu'il éprouvait pour les deux gardiens, lui, leur chef… Il les connaissait depuis bien des années ! … C'était sur ses conseils qu'ils avaient demandé à être employés au phare… et, maintenant, il était seul ! … seul ! …
+
+Mais d'où venait donc cette goélette, et quel équipage de bandits avait-elle à bord ? Sous quel pavillon naviguait-elle et pourquoi cette relâche dans la baie d'Elgor ? … Ils la connaissaient donc ? … Et qu'y venaient-ils faire… Pourquoi, à peine débarqués, avaient-ils éteint le phare ? … Voulaient-ils donc empêcher tout bâtiment de les suivre dans la baie ? …
+
+Ces questions se pressaient à l'esprit de Vasquez, sans qu'il pût les résoudre. Il ne pensait même pas au danger qu'il courait personnellement. Et cependant, ces malfaiteurs ne tarderaient pas à constater que le logement devait être occupé par trois gardiens… Ils se mettraient alors à la recherche du troisième ? … Ne finiraient-ils point par le découvrir ? …
+
+De l'endroit où il avait pris refuge sur la rive de la baie, à moins de deux cents pas de la crique, Vasquez voyait se mouvoir la lumière des fanaux, tantôt à bord de la goélette, tantôt dans l'enceinte du phare ou à travers les fenêtres du logement. Il entendait même ces gens s'interpeller à haute voix, et dans sa propre langue. Étaient-ce donc des compatriotes, ou des Chiliens, des Péruviens, des Boliviens, des Mexicains, qui tous parlent l'espagnol, ou encore des Brésiliens ?
+
+Enfin, vers dix heures, les lumières s'éteignirent, et aucun bruit ne troubla plus le silence de la nuit.
+
+Cependant, Vasquez ne pouvait demeurer à cette place. Le jour venu, il y serait découvert. Aucune pitié n'étant à espérer de ces bandits, il lui fallait se mettre hors de leurs atteintes.
+
+De quel côté dirigerait-il ses pas ? … Vers l'intérieur de l'île, où il serait relativement plus en sûreté ? Gagnerait-il au contraire l'entrée de la baie, dans l'espoir d'être recueilli par quelque bâtiment passant en vue de la terre ? Mais, soit à l'intérieur, soit sur le littoral, comment assurer son existence jusqu'au jour où viendrait la relève ? Ses provisions s'épuiseraient vite. Avant quarante-huit heures il n'en resterait plus rien. Comment les renouveler ? Il ne possédait pas même un engin de pêche ! Et se procurer du feu, par quel moyen ? En serait-il réduit à vivre de mollusques ou de coquillages ?
+
+Son énergie finit par l'emporter. Il fallait prendre un parti, et il le prit. Ce fut de gagner le littoral du cap San Juan pour y passer la nuit. Lorsqu'il ferait jour, il aviserait.
+
+Vasquez quitta donc la place d'où il observait la goélette. Il ne s'en dégageait plus ni un bruit ni une lueur. Ces malfaiteurs se savaient en sûreté dans cette crique, et personne ne devait être de garde à bord.
+
+Vasquez suivit alors la rive nord en longeant le pied des falaises. Il n'entendait que le clapotis de la marée descendante, et parfois le cri d'un oiseau attardé qui revenait à son nid.
+
+Il était onze heures, lorsque Vasquez s'arrêta à l'extrémité du cap. Là, sur la grève, il ne trouva d'autre abri qu'une étroite anfractuosité, où il resta jusqu'au lever du jour.
+
+Avant que le soleil eût illuminé l'horizon, Vasquez descendit au bord de la mer et regarda si personne ne venait ni du côté du phare, ni du tournant de la falaise, à l'amorce du cap San Juan.
+
+Tout le littoral était désert, sur les deux rives de la baie. Pas une embarcation ne se montrait, bien que, maintenant, l'équipage de la goélette en eût deux à sa disposition, le canot de la *Maule* et la chaloupe affectée au service des gardiens.
+
+Aucun bâtiment n'apparaissait au large de l'île.
+
+Il vint à la pensée de Vasquez combien serait désormais dangereuse la navigation aux approches de l'Île des États, puisque le phare ne fonctionnait plus. En effet, les navires arrivant du large ne seraient plus fixés sur leur position. Dans l'espérance d'avoir connaissance du feu établi au fond de la baie d'Elgor, ils feraient route à l'ouest avec confiance, et risqueraient de se jeter sur cette côte redoutable, comprise entre le cap San Juan et la pointe Several.
+
+« Ils l'ont éteint, ces misérables, s'écriait Vasquez, et puisque leur intérêt est de ne pas le rallumer, ils ne le rallumeront pas ! »
+
+C'était, en effet, une circonstance très grave, que cette extinction du phare, et de nature à provoquer des sinistres dont ces malfaiteurs pourraient encore tirer profit pendant leur relâche. Ils n'auraient plus besoin comme autrefois d'attirer les navires par des feux, puisque ceux-ci viendraient sans défiance pour relever le phare.
+
+Vasquez, assis sur un quartier de roche, réfléchissait à tout ce qui s'était passé la veille. Il regardait si le courant n'entraînait pas les corps de ses infortunés camarades… Non, le jusant avait déjà fait son œuvre, et ils étaient engloutis dans les profondeurs de la mer !
+
+La situation lui apparaissait dans toute son effrayante réalité. Que pouvait-il faire ? rien… rien, sinon d'attendre le retour du *Santa-Fé.* Mais il s'en fallait de deux longs mois encore que l'aviso se montrât à l'ouvert de la baie d'Elgor. En admettant que Vasquez n'eût pas été découvert auparavant, comment lui serait-il possible de pourvoir à sa nourriture ? … Un abri, il le trouverait toujours à l'intérieur de quelque grotte de la falaise, et, d'ailleurs, la belle saison devait se prolonger au moins jusqu'à l'époque de la relève. Mais, si on eût été en plein hiver, Vasquez n'aurait pu résister à ces abaissements de température qui font tomber le thermomètre à trente et quarante degrés au-dessous de zéro. Il serait mort de froid avant même de mourir de faim.
+
+Tout d'abord, Vasquez se mit à la recherche d'un abri. Le logement avait certainement appris aux pirates que le service du phare était confié à trois gardiens. Sans aucun doute, ils voudraient à tout prix se défaire du troisième qui leur avait échappé, et ils ne tarderaient pas à le chercher aux alentours du cap San Juan.
+
+Toute son énergie était revenue à Vasquez. Le désespoir n'avait pas prise sur ce caractère fortement trempé.
+
+Après quelques recherches, il finit par découvrir un évidement étroit d'orifice, d'une profondeur de dix pieds, d'une largeur de cinq à six, près de l'angle que la falaise faisait avec la grève du cap San Juan. Un sable fin en couvrait le sol, qui restait hors d'atteinte des plus hautes marées, et qui ne recevait pas de plein fouet les vents du large. Vasquez s'introduisit dans cette cavité où il déposa les quelques objets emportés du logement, ainsi que le peu de provisions contenu dans son sac. Quant à l'eau douce, un petit rio, alimenté par la fonte des neiges et qui coulait au pied de la falaise vers la baie, l'assurait contre les besoins de la soif.
+
+Vasquez apaisa sa faim avec du biscuit et un morceau de corned-beef. Comme il se disposait à sortir pour se désaltérer, il entendit un bruit à faible distance, et s'arrêta.
+
+« Ce sont eux », se dit-il.
+
+Se couchant près de la paroi, de manière à voir sans être vu, il regarda dans la direction de la baie.
+
+Un canot, monté par quatre hommes, descendait le courant. Deux nageaient à l'avant. Les deux autres, dont l'un tenait la barre, étaient à l'arrière.
+
+C'était le canot de la goélette et non la chaloupe du phare.
+
+« Que viennent-ils faire ? se demanda Vasquez. Sont-ils à ma recherche ? … À la manière dont la goélette a navigué dans la baie, il est certain que ces misérables la connaissaient déjà, et que ce n'est pas la première fois qu'ils mettent le pied sur l'île… Ce n'est pas pour visiter la côte qu'ils sont venus jusqu'ici ! … Si ce n'est pas moi dont ils veulent s'emparer, quel est leur but ? … »
+
+Vasquez observait ces hommes. À son avis, celui qui gouvernait le canot, le plus âgé des quatre, devait être le chef, le capitaine de la goélette. Il n'eût pu dire quelle était sa nationalité, mais il lui parut bien, à leur type, que ses compagnons appartenaient à la race espagnole du Sud-Amérique.
+
+En ce moment, l'embarcation se trouvait presque à l'entrée de la baie dont elle venait de longer la rive nord, à cent pas au-dessus de l'anfractuosité dans laquelle se cachait Vasquez. Celui-ci ne la perdait point de vue.
+
+Le chef fit un signe et les avirons s'arrêtèrent. Un coup de barre, en profitant de l'erre du canot, le fit accoster sur la grève.
+
+Aussitôt les quatre hommes débarquèrent, après que l'un d'eux eut enfoncé le grappin dans le sable.
+
+Et alors, voici les propos qui parvinrent à l'oreille de Vasquez.
+
+« C'est bien ici ?
+
+– Oui. La caverne est là. Vingt pas avant le tournant de la falaise.
+
+– Fameuse chance que ces gens du phare ne l'aient point découverte !
+
+– Ni aucun de ceux qui ont travaillé pendant quinze mois à la construction du phare !
+
+– Ils étaient bien trop occupés au fond de la baie.
+
+– Et puis l'ouverture était si parfaitement obstruée qu'il eût été difficile de la voir.
+
+– Allons », dit le chef.
+
+Deux de ses compagnons et lui remontèrent obliquement à travers la grève, large en cet endroit d'une centaine de pas jusqu'au pied de la falaise.
+
+De sa cachette, Vasquez suivait tous leurs mouvements, prêtant l'oreille pour ne pas perdre une seule parole. Sous leurs pieds craquait le sable semé de coquillages. Mais ce bruit ne tarda pas à cesser, et Vasquez n'aperçut plus que l'homme allant et venant près de l'embarcation.
+
+« Ils ont par là quelque caverne », se dit-il.
+
+Vasquez ne pouvait plus mettre en doute que la goélette n'eût amené une bande d'écumeurs de mer, de pillards établis sur l'Île des États avant les travaux. Était-ce donc dans cette caverne qu'ils avaient caché leurs rapines ? … Et n'allaient-ils pas les emporter à bord de la goélette ?
+
+Soudain, la pensée lui vint qu'il devait y avoir là en réserve des provisions dont il pourrait profiter. Ce fut comme un rayon d'espoir qui se glissa dans son âme. Dès que le canot serait parti pour retourner au mouillage, il sortirait de sa cachette, il chercherait l'entrée de la caverne, il y pénétrerait, il y trouvait de quoi vivre jusqu'à l'arrivée de l'aviso ! …
+
+Et ce qu'il demanderait alors, si l'existence lui était assurée pour quelques semaines, c'est que ces misérables ne pussent quitter l'île.
+
+« Oui ! qu'ils soient encore là, quand le *Santa-Fé* reviendra, et que le commandant Lafayate en fasse bonne justice ! »
+
+Mais ce vœu se réaliserait-il ? À bien réfléchir, Vasquez se disait que la goélette ne devait être venue en relâche à la baie d'Elgor que pour deux ou trois jours. Le temps d'embarquer cette cargaison enfermée dans la caverne, puis elle abandonnerait l'Île des États pour n'y jamais revenir.
+
+Vasquez allait être bientôt fixé à cet égard.
+
+Après une heure passée à l'intérieur de la caverne, les trois hommes reparurent et se promenèrent sur la grève. De la cavité dans laquelle il se blottissait, Vasquez put encore entendre les divers propos qu'ils échangèrent à haute voix et dont il devait faire presque aussitôt profit.
+
+« Eh ! ils ne nous ont pas dévalisés pendant leur séjour, ces braves gens !
+
+– Et la *Maule*, quand elle mettra à la voile, aura son plein chargement.
+
+– Et des provisions suffisantes pour sa traversée, ce qui nous tire d'embarras !
+
+– En effet, ce n'est pas avec celles de la goélette que nous aurions pu nous assurer le boire et le manger jusqu'aux îles du Pacifique !
+
+– Les imbéciles ! En quinze mois, ils n'ont pas su découvrir nos trésors, pas plus qu'ils ne sont venus nous relancer au cap Saint-Barthélemy !
+
+– Un hurrah pour eux ! Ce n'eût pas été la peine d'attirer les bâtiments sur les récifs de l'île pour en perdre tout le bénéfice ! »
+
+En entendant ces paroles, dont les misérables riaient à gorge déployée, Vasquez, la rage au cœur, était tenté de se jeter sur eux, le revolver à la main, et de leur casser la tête à tous trois. Mais il se contint. Mieux valait ne rien perdre de cette conversation. Il apprenait là quel abominable métier ces malfaiteurs avaient fait sur cette partie de l'île et il ne put être surpris lorsqu'ils ajoutèrent :
+
+« Quant à ce fameux Phare du bout du Monde, que les capitaines viennent le chercher maintenant ! … Ce sera comme s'ils étaient aveugles !
+
+– Et c'est en aveugles qu'ils continueront à se diriger sur l'île, où leurs navires ne tarderont pas à se mettre en pièces.
+
+– J'espère bien, avant le départ de la *Maule*, qu'un ou deux navires viendront naufrager sur les roches du cap San Juan ! Il faut que nous chargions notre goélette jusqu'au plat bord, puisque le diable nous l'a envoyée.
+
+– Eh ! le diable fait bien les choses ! … Un bon bâtiment qui nous arrive au cap Saint-Barthélemy, et personne de l'équipage, ni capitaine, ni matelots, dont nous nous serions débarrassés, d'ailleurs… »
+
+C'était dire dans quelles conditions la goélette appelée la *Maule* était tombée entre les mains de cette bande à la pointe ouest de l'île, et de quelle manière plusieurs bâtiments s'étaient perdus corps et biens sur les récifs de l'île, attirés par les manœuvres de ces pilleurs d'épaves.
+
+« Et maintenant, Kongre, demanda l'un des trois hommes, qu'allons-nous faire ?
+
+– Retourner à la *Maule*, Carcante, répondit Kongre, en qui Vasquez avait justement reconnu le chef de la bande.
+
+– Est-ce que nous n'allons pas commencer à déménager la caverne ?
+
+– Pas avant que les avaries ne soient réparées, il est certain que ces réparations vont durer plusieurs semaines…
+
+– Alors, dit Carcante, emportons dans le canot quelques outils.
+
+– Oui… quitte à revenir quand il le faudra. Vargas doit trouver ici tout ce dont il a besoin pour son travail.
+
+– Ne perdons pas de temps, reprit Carcante. La marée ne tardera pas à monter. Nous en profiterons.
+
+– C'est entendu, répondit Kongre, lorsque la goélette sera en état, nous mettrons notre cargaison à bord. Il n'y a pas à craindre qu'on nous la vole.
+
+– Eh ! Kongre, ne pas oublier qu'ils étaient trois gardiens au phare, et que l'un d'eux nous a échappé.
+
+– Il ne m'inquiète guère, Carcante. Avant deux jours, il sera mort de faim, à moins qu'il ne vive de mousses et de coquillages… D'ailleurs nous refermerons l'orifice de la caverne.
+
+– N'importe, dit Carcante, il est fâcheux que nous ayons des avaries à réparer. Dès demain, la *Maule* aurait pu reprendre la mer… Il est vrai que, pendant la relâche, quelque navire viendra peut-être se jeter sur la côte, et cela sans qu'on ait même la peine de l'attirer… Et ce qui sera perdu pour lui ne sera pas perdu pour nous ! »
+
+Kongre et ses compagnons ressortirent de la caverne, ils en rapportaient des outils, des morceaux de bordage, des pièces de bois pour réparer les membrures. Puis, après avoir pris la précaution de boucher l'entrée, ils descendirent jusqu'au canot et s'y embarquèrent, au moment où le flot arrivait dans la baie.
+
+L'embarcation déborda aussitôt, et, enlevée par ses avirons, elle ne tarda pas à disparaître derrière une pointe de la rive.
+
+Lorsqu'il n'eut plus la crainte d'être aperçu, Vasquez revint sur la grève. Il savait maintenant tout ce qu'il avait intérêt à savoir, entre autres, deux choses importantes : la première, c'est qu'il pourrait se procurer des provisions en quantité suffisante pour plusieurs semaines ; la seconde, c'est que la goélette avait des avaries, dont la réparation exigerait au moins une quinzaine de jours, davantage peut-être, mais jamais assez longtemps, sans doute, pour qu'elle fût encore là au retour de l'aviso.
+
+Quant à retarder son départ, lorsqu'elle serait prête à reprendre la mer, comment Vasquez aurait-il pu y songer ? … Oui, si quelque navire venait à passer à petite distance du cap San Juan, il lui ferait des signaux… au besoin il se jetterait à la mer pour le rejoindre à la nage… Une fois à bord, il mettrait le capitaine au courant de la situation… et, si ce capitaine disposait d'un équipage assez nombreux, il n'hésiterait pas à donner dans la baie d'Elgor, à s'emparer de la goélette… Si ces malfaiteurs s'enfuyaient alors à l'intérieur de l'île, la quitter serait devenu impossible pour eux… et, au retour du *Santa-Fé*, le commandant Lafayate saurait bien s'emparer de ces bandits ou les détruire jusqu'au dernier ! … Mais ce bâtiment arriverait-il en vue du cap San Juan ? … Et, s'il en venait un, les signaux de Vasquez seraient-ils aperçus ? …
+
+En ce qui le concernait personnellement, d'ailleurs, bien que ce Kongre n'eût aucun doute sur l'existence d'un troisième gardien, il était sans inquiétude… il saurait échapper aux recherches… L'essentiel étant pour l'instant de savoir s'il pouvait assurer sa nourriture jusqu'à l'arrivée de l'aviso, il se dirigea sans plus attendre vers la caverne.
+
+
+# Chapitre VIII. La *Maule* en réparation.
+
+Réparer les avaries de la goélette, la remettre en état pour une longue traversée sur le Pacifique, y embarquer toute la cargaison emmagasinée dans la caverne, reprendre la mer le plus tôt possible, c'est à quoi Kongre et ses compagnons allaient s'employer sans perdre de temps.
+
+Au total, les réparations à la coque de la *Maule* constituaient une assez grosse besogne. Mais le charpentier Vargas connaissait son métier, il ne manquerait ni d'outils ni de matériaux, et le travail s'exécuterait dans de bonnes conditions.
+
+En premier lieu, il fallait délester la goélette, puis la tirer sur la grève de la crique, où elle serait abattue sur tribord, pour que les réparations pussent être faites à l'extérieur, en remplaçant les membrures et les bordages de la coque.
+
+Il était donc possible que cela exigeât un certain temps ; mais, ce temps, Kongre l'avait largement, car il calculait que la belle saison durerait au moins deux grands mois.
+
+Quant à l'arrivée de la relève, il savait à quoi s'en tenir.
+
+En effet, le livre de phare trouvé dans le logement lui avait appris tout ce qu'il lui importait de connaître : la relève ne devant se faire que tous les trimestres, l'aviso *Santa-Fé* ne reviendrait pas à la baie d'Elgor avant les premiers jours de mars, et on n'était encore que dans les derniers jours de décembre.
+
+En même temps, ce livre portait les noms des trois gardiens Moriz, Felipe et Vasquez. D'ailleurs, l'aménagement de la chambre eût indiqué qu'elle était occupée par trois personnes. L'un des gardiens avait donc pu éviter le sort de ses malheureux camarades. Où s'était-il réfugié ? Kongre s'en préoccupait peu, on le sait. Seul, sans ressources, le fugitif aurait bientôt succombé à la misère, à la faim.
+
+Cependant, si le temps ne manquait pas pour les réparations de la goélette, il y avait toujours lieu de compter avec les retards possibles, et précisément, dès le début, on dut interrompre le travail à peine commencé.
+
+On venait de terminer le déchargement de la *Maule*, que Kongre avait résolu d'abattre en carène le lendemain, lorsque, dans la nuit du 3 au 4 janvier, un brusque changement atmosphérique se produisit.
+
+Pendant cette nuit, des masses de nuages s'accumulèrent à l'horizon du sud. Tandis que la température s'élevait jusqu'à seize degrés, le baromètre tombait soudain à tempête. De nombreux éclairs embrasèrent le ciel. La foudre éclatait de toutes parts. Le vent se déchaînait avec une extraordinaire violence ; la mer démontée passait en grand par-dessus les récifs, et se brisait contre les falaises. Il était vraiment heureux que la *Maule* fût ancrée dans la baie d'Elgor bien abritée contre ce vent du sud-est. Par un tel temps, un bâtiment de fort tonnage, voilier ou steamer, aurait couru le risque d'être affalé sur les côtes de l'île. À plus forte raison un navire d'aussi faible gabarit que la *Maule.*
+
+Tels étaient l'impétuosité de cette bourrasque, le trouble de l'Océan au large, qu'une véritable houle, envahissait toute la crique. Au plein de la marée, l'eau montait au pied des falaises, et la grève, au bas de l'enceinte, était complètement inondée. Des lames déferlaient jusqu'au logement des gardiens, et leurs embruns atteignaient à un demi-mille de là le petit bois de hêtres.
+
+Tous les efforts de Kongre et de ses compagnons durent tendre à maintenir la *Maule* à son mouillage. Plusieurs fois elle chassa sur son ancre, menaçant de s'échouer sur la grève. Il fallut affourcher une seconde ancre pour aider la première. À deux reprises on put craindre un désastre complet.
+
+Cependant, tout en veillant jour et nuit sur la *Maule*, la bande s'était installée dans les annexes, où elle n'avait rien à redouter de la tourmente. Les literies des cabines et du poste d'équipage y furent transportées, et il y eut place suffisante pour loger cette quinzaine d'hommes. Ils n'avaient jamais eu pareille installation pendant tout leur séjour sur l'Île des États.
+
+Quant aux provisions, il n'y avait pas à s'en préoccuper. Celles que contenait le magasin du phare auraient suffi, et au-delà, même s'il y avait eu le double de bouches à nourrir. Et, d'ailleurs, en cas de besoin, on aurait pu recourir aux réserves de la caverne. En somme, le ravitaillement de la goélette était assuré pour une longue traversée dans les mers du Pacifique.
+
+Le mauvais temps dura jusqu'au 12 janvier et ne prit fin que dans la nuit du 12 au 13. Toute une semaine perdue, car il avait été impossible de travailler. Même Kongre avait jugé prudent de remettre une partie du lest dans la goélette, qui roulait comme un canot. On avait fort à faire déjà pour l'écarter des roches du fond contre lesquelles elle se fût brisée tout comme à l'entrée de la baie d'Elgor.
+
+Le vent changea pendant cette nuit et sauta brusquement dans l'ouest-sud-ouest. Ce fut du côté du cap Saint-Barthélemy que la mer devint très dure, car il soufflait une brise à trois ris. Si la *Maule* eût encore été à l'anse du cap, elle s'y fût assurément démolie.
+
+Durant cette semaine un navire avait passé en vue de l'Île des États. C'était de jour. Il n'avait donc pas eu à prendre connaissance du phare, et ne put constater qu'il n'était plus allumé entre le coucher et le lever du soleil. Il venait du nord-est et donna sous voilure réduite dans le détroit de Lemaire, le pavillon français flottant à sa corne.
+
+Du reste, il passa à trois milles de terre, et il fallut employer la longue-vue pour reconnaître sa nationalité. Donc, si Vasquez lui fit des signaux du cap San Juan, ils ne pouvaient être aperçus et ne le furent point, car un capitaine français n'aurait pas hésité à mettre son canot à la mer pour ramener à bord un naufragé.
+
+Dans la matinée du 13, le lest de ferraille fut de nouveau débarqué et mis en vrac sur le sable, à l'abri de la marée, et la visite à l'intérieur de la cale put s'effectuer plus complètement qu'au cap Saint-Barthélemy. Le charpentier déclara les avaries plus graves qu'on ne le supposait. La *Maule* avait beaucoup fatigué pendant sa traversée en luttant au plus près contre une mer assez dure. C'est alors que s'était ouverte cette voie d'eau dans son arrière. Visiblement, le navire n'aurait pu prolonger sa navigation au-delà de la baie d'Elgor. Il y avait donc lieu de le mettre à sec, afin de procéder au remplacement de deux varangues, de trois couples et du bordé sur environ six pieds de longueur.
+
+On le sait, grâce aux objets de toute nature et de toute destination recueillis dans la caverne, les matériaux ne manqueraient pas. Le charpentier Vargas, aidé de ses compagnons, ne doutait pas de mener son travail à terme. S'il n'y réussissait pas, il eût été impossible à la *Maule*, incomplètement réparée, de s'aventurer à travers le Pacifique. Ce qui devait être considéré comme très heureux d'ailleurs, c'est que la mâture, la voilure, les agrès n'avaient eu aucun dommage.
+
+La première opération consistait à haler la goélette sur le sable pour la faire gîter sur son flanc de tribord. Cela ne pouvait se faire qu'à la marée, faute d'appareils suffisamment puissants. Or, il y eut un nouveau retard de deux jours pour attendre la grande marée de nouvelle lune, qui permettrait de conduire la goélette assez haut sur la grève pour qu'elle y restât à sec pendant toute la lunaison.
+
+Kongre et Carcante profitèrent de ce retard pour retourner à la caverne, et, cette fois, ils le firent avec la chaloupe du phare, plus grande que le canot de la *Maule.* Elle rapporterait une partie des objets de valeur, l'or et l'argent provenant du pillage, des bijoux et autres matières précieuses qui seraient déposés dans les magasins de l'annexe.
+
+La chaloupe partit dans la matinée du 14 janvier. Le jusant se faisait sentir depuis deux heures déjà, et elle reviendrait avec le flot de l'après-midi.
+
+Le temps était assez beau. Des rayons de soleil passaient entre les nuages qu'une légère brise poussait du sud.
+
+Avant de partir, ainsi qu'il le faisait chaque jour, Carcante était monté à la galerie du phare pour observer l'horizon. Déserte la mer au large, aucun bâtiment en vue, pas même une de ces barques de Pécherais qui se risquaient parfois jusque dans l'est des îlots New-Year.
+
+Déserte aussi l'île, si loin que la vue pouvait s'étendre.
+
+Tandis que la chaloupe descendait avec le courant, Kongre examinait attentivement les deux rivages de la baie. Et ce troisième gardien qui avait échappé au massacre, où était-il alors ? … Bien que ce ne fût pas pour lui un sujet d'inquiétude, s'en débarrasser eût mieux valu, et c'est ce qui serait fait à l'occasion.
+
+La terre était aussi déserte que la baie. Elle ne s'animait que du vol et des cris de myriades d'oiseaux qui nichaient dans la falaise.
+
+Vers onze heures, la chaloupe accosta devant la caverne, après avoir été servie non seulement par le jusant, mais aussi par la brise.
+
+Kongre et Carcante débarquèrent, laissant de garde deux de leurs hommes, et se rendirent à la caverne, d'où ils ressortirent une demi-heure plus tard.
+
+Les choses leur avaient paru être dans l'état où ils les avaient laissées. D'ailleurs, il y avait là un tel fouillis d'objets de toute nature qu'il eût été difficile, même à la lueur du fanal, de constater s'il ne manquait rien.
+
+Kongre et son compagnon rapportèrent deux caisses soigneusement fermées, provenant du naufrage d'un trois-mâts anglais, et qui renfermaient une somme importante en monnaie d'or et en pierres précieuses. Ils les déposèrent dans la chaloupe et se disposaient à partir, lorsque Kongre manifesta l'intention d'aller jusqu'au cap San Juan. De là il pourrait observer le littoral en direction du sud et du nord.
+
+Carcante et lui gagnèrent donc le sommet de la falaise et descendirent le cap jusqu'à son extrémité.
+
+De cette pointe le regard portait d'un côté sur le rivage, en retour, qui se profilait vers le détroit de Lemaire sur une étendue de deux milles environ ; de l'autre, jusqu'à la pointe Several.
+
+« Personne, dit Carcante.
+
+– Non… personne ! » répondit Kongre.
+
+Tous deux revinrent alors vers la chaloupe et, comme le flot commençait, elle prit le fil du courant. Avant trois heures, ils étaient de retour au fond de la baie d'Elgor.
+
+Deux jours après, le 16, Kongre et ses compagnons procédèrent dans la matinée à l'échouage de la *Maule.* C'était vers onze heures que devait avoir lieu la pleine mer, et toutes les dispositions furent prises en conséquence. Une amarre, portée à terre, permettrait de haler la goélette jusqu'à la grève lorsque la hauteur de l'eau serait suffisante.
+
+En soi, l'opération ne présentait ni difficulté ni risques, et c'était la marée qui se chargeait de toute la besogne.
+
+Dès que la mer fut étale on embraqua l'aussière, et l'on hala la *Maule* le plus loin possible au-dessus de la grève.
+
+Il n'y avait plus qu'à attendre le jusant. Vers une heure, l'eau commença à découvrir les roches les plus rapprochées de la falaise, et la quille de la *Maule* rencontra le sable. À trois heures, complètement à sec, elle gîtait sur son flanc de tribord.
+
+On allait donc pouvoir se mettre au travail. Seulement, comme il n'avait pas été possible de conduire la goélette jusqu'au pied de la falaise, ce travail serait forcément interrompu chaque jour pendant quelques heures, puisque le bâtiment flotterait au retour de la marée. Mais, d'autre part, comme, à partir de ce jour, la mer perdrait chaque fois de sa hauteur, le temps de chômage diminuerait graduellement, et, durant une quinzaine, la besogne pourrait être continuée sans interruption.
+
+Le charpentier se mit à l'œuvre. S'il n'y avait pas à compter sur les Pécherais de la bande, du moins les autres, compris Kongre et Carcante, lui viendraient en aide.
+
+La partie de bordage endommagée fut enlevée facilement, après qu'on eut retiré les feuilles de cuivre du doublage. Cela laissa à nu les couples et les varangues qu'il s'agissait de remplacer. Le bois rapporté de la caverne, planches et courbes, y suffirait, et il ne serait pas nécessaire d'abattre un arbre dans le bois de hêtres, de le débiter, de le scier, ce qui eût été un gros ouvrage.
+
+Pendant les quinze jours qui suivirent, Vargas et les autres, favorisés par le temps qui resta beau, avaient fait bonne besogne. Ce qui occasionna le plus de difficultés, ce fut d'enlever les varangues et les membres qui devaient être remplacés. Ces diverses pièces étaient chevillées en cuivre, reliées par des gournables. L'ensemble tenait bon et, décidément, cette goélette, la *Maule*, sortait de l'un des meilleurs chantiers de construction de Valparaiso. Vargas ne parvint pas sans peine à terminer cette première partie de son travail et, assurément, faute des outils de charpentier recueillis dans la caverne, il n'aurait pu le mener à bonne fin.
+
+Il va de soi que pendant les premiers jours il avait fallu interrompre la besogne au moment du plein de la mer. Ensuite, la marée devint tellement faible, qu'elle atteignait à peine les premières déclivités de la grève. La quille n'était plus en contact avec l'eau, et on pouvait travailler à l'intérieur comme à l'extérieur de la coque. Mais il importait d'avoir tout au moins remis le bordage en place avant que la mer eût pris du revif.
+
+Par prudence, et sans aller jusqu'à enlever le doublage de cuivre, Kongre fit reprendre toutes les coutures au-dessous de la flottaison. On en renouvela le calfatage avec le goudron et l'étoupe recueillis parmi les épaves.
+
+L'opération se poursuivit dans ces conditions jusqu'à la fin du mois de janvier, et presque sans interruption. Le temps ne cessait d'être favorable. Il y eut bien, sinon quelques jours, du moins quelques heures de pluies, parfois très violentes ; mais, somme toute, elles ne durèrent pas.
+
+Pendant cette période, on eut à signaler la présence de deux bâtiments dans les parages de l'Île des États.
+
+Le premier était un steamer anglais venant du Pacifique, qui, après avoir remonté le détroit de Lemaire, s'éloignait, cap au nord-est, probablement à destination d'un port d'Europe. Ce fut en plein jour qu'il passa à la hauteur du cap San Juan. Apparu après le lever du soleil, il était hors de vue avant son coucher. Son capitaine n'eut donc pas à constater l'extinction du phare.
+
+Le second navire était un grand trois mâts dont on ne put connaître la nationalité. La nuit commençait à se faire, lorsqu'il se montra à la hauteur du cap San Juan pour longer la côte orientale de l'île jusqu'à la pointe Several. Carcante, posté dans la chambre de quart, ne vit que son feu vert de tribord. Mais le capitaine et l'équipage de ce voilier, s'ils étaient depuis plusieurs mois en navigation, devaient ignorer que la construction du phare fût terminée à cette époque.
+
+Ce trois-mâts suivit la côte d'assez près pour que les hommes eussent pu apercevoir des signaux, un feu par exemple allumé à l'extrémité d'un cap. Vasquez tenta-t-il d'attirer leur attention ? … Quoi qu'il en soit, au soleil levant, ce bâtiment avait disparu dans le sud.
+
+D'autres voiliers et steamers furent encore entrevus à l'horizon, faisant probablement route vers les Malouines. Ils ne durent même pas avoir connaissance de l'Île des États.
+
+Le dernier jour du mois de janvier, au moment des fortes marées de pleine lune, le temps subit des modifications profondes. Le vent était remonté dans l'est et assaillait directement l'entrée de la baie d'Elgor.
+
+Heureusement, si les réparations n'étaient pas entièrement finies, du moins, les couples, les varangues, le bordage, maintenant remplacés, rendaient-ils étanche la coque de la *Maule.* Il n'y avait plus à craindre que l'eau s'introduisît à l'intérieur de la cale.
+
+Il y eut lieu de s'en féliciter, car, pendant quarante-huit heures, au plein du flot, la mer monta le long de la coque, et la goélette se redressa sans toutefois que sa quille se fût dégagée du fond de sable.
+
+Kongre et ses compagnons durent prendre de grandes précautions pour éviter de nouvelles avaries qui auraient pu retarder de beaucoup leur départ. Par une circonstance des plus favorables, la goélette continua d'être tenue par ses fonds. Elle roula d'un bord sur l'autre avec une certaine violence, mais ne risqua pas d'être jetée contre les roches de la crique.
+
+D'ailleurs, à partir du 2 février, la marée commença à perdre, et la *Maule* s'immobilisa de nouveau sur la grève. Il fut alors possible de calfater la coque dans ses hauts, et le maillet ne cessa de se faire entendre du lever au coucher du soleil.
+
+Au surplus, ce ne serait pas l'embarquement de sa cargaison qui retarderait le départ de la *Maule.* La chaloupe se rendait fréquemment à la caverne, avec les hommes qui n'étaient pas employés par Vargas. Tantôt Kongre, tantôt Carcante, les y accompagnaient.
+
+À chaque voyage, l'embarcation rapportait une partie des objets qui devaient trouver place dans la cale de la goélette. Ces objets, on les déposait provisoirement dans le magasin du phare. Ainsi, le chargement s'effectuerait avec plus de facilité, plus de régularité, que si la *Maule* l'eût pris devant la caverne, à l'entrée de la baie, où l'opération eût pu être contrariée par le temps. Sur cette côte que prolongeait le cap San Juan, il n'existait pas d'autre abri que la petite crique, au pied du phare.
+
+Quelques jours encore, et, les réparations définitivement achevées, la *Maule* serait en état de reprendre la mer, et la cargaison pourrait être mise à bord.
+
+En effet, à la date du 12, les dernières coutures du pont et de la coque avaient reçu un complet calfatage. On avait même pu, avec quelques pots de couleur trouvés dans les carcasses des navires naufragés, repeindre la *Maule* de l'avant à l'arrière. Kongre profita de l'occasion pour changer le nom de la goélette, qu'en l'honneur de son second il baptisa le *Carcante.* Il n'avait pas négligé non plus de réviser le gréement et de faire de légères réparations à la voilure, qui, du reste, devait être neuve lorsque la goélette avait quitté le port de Valparaiso.
+
+La *Maule* aurait donc été à même d'être ramenée à son mouillage dans la crique dès le 12 février et on aurait pu procéder au chargement, si, au grand ennui de Kongre et de ses compagnons, très impatients d'abandonner l'Île des États, il n'eût pas fallu attendre la prochaine marée de nouvelle lune pour remettre la goélette à flot.
+
+Cette marée se produisit le 24 février. Ce jour-là, la quille se souleva de la souille creusée dans le sable de la grève, et la goélette glissa sans effort en eau profonde, il n'y avait plus qu'à s'occuper de la cargaison.
+
+Sauf circonstances imprévues, le *Carcante* pourrait appareiller dans quelques jours, sortir de la baie d'Elgor, descendre le détroit de Lemaire et, cap au sud-ouest, cingler à toutes voiles vers les mers du Pacifique.
+
+
+# Chapitre IX. Vasquez.
+
+Depuis l'arrivée de la goélette au mouillage de la baie d'Elgor, Vasquez avait vécu sur le littoral du cap San Juan dont il ne voulait pas s'éloigner. Si quelque navire venait en relâche dans la baie, au moins serait-il là pour le héler à son passage.
+
+On le recueillerait, il préviendrait le capitaine du danger qu'il courait à remonter dans la direction du phare, il lui apprendrait qu'une bande de malfaiteurs en étaient maîtres, et, si ce capitaine n'avait pas un équipage suffisant pour s'emparer d'eux ou les chasser à l'intérieur de l'île, il aurait le temps de reprendre le large.
+
+Mais quelle apparence que cette éventualité vînt à se produire, et pourquoi un bâtiment, à moins d'y être forcé, relâcherait-il au fond de cette baie à peine connue des navigateurs ?
+
+C'eût été cependant la circonstance la plus favorable que ce navire se dirigeât vers les Malouines, – une traversée de quelques jours seulement, les autorités anglaises eussent été rapidement prévenues des événements dont l'Île des États venait d'être le théâtre. Un bâtiment de guerre aurait peut-être pu se rendre immédiatement à la baie d'Elgor, y arriver avant que la *Maule* en fût repartie, détruire, jusqu'au dernier, Kongre et les siens, et faire le nécessaire pour que le phare fût aussitôt remis en service.
+
+« Pour cela, se répétait Vasquez, faudra-t-il donc attendre le retour du *Santa-Fé ? …* Deux mois ! … D'ici là, la goélette sera loin… et où la retrouver au milieu des îles du Pacifique ? … »
+
+On le voit, le brave Vasquez, s'oubliant lui-même, pensait toujours à ses camarades impitoyablement massacrés, à l'impunité dont jouiraient peut-être ces malfaiteurs après avoir abandonné l'île, et aux graves périls qui menaçaient la navigation sur ces parages depuis l'extinction du Phare du bout du Monde.
+
+D'ailleurs, au point de vue matériel, et à la condition qu'on ne découvrît pas sa retraite, il était rassuré, depuis sa visite à la caverne des pirates.
+
+Cette vaste caverne s'enfonçait profondément à l'intérieur de la falaise. C'est là que la bande s'était abritée pendant plusieurs années. C'est là qu'avaient été entassées toutes les épaves, or, argent, matières précieuses recueillis sur le littoral à mer basse. C'est là, enfin, que Kongre et les siens avaient passé de longs mois, vivant, d'abord, des provisions qu'ils possédaient au moment de leur débarquement, puis de celles procurées par un grand nombre de naufrages, dont plusieurs avaient été provoqués par eux.
+
+De ces provisions, Vasquez ne prit que l'indispensable, de manière que Kongre et les autres ne s'aperçussent de rien : une petite caisse de biscuit de mer, un baril de corned-beef, un réchaud qui lui permettrait de faire du feu, une bouilloire, une tasse, une couverture de laine, une chemise et des bas de rechange, une capote cirée, deux revolvers avec une vingtaine de cartouches, un briquet, un fanal, de l'amadou. Il prit aussi deux livres de tabac pour sa pipe. D'ailleurs, d'après les propos qu'il avait entendus, les réparations de la goélette devaient durer plusieurs semaines, et il pourrait renouveler ses provisions.
+
+Il convient de dire que, par précaution, trouvant l'étroite grotte qu'il occupait trop voisine de la caverne, et craignant d'y être découvert, il avait cherché un autre abri un peu plus éloigné et plus sûr.
+
+C'est à cinq cents pas de là, sur le revers du littoral, au-delà du cap San Juan, dans la partie du littoral en bordure du détroit, qu'il l'avait trouvé. Entre deux hautes roches qui contrebutaient la falaise, s'évidait une grotte dont on ne pouvait voir l'orifice. Pour y arriver, il fallait se glisser à travers cet entre-deux, qu'on distinguait à peine au milieu de l'amoncellement des blocs. Au plein du flot, la mer arrivait presque à leur base, mais ne montait jamais assez pour inonder cette cavité dont le sable fin ne contenait aucun coquillage et ne portait aucune trace d'humidité.
+
+On eût passé cent fois devant cette grotte sans en soupçonner l'existence, et c'était par hasard si Vasquez l'avait découverte, quelques jours auparavant.
+
+Ce fut donc là qu'il transporta les divers objets pris dans la caverne, et dont il allait faire usage.
+
+Il était rare, d'ailleurs, que Kongre, Carcante ou d'autres vinssent sur cette partie de la côte. La seule fois qu'ils l'eussent fait, après une seconde visite à la caverne, Vasquez les avait aperçus lorsqu'ils s'arrêtèrent à la pointe du cap San Juan. Accroupi au fond de l'entre-deux, il ne pouvait être vu, et ne le fut pas.
+
+Inutile d'ajouter qu'il ne s'aventurait jamais au dehors, sans les plus minutieuses précautions, le soir de préférence, surtout pour se rendre à la caverne. Avant de tourner l'angle de la falaise à l'entrée de la baie, il s'assurait que ni le canot ni la chaloupe n'étaient amarrés le long de la rive.
+
+Mais combien le temps lui paraissait interminable dans sa solitude, et quels douloureux souvenirs revenaient sans cesse à sa mémoire ! Cette scène de carnage à laquelle il avait échappé, Felipe, Moriz, tombés sous les coups des assassins. Un irrésistible désir le prenait au cœur de rencontrer le chef de cette bande et de venger de ses propres mains la mort de ses infortunés camarades ! …
+
+« Non… non ! … se répétait-il, ils seront punis tôt ou tard ! … Dieu ne permettra pas qu'ils échappent au châtiment… Ils paieront ces crimes de leur vie ! … »
+
+Il oubliait combien la sienne tenait à peu de chose, tant que la goélette serait en relâche dans la baie d'Elgor.
+
+« Et pourtant… s'écriait-il, qu'ils ne s'en aillent pas, ces misérables ! qu'ils soient encore là lorsque reviendra le *Santa-Fé…* que le Ciel les empêche de repartir ! … »
+
+Ce souhait serait-il accompli ? Il s'en fallait de plus de trois semaines que l'aviso pût être signalé au large de l'île ! …
+
+D'autre part, la durée de cette relâche ne laissait pas de surprendre Vasquez. Les avaries de la goélette étaient-elles donc si importantes qu'un mois n'avait pas suffi à leur complète réparation ? … Le livre de phare aurait dû renseigner Kongre sur la date à laquelle s'effectuerait la relève. Il ne pouvait ignorer que, s'il n'avait pas repris la mer avant les premiers jours de mars…
+
+On était au 16 février. Vasquez, dévoré d'impatience et d'inquiétude, voulut savoir à quoi s'en tenir. Aussi quand le soleil fut couché, il gagna l'entrée de la baie, et remonta la rive nord, en se dirigeant vers le phare.
+
+Bien que l'obscurité fût déjà profonde, il n'en risquait pas moins d'être rencontré si quelqu'un de la bande fût venu de ce côté. Il se glissait donc le long de la falaise avec précaution, regardant à travers l'ombre, s'arrêtant, écoutant s'il se produisait quelque bruit suspect.
+
+Vasquez avait environ trois milles à faire pour atteindre le fond de la baie. C'était la direction contraire à celle qu'il avait suivie, en fuyant après le meurtre de ses camarades. Il ne fut pas plus vu qu'il ne l'avait été ce soir-là.
+
+Vers neuf heures, il s'arrêtait à deux cents pas de l'enceinte du phare, et, de là, vit quelques lumières briller à travers les fenêtres de l'annexe. Un mouvement de colère, un geste de menace lui échappèrent, à la pensée que ces bandits étaient dans ce logement, à la place de ceux qu'ils avaient tués, de celui qu'ils tueraient, s'il tombait entre leurs mains !
+
+De l'endroit où il se trouvait, Vasquez ne pouvait apercevoir la goélette, enveloppée d'ombre. Il dut s'approcher d'une centaine de pas, ne pensant pas qu'il y eût danger à le faire. Toute la bande était enfermée dans le logement. Personne n'en sortirait sans doute.
+
+Vasquez s'approcha plus près encore. Il se glissa jusqu'à la grève de la petite crique. C'était à la marée de l'avant-veille que la goélette avait été déhalée du banc de sable. À présent, elle flottait, mouillée sur son ancre !
+
+Ah ! s'il l'avait pu, s'il n'avait dépendu que de lui, avec quel plaisir il eût défoncé cette coque et l'eût coulée dans la crique.
+
+Ainsi donc les avaries étaient réparées. Cependant, Vasquez avait fait cette remarque, que, si la goélette flottait, il s'en fallait d'au moins deux pieds qu'elle fût dans ses lignes d'eau. Cela indiquait qu'elle n'avait pas encore embarqué son lest, ni sa cargaison. Il se pouvait donc que le départ fût retardé de quelques jours. Mais, assurément, ce serait le dernier délai, et, dans quarante-huit heures peut-être, la *Maule* appareillerait, elle doublerait le cap San Juan, et disparaîtrait à l'horizon pour toujours.
+
+Vasquez n'avait plus alors qu'une petite quantité de vivres. Aussi, le lendemain, se rendit-il à la caverne afin de renouveler ses provisions.
+
+Il faisait à peine jour ; mais, se disant que la chaloupe reviendrait ce matin-là enlever tout ce qui devait être embarqué sur la goélette, il se hâta, non sans prendre les plus grandes précautions.
+
+En tournant la falaise, il n'aperçut point la chaloupe, et la rive était déserte.
+
+Vasquez entra donc dans la caverne.
+
+Il s'y trouvait encore nombre d'objets, de ceux qui étaient sans valeur, et dont Kongre ne voulait sans doute pas embarrasser la cale de la *Maule.* Mais, lorsque Vasquez chercha biscuits et viande, quel fut son désappointement !
+
+Tous les comestibles avaient été enlevés ! … et, dans quarante-huit heures, les vivres lui manqueraient ! …
+
+Vasquez n'eut pas le temps de s'abandonner à ses réflexions. En ce moment, un bruit d'avirons se fit entendre. La chaloupe arrivait, ayant à bord Carcante et deux de ses compagnons.
+
+Vasquez s'avança vivement jusqu'à l'entrée de la caverne, et, allongeant la tête au dehors, regarda.
+
+La chaloupe accostait alors. Il n'eut que le temps de se rejeter à l'intérieur, puis de se cacher dans le coin le plus obscur, derrière un amas de voiles et d'espars dont la goélette n'aurait pu se charger, et qui resteraient dans la caverne.
+
+Vasquez était bien décidé à vendre chèrement sa vie, en cas qu'il fût découvert. Le revolver qu'il portait toujours à sa ceinture, il s'en servirait. Mais, lui seul contre trois ! …
+
+Deux seulement franchirent l'orifice, Carcante et le charpentier Vargas. Kongre ne les avait pas accompagnés.
+
+Carcante tenait un fanal allumé, et, suivi de Vargas, il fit choix de différents objets qui compléteraient le chargement de la goélette.
+
+Tout en cherchant, ils causaient. Le charpentier dit :
+
+« Nous voici au 17 février, et il est temps de démarrer.
+
+– Eh bien, nous démarrerons, répondit Carcante.
+
+– Dès demain ?
+
+– Dès demain, je pense, puisque nous sommes parés.
+
+– Encore faudra-t-il que le temps le permette ! observa Vargas.
+
+– Sans doute, et il paraît être un peu menaçant ce matin… Mais cela se débrouillera.
+
+– C'est que si nous étions retenus huit ou dix jours ici…
+
+– Oui, dit Carcante, on courrait le risque de se rencontrer avec leur relève…
+
+– Pas de ça… pas de ça ! s'écria Vargas. Nous ne sommes pas de force à enlever un navire de guerre.
+
+– Non, c'est lui qui nous enlèverait, et probablement aux deux bouts de sa vergue de misaine ! répliqua Carcante, en agrémentant sa réponse d'un formidable juron.
+
+– Enfin… reprit l'autre, il me tarde d'être à une centaine de milles en mer !
+
+– Demain, je te le répète, demain ! affirma Carcante, ou il faudrait qu'il fît un vent à décorner les guanaques ! »
+
+Vasquez entendait ces propos, immobile, respirant à peine. Carcante et Vargas allaient et venaient, le fanal à la main. Ils déplaçaient certains objets, ils en choisissaient d'autres et les mettaient de côté. Parfois, ils s'approchaient si près du coin où se blottissait Vasquez que celui-ci n'aurait eu qu'à étendre le bras pour leur appliquer son revolver sur la poitrine.
+
+Cette visite prit une demi-heure, Carcante appela l'homme resté à la chaloupe. Celui-ci se hâta d'accourir, et prêta la main au transport des colis.
+
+Carcante jeta un dernier coup d'œil à l'intérieur de la caverne.
+
+« Dommage d'en laisser ! dit Vargas.
+
+– Il le faut bien, répondit Carcante. Ah ! si la goélette jaugeait trois cents tonnes ! … Mais nous emportons tout ce qu'il y a de plus précieux et j'ai idée que, là-bas, nous ferons encore de bonnes affaires. »
+
+Ils sortirent alors, et bientôt l'embarcation, filant vent arrière, disparut au-delà d'une pointe de la baie. Vasquez sortit à son tour, et regagna son abri.
+
+Ainsi, dans quarante-huit heures, il n'aurait plus rien à manger, et, en partant, nul doute à ce sujet, Kongre et ses compagnons emporteraient toutes les réserves du phare, Vasquez n'y trouverait plus rien. Comment ferait-il pour vivre jusqu'au retour de l'aviso, qui, en admettant qu'il ne fût pas retardé, n'arriverait pas avant une quinzaine de jours ?
+
+La situation, on le voit, était des plus graves. Ni le courage, ni l'énergie de Vasquez ne parviendraient à l'améliorer, à moins qu'il ne pût se nourrir de racines déterrées dans le bois de hêtres, ou de poissons pêchés dans la baie. Mais, pour cela, il fallait que la *Maule* eût quitté définitivement l'Île des États. Si quelque circonstance l'obligeait à demeurer encore plusieurs jours au mouillage, Vasquez mourrait inévitablement de faim dans sa grotte du cap San Juan.
+
+La journée s'avançait, le ciel devenait plus menaçant. Des masses de nuages, épais, livides, s'accumulaient dans l'est. La force du vent s'accroissait à mesure qu'il halait le large. Les rapides risées qui couraient à la surface de la mer se changèrent bientôt en longues lames dont la crête se couronnait d'écume, et qui ne tarderaient pas à déferler avec fracas contre les roches du cap. Si ce temps continuait, la goélette ne pourrait assurément pas sortir à la marée du lendemain.
+
+Or, avec le soir qui arrivait, il ne se produisit aucun changement dans l'état atmosphérique. Au contraire, la situation empira. Il ne s'agissait pas d'un orage dont la durée eût pu se limiter à quelques heures. Un coup de vent se préparait. On le voyait à la couleur du ciel et de la mer, aux nuages échevelés qui chassaient avec une croissante vitesse, au tumulte des lames contrariées par le courant, à leurs mugissements lorsqu'elles déferlaient sur les récifs. Un marin comme Vasquez ne pouvait s'y méprendre. Dans le logement du phare, la colonne barométrique était sûrement tombée au-dessous du degré de tempête.
+
+Cependant, malgré le vent qui faisait rage, Vasquez n'était pas resté dans sa grotte. Il parcourait la grève, ses regards à l'horizon qui s'obscurcissait graduellement. Les derniers rayons du soleil, qui s'abaissait au couchant, ne s'éteignirent pas avant que Vasquez n'eût aperçu une masse noire qui se mouvait au large.
+
+« Un navire ! s'écria-t-il, un navire qui semble se diriger vers l'île ! »
+
+C'était un navire, en effet, venant de l'est, soit pour embouquer le détroit, soit pour passer par le sud.
+
+La tourmente se déchaînait alors avec une extraordinaire violence. C'était plus qu'un coup de vent, c'était un de ces ouragans auxquels rien ne résiste et qui mettent en perdition les plus puissants navires. Lorsqu'ils n'ont pas « de fuite », pour employer une locution maritime, c'est-à-dire lorsqu'ils ont une terre sous le vent, il est rare qu'ils échappent au naufrage.
+
+« Et le phare que ces misérables n'allument pas ! s'écriait Vasquez. Ce bâtiment, qui le cherche, ne l'apercevra pas ! … Il ne saura pas qu'une côte est devant lui à quelques milles seulement… Le vent l'y pousse et il viendra se briser sur les écueils ! … »
+
+Oui ! un sinistre était à craindre, et qui serait causé par Kongre et les siens. Sans doute, du haut du phare, ils avaient aperçu ce navire, qui n'avait pu tenir la cape et en était réduit à fuir vent arrière à la surface d'une mer démontée. Ce n'était que trop certain, faute de pouvoir se guider sur les éclats de ce phare que le capitaine cherchait vainement dans l'ouest, il n'arriverait pas à doubler le cap San Juan, pour donner dans le détroit, ni la pointe Several pour passer au sud de l'île ! Avant une demi-heure, il serait jeté sur les récifs à l'entrée de la baie d'Elgor, sans avoir même soupçonné la terre qu'il n'avait pu relever pendant les dernières heures du jour.
+
+La tempête était alors dans toute sa force. La nuit menaçait d'être terrible, et, après la nuit, la journée du lendemain, car il ne semblait pas possible que l'ouragan se calmât dans les vingt-quatre heures.
+
+Vasquez ne songeait pas à regagner son abri et ses regards ne quittaient pas l'horizon. S'il ne distinguait plus le navire au milieu de cette profonde obscurité, ses feux lui apparaissaient parfois, lorsque, sous le choc des lames, il embardait tantôt sur un bord tantôt sur l'autre. À cette allure, il était impossible qu'il sentît franchement l'action de sa barre. À peine s'il devait gouverner. Peut-être, même, était-il désemparé, privé d'une partie de sa mâture. En tout cas, on ne pouvait douter qu'il ne fût à sec de toile. Au milieu de cette lutte des éléments déchaînés, bien juste si un navire aurait pu conserver un tourmentin.
+
+Puisque Vasquez n'apercevait que des feux verts ou rouges, c'est que ce bâtiment était un voilier ; un steamer eût montré le feu blanc suspendu à l'étai de misaine. Il n'avait donc pas de machine qui lui permît de lutter contre le vent.
+
+Vasquez allait et venait sur la grève, désespéré de son impuissance à empêcher ce naufrage. Ce qu'il aurait fallu, c'eût été que la lumière du phare se projetât à travers ces ténèbres… Et Vasquez se retournait du côté de la baie d'Elgor. Sa main se tendait inutilement vers le phare. Le phare ne s'allumerait pas plus cette nuit que les nuits précédentes depuis bientôt deux mois, et le navire était destiné à se perdre corps et biens sur les rochers du cap San Juan.
+
+Alors une idée vint à Vasquez. Peut-être ce voilier pourrait-il encore éviter la terre s'il en avait connaissance. Même en admettant qu'il lui fût impossible de tenir la cape, peut-être, en modifiant quelque peu sa marche, éviterait-il d'aborder ce littoral, qui, en somme, du cap San Juan à la pointe Several, ne mesure guère plus de huit milles. Au-delà, la mer s'ouvrirait devant son étrave.
+
+Il y avait du bois, restes d'épaves, débris de carcasses sur la grève. Transporter quelques-uns de ces morceaux sur la pointe, en former un bûcher, y introduire des poignées de goémons, y mettre le feu, laisser au vent le soin d'en développer la flamme, n'était-ce donc pas faisable ? … Et cette flamme ne serait-elle pas aperçue du bâtiment, qui, ne fût-il plus qu'à un mille de la côte, aurait peut-être encore le temps de la parer ? …
+
+Vasquez se mit aussitôt à l'œuvre. Il ramassa plusieurs morceaux de bois, et les porta à l'extrémité du cap. Les varechs secs ne manquaient point, car, s'il ventait, la pluie n'avait pas commencé à tomber. Puis, lorsque le foyer fut prêt, il essaya de l'allumer.
+
+Trop tard… Une énorme masse apparut alors au milieu de l'obscurité. Soulevée par des lames monstrueuses, elle se précipitait avec une effrayante impétuosité. Avant que Vasquez eût pu faire un geste, elle arrivait en trombe sur la barrière des récifs.
+
+Il y eut un fracas épouvantable et, bref, quelques cris de détresse vite étouffés… Puis on n'entendit plus que le sifflement des rafales et les hurlements de la mer qui s'écrasait sur le rivage.
+
+
+# Chapitre X. Après le naufrage.
+
+Le lendemain, au lever du soleil, la tempête se déchaînait encore avec autant de fureur. La mer apparaissait toute blanche jusqu'au plus lointain horizon. À l'extrémité du cap, les lames écumaient à quinze et vingt pieds de hauteur, et leurs embruns, éparpillés par le vent, volaient au-dessus de la falaise. La marée descendante et les rafales, se rencontrant à l'ouvert de la baie d'Elgor, s'y heurtaient avec une extraordinaire violence. Aucun bateau n'aurait pu entrer, aucun bateau n'aurait pu sortir. À l'aspect du ciel toujours aussi menaçant, il paraissait très probable que la tourmente durerait quelques jours, et cela ne saurait étonner dans ces parages magellaniques.
+
+Il était donc de toute évidence que la goélette, ce matin-là, ne quitterait pas son mouillage. Si ce contretemps devait exciter la colère de Kongre et de sa bande, il est facile de l'imaginer.
+
+Telle était la situation dont Vasquez se rendit compte, lorsqu'il se leva dès les premières lueurs de l'aube, au milieu des tourbillons de sable.
+
+Et voici le spectacle qu'il eut sous les yeux :
+
+À deux cents pas, sur le versant nord du cap, hors de la baie par conséquent, gisait le navire naufragé. C'était un trois-mâts, jaugeant environ cinq cents tonneaux. De sa mâture, il ne restait plus que trois tronçons rompus au niveau des pavois, soit que le capitaine se fût trouvé dans la nécessité de les couper pour se dégager, soit qu'ils fussent venus en bas au moment de l'échouage. Aucune épave ne surnageait à la surface de la mer ; mais, sous la formidable poussée du vent, il était possible que les débris eussent été rejetés au fond de la baie d'Elgor.
+
+S'il en était ainsi, Kongre savait maintenant qu'un bâtiment venait de se perdre sur les récifs du cap San Juan.
+
+Vasquez avait donc des précautions à prendre, et il ne s'avança qu'après s'être assuré que personne de la bande ne se trouvait encore à l'entrée de la baie.
+
+En quelques minutes, il arriva sur le lieu de la catastrophe. La mer étant basse, il put faire le tour du bâtiment échoué, et, sur le tableau d'arrière, il lut : *Century. Mobile.*
+
+C'était donc un voilier américain, ayant pour port d'attache cette capitale de l'État d'Alabama, au sud de l'Union, sur le golfe du Mexique.
+
+Le *Century* s'était perdu corps et biens. On ne voyait aucun survivant du naufrage, et, quant au navire, il n'en restait qu'une carcasse informe. Au choc, la coque s'était partagée en deux. La houle en avait enlevé et dispersé la cargaison. Des débris de bordage, de membrures, d'espars, de vergues, gisaient çà et là sur les écueils, découverts maintenant malgré la violence des rafales. Des caisses, des ballots, des barriques, étaient épars le long du cap et sur la grève.
+
+La carcasse du *Century* étant à sec, il fut possible à Vasquez de s'y introduire.
+
+La dévastation y était complète. Les lames avaient tout saccagé. Elles avaient arraché les planches du pont, démoli les cabines de la dunette, brisé les gaillards, démonté le gouvernail, et le choc sur les récifs avait achevé l'œuvre de destruction.
+
+Et personne de vivant, pas un des officiers, pas un des hommes de l'équipage !
+
+Vasquez appela d'une voix forte, sans obtenir de réponse. Il pénétra jusqu'au fond de la cale et ne trouva pas un cadavre. Ou ces malheureux avaient été enlevés par quelque coup de mer, ou ils s'étaient noyés au moment où le *Century* se fracassait sur les roches. Vasquez redescendit sur la grève, s'assura de nouveau que ni Kongre ni aucun de ses compagnons ne se dirigeaient vers le lieu du naufrage, puis il remonta, malgré la bourrasque, jusqu'à l'extrémité du cap San Juan.
+
+« Peut-être, se disait-il, trouverai-je un des hommes du *Century* respirant encore, et pourrai-je le secourir ? … »
+
+Ses recherches furent vaines. Revenu sur le littoral, Vasquez se mit à examiner les épaves de toute sorte que la houle y avait jetées.
+
+« Il n'est pas impossible, pensait-il, que je trouve quelque caisse de conserves qui assurera ma nourriture pendant deux ou trois semaines ! … »
+
+Il eut bientôt recueilli, en effet, un baril et une caisse, que la mer avait lancés au-delà des récifs. Ce qu'ils contenaient était inscrit à l'extérieur. La caisse renfermait une provision de biscuit, le baril, une provision de corned-beef. C'étaient le pain et la viande assurés pour deux mois au moins.
+
+Vasquez transporta d'abord la caisse à la grotte, distante de deux cents mètres au plus, puis il y roula le baril.
+
+Il retourna ensuite à l'extrémité du cap jeter un coup d'œil sur la baie. Il ne doutait pas que Kongre n'eût connaissance du naufrage. La veille, avant la nuit, il avait pu voir du haut du phare ce navire qui courait vers la terre. Or, du moment que la *Maule* était bloquée dans la crique, la bande accourrait certainement à l'entrée de la baie d'Elgor prendre sa part du naufrage. S'il y avait quelques débris à recueillir, peut-être des valeurs, comment ces pillards laisseraient-ils échapper une telle occasion ?
+
+Vasquez, au moment où il atteignit le tournant de la falaise, fut surpris de la violence du vent qui s'engouffrait dans la baie.
+
+Il aurait été impossible à la goélette de gagner contre lui, et, en admettant qu'elle eût atteint la hauteur du cap San Juan, jamais elle n'aurait pu s'élever au large.
+
+À cet instant, dans une courte accalmie, des cris se firent entendre. C'était un appel douloureux jeté par une voix à demi éteinte.
+
+Vasquez s'élança dans la direction de cette voix, du côté de la première cavité où il s'était réfugié, près de la caverne.
+
+Il avait fait au plus une cinquantaine de pas, lorsqu'il aperçut un homme étendu au pied d'une roche. Sa main s'agitait comme pour demander assistance.
+
+En une seconde, Vasquez fut près de lui.
+
+L'homme qui gisait là pouvait avoir de trente à trente-cinq ans et paraissait vigoureusement constitué. Vêtu d'un costume de marin, couché sur le côté droit, les yeux clos, la respiration haletante, il était secoué de soubresauts convulsifs. Il ne paraissait pas, d'ailleurs, avoir été blessé, et aucune trace de sang ne souillait ses habits.
+
+Cet homme, peut-être le seul survivant du *Century*, n'avait pas entendu s'approcher Vasquez. Cependant, lorsque celui-ci appuya la main sur sa poitrine, il fit, pour se redresser, un inutile effort, et, trop faible, il retomba sur le sable. Mais ses yeux s'étaient ouverts un instant, et les mots : « À moi ! … à moi ! … » s'étaient échappés de ses lèvres.
+
+Vasquez, agenouillé près de lui, l'accota contre la roche avec précaution, répétant : « Mon ami… Mon ami… je suis là… Regardez-moi ! … Je vous sauverai… »
+
+Tendre la main, c'est tout ce que parvint à faire ce malheureux, qui perdit aussitôt connaissance.
+
+Il fallait sans retard lui donner les soins qu'exigeait son état d'extrême faiblesse.
+
+« Dieu fasse qu'il soit temps encore ! » se dit Vasquez.
+
+Tout d'abord, quitter cette place. À chaque instant la bande pouvait arriver avec la chaloupe ou le canot, ou même à pied en suivant le rivage. Transporter cet homme à la grotte, où il serait en sûreté, c'est ce que devait faire Vasquez, et c'est ce qu'il fit.
+
+Après un trajet d'environ cent toises, qui exigea un quart d'heure, il se glissait dans l'entre-deux des roches, l'homme inerte chargé sur son dos, et l'étendait sur une couverture, la tête appuyée sur un paquet de vêtements.
+
+L'homme n'était pas revenu à lui, mais il respirait. Toutefois, s'il n'avait aucune blessure apparente, ne s'était-il pas fracturé les bras ou les jambes en roulant sur les récifs ? C'est ce que craignait Vasquez, qui, dans un tel cas, n'aurait su que faire. Il le tâta, il fit mouvoir ses membres, et il lui sembla bien que tout le corps était intact.
+
+Vasquez versa un peu d'eau dans une tasse, y mêla quelques gouttes de brandy que contenait encore sa gourde, et introduisit une gorgée de ce breuvage entre les lèvres du naufragé ; puis il frictionna les bras et la poitrine, après avoir remplacé ses vêtements mouillés par ceux qu'il avait trouvés à la caverne des pirates.
+
+Faire davantage était hors de son pouvoir.
+
+Il eut enfin la satisfaction de voir que le malade reprenait connaissance. Celui-ci parvint même à se redresser, et, regardant Vasquez qui le soutenait entre ses bras, il dit d'une voix moins faible :
+
+« À boire… à boire ! »
+
+Vasquez lui tendit la tasse pleine d'eau et de brandevin.
+
+« Ça va mieux ? demanda Vasquez.
+
+– Oui ! … Oui ! … » répondit le naufragé.
+
+Et, comme s'il eût rassemblé des souvenirs encore vagues dans son esprit :
+
+« Ici ? … vous ? … où suis-je ? » ajouta-t-il en serrant faiblement la main de son sauveur. Il s'exprimait en anglais – langue que parlait aussi Vasquez, qui répondit :
+
+« Vous êtes en sûreté. Je vous ai trouvé sur la grève, après le naufrage du *Century.*
+
+*–* Le *Century ! …* Oui, je me souviens…
+
+– Vous vous nommez ? …
+
+– Davis… John Davis.
+
+– Le capitaine du trois-mâts ?
+
+– Non… le second ! … Et les autres ?
+
+– Tous ont péri, répondit Vasquez, tous. Vous êtes le seul échappé du naufrage !
+
+– Tous ? …
+
+– Tous ! »
+
+John Davis fut comme atterré de ce qu'il venait d'apprendre. Lui seul survivant ! Et à quoi tenait-il qu'il eût survécu ! Il le comprit, il devait la vie à cet inconnu penché sur lui avec sollicitude.
+
+« Merci, merci ! … dit-il, tandis qu'une grosse larme coulait de ses yeux.
+
+– Avez-vous faim ? … Voulez-vous manger ? … un peu de biscuit et de viande ? reprit Vasquez.
+
+– Non… non… à boire encore ! »
+
+L'eau fraîche, mélangée de brandy, fit grand bien à John Davis, car il put bientôt répondre à toutes les questions.
+
+Voici, en peu de mots, ce qu'il raconta :
+
+Le *Century*, trois-mâts à voiles, de cinq cent cinquante tonneaux, du port de Mobile, avait quitté, vingt jours auparavant, la côte américaine. Son équipage comprenait : le capitaine Harry Steward ; le second, John Davis, et douze hommes, compris un mousse et un maître-coq. Il était chargé de nickel et d'objets de pacotille pour Melbourne, Australie. Sa navigation fut heureuse jusqu'au cinquante-cinquième degré de latitude sud dans l'Atlantique. Survint alors la violente tempête qui troublait ces parages depuis la veille. Dès son début, le *Century*, surpris par le premier grain, perdit, avec son mât d'artimon, toute la voilure d'arrière. Peu après, une lame énorme, embarquant par la joue de bâbord, balaya le pont, démolit en partie la dunette, et emporta deux matelots qu'on ne put sauver.
+
+L'intention du capitaine Steward avait été de chercher un abri derrière l'Île des États, dans le détroit de Lemaire. Il se croyait certain de sa situation en latitude, le point ayant été fait dans la journée. Cette route, avec raison, lui paraissait préférable pour doubler le cap Horn et remonter ensuite vers la côte australienne.
+
+À la nuit la bourrasque redoubla de violence. Toute la voilure avait été serrée sauf la misaine et le petit hunier au bas ris, et le trois-mâts courait vent arrière.
+
+À ce moment, le capitaine pensait être encore à plus de vingt milles au large de la terre. Il ne voyait aucun danger à porter dessus, jusqu'au moment où il relèverait le feu du phare. En le laissant alors largement dans le sud, il ne courait pas risque de se jeter sur les récifs du cap San Juan, et donnerait sans peine dans le détroit.
+
+Le *Century* continua donc à faire vent arrière, Harry Steward ne doutant pas de voir le phare avant une heure, puisque son feu avait un rayon de dix milles.
+
+Or, ce feu, il ne l'aperçut pas. Alors qu'il se croyait encore à bonne distance de l'île, un épouvantable choc se produisit. Trois matelots, occupés dans la mâture, disparurent avec le mât de misaine et le grand mât. En même temps, les lames assaillirent la coque, qui s'ouvrit, et le capitaine, le second, les survivants de l'équipage furent jetés par-dessus le bord au milieu d'un ressac qui ne laisserait de salut à personne.
+
+Ainsi le *Century* avait péri corps et biens. Seul, le second, John Davis, grâce à Vasquez, venait d'échapper à la mort.
+
+Et, maintenant, sur quelle côte le trois-mâts était-il venu se perdre, c'est ce que Davis ne pouvait comprendre.
+
+Il demanda de nouveau à Vasquez :
+
+« Où sommes-nous ?
+
+– À l'Île des États.
+
+– L'Île des États ! s'écria John Davis, stupéfait de cette réponse.
+
+– Oui… l'Île des États, reprit Vasquez, à l'entrée de la baie d'Elgor !
+
+– Mais le phare ?
+
+– Il n'était pas allumé ! »
+
+John Davis, dont la figure exprimait la plus profonde surprise, attendait que Vasquez s'expliquât, lorsque celui-ci, se relevant soudain, prêta l'oreille. Il avait cru entendre des bruits suspects, et voulait s'assurer si la bande ne rôdait pas aux environs. Il se glissa donc à travers l'entre-deux des roches, et promena son regard sur le littoral jusqu'à la pointe du cap San Juan.
+
+Tout était désert. L'ouragan ne perdait rien de sa force. Les lames y déferlaient toujours avec une prodigieuse violence, et des nuages plus menaçants encore chassaient à l'horizon, encrassé de brumes.
+
+Le bruit entendu par Vasquez provenait de la dislocation du *Century.* Sous l'effort du vent, l'arrière de la carcasse s'était retourné, et la rafale, pénétrant à l'intérieur, la poussait plus avant sur la grève. Elle y roulait comme un énorme tonneau défoncé, et finit par s'écraser définitivement contre l'angle de la falaise. Sur le lieu de l'échouage, couvert de mille épaves, il ne restait plus que l'autre moitié du trois-mâts.
+
+Vasquez rentra donc et s'étendit sur le sable près de John Davis. Les forces revenaient au second du *Century.* Il aurait pu se lever, et, appuyé au bras de son compagnon, descendre sur la grève. Mais celui-ci le retint, et c'est alors que John Davis lui demanda pourquoi, cette nuit-là, le phare n'avait pas été allumé.
+
+Vasquez le mit au courant des faits abominables qui s'étaient passés sept semaines auparavant à la baie d'Elgor. Après le départ de l'aviso *Santa-Fé*, rien, pendant deux semaines environ, n'avait d'abord entravé le service du phare, confié à lui, Vasquez, et à ses deux camarades, Felipe et Moriz. Plusieurs bâtiments arrivèrent, durant cette période, en vue de l'île, et firent des signaux qui leur furent régulièrement rendus.
+
+Mais, le 26 décembre, une goélette s'était présentée vers huit heures du soir à l'entrée de la baie. De la chambre de quart, où il était de garde, Vasquez n'avait cessé d'apercevoir ses feux de position et il avait assisté à toute la manœuvre. À son avis, le capitaine qui la commandait devait bien connaître la route à suivre, car il ne montra pas la moindre hésitation.
+
+La goélette atteignit la crique au pied de l'enceinte du phare, et y laissa tomber son ancre. C'est alors que Felipe et Moriz, qui avaient quitté le logement, montèrent à bord pour offrir leurs services au capitaine, et, lâchement frappés, périrent sans avoir pu se défendre.
+
+« Les malheureux ! s'écria John Davis.
+
+– Oui ! … mes malheureux compagnons ! répéta Vasquez dont tout le chagrin renaissait à ces douloureux souvenirs.
+
+– Et vous, Vasquez ? demanda John Davis.
+
+– Moi, du haut de la galerie, j'avais entendu les cris de mes camarades… Je compris ce qui s'était passé… C'était un navire de pirates, cette goélette… Nous étions trois gardiens ! … Ils en avaient assassinés deux, et ne s'inquiétèrent pas du troisième.
+
+– Comment avez-vous pu leur échapper ? demanda encore John Davis.
+
+– Je descendis rapidement l'escalier du phare, répondit Vasquez, je me précipitai dans le logement, j'y pris quelques effets, un peu de vivres, je m'enfuis avant que l'équipage de la goélette eût débarqué, et je vins me réfugier sur cette partie du littoral.
+
+– Les misérables… les misérables ! répétait John Davis. Ils sont donc les maîtres du phare, qu'ils n'allument plus. Ce sont eux qui ont causé le naufrage du *Century*, la mort de mon capitaine et de tous nos hommes ?
+
+– Oui, ils en sont les maîtres, dit Vasquez, et, en surprenant une conversation de leur chef avec un de ses compagnons, j'ai pu connaître leurs projets. »
+
+John Davis apprit alors comment ces pillards, établis depuis plusieurs années sur l'Île des États, y attiraient les navires et massacraient les survivants des naufrages, toutes celles des épaves qui avaient quelque valeur étant renfermées dans une caverne, en attendant que Kongre pût s'emparer d'un bâtiment.
+
+Survinrent les travaux de construction du phare, la bande fut contrainte d'abandonner la baie d'Elgor et de se réfugier au cap Saint-Barthélemy, à l'autre extrémité de l'Île des États, où personne ne soupçonnait sa présence.
+
+Les travaux achevés, elle revint, il y avait de cela plus d'un mois et demi, mais alors elle était en possession d'une goélette venue s'échouer au cap Saint-Barthélemy, et dont l'équipage avait péri.
+
+« Et comment se fait-il qu'elle ne soit pas encore partie avec la cargaison de ces pillards ? demanda John Davis.
+
+– À cause des réparations importantes qui l'ont retenue jusqu'à présent… Mais, je m'en suis assuré par moi-même, Davis, les réparations sont terminées, le chargement est fait, et le départ devait avoir lieu ce matin même.
+
+– Pour ? …
+
+– Pour les îles du Pacifique, où ces bandits se croiront en sûreté et continueront leur métier de pirates.
+
+– La goélette ne peut cependant sortir tant que durera cette tourmente…
+
+– Assurément, répondit Vasquez, et, d'après l'aspect du temps, il est possible que ce retard se prolonge toute une semaine.
+
+– Et, tant qu'ils seront là, Vasquez, le phare ne sera pas allumé ? …
+
+– Non, Davis.
+
+– Et d'autres bâtiments risquent de se perdre comme s'est perdu le *Century* ?
+
+*–* Ce n'est que trop vrai.
+
+– On ne pourrait donc pas signaler la côte aux marins qui s'en approchent pendant la nuit ?
+
+– Si… peut-être, au moyen de feux allumés sur la grève, à la pointe du cap San Juan. C'est bien ce que j'ai essayé de faire pour avertir le *Century*, Davis. J'ai voulu allumer un foyer avec des débris d'épaves et des herbes sèches. Mais le vent soufflait avec une telle furie que je n'ai pu y réussir.
+
+– Eh bien, ce que vous n'avez pu faire, Vasquez, nous le ferons, déclara John Davis. Le bois ne manquera pas. Les débris de mon pauvre navire… et, malheureusement, ceux de tant d'autres, en fourniront en abondance. Car, enfin, si le départ de la goélette est retardé, si le phare de l'Île des États ne peut être relevé par les bâtiments qui arrivent du large, qui sait si d'autres naufrages ne se produiront pas ?
+
+– Dans tous les cas, fit observer Vasquez, Kongre et sa bande ne peuvent prolonger leur séjour sur l'île, et la goélette partira, j'en suis bien certain, dès que le temps lui permettra de prendre la mer…
+
+– Pourquoi cela ? demanda John Davis.
+
+– Parce qu'ils n'ignorent pas que la relève pour le service du phare doit se faire prochainement.
+
+– La relève ? …
+
+– Oui, dans les premiers jours de mars, et nous sommes au 18 février.
+
+– Un navire viendra à cette époque ?
+
+– Oui, l'aviso *Santa-Fé* doit arriver de Buenos-Ayres… vers le 10 mars, et peut-être même plus tôt. »
+
+John Davis eut la même pensée qui était venue à l'esprit de Vasquez.
+
+« Ah mais ! s'écria-t-il, voilà qui change tout ! Puisse alors le mauvais temps durer jusque-là, et fasse le Ciel que ces misérables soient encore ici lorsque le *Santa-Fé* laissera tomber son ancre dans la baie d'Elgor ! »
+
+
+# Chapitre XI. Les pilleurs d'épaves.
+
+Ils étaient là, une douzaine, Kongre et Carcante avec eux, attirés par l'instinct du pillage.
+
+La veille, au moment où le soleil allait tomber sous l'horizon, Carcante, de la galerie du phare, avait aperçu ce trois-mâts qui venait de l'est. Kongre, prévenu, pensa que ce bâtiment, fuyant devant la tempête, voulait gagner le détroit de Lemaire, puis chercher abri sous la côte occidentale de l'île. Tant que le jour le lui permit, il en suivit les mouvements, et, la nuit faite, il en distingua les feux. Il ne tarda pas à reconnaître que le navire était à demi désemparé et il espéra qu'il irait s'échouer sur cette terre qu'il ne voyait pas. Si Kongre avait allumé le phare, tout danger eût disparu. Il se garda bien de le faire, et, quand les fanaux du *Century* vinrent à s'éteindre, il ne mit pas en doute que le navire ne se fût perdu corps et biens entre le cap San Juan et la pointe Several.
+
+Le lendemain, l'ouragan se déchaînait toujours avec fureur. Impossible de songer à mettre la goélette dehors. Un retard s'imposait, retard qui pouvait durer quelques jours, et cela ne manquait pas d'être grave, avec la menace constante de l'arrivée de la relève. Quel que fût le dépit de Kongre et des siens, il fallait cependant attendre coûte que coûte. Après tout, d'ailleurs, on n'était qu'au 19 février. La tourmente serait assurément calmée avant la fin du mois. À la première éclaircie, le *Carcante* aurait levé l'ancre et repris la mer.
+
+Or, puisqu'un bâtiment venait de se mettre à la côte, n'était-ce pas l'occasion de profiter du naufrage, de recueillir, parmi les épaves, celles qui offriraient quelque valeur, et d'accroître ainsi le prix de la cargaison qu'emporterait la goélette ? L'augmentation du bénéfice compenserait du moins l'aggravation du risque couru.
+
+La question ne fut pas même discutée. On peut dire que toute cette bande d'oiseaux rapaces partit du même vol. La chaloupe fut aussitôt parée, une douzaine des hommes et leur chef y prirent place. Il fallut lutter à force d'avirons contre le vent qui soufflait en foudre et refoulait les eaux dans la baie. Une heure et demie suffit à peine pour atteindre les dernières falaises ; mais, avec l'aide de la voile, le retour s'effectuerait rapidement.
+
+La chaloupe accosta la rive nord de la baie, en face de la caverne. Tous débarquèrent et se précipitèrent vers le lieu du naufrage.
+
+C'est à ce moment qu'éclatèrent les cris qui interrompirent la conversation de John Davis et de Vasquez.
+
+Aussitôt celui-ci rampa jusqu'à l'entrée de la grotte, en prenant garde de ne point être aperçu.
+
+Un instant après, John Davis s'était glissé près de lui :
+
+« Vous ! lui dit Vasquez. Laissez-moi seul ! … Il vous faut du repos.
+
+– Non, répondit John Davis. Je suis tout à fait bien, maintenant. Et, moi aussi, je viens voir ce troupeau de bandits. »
+
+C'était un homme énergique, ce second du *Century*, non moins résolu que Vasquez, un de ces fils d'Amérique au tempérament de fer, et, certes, il devait avoir, comme on dit vulgairement, « l'âme chevillée au corps » pour que l'une ne se fût pas séparée de l'autre après le naufrage du trois-mâts !
+
+En même temps excellent marin. Il avait servi comme premier maître dans la flotte des États-Unis avant de naviguer au commerce, et, au retour du *Century* à Mobile, Harry Steward devant prendre sa retraite, les armateurs avaient résolu de lui confier le commandement du navire.
+
+C'était pour lui un autre motif de colère et de haine. De ce navire dont il allait bientôt être le capitaine, il ne voyait plus maintenant que des débris informes livrés à une bande de pillards.
+
+Si Vasquez n'avait jamais besoin qu'on relevât son courage, c'était bien là l'homme qu'il fallait !
+
+Mais, si déterminés, si braves qu'ils fussent tous deux, qu'auraient-ils pu contre Kongre et ses compagnons ?
+
+En s'abritant derrière les roches, Vasquez et John Davis observèrent prudemment le littoral jusqu'à l'extrémité du cap San Juan.
+
+Kongre, Carcante et les autres s'étaient arrêtés d'abord à cet angle où l'ouragan venait de pousser une moitié de la coque du *Century* à l'état de débris entassés au pied de la falaise.
+
+Les pillards se trouvaient à moins de deux cents pas de la grotte, d'où l'on distinguait facilement leurs traits. Ils étaient vêtus de capotes de toile cirée, étroitement serrées à leur taille, afin de ne point donner prise au vent, et coiffés de surouëts qu'une forte patte maintenait au menton. Qu'ils eussent de la peine à résister à la poussée des rafales, cela se voyait. Parfois, il leur fallait s'arc-bouter contre une épave ou une roche pour ne point être renversés.
+
+Vasquez désigna à John Davis ceux qu'il connaissait pour les avoir vus lors de leur première visite à la caverne.
+
+« Ce grand, lui dit-il, là, près de l'étrave du *Century*, c'est celui auquel ils donnent le nom de Kongre.
+
+– Leur chef ?
+
+– Leur chef.
+
+– Et l'homme avec lequel il cause ?
+
+– C'est Carcante, son second… et, je l'ai bien vu d'en haut, un de ceux qui ont frappé mes camarades.
+
+– Et vous lui casseriez volontiers la tête ? dit John Davis.
+
+– À lui et à son chef, comme à des chiens enragés ! » répondit Vasquez.
+
+Il s'écoula près d'une heure avant que les pillards eussent achevé de visiter cette partie de la coque. Ils avaient voulu en fouiller tous les coins. Le nickel, qui formait la cargaison du *Century*, et dont ils n'avaient que faire, serait laissé sur la grève. Mais, en ce qui concernait la pacotille embarquée sur le trois-mâts, peut-être comportait-elle des objets à leur convenance. En effet, on les vit transporter deux ou trois caisses et autant de ballots que Kongre fit porter à bord de la chaloupe.
+
+« Si ces gueux cherchent de l'or, de l'argent, des bijoux de prix ou des piastres, ils n'en trouveront pas, dit John Davis.
+
+– C'est là ce qu'ils préfèrent, bien entendu, répondit Vasquez. Il y en avait dans la caverne, et il faut que les navires qui se sont perdus sur ce littoral aient eu à bord une certaine quantité de matières précieuses. Aussi, la goélette doit-elle maintenant avoir une cargaison de prix, Davis.
+
+– Je comprends, répliqua celui-ci, qu'ils aient hâte de la mettre en sûreté… Mais peut-être n'auront-ils pas cette chance !
+
+– Il faudrait, pour cela, que le mauvais temps se maintînt pendant quinze jours, objecta Vasquez.
+
+– Ou que nous trouvions un moyen… »
+
+John Davis n'acheva pas sa pensée… En somme, comment empêcher la goélette de prendre le large, dès que, cette tempête ayant épuisé sa violence, le temps serait redevenu maniable, la mer serait redevenue calme ?
+
+En ce moment, les pillards, abandonnant cette moitié du navire, se dirigèrent vers l'autre, sur le lieu d'échouage, à la pointe même du cap. De la place qu'ils occupaient, Vasquez et John Davis pouvaient encore les apercevoir, mais d'un peu plus loin.
+
+La marée baissait, et, bien qu'elle fût refoulée par le vent, la surface des récifs découvrait en grande partie. Il était assez facile d'atteindre la carcasse du trois-mâts.
+
+Kongre et deux ou trois autres s'y introduisirent alors. C'était, à l'arrière du navire, sous la dunette, qu'était la cambuse, ainsi que John Davis le dit à Vasquez.
+
+Très probablement, cette cambuse devait avoir été ravagée par les paquets de mer. Il était néanmoins possible qu'une certaine quantité de provisions fût encore intacte.
+
+En effet, plusieurs des hommes en sortirent des caisses de conserves, quelques barils et fûts qu'ils roulèrent sur le sable et dirigèrent vers la chaloupe. Des ballots de vêtements furent aussi retirés des débris de la dunette et emportés du même côté.
+
+Les recherches durèrent environ deux heures ; puis Carcante et deux de ses compagnons, munis de haches, s'attaquèrent au couronnement qui, par suite de la bande du navire, n'était qu'à deux ou trois pieds du sol.
+
+« Que font-ils donc ? demanda Vasquez. Est-ce que le bâtiment n'est pas assez démoli ? Pourquoi diable vouloir l'achever ?
+
+– Ce qu'ils veulent, je le devine, répondit John Davis, c'est que rien ne reste ni de son nom ni de sa nationalité. C'est qu'on ne sache jamais que le *Century* s'est perdu dans ces parages de l'Atlantique ! »
+
+John Davis ne se trompait pas. Quelques instants après, Kongre sortait de la dunette avec le pavillon américain trouvé dans la chambre du capitaine, et il déchirait l'étamine en mille pièces.
+
+« Ah ! le gueux ! s'écria John Davis, le pavillon… le pavillon de mon pays ! »
+
+C'est à peine si Vasquez eut le temps de l'arrêter par le bras, au moment où, n'étant plus maître de lui, il allait s'élancer sur la grève ! … Le pillage terminé – et la chaloupe en aurait sa pleine charge – Kongre et Carcante remontèrent au pied de la falaise. En se promenant, ils passèrent deux ou trois fois devant l'entre-deux des roches au fond duquel s'évidait la grotte. Vasquez et John Davis purent alors entendre ce qu'ils disaient :
+
+« Il sera encore impossible de partir demain.
+
+– Oui. Je crains même que ce mauvais temps ne dure quelques jours.
+
+– Eh ! nous n'aurons pas perdu au retard…
+
+– Sans doute, mais j'espérais trouver mieux dans un américain de ce tonnage ! … Le dernier que nous avons attiré sur les récifs nous a valu cinquante mille dollars…
+
+– Les naufrages se suivent et ne se ressemblent pas ! répondit Carcante avec philosophie. Nous avons eu affaire à des gueux, voilà tout. »
+
+John Davis, exaspéré, avait saisi un revolver, et, dans un mouvement de colère irréfléchie, il aurait cassé la tête au chef de la bande, si Vasquez ne l'eût retenu de nouveau.
+
+« Oui, vous avez raison ! reconnut John Davis. Mais je ne puis me faire à cette idée que ces misérables restent impunis… Et pourtant, si leur goélette réussit à quitter l'île, où les retrouver… où les poursuivre ?
+
+– La tempête ne paraît pas se calmer, observa Vasquez. Même si le vent vient à remonter, la mer restera houleuse pendant plusieurs jours encore… Ils ne sont pas sortis de la baie, croyez-moi.
+
+– Oui, Vasquez, mais ce n'est pas avant le commencement du mois prochain que doit arriver l'aviso, m'avez-vous dit ?
+
+– Peut-être plus tôt, Davis, qui sait ? …
+
+– Dieu le veuille, Vasquez, Dieu le veuille ! »
+
+Ce qui n'était que trop évident, c'est que la tourmente ne perdait rien de sa violence, et, sous cette latitude, même pendant la saison d'été, ces troubles de l'atmosphère durent parfois une quinzaine. Si le vent halait le sud, il amènerait les vapeurs de la mer antarctique, où la saison hivernale ne tarderait pas à commencer. Déjà, les baleiniers devaient songer à quitter les parages polaires, car, dès le mois de mars, les nouvelles glaces se forment en avant de la banquise.
+
+Mais, enfin, il était à craindre que, dans quatre ou cinq jours, il ne se produisît une accalmie, dont la goélette profiterait pour reprendre la mer.
+
+Il était quatre heures lorsque Kongre et ses compagnons se rembarquèrent. Sa voile hissée, la chaloupe eut disparu en quelques instants en suivant la rive nord de la baie.
+
+Avec le soir, les rafales s'accentuèrent. Une pluie froide et cinglante se déversa à torrents des nuages venus du sud-est.
+
+Vasquez et John Davis ne purent quitter la grotte. Le froid fut même assez vif, et ils durent faire du feu pour se réchauffer. Le petit foyer fut allumé au fond de l'étroit couloir. Le littoral étant désert, l'obscurité profonde, ils n'avaient rien à redouter.
+
+La nuit fut horrible. La mer venait battre le pied de la falaise. C'était à croire qu'un mascaret, ou plutôt un raz de marée se précipitait sur la côte est de l'île. Assurément, une houle effrayante devait pénétrer au fond de la baie, et Kongre aurait fort à faire pour maintenir le *Carcante* à son mouillage.
+
+« Puisse-t-il être mis en pièces, répétait John Davis, et ses débris dériver au large avec la marée prochaine ! »
+
+Quant à la coque du *Century*, il n'en resterait plus le lendemain que les débris coincés entre les roches ou épars sur la grève.
+
+La tourmente avait-elle atteint son maximum d'intensité ? C'est ce que Vasquez et son compagnon eurent hâte d'observer dès l'aube.
+
+Il n'en était rien. Impossible d'imaginer un pareil trouble des éléments. Les eaux du ciel se confondaient avec celles de la mer. Et il en fut de même pendant toute la journée et pendant la nuit suivante. Durant ces quarante-huit heures, aucun navire ne parut en vue de l'île, et l'on comprend qu'ils voulussent s'écarter à tout prix de ces dangereuses terres de la Magellanie battues directement par la tempête. Ce n'est ni dans le détroit de Magellan ni dans le détroit de Lemaire qu'ils eussent trouvé refuge contre les assauts d'un tel ouragan. Le salut pour eux c'était la fuite, et il leur fallait devant l'étrave la libre étendue des mers.
+
+Ainsi que le prévoyaient John Davis et Vasquez, la coque du *Century* était entièrement détruite, et d'innombrables débris couvraient la grève jusqu'à la base de la falaise.
+
+Heureusement, la question de nourriture ne devait pas préoccuper Vasquez et son compagnon. Avec les conserves qui provenaient du *Century*, ils auraient pu s'alimenter pendant un mois et plus. D'ici là, peut-être dans une douzaine de jours, le *Santa-Fé* serait arrivé en vue de l'île. Les gros temps auraient pris fin alors, et l'aviso ne craindrait pas de venir reconnaître le cap San Juan.
+
+C'est du navire, si passionnément attendu, que tous deux causaient le plus souvent.
+
+« Que la tempête dure pour empêcher la goélette de sortir, et qu'elle cesse pour permettre au *Santa-Fé* de venir, voilà ce qu'il faudrait, s'écriait naïvement Vasquez.
+
+– Ah ! répondait John Davis, si nous disposions des vents et de la mer, ce serait chose faite.
+
+– Malheureusement, cela n'appartient qu'à Dieu.
+
+– Il ne voudra pas que ces misérables échappent au châtiment de leurs crimes », affirmait John Davis, s'appropriant les termes mêmes employés par Vasquez quelque temps auparavant.
+
+Tous deux ayant le même sujet de haine et la même soif de vengeance, ils étaient unis dans la même pensée.
+
+Le 21 et le 22, la situation ne se modifia pas, sensiblement du moins. Peut-être le vent indiquait-il une certaine tendance à remonter au nord-est. Mais, après une heure d'hésitation, il retomba, et ramena sur l'île tout le cortège de ces épouvantables rafales.
+
+Il va sans dire que ni Kongre ni aucun des siens n'avaient reparu. Ils étaient occupés, sans doute, à préserver la goélette de toute avarie dans cette crique que les marées grossies par l'ouragan devaient remplir à pleins bords.
+
+Le 23, dans la matinée, les conditions atmosphériques s'améliorèrent un peu. Après quelque indécision, le vent parut se fixer au nord-nord-est. Des éclaircies, rares d'abord, puis plus vastes, dégagèrent l'horizon du sud. La pluie cessa, et, si le vent soufflait toujours avec violence, le ciel s'éclaircissait par degrés. La mer, il est vrai, restait démontée, et les lames déferlaient rageusement sur le littoral. Aussi l'entrée de la baie ne redevenait-elle point praticable, et, bien certainement, la goélette ne pourrait se mettre en route ni ce jour-là ni le lendemain.
+
+Kongre et Carcante profiteraient-ils de cette légère accalmie pour revenir au cap San Juan, afin d'observer l'état de la mer ?
+
+C'était possible, c'était probable même, et les mesures de prudence ne furent pas négligées.
+
+De grand matin, cependant, leur arrivée n'était point à craindre. Aussi John Davis et Vasquez se hasardèrent-ils hors de la grotte, qu'ils n'avaient pas quittée depuis quarante-huit heures.
+
+« Le vent tiendra-t-il là ? interrogea Vasquez.
+
+– Je le crains, répondit John Davis, que son instinct de marin ne trompait guère. Il nous aurait fallu encore dix jours de mauvais temps… dix jours ! … et nous ne les aurons pas. »
+
+Les bras croisés, il regardait le ciel, il regardait la mer.
+
+Cependant, Vasquez s'étant éloigné de quelques pas, il le suivit en longeant la falaise.
+
+Soudain, son pied heurta un objet à demi enfoncé dans le sable, près d'une roche, et qui rendit au choc un son métallique. Il se baissa et reconnut la caisse qui renfermait la provision de poudre du bord, tant pour les mousquets que pour les deux caronades de quatre que le *Century* employait à ses signaux.
+
+« Nous n'en avons que faire, dit-il. Ah ! s'il était possible de l'allumer dans la cale de la goélette qui porte ces bandits !
+
+– Il n'y faut pas penser, répondit Vasquez en secouant la tête. N'importe, je prendrai cette caisse en revenant, et je la mettrai à l'abri dans la grotte. »
+
+Ils continuèrent à descendre la grève et se dirigeaient vers le cap dont ils ne pourraient d'ailleurs atteindre l'extrême pointe, tant, à cette heure du plein de la mer, la houle y déferlait encore avec fureur, lorsque, arrivé aux récifs, Vasquez aperçut dans un creux de roche une des petites bouches à feu qui avait roulé jusque-là, avec son affût, après l'échouage du *Century.*
+
+« Voici qui vous appartient, dit-il à John Davis, ainsi que ces quelques boulets que les lames ont jetés là. »
+
+Et, comme la première fois, John Davis de répéter :
+
+« Nous n'en avons que faire ! …
+
+– Qui sait ? répliqua Vasquez. Puisque nous avons de quoi charger cette caronade, l'occasion se présentera peut-être de s'en servir…
+
+– J'en doute, répondit son compagnon.
+
+– Pourquoi pas, Davis ? Puisque le phare n'est plus allumé, la nuit, s'il se présentait un navire, dans les conditions où est venu le *Century*, ne pourrions-nous signaler la côte à coups de canon ? »
+
+John Davis regardait son compagnon avec une singulière fixité. Il semblait qu'une pensée toute différente lui traversait l'esprit. Il se borna à répondre :
+
+« C'est là l'idée qui vous est venue, Vasquez ? …
+
+– Oui, Davis, je ne pense pas qu'elle soit mauvaise. Certes, les détonations seraient entendues au fond de la baie… Elles révéleraient notre présence sur cette partie de l'île… Les bandits se mettraient à notre recherche… Ils nous découvriraient peut-être… et cela nous coûterait la vie ! … Mais combien de vies aurions-nous sauvées en échange des nôtres, et enfin nous aurions fait notre devoir !
+
+– Il existe peut-être une autre manière de faire notre devoir ! » murmura John Davis, sans s'expliquer davantage. Cependant, il ne fit plus d'objections, et, conformément à l'avis de Vasquez, la caronade fut traînée jusqu'à la grotte ; puis, on y transporta l'affût, les boulets et la caisse de poudre. Ce travail fut très pénible et exigea un temps très long. Lorsque Vasquez et John Davis rentrèrent pour déjeuner, la hauteur du soleil au-dessus de l'horizon indiquait qu'il devait être environ dix heures.
+
+Or, à peine étaient-ils hors de vue, que Kongre, Carcante et le charpentier Vargas tournaient l'angle de la falaise. La chaloupe aurait eu trop à faire contre le vent et la marée qui commençait à monter dans la baie. Ils avaient fait la route à pied, par le rivage. Cette fois ce n'était pas pour piller.
+
+Observer l'état du ciel et l'état de la mer, depuis l'embellie du matin, voilà ce qui les avait décidés à venir, ainsi que l'avait pressenti Vasquez. Assurément, ils reconnaîtraient que le *Carcante* courait de grands dangers à vouloir sortir de la baie, et qu'il ne pourrait lutter contre les grosses lames déferlant du large. Avant d'être dans le détroit, où, pour gagner vers l'ouest, il trouverait du vent arrière, il lui faudrait doubler le cap San Juan, et il risquerait de faire côte, ou tout au moins de recevoir quelque mauvais coup de mer.
+
+Tel fut bien l'avis de Kongre et de Carcante. Arrêtés près du lieu d'échouage où il ne restait plus que de rares débris de l'arrière du *Century*, ils avaient peine à se maintenir contre le vent. Ils parlaient avec animation, ils gesticulaient, montraient l'horizon de la main, en reculant parfois, lorsqu'une lame, toute blanche à sa crête, déferlait sur la pointe.
+
+Ni Vasquez ni son compagnon ne les perdirent de vue pendant la demi-heure qu'ils passèrent à surveiller l'entrée de la baie. Ils s'en allèrent enfin, non sans s'être souvent retournés, puis disparurent au tournant de la falaise et reprirent le chemin du phare.
+
+« Les voilà partis, dit Vasquez. Mille millions de trilliards, qu'ils reviennent donc pendant quelques jours encore observer la mer au large de l'île ! »
+
+Mais John Davis secoua la tête. Il était trop évident pour lui que la tourmente aurait pris fin dans quarante-huit heures. La houle serait tombée alors, sinon complètement, assez, du moins, pour permettre à la goélette de doubler le cap San Juan.
+
+Cette journée, Vasquez et John Davis la passèrent en partie sur le littoral. La modification de l'état atmosphérique s'accentuait. Le vent paraissait fixé dans le nord-nord-est, et un bâtiment n'eût pas tardé à larguer les ris de sa misaine et de ses huniers pour donner dans le détroit de Lemaire.
+
+Le soir arrivé, Vasquez et John Davis rentrèrent dans la grotte ; ils apaisèrent leur faim avec le biscuit et le corned-beef, leur soif, avec de l'eau mêlée de brandy. Puis, Vasquez se disposait à s'envelopper de sa couverture, lorsque son compagnon l'arrêta.
+
+« Avant de vous endormir, Vasquez, écoutez donc une proposition que j'ai à vous faire.
+
+– Parlez, Davis.
+
+– Vasquez, je vous dois la vie, et je ne voudrais rien faire qui n'eût votre approbation… Voici une idée que je vous soumets. Examinez-la, et répondez ensuite sans crainte de me désobliger.
+
+– Je vous écoute, Davis.
+
+– Le temps change, la tempête est finie, la mer va redevenir calme. Je m'attends à ce que la goélette appareille dans quarante-huit heures au plus.
+
+– Ce n'est malheureusement que trop probable ! » répliqua Vasquez en complétant sa pensée d'un geste qui signifiait : « Nous n'y pouvons rien ! »
+
+John Davis reprit :
+
+« Oui, avant deux jours, elle se montrera au bas de la baie, elle sortira, elle doublera le cap, elle disparaîtra dans l'ouest, elle descendra le détroit, on ne la verra plus, et vos camarades, Vasquez, et mon capitaine, mes compagnons du *Century* ne seront pas vengés ! … »
+
+Vasquez avait baissé la tête ; puis, la relevant, il regarda John Davis dont la figure s'éclairait des dernières lueurs du foyer.
+
+Celui-ci continua :
+
+« Une seule éventualité pourrait empêcher le départ de la goélette, ou, du moins, le retarder jusqu'à l'arrivée de l'aviso : quelque avarie qui l'obligerait à retourner au fond de la baie… Eh bien, nous avons un canon, de la poudre, des projectiles… Mettons ce canon sur son affût à l'angle de la falaise, chargeons-le, et, quand la goélette passera, tirons en plein dans sa coque… Qu'elle ne coule pas du coup, c'est possible, mais, pour la longue traversée qu'elle entreprend, son équipage n'osera s'y risquer avec une nouvelle avarie… Les misérables seront forcés de retourner au mouillage afin de se réparer… Il faudra débarquer la cargaison… Cela exigera peut-être toute une semaine… et, d'ici là, le *Santa-Fé… »*
+
+John Davis se tut, il avait pris la main de son compagnon, il la pressait.
+
+Sans hésiter, Vasquez ne lui répondit que ce mot :
+
+« Faites ! »
+
+
+# Chapitre XII. Au sortir de la baie.
+
+Ainsi que cela se produit souvent à la suite d'une forte tempête, l'horizon fut voilé de brumes dans la matinée du 25 février. Mais, en remontant, le vent avait calmi, et les indices d'un changement de temps étaient manifestes.
+
+Ce jour-là, il fut décidé que la goélette quitterait son mouillage, et Kongre fit ses préparatifs d'appareillage pour l'après-midi. Il y avait lieu de croire que le soleil aurait alors dissipé les vapeurs accumulées à son lever. La marée qui devait descendre à six heures du soir favoriserait la sortie de la baie d'Elgor. La goélette arriverait à la hauteur du cap San Juan vers sept heures et le long crépuscule de ces hautes latitudes lui permettrait de le doubler avant la nuit.
+
+Assurément, elle aurait pu partir avec le jusant du matin, n'eût été la brume. En effet, tout était paré à bord, cargaison complétée, vivres en abondance, ceux qui provenaient du *Century* et ceux qui avaient été retirés des magasins du phare. Il ne restait dans l'annexe du phare que le mobilier et les ustensiles, dont Kongre ne voulait point embarrasser la cale suffisamment pleine. Bien qu'on l'eût allégée d'une partie de son lest, la goélette enfonçait de quelques pouces de plus que son tirant d'eau normal, et il n'eût pas été prudent de noyer davantage sa ligne de flottaison.
+
+Un peu après midi, tandis qu'ils se promenaient dans l'enceinte, Carcante dit à Kongre :
+
+« Le brouillard commence à se lever et nous allons avoir la vue du large. Avec ces brumailles-là, le vent calmit d'ordinaire, et la mer tombe plus rapidement.
+
+– Je crois que nous sortirons enfin cette fois, répondit Kongre, et que rien ne gênera notre navigation jusqu'au détroit…
+
+– Et au-delà, j'espère, acheva Carcante. La nuit sera obscure cependant, Kongre. Nous sommes à peine au premier quartier de la lune, et le croissant va disparaître presque en même temps que le soleil…
+
+– Peu importe, Carcante, et je n'ai besoin ni de lune ni d'étoiles pour longer l'île ! … Je connais toute la côte nord et je compte doubler les îlots de New-Year et le cap Colnett à bonne distance pour parer leurs roches ! …
+
+– Demain nous serons loin, Kongre, avec ce vent de nord-est, et du large dans nos voiles.
+
+– Demain, nous aurons perdu de vue le cap Saint-Barthélemy, et j'espère bien que, le soir venu, l'Île des États nous restera à une vingtaine de milles par notre arrière.
+
+– Ce ne sera pas trop tôt, Kongre, depuis le temps que nous y sommes.
+
+– Est-ce que tu le regrettes, Carcante ? …
+
+– Non, maintenant que c'est fini, et puisque nous y aurons fait fortune, comme on dit, et qu'un bon navire va nous emporter avec nos richesses ! … Mais, mille diables, j'ai bien cru que tout était perdu, quand la *Maule…* non, le *Carcante*, est entré dans la baie avec une voie d'eau ! Si nous n'avions pu réparer les avaries, qui sait combien de temps encore il aurait fallu séjourner dans l'île. À l'arrivée de l'aviso, nous aurions été obligés de retourner au cap Saint-Barthélemy… Et j'en ai assez, moi, du cap Saint-Barthélemy !
+
+– Oui, répondit Kongre, dont la farouche figure s'obscurcissait, et même la situation eût été bien autrement grave ! … En voyant le phare sans gardiens, le commandant du *Santa-Fé* aurait pris des mesures… Il se serait livré à des recherches… Il aurait fouillé toute l'île, et qui sait s'il n'aurait pas découvert notre retraite ? … Et puis, n'aurait-il pu être rejoint par le troisième gardien qui nous a échappé ?
+
+– Ce n'était pas à craindre, Kongre. Nous n'avons jamais trouvé ses traces, et comment, sans aucune ressource, aurait-il pu vivre depuis près de deux mois ! Car voilà bientôt deux mois que le *Carcante… –* ah ! je n'ai point oublié son nouveau nom cette fois – est venu au mouillage de la baie d'Elgor, et, à moins que ce brave gardien n'ait vécu tout ce temps de poisson cru et de racines…
+
+– Après tout, nous serons partis avant le retour de l'aviso, dit Kongre, et c'est plus sûr.
+
+– Il ne doit guère arriver que dans une huitaine de jours, à s'en rapporter au livre du phare, déclara Carcante.
+
+– Et, dans huit jours, ajouta Kongre, nous serons déjà loin du cap Horn, en route pour les Salomon ou les Nouvelles-Hébrides.
+
+– Entendu, Kongre. Je vais monter une dernière fois à la galerie pour observer la mer. S'il y a quelque bâtiment en vue…
+
+– Eh ! que nous importe, fit Kongre, en haussant les épaules. L'Atlantique et le Pacifique sont à tout le monde. Le *Carcante* a ses papiers en règle. Le nécessaire a été fait à cet égard, tu peux t'en fier à moi. Et, si même le *Santa-Fé* le rencontrait à l'entrée du détroit, il lui rendrait son salut, car une politesse en vaut une autre ! »
+
+On le voit, Kongre ne doutait pas de la réussite de ses projets. Il semblait bien d'ailleurs que tout concourait à les favoriser.
+
+Tandis que son capitaine redescendait vers la crique, Carcante monta l'escalier, et, parvenu à la galerie, il y resta en observation pendant une heure.
+
+Le ciel était alors complètement nettoyé et la ligne de l'horizon, reculée d'une douzaine de milles, se montrait dans toute sa netteté. La mer, encore agitée cependant, n'était plus blanchie par les lames déferlantes, et, si la houle demeurait assez forte, elle ne pourrait gêner la goélette. D'ailleurs, dès qu'on serait engagé dans le détroit, on trouverait la mer belle, et l'on naviguerait comme sur un fleuve, à l'abri de la terre et vent arrière.
+
+Au large, nul autre navire qu'un trois-mâts qui, vers deux heures, parut un instant dans l'est, et à une distance telle que, sans sa longue-vue, Carcante n'aurait pu reconnaître sa voilure. Il courait au nord, d'ailleurs. Il n'était donc pas à destination de l'Océan Pacifique, et il ne tarda pas à disparaître.
+
+Une heure plus tard, il est vrai, Carcante eut un sujet d'inquiétude et se demanda s'il ne fallait pas en référer à Kongre.
+
+Une fumée venait de se montrer dans le nord-nord-est, lointaine encore. C'était donc un steamer qui descendait vers l'Île des États ou vers le littoral de la Terre-de-Feu.
+
+Les mauvaises consciences rendent aisément craintif. Il suffit de cette fumée pour que Carcante éprouvât de sérieuses émotions.
+
+« Serait-ce l'aviso ? … » se dit-il.
+
+À vrai dire on n'était qu'au 25 du mois de février, et le *Santa-Fé* ne devait arriver que dans les premiers jours de mars ! … Aurait-il avancé son départ ? … Si c'était lui, dans deux heures, il serait par le travers du cap San Juan… Tout serait perdu… Fallait-il renoncer à la liberté, au moment de la conquérir, et retourner à l'affreuse existence du cap Saint-Barthélemy ?
+
+À ses pieds, Carcante voyait la goélette qui se balançait gracieusement, comme si, vraiment, elle eût voulu le narguer. Tout était paré. Elle n'avait plus qu'à lever l'ancre pour appareiller… Mais elle n'aurait pu, avec vent contraire, refouler le flot qui commençait à monter, et la mer ne serait pas étale avant deux heures et demie.
+
+Impossible donc d'avoir pris le large avant l'arrivée de ce steamer, et si c'était l'aviso…
+
+Carcante ne retint pas un juron qui l'étouffait. Il ne voulut pas, cependant, déranger Kongre, très occupé de ses derniers préparatifs, avant d'être sûr de son fait, et il demeura seul en observation dans la galerie du phare.
+
+Le bâtiment approchait rapidement, ayant pour lui le courant et la brise. Son capitaine poussait activement les feux, car une épaisse fumée se dégageait de la cheminée que Carcante ne pouvait encore apercevoir, derrière la voilure fortement tendue. Aussi ce navire donnait-il une assez forte bande sur tribord. Il ne tarderait pas à se trouver par le travers du cap San Juan, s'il continuait à cette allure.
+
+Carcante ne quittait pas la longue-vue, et son inquiétude allait croissant à mesure que diminuait la distance du steamer. Cette distance fut bientôt réduite à quelques milles, et la coque du navire devint en partie visible.
+
+Ce fut au moment où les craintes de Carcante étaient le plus vives, qu'elles se dissipèrent soudain.
+
+Le steamer venait de laisser porter, preuve qu'il cherchait à gagner le détroit, et tout son gréement apparut aux regards de Carcante.
+
+C'était un bâtiment à vapeur, qui devait jauger de douze à quinze cents tonneaux, et qu'on ne pouvait confondre avec le *Santa-Fé.*
+
+Carcante, de même que Kongre et ses compagnons, connaissait bien l'aviso, qu'il avait aperçu à plusieurs reprises pendant sa longue relâche à la baie d'Elgor. Il savait qu'il était gréé en goélette, et le steamer qui s'approchait l'était en trois-mâts.
+
+Quel soulagement éprouva Carcante, qui s'applaudit de ne point avoir troublé inutilement la quiétude de la bande ! Il resta encore une heure dans la galerie et vit passer le steamer dans le nord de l'île, mais à trois ou quatre milles, c'est-à-dire trop loin pour que celui-ci pût envoyer son numéro, signal qui, d'ailleurs, fût demeuré sans réponse, et pour cause.
+
+Quarante minutes plus tard, ce steamer, qui filait au moins douze nœuds à l'heure, disparaissait au large de la pointe Colnett.
+
+Carcante redescendit, après s'être assuré qu'aucun autre navire n'était en vue jusqu'à l'horizon.
+
+Cependant l'heure du renversement de la marée approchait. C'était le moment fixé pour le départ de la goélette… Les préparatifs étaient achevés, les voiles prêtes à être hissées. Une fois amurées et bordées, elles recevraient par le travers le vent retourné et bien établi dans l'est-sud-est et le *Carcante* cinglerait vers la mer avec du largue dans sa toile.
+
+À six heures, Kongre et la plupart des hommes étaient à bord. Le canot ramena ceux qui attendaient au bas de l'enceinte, puis il fut hissé sur les pistolets.
+
+La marée commençait à se retirer lentement. Elle découvrait déjà l'endroit où l'on avait échoué la goélette pendant ses réparations. De l'autre côté de la crique, les roches montraient leurs têtes pointues. Le vent pénétrait par les coupées de la falaise, et un léger ressac allait mourir au rivage.
+
+Le moment du départ était arrivé, Kongre donna l'ordre de virer au cabestan. La chaîne se raidit, grinça dans l'écubier, et, lorsqu'elle fut à pic, l'ancre fut ramenée au bossoir et traversée en vue d'une navigation qui devait être de longue durée.
+
+Les voiles furent alors orientées, et la goélette, sous sa misaine, sa grande voile, son hunier, son perroquet et ses focs, amurés à tribord, prit de l'erre et commença son mouvement vers la mer.
+
+Le vent soufflant de l'est-sud-est, le *Carcante* doublerait aisément le cap San Juan. Il n'y avait, d'ailleurs, aucun danger à raser cette partie très accore de la falaise.
+
+Kongre le savait. Il connaissait bien la baie. Aussi, debout à la barre, il laissait audacieusement la goélette porter d'un quart afin d'augmenter sa vitesse dans la mesure du possible.
+
+La marche du *Carcante* était, en effet, assez irrégulière. Il ralentissait lorsque le vent faiblissait, pour reprendre de l'erre quand la brise lui arrivait en risées plus vives.
+
+Il devançait alors le jusant, en laissant derrière lui un sillage assez plat, ce qui plaidait en faveur de ses lignes d'eau et permettait de bien augurer pour la suite du voyage.
+
+À six heures et demie, Kongre ne se trouvait plus qu'à un mille de l'extrême pointe. Il voyait la mer se développer jusqu'à l'horizon. Le soleil s'abaissait à l'opposé, et bientôt des étoiles brilleraient au zénith, qui s'assombrissait sous le voile du crépuscule.
+
+Carcante s'approcha en ce moment de Kongre.
+
+« Enfin, nous voici bientôt hors de la baie ! dit-il avec satisfaction.
+
+– Dans vingt minutes, répondit Kongre, je ferai mollir les écoutes, et je mettrai la barre à tribord pour contourner le cap San Juan…
+
+– Est-ce qu'il faudra courir des bords une fois dans le détroit ?
+
+– Je ne le pense pas, déclara Kongre. Aussitôt le cap Saint-Jean doublé, nous changerons les amures, et j'espère bien les garder à bâbord jusqu'au cap Horn. La saison commence à s'avancer, et je crois que nous pourrons compter sur la persistance de ces vents d'est. En tout cas, dans le détroit, nous le ferons autant qu'il le faudra, et il n'est pas à supposer que la brise nous refuse au point de nous contraindre à louvoyer. »
+
+Si, comme il l'espérait, Kongre pouvait éviter de changer ses amures, il gagnerait un temps considérable. Au besoin même, il amènerait ses voiles carrées et ne conserverait que ses voiles auriques et latines : brigantine, trinquette et focs. Ainsi la goélette tiendrait à quatre quarts du vent.
+
+À cet instant, un homme de l'équipage, posté près du bossoir, cria :
+
+« Attention devant ? …
+
+– Qu'y a-t-il ? » demanda Kongre.
+
+Carcante courut à l'homme, et se pencha au-dessus du bastingage :
+
+« Arrive… arrive en douceur ! » cria-t-il à Kongre.
+
+La goélette se trouvait alors par le travers de la caverne que la bande avait si longtemps occupée.
+
+En cet endroit de la baie dérivait une partie de la quille du *Century*, que le jusant repoussait à la mer. Un choc aurait pu avoir de fâcheuses conséquences, et il n'était que temps de parer cette épave.
+
+Kongre mit donc légèrement la barre à bâbord. La goélette arriva d'un quart, et passa le long de cette quille, qui frôla seulement sa carène.
+
+La manœuvre eut pour résultat de rapprocher un peu de la rive nord le *Carcante*, qui fut aussitôt remis en direction. Encore une vingtaine de toises, et l'on aurait dépassé l'angle de la falaise, Kongre pouvait lâcher la barre et donner la route au nord.
+
+À ce moment précis, un sifflement aigu déchira l'air, et un choc fit tressaillir la coque de la goélette, immédiatement suivi par une violente détonation.
+
+En même temps, une fumée blanchâtre, que le vent repoussa vers l'intérieur de la baie, s'éleva du littoral.
+
+« Qu'est cela ? s'écria Kongre.
+
+– On a tiré sur nous, répondit Carcante.
+
+– Prends la barre ! » ordonna Kongre.
+
+Se précipitant à bâbord, il regarda par-dessus le bastingage, et aperçut un trou dans la coque, un demi-pied plus haut que la ligne de flottaison.
+
+Tout l'équipage s'était instantanément porté de ce côté à l'avant de la goélette.
+
+Une attaque venant de cette partie du littoral ! … Un boulet que le *Carcante*, au moment de sortir, recevait dans son flanc, et qui, s'il l'eût atteint plus bas, l'aurait indubitablement coulé ! … On en conviendra, s'il y avait de quoi être effrayé d'une telle agression, on devait à bon droit en être également surpris.
+
+Que pouvaient faire Kongre et ses compagnons ? … Larguer les saisines du canot, s'y embarquer, s'élancer sur la rive à l'endroit où s'était élevée la fumée, s'emparer de ceux qui avaient envoyé ce projectile, les massacrer ou tout au moins les déloger de cette place ? … Mais savait-on si ces agresseurs n'auraient pas pour eux la supériorité du nombre, et le mieux n'était-il pas de s'éloigner afin de reconnaître tout d'abord l'importance de l'avarie ?
+
+Ce parti s'imposa avec d'autant plus d'évidence que la caronade fit feu une seconde fois. Une fumée s'arrondit à la même place. La goélette éprouva un nouveau choc. Un second boulet venait de la frapper en plein bois un peu en arrière du premier. « La barre sous le vent ! … Brasse carré devant ! … Pare à virer ! … » hurla Kongre, en courant vers l'arrière rejoindre Carcante qui se hâtait d'exécuter son ordre.
+
+Aussitôt que la goélette sentit l'action du gouvernail, elle lofa, puis abattit sur tribord. En moins de cinq minutes, elle commença à s'éloigner du rivage, et bientôt elle était hors de la portée de cette pièce qui avait été braquée sur elle.
+
+D'ailleurs, aucune autre détonation ne retentit. La grève demeurait déserte jusqu'à la pointe du cap. Il y avait lieu de croire que l'attaque ne se renouvellerait pas.
+
+Le plus pressé, c'était de vérifier l'état de la coque. À l'intérieur, cette vérification n'aurait pas été praticable, puisqu'il eût fallu déplacer la cargaison. Mais, ce qui ne pouvait faire l'objet d'un doute, c'est que les deux boulets avaient traversé le bordage et s'étaient logés dans la cale.
+
+Le canot fut donc amené, tandis que le *Carcante* mettait en panne et ne subissait plus que l'effet de la marée descendante.
+
+Kongre et le charpentier descendirent dans le canot, examinèrent la coque afin de s'assurer si l'avarie pouvait être réparée sur place.
+
+Ils reconnurent que deux boulets de quatre avaient atteint la goélette et percé le bordage de part en part. Heureusement les œuvres vives étaient épargnées. Les deux trous se trouvaient à la naissance du doublage et juste à la ligne de flottaison. Quelques centimètres plus bas, il se fût déclaré une voie d'eau que l'équipage n'aurait peut-être pas eu le temps d'aveugler. La cale aurait certainement rempli, et le *Carcante* se fût englouti à l'entrée de la baie.
+
+Sans doute, Kongre et ses compagnons auraient pu gagner la rive dans le canot, mais la goélette eût été entièrement perdue.
+
+En somme, l'avarie ne devait pas être d'une extrême gravité, mais elle empêchait assurément le *Carcante* de s'aventurer plus au large. À la moindre bande qu'il donnerait sur bâbord, l'eau pénétrerait à l'intérieur. Il importait donc que les deux trous faits par les projectiles fussent bouchés avant de continuer la route.
+
+« Mais quel est le gueux qui nous a envoyé cela ? ne cessait de répéter Carcante.
+
+– Peut-être ce gardien qui nous a échappé ! … répondit Vargas. Et peut-être aussi quelque survivant du *Century* que ce gardien aura sauvé. Car, enfin, pour envoyer des boulets, il faut un canon, et ce canon n'est pas tombé de la lune.
+
+– Évidemment, approuva Carcante. Nul doute qu'il ne provienne du trois-mâts. Il est bien fâcheux que nous ne l'ayons point trouvé parmi les épaves.
+
+– Il ne s'agit pas de tout cela, interrompit brusquement Kongre, mais de se réparer le plus vite possible ! »
+
+En effet, ce n'était pas le cas de discuter sur les circonstances de l'attaque contre la goélette, mais de procéder aux réparations nécessaires. On pouvait à la rigueur la conduire près de la rive opposée de la baie à la pointe Diegos. Une heure y suffirait.
+
+Mais, en cet endroit, elle eût été trop exposée aux vents du large, et, jusqu'à la pointe Several, la côte n'offrait aucun abri. Au premier mauvais temps, elle se fût brisée sur les récifs. Kongre se résolut donc à revenir le soir même au fond de la baie d'Elgor où le travail pourrait être fait en toute sécurité et aussi rapidement que possible.
+
+Mais, en ce moment, la marée descendait, et la goélette n'eût point gagné contre le jusant. Force était donc d'attendre le flot, qui ne se ferait pas sentir avant trois heures.
+
+Or, le *Carcante* commençait à rouler assez vivement sous l'action de la houle, et, avec la dérive, il eût été entraîné jusqu'à la pointe Several en risquant de remplir. Déjà, on entendait le bruit de l'eau qui se précipitait par les trous de la coque à chaque coup de roulis plus accentué. Kongre dut se résigner à jeter l'ancre à quelques encablures de la pointe Diegos.
+
+La situation était, en somme, assez inquiétante. La nuit venait, et bientôt l'obscurité serait profonde. Il faudrait toute la connaissance que Kongre avait de ces parages pour ne point s'échouer sur l'un des nombreux récifs défendant l'accès de la côte.
+
+Enfin, vers dix heures, le flot arriva. L'ancre fut ramenée à bord, et, avant minuit, le *Carcante*, non sans avoir couru maints dangers, était de retour à son ancien mouillage dans la crique de la baie d'Elgor.
+
+
+# Chapitre XIII. Pendant trois jours.
+
+À quel degré d'exaspération étaient parvenus Kongre, Carcante et les autres, on l'imaginera sans peine. Au moment même où ils allaient définitivement quitter l'île, un dernier obstacle les avait arrêtés ! … Et, dans quatre ou cinq jours, moins peut-être, l'aviso pouvait se présenter à l'ouvert de la baie d'Elgor ! … Assurément, si les avaries de la goélette avaient été moins graves, Kongre n'eût pas hésité à prendre un autre mouillage. Il serait allé, par exemple, se réfugier dans le havre Saint-Jean, qui, au revers même du cap, se creuse profondément dans la côte septentrionale de l'île. Mais, dans l'état actuel du bâtiment, c'eût été folie que de vouloir entreprendre une telle traversée. On aurait été par le fond avant d'arriver à la hauteur de la pointe. Dans la partie du parcours qu'on eût été contraint de faire vent arrière, la goélette n'aurait pas tardé à remplir en roulant d'un bord sur l'autre. À tout le moins, sa cargaison aurait été irrémédiablement perdue.
+
+Le retour à la crique du phare s'imposait donc, et Kongre avait sagement fait de s'y résigner.
+
+Pendant cette nuit, où l'on ne dormit guère à bord, les hommes durent faire le quart et s'astreindre à une surveillance de tous les instants. Savait-on si une nouvelle attaque ne se produirait pas ? … Savait-on si une troupe nombreuse, supérieure à la bande de Kongre, n'avait pas récemment débarqué sur quelque autre point de l'île ? … Savait-on si la présence de cette bande de pirates n'était pas enfin connue à Buenos-Ayres, et si le Gouvernement argentin ne cherchait pas à la détruire ?
+
+Assis à l'arrière, Kongre et Carcante causaient de tout cela, ou plutôt le second parlait seul, car Kongre était trop absorbé pour lui répondre autrement que par de brèves paroles.
+
+C'est Carcante qui avait d'abord émis cette hypothèse : la descente sur l'Île des États de soldats envoyés à la poursuite de Kongre et de ses compagnons. Mais, en admettant qu'on n'eût pas eu connaissance de son débarquement, ce n'est pas ainsi qu'une troupe régulière eût procédé. Elle aurait attaqué franchement la place, ou bien, si le temps d'agir ainsi lui eût manqué, elle aurait eu à l'entrée de la baie plusieurs embarcations qui eussent cueilli la goélette et s'en fussent emparées le soir même, soit de vive force, à l'abordage, soit après l'avoir mise dans l'impossibilité de continuer sa route. En tous cas, elle ne se serait pas terrée après une unique escarmouche, comme le faisaient ces assaillants inconnus, dont la prudence démontrait la faiblesse.
+
+Carcante abandonna donc cette hypothèse, et en revint à la supposition émise par Vargas :
+
+« Oui… ceux qui ont fait le coup avaient uniquement pour but d'empêcher la goélette de quitter l'île, et, s'ils sont plusieurs, c'est que quelques hommes du *Century* ont survécu… Ils auront rencontré ce gardien, et appris de lui la prochaine arrivée de l'aviso… Ce canon, c'est une épave trouvée par eux !
+
+– L'aviso n'est pas encore là, dit Kongre d'une voix que la colère faisait trembler. Avant son retour, la goélette sera loin. »
+
+En effet, il était très improbable, en admettant que le gardien du phare eût rencontré des naufragés du *Century*, que ceux-ci fussent plus de deux ou trois au maximum. Comment admettre qu'une aussi violente tempête eût épargné plus d'existences ? Que pourrait cette poignée d'hommes contre une troupe nombreuse et bien armée ? La goélette, une fois réparée, remettrait à la voile et gagnerait le large en suivant, cette fois, le milieu de la baie. Ce qui avait été fait une première fois ne saurait l'être une seconde.
+
+Ce n'était donc plus qu'une question de temps : combien de jours durerait la réparation de la nouvelle avarie ?
+
+Il n'y eut aucune alerte cette nuit-là, et, le lendemain, l'équipage se mit à la besogne.
+
+Le premier travail consista à déplacer la partie de la cargaison rangée dans la cale contre le flanc de bâbord. Il ne fallut pas moins d'une demi-journée pour remonter cette quantité d'objets sur le pont. D'ailleurs, il ne serait pas plus nécessaire de débarquer le chargement que de haler la goélette sur le banc de sable. Les trous de boulets se trouvant un peu au-dessus de la flottaison, on parviendrait, en accostant le canot près de la hanche, à les boucher sans trop de peine. L'essentiel était que la membrure n'eût pas été endommagée par les projectiles.
+
+Kongre et le charpentier descendirent alors dans la cale, et voici quel fut le résultat de leur examen :
+
+Les deux boulets n'avaient atteint que le bordage, qu'ils avaient traversé à peu près à la même hauteur, et on les retrouva en déplaçant la cargaison. Ils n'avaient fait qu'effleurer les couples dont la solidité n'était point compromise. Les trous, placés à deux ou trois pieds l'un de l'autre, étaient tous deux à bords francs, comme découpés à la scie. Ils pourraient être fermés hermétiquement avec des tapes maintenues par des pièces de bois intercalées entre les membrures, et par-dessus lesquelles on appliquerait une feuille de doublage.
+
+En somme, ce n'étaient pas là de grosses avaries. Elles ne compromettaient point le bon état de la coque, et elles allaient être promptement réparées.
+
+« Quand ? demanda Kongre.
+
+– Je vais préparer les traverses intérieures, et elles seront posées ce soir, répondit Vargas.
+
+– Et les tapes ?
+
+– Les tapes seront faites demain dans la matinée, et mises en place le soir.
+
+– Ainsi nous pourrions arrimer la cargaison dans la soirée et appareiller après-demain matin ?
+
+– Assurément », déclara le charpentier.
+
+Soixante heures auraient donc suffi à ces réparations, et le départ du *Carcante* ne serait en somme retardé que de deux jours.
+
+Carcante demanda alors à Kongre si, dans la matinée ou dans l'après-midi, il ne se proposait pas de se rendre au cap San Juan.
+
+« Pour voir un peu ce qui s'y passe, dit-il.
+
+– À quoi bon ? répondit Kongre. Nous ne savons pas à qui nous avons affaire. Il faudrait être en troupe, à dix ou douze, et, par conséquent, ne laisser que deux ou trois hommes à la garde de la goélette. Et qui sait ce qui arriverait pendant notre absence ? …
+
+– C'est juste, convint Carcante, et puis, qu'est-ce que nous y gagnerions ? Que ceux qui ont tiré sur nous aillent se faire pendre ailleurs ! L'important, c'est de quitter l'île, et le plus vite possible.
+
+– Après-demain matin, nous serons en mer », déclara Kongre nettement.
+
+Il y avait donc toutes chances pour que l'aviso, qui ne devait arriver que dans quelques jours, ne fût pas signalé avant le départ.
+
+Du reste, si Kongre et ses compagnons se fussent transportés au cap San Juan, ils n'auraient pas trouvé trace de Vasquez et de John Davis.
+
+Voici ce qui s'était passé :
+
+Pendant l'après-midi de la veille, la proposition faite par John Davis les occupa tous les deux jusqu'au soir. L'endroit choisi pour y placer la caronade fut l'angle même de la falaise. Entre les roches qui encombraient ce tournant, John Davis et Vasquez purent aisément établir l'affût, besogne facile en somme. Mais ils eurent grand'peine à traîner le canon jusque-là. Il fallut le tirer sur le sable de la grève, et puis traverser un espace hérissé de têtes de rocs, où le traînage n'était plus possible. D'où nécessité de soulever la pièce avec des leviers, ce qui exigea du temps et de la fatigue.
+
+Il était près de six heures, lorsque la caronade fut placée sur son affût de manière à pouvoir être pointée sur l'entrée de la baie.
+
+John Davis procéda alors au chargement et introduisit une forte gargousse, qui fut enfoncée avec une bourre de varech sec, par-dessus laquelle fut placé le boulet. La lumière de la pièce fut ensuite amorcée. Il n'y avait plus qu'à y mettre le feu au moment voulu. John Davis dit alors à Vasquez :
+
+« J'ai bien réfléchi à ce qu'il convient de faire. Ce qu'il faut, ce n'est point couler la goélette. Tous ces coquins gagneraient la rive, et nous ne pourrions peut-être pas leur échapper. L'essentiel, c'est que leur goélette soit forcée de retourner au mouillage, et d'y rester quelque temps pour réparer ses avaries.
+
+– Sans doute, fit observer Vasquez, mais un trou de boulet peut être bouché en une matinée.
+
+– Non, répondit John Davis, puisqu'ils seront obligés de déplacer la cargaison. J'estime que cela durera quarante-huit heures, au moins, et nous sommes déjà au 28 février.
+
+– Et si l'aviso n'arrive que dans une semaine, objecta Vasquez. Ne vaudrait-il pas mieux tirer sur la mâture que sur la coque ?
+
+– Évidemment, Vasquez, une fois désemparée de son mât de misaine ou de son grand mât – et je ne vois guère comment on pourrait les remplacer – la goélette serait retenue pour longtemps. Mais atteindre un mât est plus difficile que d'atteindre une coque, et il faut que nos projectiles portent à coup sûr.
+
+– Oui, répondit Vasquez, d'autant plus que, si ces misérables ne sortent qu'à la marée du soir, ce qui est probable, il fera déjà peu clair. Faites donc pour le mieux, Davis. »
+
+Tout étant préparé, Vasquez et son compagnon n'eurent plus qu'à attendre, et ils se postèrent à côté de la pièce, prêts à tirer, dès que la goélette passerait par le travers.
+
+On sait quel fut le résultat de cette canonnade et dans quelles conditions le *Carcante* dut regagner son mouillage. John Davis et Vasquez ne quittèrent point la place avant de l'avoir vu regagner le fond de la baie.
+
+Et maintenant, ce que leur commandait la prudence, c'était de chercher un refuge sur quelque autre point de l'île.
+
+En effet, ainsi que le dit Vasquez, peut-être le lendemain Kongre et une partie de ses hommes viendraient-ils au cap San Juan. Peut-être voudraient-ils se mettre à leur poursuite ? …
+
+Leur parti fut rapidement pris. Quitter la grotte, chercher à un ou deux milles de là un nouvel abri situé de telle manière qu'ils puissent voir tout navire qui arriverait par le nord. Si le *Santa-Fé* apparaissait, ils lui feraient des signaux, après avoir regagné le cap San Juan. Le commandant Lafayate enverrait un canot, les recueillerait à bord et il serait informé de la situation – situation qui serait enfin dénouée, soit que la goélette fût encore retenue dans la crique, soit, – ce qui était malheureusement possible, – qu'elle eût repris la mer.
+
+« Fasse Dieu que cela n'arrive pas ! » se répétaient John Davis et Vasquez.
+
+Au milieu de la nuit, tous deux se mirent en route, en emportant des provisions, leurs armes, et leur réserve de poudre. Ils suivirent le rivage de la mer pendant six milles environ, en contournant le havre Saint-Jean. Après quelques recherches, ils finirent par découvrir, de l'autre côté de ce golfe, une cavité qui suffirait à les abriter jusqu'à l'arrivée de l'aviso.
+
+D'ailleurs, si la goélette venait à sortir, il leur serait loisible de revenir à la grotte.
+
+Pendant toute la journée, Vasquez et John Davis restèrent en observation. Tout le temps que montait la marée, ils savaient que la goélette ne pouvait appareiller, et ils ne s'inquiétaient pas. Mais, avec le jusant, la crainte les reprenait que les réparations eussent été achevées dans la nuit. Kongre ne retarderait assurément pas son départ, fût-ce d'une heure, dès que le départ serait possible. Ne devait-il pas redouter de voir apparaître le *Santa-Fé*, autant que John Davis et Vasquez l'appelaient de tous leurs vœux ?
+
+En même temps, ceux-ci surveillaient le littoral. Mais ni Kongre, ni aucun de ses compagnons ne s'y montrèrent.
+
+En effet, on le sait, Kongre avait décidé de ne point perdre son temps à des recherches qui eussent été vraisemblablement inutiles. Activer le travail, terminer les réparations dans le plus bref délai, c'était ce qu'il avait de mieux à faire et c'est ce qu'il faisait. Ainsi que l'avait dit le charpentier Vargas, la pièce de bois fut posée dans l'après-midi entre les membrures. Le lendemain, les tapes seraient préparées et ajustées ainsi qu'il l'avait promis.
+
+Vasquez et John Davis n'eurent donc aucune alerte pendant cette journée du 1*er* mars. Mais combien elle leur parut longue !
+
+Le soir, après avoir guetté la sortie de la goélette, et quand ils eurent la certitude qu'elle n'avait point abandonné son mouillage, ils vinrent se blottir dans la cavité, où le sommeil leur procura un repos dont ils avaient grand besoin.
+
+Le lendemain, ils étaient sur pied dès l'aube. Leurs premiers regards furent dirigés vers la mer. Aucun navire en vue. Le *Santa-Fé* ne paraissait pas et nulle fumée ne se montrait à l'horizon.
+
+La goélette allait-elle prendre le large avec la marée du matin ? Le jusant venait de s'établir. Si elle en profitait, elle aurait doublé le cap San Juan dans une heure…
+
+Quant à recommencer la tentative de la veille, John Davis n'y pouvait songer, Kongre serait sur ses gardes. Il passerait hors de portée, et les boulets n'atteindraient pas la goélette.
+
+On comprend à quelles impatiences, à quelles inquiétudes furent en proie John Davis et Vasquez jusqu'à la fin de cette marée. Enfin, vers sept heures, le flot se fit sentir. Désormais, Kongre ne pourrait plus appareiller qu'à la prochaine marée du soir.
+
+Le temps était beau, le vent, remonté, se maintenait dans la partie du nord-est. La mer ne se ressentait plus de la dernière tempête. Le soleil brillait entre de légers nuages très élevés que n'atteignait pas la brise.
+
+Encore une interminable journée pour Vasquez et John Davis. Pas plus que la veille ils n'eurent d'alerte. La bande n'avait pas quitté la crique. Que l'un des pirates s'en éloignât dans la matinée ou dans l'après-midi paraissait très improbable.
+
+« Cela prouve que ces coquins sont tout à leur besogne, dit Vasquez.
+
+– Oui ! ils se hâtent, répondit John Davis. Bientôt, ces trous de boulets seront bouchés. Rien ne les retiendra plus.
+
+– Et peut-être… ce soir… quoique la marée soit tard, ajouta Vasquez. Il est vrai, cette baie, ils la connaissent ! Ils n'ont pas besoin d'un feu pour l'éclairer. Ils l'ont remontée la nuit dernière… S'ils la descendent la nuit prochaine, leur goélette les emportera… Quel malheur, conclut-il avec désespoir, que vous ne l'ayez pas démâtée !
+
+– Que voulez-vous, Vasquez, répondit Davis, nous avons fait tout ce que nous pouvions ! … À Dieu de faire le reste !
+
+– Nous l'aiderons », dit entre ses dents Vasquez, qui parut prendre tout à coup une énergique résolution.
+
+John Davis demeurait pensif, allait et venait sur la grève, les yeux tournés vers le nord. Rien à l'horizon… rien !
+
+Soudain, il s'arrêta. Il revint près de son compagnon, et il lui dit :
+
+« Vasquez… si nous allions voir ce qu'ils font là-bas ?
+
+– Au fond de la baie, Davis ?
+
+– Oui… nous reconnaîtrions si la goélette est en état… si elle s'apprête à partir…
+
+– Et cela nous servira ? …
+
+– À savoir, Vasquez, s'écria John Davis. Je bous d'impatience. Je ne peux plus y tenir… C'est plus fort que moi ! »
+
+Et, véritablement, le second du *Century* n'était plus maître de lui.
+
+« Vasquez, reprit-il, combien y a-t-il d'ici au phare ?
+
+– Trois milles tout au plus, en passant par-dessus les collines et en allant en droite ligne jusqu'au fond de la baie.
+
+– Eh bien, j'irai, Vasquez… je partirai vers quatre heures… j'arriverai avant six heures… je me glisserai aussi loin que cela me sera possible. Il fera grand jour encore… mais on ne me verra pas… et moi… je verrai ! »
+
+Il eût été inutile de chercher à dissuader John Davis. Vasquez d'ailleurs ne l'essaya pas, et, lorsque son compagnon lui dit :
+
+« Vous resterez ici. Vous surveillerez la mer… Je serai revenu dans la soirée… J'irai seul… »
+
+Il répondit, en homme qui a son plan :
+
+« Je vous accompagnerai, Davis. Je ne serais pas fâché, moi non plus, d'aller faire un tour du côté du phare. »
+
+C'était décidé, ce serait fait.
+
+Pendant les quelques heures qui devaient s'écouler avant le moment du départ, Vasquez, laissant son compagnon seul sur la grève, s'isola dans la cavité qui leur avait servi de refuge et se livra à des besognes mystérieuses. Le second du *Century* le surprit une fois en train d'affûter soigneusement son large couteau sur un éclat de rocher, une autre fois, comme il déchirait une chemise en lanières qu'il tressait ensuite en manière de corde lâche.
+
+Aux questions qui lui furent faites, Vasquez répondit évasivement, assurant qu'il s'expliquerait plus clairement le soir venu. John Davis n'insista pas.
+
+À quatre heures, après avoir mangé un biscuit et un morceau de corned-beef, tous deux, armés de leurs revolvers, se mirent en route.
+
+Un étroit ravin leur facilita la montée des collines dont ils atteignirent la crête sans trop de peine.
+
+Devant eux s'étendait un large plateau aride, où poussaient seulement quelques touffes d'épines-vinettes. Pas un seul arbre aussi loin que pouvait se porter la vue. Quelques oiseaux de mer criards et assourdissants volaient par bandes, en fuyant vers le sud.
+
+Quant à la direction à suivre pour gagner le fond de la baie d'Elgor, elle était tout indiquée.
+
+« Là », dit Vasquez.
+
+Et, de la main, il montrait le phare qui se dressait à moins de deux milles.
+
+« Marchons ! » répondit John Davis.
+
+Tous deux allaient d'un pas rapide. S'ils avaient à prendre quelques précautions, ce serait aux approches de la crique.
+
+Ce ne fut qu'après une demi-heure de marche qu'ils s'arrêtèrent, haletants. Mais ils ne sentaient pas leur fatigue.
+
+Il restait encore un demi-mille à franchir. La prudence devenait nécessaire, en cas que Kongre ou un de ses hommes eût été en observation dans la galerie du phare. À cette distance, ils pouvaient être aperçus.
+
+Par ce temps très clair, la galerie était parfaitement visible. Personne ne s'y trouvait en ce moment, mais peut-être Carcante ou tout autre se tenait-il alors dans la chambre de quart, d'où, par les étroites fenêtres orientées à tous les points cardinaux, le regard embrassait l'île sur une vaste étendue.
+
+John Davis et Vasquez se glissèrent entre les roches, éparses çà et là dans un désordre chaotique.
+
+Ils passaient de l'une à l'autre, se défilant, rampant parfois pour traverser un espace découvert. Leur marche fut considérablement retardée pendant cette dernière partie de la route.
+
+Il était près de six heures lorsqu'ils atteignirent l'ultime ressaut des collines qui encadraient la crique. Ils plongèrent leurs regards au-dessous d'eux.
+
+Qu'ils pussent être aperçus, ce n'était pas possible, à moins qu'un des hommes de la bande ne vînt à gravir la colline. Même du haut du phare, ils n'auraient pas été visibles, au milieu des roches avec lesquelles ils se confondaient.
+
+La goélette était là, flottant dans la crique, ses mâts et ses vergues parés, ses agrès en bon état. L'équipage était occupé à remettre dans la cale la partie de la cargaison qui avait dû être déposée sur le pont pendant les réparations. Le canot traînait au bout de sa bosse à l'arrière, et, puisqu'il n'était plus contre le flanc de bâbord, c'est que le travail avait pris fin, c'est que les trous de boulets étaient bouchés.
+
+« Ils sont prêts, murmura John Davis, en comprimant sa colère sur le point d'éclater.
+
+– Qui sait s'ils ne vont pas appareiller avant la marée, dans deux ou trois heures d'ici.
+
+– Et ne pouvoir rien… rien ! » répétait John Davis.
+
+En effet, le charpentier Vargas avait tenu parole. La besogne avait été rapidement et convenablement exécutée. Il ne restait plus trace de l'avarie. Ces deux jours avaient suffi. La cargaison remise en place, les panneaux fermés, le *Carcante* allait être en état de repartir.
+
+Cependant, le temps s'écoula ; le soleil s'abaissa, disparut ; la nuit se fit, sans que rien permît de croire à un prochain appareillage de la goélette. De leur abri, Vasquez et John Davis écoutaient les bruits qui montaient jusqu'à eux de la baie. C'étaient des rires, des cris, des jurons, le grincement des colis traînés sur le pont. Vers dix heures, ils entendirent nettement le bruit d'un panneau qu'on fermait. Puis, ce fut le silence.
+
+Davis et Vasquez attendirent, le cœur serré. Sans doute, le travail terminé, c'était le moment du départ… Non, la goélette se balançait toujours au fond de la crique, l'ancre toujours au fond, les voiles toujours sur leurs cargues.
+
+Une heure passa. Le second du *Century* saisit la main de Vasquez :
+
+« La marée renverse, dit-il. Voici le flot.
+
+– Ils ne partiront pas !
+
+– Aujourd'hui. Mais demain ? …
+
+– Ni demain, ni jamais », affirma Vasquez. « Venez », ajouta-t-il en sortant de l'anfractuosité où ils étaient restés en embuscade.
+
+Davis, très intrigué, suivit Vasquez, qui s'avançait prudemment vers le phare. En peu d'instants, ils furent au pied du tertre servant de piédestal à la tour. Arrivé là, Vasquez, après une courte recherche, déplaça une roche qu'il fit pivoter sans trop d'effort.
+
+« Glissez-vous là-dedans, dit-il à Davis, en lui désignant de la main le dessous du rocher. Voici une cachette que j'ai découverte par hasard pendant que j'étais au phare. Je ne me doutais pas alors qu'elle me servirait un jour. Ce n'est pas une caverne. C'est un simple trou dans lequel nous aurons peine à tenir tous les deux. Mais on pourrait passer mille fois devant notre porte sans deviner que la maison est habitée. »
+
+Davis, obéissant à l'invitation, se laissa glisser dans la cavité, où le rejoignit immédiatement Vasquez. Serrés l'un contre l'autre au point de ne pouvoir bouger, ils se parlaient bouche à bouche, à mi-voix.
+
+« Voici mon plan, dit Vasquez. Vous allez m'attendre ici.
+
+– Vous attendre ? répéta Davis.
+
+– Oui ; moi, je vais à la goélette.
+
+– À la goélette, répéta encore Davis stupéfait.
+
+– J'ai résolu que les gueux ne partiraient pas », déclara fermement Vasquez.
+
+Il tira de sa vareuse deux paquets et un couteau.
+
+« Voici une cartouche que j'ai faite avec notre poudre et un morceau de chemise. Avec un autre morceau de chemise et le reste de poudre, j'ai fabriqué une mèche, que voilà. Je mets le tout sur ma tête et je vais jusqu'à la goélette à la nage. Je me hisse le long du gouvernail, et, avec ce couteau, je creuse un trou sous la voûte, entre le gouvernail et l'étambot. Dans ce trou, je place ma cartouche, j'allume la mèche et je reviens. Tel est mon projet, que rien au monde ne m'empêchera d'accomplir.
+
+– Il est merveilleux ! s'écria John Davis enthousiasmé. Mais je ne vous laisserai pas courir seul un tel danger. Je vous accompagnerai.
+
+– À quoi bon ? répliqua Vasquez. Un homme passe mieux, quand il est seul, et un homme suffit pour ce que je veux faire. »
+
+Davis eut beau insister, Vasquez demeura inflexible. L'idée était à lui, et il entendait la mettre seul à exécution. De guerre lasse, Davis dut s'incliner.
+
+Au moment le plus sombre de la nuit, Vasquez, après s'être dépouillé de ses vêtements, rampa hors du trou et commença à descendre la pente de la colline. Arrivé à la mer, il se mit à l'eau et nagea d'un bras vigoureux vers la goélette, qui se balançait mollement à une encablure du rivage.
+
+À mesure qu'il s'en rapprochait, la masse du bâtiment se faisait plus noire et plus imposante. Rien ne bougeait à bord. On y veillait pourtant. Bientôt le nageur aperçut nettement la silhouette de l'homme de garde. Assis sur le gaillard d'avant, les jambes pendantes au-dessus de l'eau, le matelot sifflotait une chanson marine dont les notes s'égrenaient, claires dans le silence de la nuit.
+
+Vasquez décrivit une courbe, et, s'approchant du navire par l'arrière, devint invisible dans l'ombre plus opaque projetée par la voûte. Le gouvernail s'arrondissait au-dessus de lui. Il en saisit à pleines mains la surface gluante, et, au prix d'efforts surhumains, réussit à s'élever, en s'agrippant aux ferrures. Parvenu à se mettre à califourchon sur le sommet du safran, il le serra entre ses genoux, comme un cavalier eût serré sa monture. Ses mains ainsi devenues libres, il put prendre le sac fixé sur le sommet de sa tête, et, le retenant entre les dents, en explorer le contenu. Le couteau qu'il en sortit commença aussitôt son œuvre. Peu à peu, le trou qu'il creusait entre le safran et l'étambot devint plus large et plus profond. Après une heure de travail, la lame du couteau sortit de l'autre côté. Dans ce trou devenu assez grand, Vasquez glissa la cartouche préparée, y adapta la mèche, puis chercha son briquet au fond du sac.
+
+À ce moment, ses genoux lassés desserrèrent un quart de seconde leur étreinte. Il se sentit glisser, et, glisser, c'était l'irrémédiable échec de sa tentative. Son briquet une fois mouillé, ne lui donnerait plus de feu. Dans le mouvement involontaire qu'il fit pour reprendre son équilibre, le sac oscilla, et son couteau, que, l'œuvre accomplie, il y avait remis, s'en échappa et tomba, en faisant rejaillir l'eau en bruyantes gouttelettes.
+
+La chanson de l'homme de veille avait brusquement cessé. Vasquez l'entendit descendre le gaillard, marcher sur le pont, monter sur la dunette. Il vit son ombre se dessiner à la surface de la mer. Le matelot, penché sur le couronnement, cherchait sans doute à discerner la cause du bruit insolite qui avait attiré son attention. Longtemps, il resta ainsi, tandis que Vasquez, les jambes raidies, les ongles crispés sur le bois gluant, sentait peu à peu la force lui manquer. Enfin, rassuré par le silence, le matelot s'éloigna, et, retournant à l'avant, reprit sa chanson.
+
+Vasquez retira le briquet du sac et battit le silex à petits coups. Quelques étincelles jaillirent. La mèche, allumée, commença à crépiter sournoisement.
+
+Rapidement, Vasquez, se laissant glisser le long du gouvernail, entra de nouveau dans l'eau, et, à longues brasses silencieuses, s'enfuit vers la terre.
+
+Dans la cachette, où il était demeuré seul, le temps paraissait interminable à John Davis. Une demi-heure, trois quarts d'heure, une heure s'écoulèrent. Davis, n'y pouvant tenir, sortit du trou en rampant et regarda anxieusement vers la mer. Que pouvait-il être arrivé à Vasquez ? Sa tentative avait-elle échoué ? En tout cas, il ne devait pas avoir été découvert, puisqu'on n'entendait aucun bruit.
+
+Tout à coup, répercutée par l'écho de la colline, une explosion sourde éclata dans le calme de la nuit, explosion immédiatement suivie d'un assourdissant concert de piétinements et de cris. Quelques instants plus tard, un homme, tout souillé d'eau et de vase, arrivait en courant, repoussait Davis, se glissait près de lui au fond de la cachette, et faisait retomber le bloc qui en dissimulait l'entrée.
+
+Presque aussitôt une troupe d'hommes passa en criant. Les gros souliers frappant à grand bruit les rochers ne parvenaient pas à couvrir leurs voix.
+
+« Hardi ! disait l'un. Nous le tenons.
+
+– Je l'ai vu comme je te vois, disait un autre. Il est seul.
+
+– Il n'a pas cent mètres d'avance.
+
+– Ah ! la canaille ! Nous l'aurons. »
+
+Le bruit décrut, s'éteignit.
+
+« C'est fait ? demanda Davis à voix basse.
+
+– Oui, dit Vasquez.
+
+– Et vous pensez avoir réussi ?
+
+– Je l'espère », répondit Vasquez.
+
+À l'aube, un vacarme de marteaux fit disparaître toute incertitude. Puisque l'on travaillait ainsi à bord de la goélette, c'est qu'elle avait des avaries, et que la tentative de Vasquez avait réussi. Mais, quelle était l'importance de ces avaries, voilà ce que ni l'un ni l'autre ne pouvaient savoir.
+
+« Puissent-elles être assez graves pour les retenir un mois dans la baie ! s'écria Davis, oubliant que, dans ce cas, son compagnon et lui seraient morts de faim au fond de leur retraite.
+
+– Silence ! » murmura Vasquez, en lui saisissant la main.
+
+Une nouvelle troupe s'approchait, silencieuse celle-ci. Peut-être la même revenant de sa chasse infructueuse. En tout cas, les hommes qui la composaient ne prononçaient pas une parole.
+
+On ne percevait que le bruit des talons martelant le sol.
+
+Toute la matinée, Vasquez et Davis entendirent ainsi piétiner autour d'eux. Des bandes passaient, lancées à la poursuite de l'insaisissable assaillant. Cependant, à mesure que les heures s'écoulèrent, cette poursuite parut se ralentir. Depuis longtemps déjà, rien n'avait plus troublé le silence environnant, quand, vers midi, trois ou quatre hommes s'arrêtèrent à deux pas du trou dans lequel Davis et Vasquez étaient blottis.
+
+« Décidément, il est introuvable ! dit l'un d'eux, en s'asseyant sur le roc même qui en obstruait l'orifice.
+
+– Mieux vaut y renoncer, affirma un autre. Les camarades sont déjà rentrés à bord.
+
+– Et nous allons faire comme eux. D'autant plus que, après tout, le gredin a manqué son coup. »
+
+Invisibles, Vasquez et Davis tressaillirent, et prêtèrent l'oreille avec plus d'attention encore.
+
+« Oui, approuva un quatrième interlocuteur. Voyez-vous ça, qu'il voulait faire sauter le gouvernail !
+
+– L'âme et le cœur d'un bâtiment, quoi !
+
+– Une belle jambe, comme dit l'autre, que ça nous aurait fait !
+
+– Heureux que sa cartouche ait fusé à bâbord et à tribord. Le mal se réduit à un trou dans la voûte et à une ferrure arrachée. Quant à la mèche du gouvernail, c'est à peine si le bois a été roussi.
+
+– Tout sera réparé aujourd'hui, reprit le premier qui avait parlé. Et ce soir, avant le flot, vire au guindeau, les garçons ! Après ça, que l'autre crève de faim, si ça lui chante !
+
+– Eh bien, Lopez ! es-tu assez reposé ? interrompit brutalement une voix rude. À quoi bon tant bavarder ? Rentrons.
+
+– Rentrons ! » dirent les trois autres, en se remettant en marche.
+
+Dans la cachette où ils étaient terrés, Vasquez et Davis, écrasés par ce qu'ils venaient d'entendre, se regardaient en silence.
+
+Deux grosses larmes gonflèrent les yeux de Vasquez, glissèrent de ses cils, sans que le rude marin s'inquiétât de cacher ce témoignage de son impuissant désespoir. Voilà donc à quel résultat dérisoire avait abouti son héroïque tentative. Douze heures de retard supplémentaire, à cela se réduisait le dommage subi par la bande de pirates. Le soir même, ses avaries réparées, la goélette s'éloignerait sur la vaste mer et disparaîtrait à l'horizon.
+
+Le bruit des marteaux qui montait du rivage prouvait que Kongre faisait travailler avec ardeur à remettre le *Carcante* en état. Vers cinq heures un quart, au grand désespoir de Vasquez et de Davis, ce bruit cessa brusquement. Ils comprirent que le dernier coup de marteau avait achevé le travail. Quelques minutes plus tard, le grincement de la chaîne raclant l'écubier confirma cette hypothèse. Kongre mettait l'ancre à pic. L'instant de l'appareillage approchait.
+
+Vasquez n'y put tenir. Faisant pivoter le rocher, il risqua prudemment un regard au dehors.
+
+Vers l'ouest, le soleil déclinant atteignait le sommet des montagnes qui limitaient la vue de ce côté. À cette date, proche de l'équinoxe d'automne, une heure ne s'écoulerait pas avant qu'il fût couché.
+
+À l'opposé, la goélette était toujours à l'ancre au fond de la crique. Il n'existait aucune trace visible de ses récentes avaries. Tout paraissait en règle à bord. La chaîne, verticale comme l'avait supposé Vasquez, montrait qu'un dernier effort suffirait à faire déraper l'ancre au moment voulu.
+
+Celui-ci, oubliant toute prudence, avait sorti la moitié du corps hors du trou. Davis, derrière lui, se pressait contre son épaule. Tous deux, haletants, regardaient.
+
+La plupart des pirates avaient déjà regagné le bord. Quelques-uns, cependant étaient encore à terre. Parmi ceux-ci, Vasquez reconnut parfaitement Kongre, qui, dans l'enceinte du phare, faisait les cent pas avec Carcante. Cinq minutes plus tard, ils se séparèrent, et Carcante se dirigea vers la porte de l'annexe.
+
+« Prenons garde, dit Vasquez à voix basse. Il va sans doute monter au phare. »
+
+Tous deux se laissèrent glisser au fond de leur cachette.
+
+En effet, Carcante faisait une dernière fois l'ascension du phare. La goélette allait partir dans un instant. Il voulait encore observer l'horizon, et voir si quelque bâtiment ne paraissait pas en vue de l'île.
+
+D'ailleurs, la nuit serait calme, le vent avait molli avec le soir, et cela promettait un beau temps au lever du soleil.
+
+Lorsque Carcante eut atteint la galerie, John Davis et Vasquez le virent très distinctement. Il en faisait le tour, en promenant sa longue-vue vers tous les points de l'horizon.
+
+Soudain, un véritable hurlement s'échappa de sa bouche. Kongre et les autres avaient levé la tête vers lui. D'une voix qui fut entendue de tous, Carcante criait :
+
+« L'aviso… l'aviso ! »
+
+
+# Chapitre XIV. L'aviso *Santa-Fé*.
+
+Comment peindre l'agitation dont ce fond de la baie fut alors le théâtre ? … Ce cri : « l'aviso… l'aviso ! » était tombé comme un coup de foudre, comme un arrêt de mort sur la tête de ces misérables. Le *Santa-Fé*, c'était la justice qui arrivait sur l'île, c'était le châtiment de tant de crimes, auquel ils ne pourraient plus échapper !
+
+Mais Carcante n'avait-il pas fait erreur ? Ce navire qui s'approchait était-il bien l'aviso de la marine argentine ? Ce bâtiment était-il à destination de la baie d'Elgor ? Ne se dirigeait-il pas tout simplement vers le détroit de Lemaire ou vers la pointe Several pour passer au sud de l'île ?
+
+Dès que Kongre eut entendu le cri de Carcante, il remonta en courant sur le sommet du tertre, se précipita dans l'escalier du phare, atteignit la galerie en moins de cinq minutes.
+
+« Où est ce navire ? demanda-t-il.
+
+– Là… dans le nord-nord-est.
+
+– À quelle distance encore ?
+
+– Dix milles à peu près.
+
+– Il ne peut donc pas être à l'entrée de la baie avant la nuit ?
+
+– Non. »
+
+Kongre avait pris la longue-vue. Il observa le bâtiment avec une extrême attention, sans prononcer une parole.
+
+Il était certain qu'on avait affaire à un steamer. On distinguait sa fumée s'échappant en volutes épaisses, ce qui montrait qu'il poussait activement ses feux.
+
+Et, que ce steamer fût précisément l'aviso, ni Kongre ni Carcante n'en pouvaient douter. Maintes fois ils avaient vu le navire argentin pendant les travaux de construction, alors qu'il ralliait ou qu'il quittait l'Île des États. D'ailleurs, ce steamer portait directement sur la baie. Si l'intention de son capitaine eût été de donner dans le détroit de Lemaire, il aurait eu le cap plus à l'ouest, et plus au sud s'il avait voulu passer au large de la pointe Several.
+
+« Oui, dit enfin Kongre, c'est bien l'aviso !
+
+– Maudite malchance, qui nous a retenus jusqu'ici ! s'écria Carcante. Sans ces coquins, qui nous ont arrêtés par deux fois, nous serions déjà en plein Pacifique.
+
+– Tout cela, il ne sert à rien de le dire, répliqua Kongre. Il faut prendre un parti.
+
+– Lequel ?
+
+– Appareiller.
+
+– Quand ?
+
+– Immédiatement.
+
+– Mais, avant que nous soyons loin, l'aviso sera par le travers de la baie…
+
+– Oui… mais il restera dehors.
+
+– Et pourquoi ?
+
+– Parce qu'il ne pourra pas relever le feu du phare, et qu'il ne se risquera pas à remonter vers la crique au milieu de l'obscurité. »
+
+Ce raisonnement très juste que faisait Kongre, John Davis et Vasquez le faisaient aussi. Ils ne voulaient point quitter la place tant qu'ils pourraient être vus du haut de la galerie. Dans leur étroite cachette, ils exprimaient précisément la même pensée que le chef des pirates. Le phare aurait dû déjà être allumé, puisque le soleil venait de disparaître. En n'apercevant pas son feu, bien qu'il eût très probablement connaissance de l'île, le commandant Lafayate n'hésiterait-il pas à continuer sa route ? … Ne pouvant s'expliquer cette extinction, ne resterait-il pas toute la nuit à croiser au large ? … Dix fois déjà, à vrai dire, il était entré dans la baie d'Elgor, mais de jour seulement, et, n'ayant plus le phare pour lui donner la route, il ne se hasarderait certainement pas à travers cette sombre baie. D'ailleurs, il devrait penser que l'île avait été le théâtre d'événements graves, puisque les gardiens n'étaient pas à leur poste.
+
+« Mais, dit alors Vasquez, si le commandant n'a pas vu la terre, et s'il continue à marcher dans l'espérance d'apercevoir le feu, ne peut-il lui arriver ce qui est arrivé au *Century* ? Ne peut-il venir se perdre sur les récifs du cap San Juan ? »
+
+John Davis ne répondit que par un geste évasif. Il n'était que trop vrai, l'éventualité dont parlait Vasquez pouvait se produire. Sans doute le vent ne soufflait pas en tempête et le *Santa-Fé* ne se trouvait pas dans la situation du *Century.* Mais, enfin, une catastrophe était possible, à la rigueur.
+
+« Courons au littoral, reprit Vasquez. En deux heures, nous atteindrons le cap. Peut-être sera-t-il temps encore d'allumer un feu pour signaler la terre.
+
+– Non, répondit John Davis, il serait trop tard. Avant une heure peut-être l'aviso se montrera à l'ouvert de la baie.
+
+– Que faire alors ?
+
+– Attendre ! » répondit John Davis.
+
+Il était plus de six heures, et le crépuscule commençait à envelopper l'île.
+
+Cependant les préparatifs de départ étaient conduits avec la plus grande activité à bord du *Carcante.* Kongre voulait appareiller à tout prix. Dévoré d'inquiétude, il avait résolu de quitter immédiatement son mouillage. S'il ne le faisait qu'à la marée du matin, il s'exposait à rencontrer l'aviso. En voyant sortir ce navire, le commandant Lafayate ne le laisserait pas passer. Il lui donnerait ordre de mettre en panne, il interrogerait son capitaine. Assurément, il voudrait savoir pourquoi le phare n'avait pas été allumé. La présence du *Carcante* lui paraîtrait à bon droit suspecte. Lorsque la goélette serait arrêtée, il irait à bord, il ferait venir Kongre, il inspecterait son équipage, et, rien que sur la mine de ces hommes, il concevrait les plus légitimes soupçons. Il obligerait le bâtiment à virer de bord, à le suivre et le retiendrait dans la crique jusqu'à plus ample information.
+
+Alors, quand le commandant du *Santa-Fé* ne retrouverait plus les trois gardiens du phare, il ne pourrait expliquer leur absence que par un attentat dont ils auraient été victimes. Et, ne serait-il pas porté à croire que les auteurs de cet attentat devaient être les gens de ce navire qui cherchaient à s'échapper ?
+
+Enfin, une autre complication se produirait peut-être.
+
+Puisque Kongre et sa bande avaient aperçu le *Santa-Fé* au large de l'île, n'était-il pas probable, certain même, qu'ils l'avaient aperçu aussi, ceux qui, par deux fois, venaient d'attaquer le *Carcante* au moment où il allait sortir de la baie ? Ces ennemis inconnus auraient suivi tous les mouvements de l'aviso, ils seraient là à son arrivée dans la crique, et, si, parmi eux, comme il y avait lieu de le penser, se trouvait le troisième gardien, Kongre et les siens ne pourraient plus échapper au châtiment de leurs crimes.
+
+Kongre avait entrevu toutes ces éventualités et leurs conséquences. De là le parti, le seul à prendre, auquel il s'était arrêté : appareiller sur-le-champ, et, puisque le vent, qui soufflait du nord, était favorable, profiter de la nuit pour gagner le large, en forçant de toile. Alors la goélette aurait l'Océan devant elle. Il se pouvait que l'aviso, dans l'impossibilité de relever le phare, et ne voulant pas s'approcher de la terre au milieu des ténèbres, fût, à ce moment, assez éloigné de l'Île des États. S'il le fallait, pour plus de prudence encore, au lieu de se diriger vers le détroit de Lemaire, Kongre piquerait au sud, irait doubler la pointe Several, et se déroberait derrière la côte méridionale. Aussi pressait-il l'appareillage.
+
+John Davis et Vasquez, comprenant le plan des pirates, se demandaient comment ils pourraient l'empêcher de réussir, et, désespérés, ils sentaient toute leur impuissance !
+
+Vers sept heures et demie, Carcante rappela les quelques hommes encore à terre. Dès que l'équipage fut au complet à bord, on hissa le canot, et Kongre ordonna de lever l'ancre.
+
+John Davis et Vasquez entendirent le bruit régulier du linguet, tandis que la chaîne rentrait sous l'action du guindeau.
+
+Au bout de cinq minutes, l'ancre était ramenée au bossoir. Aussitôt la goélette commença son évolution. Elle avait tout dessus, basses et hautes voiles, de manière à ne rien perdre de la brise qui faiblissait. Lentement, elle sortit de la crique, et, pour mieux recevoir le vent, se maintint au milieu de la baie.
+
+Mais, bientôt, la navigation devint très difficile. La mer étant à peu près basse, la goélette n'était pas servie par le courant, et, sous cette allure, avec trois quarts de largue, elle ne gagnait guère. Elle ne gagnerait plus du tout, et peut-être même perdrait-elle, lorsque, dans deux heures, le flot s'établirait. En mettant les choses au mieux, elle ne serait pas avant minuit à la hauteur du cap San Juan.
+
+Peu importait d'ailleurs. Du moment que le *Santa-Fé* n'entrait pas dans la baie, Kongre ne risquait point d'être rencontré. Dût-il espérer la marée suivante, nul doute qu'il serait dehors au lever du jour.
+
+L'équipage ne négligeait rien pour hâter la marche du *Carcante*, mais il était désarmé contre le danger très réel qui venait de la dérive. Peu à peu, le vent repoussait le navire vers le rivage sud de la baie d'Elgor. Cette rive, que Kongre connaissait mal, il la savait pourtant très dangereuse avec le long semis de roches qui la bordaient. Une heure après le départ, il s'en crut même si rapproché qu'il lui parut prudent de virer de bord afin de s'en écarter.
+
+Ce ne serait pas sans peine que ce changement d'amures pourrait s'exécuter, par cette brise qui tombait de plus en plus avec la nuit.
+
+Cependant, la manœuvre était urgente. La barre dessous, les écoutes furent raidies à l'arrière, alors qu'on larguait celles de l'avant. Mais, faute de vitesse, la goélette ne parvint pas à lofer, et continua à dériver vers la côte.
+
+Kongre comprit le danger. Un seul moyen lui restait. Il l'employa. Le canot fut amené, six hommes y descendirent avec une aussière, et, à force d'avirons, ils parvinrent à faire évoluer la goélette, qui prit les amures à tribord. Un quart d'heure après, elle put reprendre sa direction première sans crainte d'être jetée sur les récifs du sud.
+
+Malheureusement, on ne sentait plus un souffle de vent ; les voiles battaient contre les mâts. Le canot aurait en vain essayé de remorquer le *Carcante* jusqu'à l'entrée de la baie. Tout ce qu'il aurait pu faire, c'eût été d'étaler le flot, qui commençait à se faire sentir. Quant à le remonter, il n'y fallait pas songer. Kongre allait-il être obligé de mouiller à cette place, à moins de deux milles de la crique ?
+
+Après l'appareillage, John Davis et Vasquez s'étaient relevés, et, descendus presque jusqu'à la mer, ils avaient suivi les mouvements de la goélette. La brise étant complètement tombée, ils comprirent que Kongre serait forcé de s'arrêter et d'attendre le prochain jusant. Mais il aurait toujours le temps, avant le retour de l'aube, d'atteindre l'entrée de la baie, et il lui restait de grandes chances de partir sans être aperçu.
+
+« Non ! nous le tenons ! s'écria tout à coup Vasquez.
+
+– Et comment ? demanda John Davis.
+
+– Venez… Venez ! »
+
+Vasquez entraîna rapidement son compagnon dans la direction du phare.
+
+À son avis, le *Santa-Fé* devait croiser devant l'île. Il pouvait même en être très rapproché, ce qui, après tout, ne présentait pas un bien grand danger avec cette mer calme. Nul doute que le commandant Lafayate, très surpris de l'extinction du phare, ne fût là sous petite vapeur, en attendant le lever du soleil.
+
+C'est bien aussi ce que pensait Kongre ; mais celui-ci se disait également qu'il avait les plus grandes chances de dépister l'aviso. Dès que le jusant ramènerait les eaux de la baie vers la mer, même sans avoir besoin du vent, le *Carcante* reprendrait sa marche, et, en moins d'une heure, il aurait gagné la pleine mer.
+
+Une fois dehors, Kongre ne s'éloignerait pas vers le large. Il lui suffirait d'une de ces faibles risées, qui ne peuvent manquer de se lever de temps à autre, même par les nuits les plus tranquilles, et du courant portant au sud, pour longer impunément la côte, au milieu de cette nuit très noire. Dès qu'elle aurait doublé la pointe Several, distante au plus de sept à huit milles, la goélette serait abritée par les falaises, et elle n'aurait plus rien à craindre. Le seul danger était d'être aperçu des vigies du *Santa-Fé*, s'il se tenait au-dessous de la baie, et non à la hauteur du cap San Juan. Assurément, le commandant Lafayate, si le *Carcante* était signalé à sa sortie de la baie, ne le laisserait pas s'éloigner, ne fût-ce que pour interroger son capitaine au sujet du phare. La vapeur aidant, il aurait rejoint le bâtiment fugitif avant que celui-ci n'eût disparu derrière les hauteurs du sud.
+
+Il était alors plus de neuf heures. Kongre dut se résigner à mouiller pour étaler la marée, en attendant le moment où le jusant se ferait sentir. Mais il s'en fallait de près de six heures. Ce n'est pas avant trois heures du matin que le courant lui redeviendrait favorable. La goélette évita au flot, son étrave tournée vers le large. Le canot avait été rehissé. Kongre, le moment venu, ne perdrait pas une minute pour se remettre en marche.
+
+Soudain l'équipage poussa un cri qu'on eût pu entendre des deux rivages de la baie.
+
+Un long trait de lumière venait de percer les ténèbres. Le feu du phare brillait dans tout son éclat, illuminant la mer au large de l'île.
+
+« Ah ! les coquins ! Ils sont là ! s'écria Carcante.
+
+– À terre ! » ordonna Kongre.
+
+En effet, pour échapper au pressant danger qui le menaçait, il n'avait plus que ce parti à prendre : débarquer, en ne laissant qu'un petit nombre d'hommes à bord de la goélette, courir vers l'enceinte, pénétrer dans l'annexe, gravir l'escalier de la tour, atteindre la chambre de quart, se jeter sur ce gardien, sur ses compagnons, s'il en avait, se débarrasser d'eux et éteindre le phare. Si l'aviso s'était mis en marche pour donner dans la baie, il s'arrêterait assurément… S'il s'y trouvait déjà, il essaierait d'en sortir, n'ayant plus de feu pour le guider jusqu'à la crique. Au pis aller, il mouillerait en attendant le jour.
+
+Kongre fit amener le canot. Carcante et douze des hommes y prirent place avec lui, armés de fusils, de revolvers, de coutelas. En une minute ils eurent accosté la rive, et se précipitèrent vers l'enceinte, dont ils n'étaient éloignés que d'un mille et demi.
+
+Ce trajet fut fait en un quart d'heure. Ils ne s'étaient point séparés les uns des autres. Toute la bande, moins les deux hommes laissés à bord, se trouvait réunie au pied du terre-plein.
+
+Oui… John Davis et Vasquez étaient là. Au pas de course, sans prendre aucune précaution, puisqu'ils savaient bien qu'ils ne pourraient rencontrer personne, ils avaient gravi le tertre et pénétré dans l'enceinte. Ce que voulait Vasquez, c'était rallumer le phare, afin que l'aviso pût gagner la crique sans attendre le jour. Ce qu'il craignait – et quelles craintes le dévoraient ! – c'était que Kongre eût détruit des lentilles, brisé les lampes et que l'appareil ne fût plus en état de fonctionner. Alors la goélette, selon toute probabilité, s'enfuirait sans avoir été aperçue du *Santa-Fé.*
+
+Tous deux s'élancèrent vers le logement, s'introduisirent dans le couloir, poussèrent la porte de l'escalier qu'ils refermèrent derrière eux et dont ils assujettirent tous les verrous, gravirent les marches, et atteignirent la chambre de quart…
+
+La lanterne était en bon état, les lampes à leur place, encore munies de mèches et pourvues d'huile depuis le jour où on les avait éteintes. Non ! Kongre n'avait point détruit l'appareil dioptrique de la lanterne, il n'avait pensé qu'à empêcher le fonctionnement du phare pendant tout le temps de son séjour au fond de la baie d'Elgor.
+
+Et comment aurait-il pu prévoir les circonstances dans lesquelles il serait forcé de la quitter ?
+
+Mais voici que le phare brillait de nouveau ! L'aviso pouvait sans peine reprendre son ancien mouillage.
+
+Des coups violents retentirent au pied de la tour. La bande entière se ruait contre la porte pour monter à la galerie et éteindre le feu. Tous risqueraient leur vie pour retarder l'arrivée du *Santa-Fé.* Ils n'avaient trouvé personne sur le terre-plein ni dans le logement. Ceux qui étaient dans la chambre de quart ne pouvaient être nombreux. Ils en auraient facilement raison. Ils les tueraient, et le phare ne projetterait plus dans la nuit ses redoutables rayons.
+
+On le sait, la porte qui s'ouvrait au fond du couloir était faite d'une épaisse plaque de fer. Forcer les verrous qui la fermaient sur l'escalier serait impossible. Impossible également de la faire sauter à coups d'anspects ou de haches. Carcante, qui l'essaya, le comprit bien vite. Après quelques efforts inutiles, il vint rejoindre Kongre et les autres dans l'enceinte.
+
+Que faire ? Y avait-il un moyen de s'élever par l'extérieur jusqu'à la lanterne du phare ? Si ce moyen n'existait pas, la bande n'avait plus qu'à s'enfuir à l'intérieur de l'île pour éviter de tomber entre les mains du commandant Lafayate et de son équipage. Quant à retourner à bord de la goélette, à quoi bon ? D'ailleurs, le temps manquerait. Nul doute que l'aviso ne fût maintenant dans la baie et ne fît route vers la crique.
+
+Si, au contraire, dans quelques minutes, le phare était éteint, le *Santa-Fé*, non seulement ne pouvait pas continuer sa marche, mais il serait forcé de revenir en arrière, et peut-être la goélette réussirait-elle à passer ? Or, il existait, ce moyen d'atteindre la galerie.
+
+« La chaîne du paratonnerre ! » s'écria Kongre.
+
+En effet, le long de la tour se tendait une chaîne métallique, maintenue, de trois en trois pieds, par des crampons de fer. En s'élevant de l'un à l'autre à la force des poignets, il était certainement possible de gagner la galerie et peut-être de surprendre ceux qui occupaient la chambre de quart.
+
+Kongre allait tenter ce dernier moyen de salut. Carcante et Vargas le précédèrent. Tous deux se hissèrent sur l'annexe, saisirent la chaîne et commencèrent à grimper l'un après l'autre, espérant ne pas être aperçus au milieu de l'obscurité.
+
+Ils arrivèrent enfin au garde-fou, se cramponnèrent aux montants… Ils n'avaient plus qu'à l'escalader…
+
+À cet instant, des coups de revolver retentirent. John Davis et Vasquez étaient là, sur la défensive. Les deux bandits, frappés à la tête, lâchèrent prise et vinrent s'écraser sur le toit de l'annexe.
+
+Alors des sifflets se firent entendre au pied du phare. L'aviso arrivait dans la crique, et la sirène jetait ses sons aigus à travers l'espace…
+
+Il n'était que temps de fuir. Dans quelques minutes, le *Santa-Fé* serait à son ancien mouillage.
+
+Kongre et ses compagnons, comprenant qu'il n'y avait plus rien à tenter, se précipitèrent en bas du terre-plein, et se sauvèrent à l'intérieur de l'île.
+
+Un quart d'heure plus tard, au moment où le commandant Lafayate envoyait son ancre par le fond, la chaloupe des gardiens reconquise accostait le navire de guerre en quelques coups d'aviron.
+
+John Davis et Vasquez étaient à bord de l'aviso.
+
+
+# Chapitre XV. Dénouement.
+
+L'aviso *Santa-Fé*, ayant à bord la relève de l'Île des États, avait quitté Buenos-Ayres le 19 février. Favorisée par le vent et la mer, sa traversée fut très rapide. La grande tempête qui dura près de huit jours ne s'était pas étendue au-delà du détroit de Magellan. Le commandant Lafayate n'en avait donc point ressenti les effets, et il arrivait à destination avec une avance de plusieurs jours. Douze heures plus tard, la goélette eût été loin déjà, et il aurait fallu renoncer à poursuivre la bande Kongre et son chef.
+
+Le commandant Lafayate ne laissa pas s'écouler cette nuit sans avoir été mis au courant de ce qui s'était passé depuis trois mois à la baie d'Elgor.
+
+Si Vasquez était à bord, ses camarades Felipe et Moriz n'étaient pas avec lui. Son compagnon, personne ne le connaissait et ne savait son nom.
+
+Le commandant Lafayate les fit venir tous deux dans le carré, et sa première parole fut :
+
+« Le phare a été allumé tardivement, Vasquez.
+
+– Il y a neuf semaines qu'il ne fonctionnait plus… répondit Vasquez.
+
+– Neuf semaines ! … Que signifie cela ? … Vos deux camarades ? …
+
+– Felipe et Moriz sont morts ! … Vingt et un jours après le départ du *Santa-Fé* le phare n'avait plus qu'un seul gardien, mon commandant ! »
+
+Vasquez fit le récit des événements dont l'Île des États venait d'être le théâtre. Une bande de pirates, sous les ordres d'un chef nommé Kongre, était depuis plusieurs années installée à la baie d'Elgor, attirant les navires sur les écueils du cap San Juan, recueillant les épaves, massacrant les survivants du naufrage. Personne ne soupçonna sa présence pendant toute la durée des travaux du phare, car elle s'était réfugiée au cap Saint-Barthélemy, à l'extrémité occidentale de l'île. Le *Santa-Fé* reparti, les gardiens restés seuls au service du phare, la bande Kongre remonta la baie d'Elgor sur une goélette tombée par hasard en sa possession. Quelques minutes après son entrée dans la crique, Moriz et Felipe étaient frappés et tués à son bord. Et, si Vasquez put échapper, c'est qu'il se trouvait à ce moment dans la chambre de quart. Après l'avoir quittée, il s'était réfugié sur le littoral du cap San Juan. Là, il put se nourrir des provisions découvertes dans une caverne où ces pirates emmagasinaient leurs réserves.
+
+Puis Vasquez dit comment, après le naufrage du *Century*, il fut assez heureux pour sauver le second de ce bâtiment, et comment tous deux vécurent en attendant l'arrivée du *Santa-Fé.* Leur plus vif espoir fut alors que la goélette, retardée par des réparations importantes, ne pût prendre la mer pour gagner les parages du Pacifique, avant le retour de l'aviso dans les premiers jours de mars.
+
+Mais elle eût pourtant quitté l'île si les deux boulets que John Davis envoya dans sa coque ne l'eussent retenue quelques jours encore.
+
+Vasquez arrêtait là son récit, faisant le silence sur ce qui était plus spécialement à son honneur. John Davis intervint :
+
+« Ce que Vasquez oublie de vous dire, mon commandant, ajouta-t-il, c'est que nos deux boulets se sont trouvés tout à fait insuffisants. Malgré les trous que nous lui avions faits dans la coque, la *Maule* eût repris la mer ce matin même si, la nuit dernière, Vasquez, au péril de sa vie, ne l'avait rejointe à la nage et n'avait fait éclater une cartouche entre le gouvernail et l'étambot du bâtiment. À vrai dire, il n'obtint pas tout le résultat qu'il espérait. Les avaries furent légères et purent être réparées en douze heures. Mais ce sont ces douze heure-là qui vous ont permis de trouver la goélette dans la baie. C'est à Vasquez seul que cela est dû, comme c'est encore lui qui, ayant reconnu l'aviso, a eu l'idée de courir au phare et de rallumer ce soir le feu éteint depuis si longtemps. »
+
+Le commandant Lafayate serra chaleureusement la main à John Davis et à Vasquez, qui, par leur audacieuse intervention, avaient permis au *Santa-Fé* de devancer le départ de la goélette, puis il raconta dans quelles conditions, une heure avant le coucher du soleil, l'aviso avait eu connaissance de l'Île des États.
+
+Le commandant Lafayate, ayant fait le point dans la matinée, était sûr de sa position. L'aviso n'avait qu'à prendre direction sur le cap San Juan, qu'il devait apercevoir avant la nuit.
+
+En effet, à l'heure où le crépuscule commençait à obscurcir le ciel, le commandant Lafayate distingua très nettement sinon la côte est de l'île, du moins les hauts pics qui se dressent en arrière-plan. Il s'en trouvait alors à une dizaine de milles, et il comptait bien être au mouillage deux heures plus tard.
+
+C'est à ce moment même que le *Santa-Fé* avait été aperçu par John Davis et Vasquez. C'est alors aussi que Carcante, du haut du phare, le signala à Kongre, lequel prit ses dispositions pour appareiller en toute hâte, afin de sortir de la baie avant que le *Santa-Fé* n'y fût entré.
+
+Pendant ce temps, le *Santa-Fé* continuait à courir vers le cap San Juan… La mer était calme et sentait à peine les derniers souffles de la brise du large.
+
+Assurément, avant que le Phare du bout du Monde n'eût été établi sur l'Île des États, le commandant Lafayate n'eût pas commis l'imprudence de s'approcher si près de terre pendant la nuit, encore moins de donner dans la baie d'Elgor pour gagner la crique.
+
+Mais la côte et la baie étaient éclairées maintenant, et il ne lui parut pas nécessaire d'attendre au lendemain.
+
+L'aviso continua donc sa route vers le sud-ouest, et, quand la nuit fut tout à fait sombre, il était parvenu à moins d'un mille de l'entrée de la baie d'Elgor.
+
+L'aviso se tenait là sous petite vapeur, attendant que le phare voulût bien s'allumer.
+
+Une heure s'écoula. Aucun feu ne parut sur l'île. Le commandant Lafayate ne pouvait se tromper sur sa position… La baie d'Elgor s'ouvrait bien devant lui… Il était bien en dedans de la portée du phare… Et le phare ne s'allumait pas ! …
+
+Que dut-on penser à bord de l'aviso, si ce n'est qu'un accident était arrivé à l'appareil ? Peut-être, pendant la dernière tempête qui fut si violente, la lanterne avait-elle été brisée, les lentilles endommagées, les lampes mises hors de service. Jamais, non, jamais, il ne serait venu à l'idée de personne que les trois gardiens eussent été attaqués par une bande de pirates, que deux d'entre eux fussent tombés sous les coups de ces assassins, et que le troisième eût été obligé de s'enfuir pour éviter leur sort.
+
+« Je ne savais que faire, dit alors le commandant Lafayate. La nuit était profonde. Je ne pouvais me hasarder à donner dans la baie. Il me faudrait donc rester au large jusqu'à l'aube. Mes officiers, mon équipage, nous étions dans une mortelle inquiétude, et nous pressentions quelque malheur. Enfin, après neuf heures, le phare brilla… Ce retard ne devait être dû qu'à un accident… Je fis monter la pression, le cap fut mis sur l'entrée de la baie. Une heure plus tard, le *Santa-Fé* y pénétra. À un mille et demi de la crique, je rencontrai une goélette à l'ancre, qui paraissait abandonnée… J'allais envoyer quelques hommes à bord, lorsque des coups de feu éclatèrent, et ces coups de feu étaient tirés de la galerie du phare ! … Nous comprîmes que nos gardiens étaient attaqués, qu'ils se défendaient, et, probablement, contre l'équipage de cette goélette… Je fis mugir la sirène, pour effrayer les agresseurs… et, un quart d'heure après, le *Santa-Fé* était au mouillage.
+
+– À temps, mon commandant, dit Vasquez.
+
+– Ce qu'il n'aurait pu faire, répondit le commandant Lafayate, si vous n'aviez pas risqué votre vie pour rallumer le phare. Maintenant, la goélette serait en mer. Nous ne l'aurions sans doute pas aperçue au sortir de la baie, et cette bande de pirates nous eût échappé ! »
+
+Toute cette histoire en un instant connue à bord de l'aviso, les félicitations les plus chaudes ne furent épargnées ni à Vasquez, ni à John Davis.
+
+La nuit se passa tranquillement, et, le lendemain, Vasquez fit connaissance avec les trois gardiens de la relève que le *Santa-Fé* amenait à l'Île des États.
+
+Il va sans dire que, pendant la nuit, un fort détachement de matelots avait été envoyé à la goélette pour en prendre possession. Kongre, sans cela, eût certainement cherché à s'y rembarquer, et, avec le jusant, il aurait rapidement gagné le large.
+
+Le commandant Lafayate, pour assurer la sécurité des nouveaux gardiens, ne devait donc plus avoir qu'un objectif : purger l'île des bandits qui l'infestaient, et qui, après la mort de Carcante et de Vargas, étaient encore au nombre de treize, compris un chef réduit au désespoir.
+
+Étant donné l'étendue de l'île, les poursuites risquaient d'être longues et même de ne point aboutir. Comment l'équipage du *Santa-Fé* parviendrait-il à la fouiller tout entière ?
+
+Assurément Kongre et ses compagnons ne commettraient pas l'imprudence de retourner au cap Saint-Barthélemy, le secret de cette retraite pouvant avoir été surpris. Mais ils disposaient du reste de l'île, et des semaines, des mois s'écouleraient peut-être avant que la bande n'eût été capturée jusqu'au dernier homme. Et pourtant le commandant Lafayate n'aurait point consenti à quitter l'Île des États, avant d'avoir mis les gardiens à l'abri de toute agression, et d'avoir assuré le fonctionnement régulier du phare.
+
+Ce qui pouvait, il est vrai, amener un plus prompt résultat, c'était le dénuement dans lequel Kongre et les siens allaient se trouver. De provisions, il ne leur en restait plus, ni dans la caverne du cap Saint-Barthélemy, ni dans celle de la baie d'Elgor.
+
+Le commandant Lafayate, guidé par Vasquez et John Davis, constata le lendemain dès l'aube que cette dernière, tout au moins, ne contenait aucune réserve, ni en biscuit, ni en salaisons, ni en conserves d'aucune sorte. Tout ce qui restait de vivres avait été transporté à bord de la goélette, qui fut reconduite à la crique par les marins de l'aviso. La caverne ne renfermait plus que des épaves sans grande valeur, literie, vêtements, ustensiles qui furent déposés dans le logement du phare. En admettant que Kongre fût revenu dans la nuit à l'ancien entrepôt de son butin, il n'y aurait rien trouvé de ce qui aurait pu servir à la nourriture de sa bande. Il ne devait même pas avoir d'armes de chasse à sa disposition, étant donné la quantité de fusils et de munitions de ce genre que l'on découvrit à bord du *Carcante.* Il en serait réduit au seul produit de la pêche. Dans de telles conditions, ou ses compagnons et lui se verraient forcés de se rendre, ou ils ne tarderaient pas à mourir de faim.
+
+Cependant les recherches furent aussitôt commencées. Des détachements de matelots, sous les ordres d'un officier ou d'un maître, se dirigèrent, les uns vers l'intérieur de l'île, les autres vers le littoral. Le commandant Lafayate se transporta même au cap Saint-Barthélemy, où on ne reconnut aucune trace de la bande.
+
+Plusieurs jours se passèrent, et pas un des pirates n'avait été signalé, lorsque, dans la matinée du 10 mars, arrivèrent à l'enceinte sept misérables Pécherais, hâves, amaigris, épuisés, que la faim torturait. Recueillis à bord du *Santa-Fé*, où on les réconforta, ils furent mis dans l'impossibilité de fuir.
+
+Quatre jours plus tard, le second Riegal, qui visitait la côte méridionale dans les environs du cap Webster, y découvrit cinq cadavres, parmi lesquels Vasquez put encore reconnaître deux des Chiliens de la bande.
+
+Les débris trouvés sur le sol autour d'eux permirent de constater qu'ils avaient essayé de se nourrir de poissons et de crustacés ; mais nulle part ni trace de foyer, ni charbons éteints, ni cendre. Ils n'avaient plus évidemment aucun moyen de se procurer du feu.
+
+Enfin, dans la soirée du lendemain, un peu avant le coucher du soleil, un homme apparut au milieu des rochers bordant la crique, à moins de cinq cents mètres du phare.
+
+C'était presque à la place d'où John Davis et Vasquez, redoutant le départ de la goélette, l'avaient observée la veille de l'arrivée de l'aviso, dans cette soirée au cours de laquelle ce dernier s'était résolu à tenter un suprême effort.
+
+Cet homme c'était Kongre.
+
+Vasquez qui se promenait dans l'enceinte avec les nouveaux gardiens, le reconnut aussitôt, et s'écria :
+
+« Le voilà ! … le voilà ! … »
+
+À ce cri, le commandant Lafayate, qui arpentait la grève avec le second, se hâta d'accourir.
+
+John Davis et quelques matelots s'étaient élancés à sa suite, et tous, réunis sur le terre-plein, purent voir ce chef survivant seul de la bande qu'il commandait.
+
+Que venait-il faire en cet endroit ? Pourquoi se montrait-il ? Son intention était-elle de se rendre ? Il ne devait cependant point se méprendre sur le sort qui l'attendait. Il serait emmené à Buenos-Ayres et paierait de sa tête toute une existence de vols et de meurtres.
+
+Kongre demeurait immobile sur un rocher plus élevé que les autres et contre lequel la mer venait doucement se briser. Ses regards parcouraient la crique. Près de l'aviso, il pouvait apercevoir cette goélette que la chance lui avait si opportunément envoyée au cap Saint-Barthélemy, et qu'une chance contraire lui avait reprise. Que de pensées devaient se presser dans son cerveau ! Que de regrets ! Sans l'arrivée de l'aviso, il eût été depuis longtemps dans les mers du Pacifique, où il lui eût été si facile de se soustraire à toutes poursuites et de s'assurer l'impunité…
+
+On le comprendra, le commandant Lafayate tenait à s'emparer de Kongre.
+
+Il donna des ordres, et le second Riegal, suivi d'une demi-douzaine de matelots, se glissa hors de l'enceinte, afin de gagner le bois de hêtres, d'où, en remontant la barrière rocheuse, il leur serait facile d'atteindre le bandit.
+
+Vasquez guidait cette petite troupe par le plus court.
+
+Ils n'avaient pas fait cent pas au-delà du terre-plein, qu'une détonation retentit et qu'un corps, projeté dans le vide, venait s'abîmer dans la mer au milieu d'un rejaillissement d'écume.
+
+Kongre avait tiré un revolver de sa ceinture, il l'avait appuyé à son front…
+
+Le misérable s'était fait justice, et maintenant la marée descendante entraînait son cadavre vers le large.
+
+Tel fut le dénouement de ce drame de l'Île des États.
+
+Il va sans dire que, depuis la nuit du 3 mars, le phare n'avait pas cessé de fonctionner.
+
+Les nouveaux gardiens avaient été mis au courant du service par Vasquez.
+
+À présent, il ne restait plus un seul homme de la bande des pirates.
+
+John Davis et Vasquez allaient tous deux embarquer sur l'aviso qui retournait à Buenos-Ayres ; de là, le premier serait rapatrié à Mobile, où il ne tarderait sans doute pas à obtenir un commandement, que lui méritaient son énergie, son courage et sa valeur personnelle.
+
+Quant à Vasquez, il irait dans sa ville natale se reposer de tant d'épreuves si résolument supportées… Mais il y reviendrait seul, ses pauvres camarades n'y rentreraient pas avec lui !
+
+Ce fut dans l'après-midi du 18 mars que le commandant Lafayate, certain désormais de la sécurité des nouveaux gardiens, donna le signal du départ. Le soleil se couchait comme il sortait de la baie.
+
+Aussitôt, là-bas, sur le rivage, une lumière jaillit, dont le reflet dansa dans le sillage. Et l'aviso, s'éloignant sur la mer assombrie, semblait emporter avec lui quelques-uns des rayons innombrables que projetait de nouveau le Phare du bout du Monde.
+
+-------
+
+
+[1] Environ 19 kilomètres.
+
+[2] Depuis, à la suite du partage de la Magellanie, en 1881, l'Île des États dépend de la République Argentine.
+
+[3] Environ 19 kilomètres.

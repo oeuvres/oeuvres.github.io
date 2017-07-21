@@ -2,6 +2,16 @@
 
 **** *book_ *id_body-1 *date_1637 *creator_descartes
 
+Si ce discours semble trop long pour être tout lu en une fois, on le pourra distinguer en six parties.
+Et, en la première, on trouvera diverses considérations touchant les sciences.
+En la seconde, les principales règles de la méthode que l'auteur a cherchée.
+En la 3, quelques-unes de celles de la morale qu'il a tirée de cette méthode.
+En la 4, les raisons par lesquelles il prouve l'existence de Dieu et de l'âme humaine, qui sont les fondements de sa métaphysique.
+En la 5, l'ordre des questions de physique qu'il a cherchées, et particulièrement l'explication du mouvement du cœur et de quelques autres difficultés qui appartiennent à la médecine, puis aussi la différence qui est entre notre âme et celle des bêtes.
+Et en la dernière, quelles choses il croit être requises pour aller plus avant en la recherche de la nature qu'il n'a été, et quelles raisons l'ont fait écrire.
+
+**** *book_ *id_body-2 *date_1637 *creator_descartes
+
 PREMIÈRE PARTIE
 
 Le bon sens est la chose du monde la mieux partagée : car chacun pense en être si bien pourvu, que ceux même qui sont les plus difficiles à contenter en toute autre chose, n'ont point coutume d'en désirer plus qu'ils en ont.
@@ -65,7 +75,7 @@ En sorte que le plus grand profit que j'en retirais était que, voyant plusieurs
 Mais après que j'eus employé quelques années à étudier ainsi dans le livre du monde et à tâcher d'acquérir quelque expérience, je pris un jour résolution d'étudier aussi en moi-même, et d'employer toutes les forces de mon esprit à choisir les chemins que je devais suivre.
 Ce qui me réussit beaucoup mieux, ce me semble, que si je ne me fusse jamais éloigné, ni de mon pays, ni de mes livres.
 
-**** *book_ *id_body-2 *date_1637 *creator_descartes
+**** *book_ *id_body-3 *date_1637 *creator_descartes
 
 SECONDE PARTIE
 
@@ -132,7 +142,7 @@ Mais ce qui me contentait le plus de cette méthode était que, par elle, j'éta
 Non que, pour cela, j'osasse entreprendre d'abord d'examiner toutes celles qui se présenteraient; car cela même eût été contraire à l'ordre qu'elle prescrit.
 Mais, ayant pris garde que leurs principes devaient tous être empruntés de la philosophie, en laquelle je n'en trouvais point encore de certains, je pensai qu'il fallait, avant tout, que je tâchasse d'y en établir; et que, cela étant la chose du monde la plus importante, et où la précipitation et la prévention étaient le plus à craindre, je ne devais point entreprendre d'en venir à bout, que je n'eusse atteint un âge bien plus mûr que celui de vingt-trois ans, que j'avais alors; et que je n'eusse, auparavant, employé beaucoup de temps à m'y préparer, tant en déracinant de mon esprit toutes les mauvaises opinions que j'y avais reçues avant ce temps-là, qu'en faisant amas de plusieurs expériences, pour être après la matière de mes raisonnements, et en m'exerçant toujours en la méthode que je m'étais prescrite, afin de m'y affermir de plus en plus.
 
-**** *book_ *id_body-3 *date_1637 *creator_descartes
+**** *book_ *id_body-4 *date_1637 *creator_descartes
 
 TROISIÈME PARTIE
 
@@ -174,7 +184,7 @@ Toutefois, ces neuf ans s'écoulèrent avant que j'eusse encore pris aucun parti
 Et l'exemple de plusieurs excellents esprits, qui, en ayant eu ci-devant le dessein, me semblaient n'y avoir pas réussi, m'y faisait imaginer tant de difficulté, que je n'eusse peut-être pas encore sitôt osé l'entreprendre, si je n'eusse vu que quelques-uns faisaient déjà courre le bruit que j'en étais venu à bout. je ne saurais pas dire sur quoi ils fondaient cette opinion; et si j'y ai contribué quelque chose par mes discours, ce doit avoir été en confessant plus ingénument ce que j'ignorais, que n'ont coutume de faire ceux qui ont un peu étudié, et peut-être aussi en faisant voir les raisons que j'avais de douter de beaucoup de choses que les autres estiment certaines, plutôt qu'en me vantant d'aucune doctrine.
 Mais ayant le cœur assez bon pour ne vouloir point qu'on me prît pour autre que je n'étais, je pensai qu'il fallait que je tâchasse, par tous moyens, a me rendre digne de la réputation qu'on me donnait; et il y a justement huit ans, que ce désir me fit résoudre à m'éloigner de tous les lieux où je pouvais avoir des connaissances, et à me retirer ici, en un pays où la longue durée de la guerre a fait établir de tels ordres, que les armées qu'on y entretient ne semblent servir qu'à faire qu'on y jouisse des fruits de la paix avec d'autant plus de sûreté, et où parmi la foule d'un grand peuple fort actif, et plus soigneux de ses propres affaires que curieux de celles d'autrui, sans manquer d'aucune des commodités qui sont dans les villes les plus fréquentées, j'ai pu vivre aussi solitaire et retiré que dans les déserts les plus écartés.
 
-**** *book_ *id_body-4 *date_1637 *creator_descartes
+**** *book_ *id_body-5 *date_1637 *creator_descartes
 
 QUATRIÈME PARTIE
 
@@ -231,7 +241,7 @@ Comme, encore que nous voyons le soleil très clairement, nous ne devons pas jug
 Mais elle nous dicte bien que toutes nos idées ou notions doivent avoir quelque fondement de vérité; car il ne serait pas possible que Dieu, qui est tout parfait et tout véritable, les eût mises en nous sans cela.
 Et parce que nos raisonnements ne sont jamais si évidents ni si entiers pendant le sommeil que pendant la veille, bien que quelquefois nos imaginations soient alors autant ou plus vives et expresses, elle nous dicte aussi que nos pensées ne pouvant être toutes vraies, à cause que nous ne sommes pas tout parfaits, ce qu'elles ont de vérité doit infailliblement se rencontrer en celles que nous avons étant éveillés, plutôt qu'en nos songes.
 
-**** *book_ *id_body-5 *date_1637 *creator_descartes
+**** *book_ *id_body-6 *date_1637 *creator_descartes
 
 CINQUIÈME PARTIE
 
@@ -319,7 +329,7 @@ C'est aussi une chose fort remarquable que, bien qu'il y ait plusieurs animaux q
 J'avais décrit, après cela, l'âme raisonnable, et fait voir qu'elle ne peut aucunement être tirée de la puissance de la matière, ainsi que les autres choses dont j'avais parlé, mais qu'elle doit expressément être créée; et comment il ne suffit pas qu'elle soit logée dans le corps humain, ainsi qu'un pilote en son navire, sinon peut-être pour mouvoir ses membres, mais qu'il est besoin qu'elle soit jointe et unie plus étroitement avec lui pour avoir, outre cela, des sentiments et des appétits semblables aux nôtres, et ainsi composer un vrai homme.
 Au reste, je me suis ici un peu étendu sur le sujet de l'âme, à cause qu'il est des plus importants; car, après l'erreur de ceux qui nient Dieu, laquelle je pense avoir ci-dessus assez réfutée, il n'y en a point qui éloigne plutôt les esprits faibles du droit chemin de la vertu, que d'imaginer que l'âme des bêtes soit de même nature que la nôtre, et que, par conséquent, nous n'avons rien à craindre, ni à espérer, après cette vie, non plus que les mouches et les fourmis; au lieu que, lorsqu'on sait combien elles diffèrent, on comprend beaucoup mieux les raisons, qui prouvent que la nôtre est d'une nature entièrement indépendante du corps et, par conséquent, qu'elle n'est point sujette à mourir avec lui; puis, d'autant qu'on ne voit point d'autres causes qui la détruisent, on est naturellement porté à juger de là qu'elle est immortelle.
 
-**** *book_ *id_body-6 *date_1637 *creator_descartes
+**** *book_ *id_body-7 *date_1637 *creator_descartes
 
 SIXIÈME PARTIE
 

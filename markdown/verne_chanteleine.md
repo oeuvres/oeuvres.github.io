@@ -1,0 +1,2516 @@
+---
+identifier: verne_chanteleine  
+creator: Verne, Jules (1828-1905)  
+date: 1864  
+title: Le comte de Chanteleine   
+---
+
+
+
+
+# Chapitre I. Dix mois d'une guerre héroïque.
+
+Le 24 février 1793, la Convention nationale décréta une levée supplémentaire de trois cent mille hommes pour résister à la coalition étrangère ; le 10 mars suivant, le tirage des conscrits devait avoir lieu à Saint-Florent, en Anjou, pour le contingent de cette commune.
+
+Ni la proscription des nobles, ni la mort de Louis XVI n'avaient pu émouvoir les paysans de l'Ouest ; mais la dispersion de leurs prêtres, la violation de leurs églises, l'intronisation des curés assermentés dans les paroisses, et enfin cette dernière mesure de la conscription, les poussèrent à bout.
+
+– Puisqu'il faut mourir, mourons chez nous ! s'écrièrent-ils.
+
+Ils se jetèrent sur les commissaires de la Convention, et, armés de leurs bâtons, ils mirent en pleine déroute la milice rassemblée pour protéger le tirage.
+
+Ce jour-là, la guerre de Vendée venait de commencer ; le noyau de l'armée catholique et royale se formait sous la direction du voiturier Cathelineau et du garde-chasse Stofflet.
+
+Le 14 mars, la petite troupe s'empara du château de Jallais, défendu par les soldats du 84*e* et par la garde nationale de Charonnes. Là, fut enlevé aux républicains ce premier canon de l'armée catholique, qui fut baptisé *Le Missionnaire*.
+
+– À cela il faut une suite, dit Cathelineau à ses camarades.
+
+Cette suite fut la guerre de ces paysans, qui mirent aux abois les meilleures troupes de la République.
+
+Après le coup de main du château de Jallais, les deux chefs vendéens s'emparèrent de Chollet, et firent des cartouches avec les gargousses des canons républicains. Le mouvement gagna, dès lors, les provinces du Poitou et de l'Anjou ; à la fin de mars, Chantonnay fut pillé, Saint-Fulgent pris. Pâques approchait ; les paysans se séparèrent pour aller accomplir leurs devoirs religieux, cuire du pain et changer leurs sabots usés à poursuivre les Bleus.
+
+En avril, l'insurrection recommença : les gars du Marais et ceux du Bocage se rassemblèrent sous les ordres de MM. de Charette, de Bonchamps, d'Elbée, de la Rochejaquelein, de Lescure, de Marigny. Des gentilshommes bretons vinrent se jeter dans le mouvement, et parmi eux, l'un des plus braves, l'un des meilleurs, le comte Humbert de Chanteleine ; il quitta son château, et rejoignit l'armée catholique, forte alors de cent mille hommes.
+
+Le comte de Chanteleine, toujours au premier rang, fut pendant dix mois de toutes les victoires comme de toutes les défaites, vainqueur à Fontenay, à Thouars, à Saumur, à Bressuire, vaincu au siège de Nantes, où mourut le généralissime Cathelineau.
+
+Bientôt, toutes les provinces de l'Ouest furent soulevées.
+
+Les Blancs marchèrent alors de victoire en victoire, et ni Aubert Dubayet, ni Kléber avec ses terribles Mayençais, ni les troupes du général Canclaux ne purent résister à leur indomptable ardeur.
+
+La Convention, effrayée, ordonna de détruire le sol de la Vendée et d'en chasser les « populations ». Le général Santerre demanda des mines pour faire sauter le pays, et des fumées soporifiques pour l'étouffer ; il voulait procéder par l'asphyxie générale. Les Mayençais furent chargés de « créer le désert » décrété par le Comité de salut public.
+
+Les troupes royales, à ces nouvelles, devinrent terribles ; le comte de Chanteleine commandait alors un corps de cinq mille hommes ; il se battit en héros à Doué, aux Ponts-de-Cé, à Torfou, à Montaigu. Mais enfin, l'heure des revers sonna.
+
+Le 9 octobre, de Lescure fut vaincu à Châtillon ; le 15, les Vendéens étaient chassés de Chollet ; quelques jours plus tard, Bonchamps et d'Elbée tombaient frappés à mort. Marigny et Chanteleine firent des prodiges de valeur, mais les colonnes républicaines les serraient de près ; il fallut songer alors à repasser la Loire avec une armée fugitive qui comptait encore quarante mille hommes en état de combattre.
+
+Le fleuve fut franchi au milieu d'une extrême confusion. Chanteleine et les siens rallièrent l'armée de La Rochejaquelein, qui venait d'être nommé généralissime, et là, malgré Kléber, les Blancs remportèrent une grande victoire devant Lavai, la dernière de cette héroïque campagne.
+
+En effet, les Blancs étaient désorganisés. Chanteleine travailla de son mieux à refaire l'armée royale ; il n'en avait ni le temps ni les moyens. Marceau venait d'être nommé général en chef par le Comité de salut public, et il poursuivait les royalistes avec une extrême vigueur. La Rochejaquelein, Marigny, Chanteleine, durent se replier sur le Mans, puis se rejeter dans Lavai, d'où ils furent chassés une troisième fois, et fuir enfin vers Ancenis, afin de repasser sur la rive gauche de la Loire.
+
+Mais pas un pont, pas un bateau ; la masse désespérée des paysans descendit la rive droite du fleuve, et, ne pouvant regagner la Vendée, les fuyards n'eurent d'autre ressource que de se jeter sur la Bretagne. À Blain, ils remportèrent un dernier avantage d'arrière-garde, et se précipitèrent vers Savenay.
+
+Le comte de Chanteleine n'avait pas un seul instant failli à son devoir ; ce fut pendant la journée du 22 décembre que Marigny et lui, suivis d'une foule effarée, arrivèrent devant la ville ; ils s'embusquèrent avec une poignée de Vendéens dans deux petits bois qui couvrent Savenay.
+
+– C'est ici qu'il faut mourir, dit Chanteleine.
+
+Quelques heures plus tard, parurent Kléber et l'avant-garde républicaine ; le général lança trois compagnies sur les gars de Marigny et de Chanteleine ; malgré leurs efforts opiniâtres, il les débusqua et les força de rentrer dans la ville. Puis il s'arrêta, et ne fit plus un pas en avant. Marceau et Westerman le pressèrent d'attaquer ; mais Kléber, voulant donner le temps à toute l'armée royale de se concentrer dans Savenay, ne bougea pas. Il disposa ses troupes en croissant, sur les hauteurs voisines, et il attendit patiemment l'heure d'écraser les Blancs d'un seul coup.
+
+La nuit qui vint fut sinistre et silencieuse. On sentait que le dénouement de cette guerre était proche. Les chefs royalistes se réunirent dans un conseil suprême. Il n'y avait plus rien à attendre que de l'énergie du désespoir ; pas de quartier à espérer, pas de reddition à tenter, toute fuite impossible, il fallait donc se battre, et, pour mieux se battre, attaquer.
+
+Le lendemain, le 23 décembre, ou, pour parler le langage du calendrier républicain, le 3 nivôse de l'an II, à huit heures du matin, les Blancs se jetèrent sur les Bleus.
+
+Il faisait un temps affreux ; une pluie froide et glaciale tombait à torrents ; les marais étaient chargés de brouillards ; la Loire disparaissait sous la brume ; le combat allait se livrer dans la boue.
+
+Quoique inférieurs en nombre, les Vendéens attaquèrent avec une irrésistible ardeur. Aux cris de *Vive le roi* ! répondaient les cris de *Vive la République* ! Le choc fut terrible ; l'avant-garde républicaine plia ; le désordre se mit dans les premiers rangs des Bleus, qui refluèrent jusqu'au quartier général de Kléber. Les munitions vinrent à leur manquer.
+
+– Nous n'avons plus de cartouches ! crièrent quelques soldats à leur général.
+
+– Eh bien ! les enfants, à coups de crosse ! répondit Kléber.
+
+Et en même temps il lança un bataillon du 31*e* ; les chevaux manquaient comme les munitions ; mais le général républicain, faisant une cavalerie de son état-major, jeta ses officiers sur l'ennemi.
+
+Les Blancs commencèrent alors à rompre, il leur fallut rentrer dans Savenay ou ils furent poursuivis à outrance En vain firent-ils des prodiges de valeur, ils durent céder au nombre. Piron, Lyrot furent tués, les armes à la main. Fleuriot, après avoir vainement essayé de rallier ses bandes éparses, dut percer l'armée républicaine pour se précipiter avec une poignée d'hommes dans les forêts voisines.
+
+Pendant ce temps Marigny et Chanteleine luttaient avec désespoir ; mais les rangs des paysans s'éclaircissaient, la mort et la fuite creusaient des vides.
+
+– Tout est perdu ! dit Marigny au comte de Chanteleine, qui combattait en héros à ses côtés.
+
+Le comte était un homme âgé de quarante-cinq ans à peu près, d'une belle stature, la figure noble, hardie, mais triste sous la poudre et le sang, superbe à voir, malgré ses vêtements souillés ; il tenait d'une main un pistolet déchargé, de l'autre son sabre sanglant et faussé ; il venait de rejoindre Marigny, après avoir fait une trouée dans les rangs républicains.
+
+– Il n'y a plus à nous défendre, dit Marigny.
+
+– Non ! non ! répondit le comte avec un geste de désespoir, mais ces femmes, ces enfants, ces vieillards dont regorge la ville, les abandonnerons-nous ?
+
+– Non pas, Chanteleine ! mais où les diriger ?
+
+– Sur la route de Guérande.
+
+– Va donc ! entraîne-les à ta suite.
+
+– Mais toi !
+
+– Moi ! je vous protégerai tous de mes derniers coups de canon.
+
+– Au revoir, Marigny.
+
+– Adieu, Chanteleine.
+
+Les deux officiers se serrèrent la main. Chanteleine se précipita dans la ville, et bientôt une longue colonne de fuyards quitta Savenay sous ses ordres en descendant vers Guérande.
+
+– À moi, les gars ! avait crié Marigny en se séparant de son compagnon d'armes.
+
+À ce cri, les paysans rallièrent leur chef, traînant avec eux deux pièces de huit ; Marigny les établit sur une hauteur, de manière à couvrir la retraite ; deux mille hommes, les seuls survivants de son armée, l'entouraient, prêts à se faire hacher.
+
+Mais ils ne purent tenir contre la masse des républicains. Après deux heures d'une lutte suprême, les derniers Blancs, décimés, durent se débander, et ils s'élancèrent à travers la campagne.
+
+Ce jour-là, 23 décembre 1793, la grande armée catholique et royale avait fini d'exister.
+
+
+# Chapitre II. La route de Guérande.
+
+Une immense foule effrayée, éperdue, fuyait du côté de Guérande ; elle descendait les pentes de la ville comme un torrent, se heurtant aux angles, et rejaillissait au-delà du talus. Plus d'un achevait là de mourir, que le sabre des Bleus avait mutilé pendant la bataille. La confusion était inexprimable.
+
+Cependant, en moins d'une heure, la ville fut entièrement évacuée ; la résistance de Marigny avait donné aux fuyards le temps de rassembler femmes, vieillards, enfants et de les pousser sur la route. Ils pouvaient entendre au-dessus de leur tête le canon qui protégeait la retraite. Mais quand celui-ci vint à se taire, les Blancs accueillirent son silence par des cris de désespoir. Ils allaient avoir à leurs trousses toute l'armée ennemie. En effet, des coups de fusil plus nombreux, plus rapprochés, éclatèrent bientôt sur les flancs de la longue colonne, et les malheureux tombèrent en grand nombre pour ne plus se relever.
+
+Le spectacle de cette débandade est impossible à décrire ; la pluie redoublait au milieu d'un brouillard illuminé çà et là par les coups de feu, d'immenses mares d'eau mêlées d'un sang vif coupaient la route. Mais, coûte que coûte, il fallait les franchir. La seule chance de salut était en avant ; à droite, des marais immenses, à gauche, le fleuve grossi et débordé ; impossible de s'écarter de la ligne droite, et si quelque royaliste désespéré se fût jeté du côté de la Loire, il eût trouvé ses bords encore encombrés des cadavres de Carrier.
+
+Les généraux républicains harcelaient les fugitifs, les décimant ou les dispersant ; les blessés, les vieillards, les femmes retardaient la marche du funèbre convoi ; des enfants nés de la veille étaient exposés nus à toutes les rigueurs de la saison ; les mères n'avaient pas de quoi les couvrir ; la faim et le froid ajoutaient leurs tortures à toutes ces souffrances ; les bestiaux qui fuyaient par la même route dominaient la tempête de leurs mugissements, et souvent, pris d'insurmontables terreurs, ils donnaient tête baissée à travers les groupes et faisaient de leurs cornes des trouées sanglantes dans la foule.
+
+Là, au milieu de cet encombrement, les rangs, les classes, tout se confondait ; un grand nombre de jeunes femmes des plus nobles familles de la Vendée, de l'Anjou, du Poitou, de la Bretagne, celles qui avaient suivi leurs frères, leurs pères, leurs maris pendant la grande guerre, partageaient la souffrance des plus humbles paysannes. Quelques-unes de ces vaillantes filles, d'une bravoure à toute épreuve, protégeaient elles-mêmes les flancs de la colonne. Souvent, l'une d'elles s'écriait :
+
+– Au feu ! les Vendéennes !
+
+Alors, à la façon des Blancs, elles *s'égayaient* parmi les halliers de la route, et faisaient le coup de fusil avec les soldats républicains.
+
+Cependant, la nuit approchait ; le comte de Chanteleine, sans songer à lui, encourageait ces infortunés ; il relevait les uns qui s'embourbaient, les autres que trahissaient leurs forces ; il se demandait si l'obscurité protégerait les fuyards ou permettrait à leurs ennemis de les achever. Son cœur saignait à la vue de tant de souffrances, et des larmes lui venaient aux yeux ; il ne pouvait accoutumer ses regards à ce sinistre spectacle.
+
+Pourtant, il en avait bien vu, pendant cette guerre de dix mois ; au premier soulèvement de Saint-Florent, quittant son château de Chanteleine, sa femme, sa fille, tout ce qu'il aimait, il vola à la défense de l'autel. Audacieux, dévoué, héroïque, le premier au feu à tous les combats de l'armée royale, il était de ces gens qui firent dire au général Beaupuy :
+
+– Des troupes qui ont vaincu de tels Français peuvent se flatter de vaincre tous les peuples de l'Europe réunis contre un seul.
+
+Cependant, sa tâche n'était pas finie avec la défaite de Savenay ; il se tenait en queue de l'immense colonne, activant, pressant les rangs des fugitifs, brûlant ses dernières cartouches et repoussant du sabre les Bleus trop avancés. Mais, en dépit de tout, il voyait ses compagnons tomber peu à peu en arrière, et il entendait leurs cris pendant qu'on les égorgeait dans l'ombre.
+
+Alors, les bras étendus, il poussait cette foule sur la route de Guérande, il l'exhortait, il la pressait de ses paroles !
+
+– Mais allez donc ! disait-il aux retardataires.
+
+– Mon officier, je n'en puis plus, lui répondait l'un.
+
+– Je meurs, s'écriait un autre.
+
+– À moi ! à moi ! faisait une femme qu'une balle ennemie venait de frapper à ses côtés.
+
+– Ma fille ! ma fille ! s'écriait une mère brusquement séparée de son enfant.
+
+Le comte de Chanteleine, consolant, soutenant, aidant, allait de l'un à l'autre ; mais il se sentait débordé.
+
+Vers quatre heures du soir, il fut rejoint par un paysan, qu'il reconnut, malgré l'obscurité et le brouillard.
+
+– Kernan ! s'écria-t-il.
+
+– Oui ! notre maître.
+
+– Vivant !
+
+– Oui ! mais marchons ! marchons ! répondit le paysan en essayant d'entraîner le comte.
+
+– Et ces malheureux, dit celui-ci, montrant les groupes épars, nous ne pouvons les abandonner !
+
+– Votre courage n'y fera rien, notre maître !… Venez ! venez !
+
+– Kernan ! que me veux-tu ?
+
+– Je veux vous dire que de grands malheurs vous attendent !
+
+– Moi ?
+
+– Oui ! notre maître. M*me* la comtesse, ma nièce Marie…
+
+– Ma femme ! ma fille ! s'écria le comte en saisissant le bras de Kernan.
+
+– Oui ! j'ai vu Karval !
+
+– Karval ! s'écria le comte, entraînant hors de la foule l'homme qui lui parlait.
+
+C'était un paysan coiffé d'un bonnet de laine brune ; par-dessus, un chapeau à large bord, entouré d'un chapelet, maintenait dans l'ombre sa figure énergique et rude : ses longs cheveux souillés de sang retombaient sur ses larges épaules ; des braies de toile descendaient en plis flottants jusqu'à ses genoux nus et rouges de froid ; au-dessous, des guêtres drapées se rattachaient par des jarretières multicolores ; ses pieds, engouffrés dans d'énormes sabots à demi brisés, reposaient sur une litière de paille et de sang. Une peau de bique jetée sur le dos du Breton complétait son costume ; le manche d'un coutelas sortait de sa ceinture à large boucle, et de la main droite il tenait son fusil par le milieu du canon.
+
+Ce paysan devait être d'une extrême vigueur ; en effet, il passait dans son pays pour avoir une force formidable, surhumaine ; on citait de lui des traits étonnants, et jamais le terrible lutteur n'avait trouvé son maître dans les pardons de Bretagne.
+
+Ses vêtements déchirés, souillés, ensanglantés, disaient assez la part qu'il avait prise aux derniers combats de l'armée catholique.
+
+Il suivit le comte de Chanteleine à grands pas ; celui-ci, pour se frayer un chemin plus rapide, prit par les douves à demi pleines d'eau et de fange. Les paroles que venait de prononcer Kernan l'avaient épouvanté. Lorsqu'il eut gagné la tête de la colonne, il se trouva près d'un petit bois, une sorte de taillis, dans lequel il poussa le Breton, et d'une voix altérée il lui dit :
+
+– Tu as vu Karval ?
+
+– Oui ! notre maître !
+
+– Où ?
+
+– Dans la mêlée ! parmi les Bleus !
+
+– Et t'a-t-il reconnu ?
+
+– Oui !
+
+– Et il t'a parlé ?
+
+– Oui, après avoir déchargé des pistolets sur moi.
+
+– Tu n'es pas blessé ? s'écria vivement le comte.
+
+– Non ! pas encore ! répondit le Breton avec un triste sourire.
+
+– Et que t'a dit ce misérable ?
+
+– « On t'attend au château de Chanteleine », s'est-il écrié en disparaissant au milieu de la fumée ! J'ai voulu le rejoindre ; mais en vain !
+
+– « On t'attend au château de Chanteleine », répéta le comte ! Qu'a-t-il voulu dire par ces paroles ?
+
+– De mauvaises choses, notre maître !
+
+– Et que faisait-il dans l'armée républicaine ?
+
+– Il commandait à une troupe de brigands de sa trempe.
+
+– Ah ! un digne officier des armées de la Convention, que j'ai chassé de chez moi, pour vol !
+
+– Oui ! les bandits font leur chemin, par le temps qui court. Mais les paroles de Karval n'en sont pas moins, terribles ! « Au château de Chanteleine », a-t-il dit ; il faut y courir !
+
+– Oui ! oui ! répondit le comte avec une exaltation douloureuse ! Mais ces malheureux et la cause catholique !…
+
+– Notre maître, dit gravement Kernan, avant la patrie, il y a la famille. Que deviendraient, sans nous, M*me* la comtesse et ma nièce Marie ! Vous avez rempli votre devoir en gentilhomme ; vous vous êtes battu pour Dieu et le roi. Retournons au château, et, une fois les nôtres en sûreté, nous reviendrons. L'armée catholique est détruite, mais tout n'est pas fini ! croyez-moi ! on se remue dans le Morbihan ; je sais là un certain Jean Cottereau qui donnera du fil à retordre aux républicains, et nous l'aiderons à embrouiller l'écheveau.
+
+– Viens donc, dit le comte ; tu as raison ! Les paroles de ce Karval contiennent une menace ! Il faut que je conduise ma femme et ma fille hors de France, et je reviendrai me faire tuer ici.
+
+– Nous y reviendrons ensemble, notre maître, répondit Kernan.
+
+– Mais comment arriver au château ?
+
+– M'est avis, reprit le paysan, que nous devons rejoindre Guérande, de là, suivre la côte soit au Croisic, soit à Piriac, et gagner par mer une des baies du Finistère.
+
+– Mais une barque ? s'écria le comte.
+
+– Vous avez de l'or sur vous ?
+
+– Oui, près de quinze cents livres.
+
+– Eh bien ! avec cela on achète un bateau de pêche, et, s'il le faut, le pécheur par-dessus le marché.
+
+– Cependant ?
+
+– Il n'y a pas de choix, notre maître ; par terre, nous tomberions bientôt dans un parti de Bleus, ou, forcés de nous cacher, d'éviter les routes, de prendre par les traînées, de perdre du temps en marches et en contremarches, nous risquerions d'arriver trop tard, si nous arrivions…
+
+– Alors, en route, reprit le comte.
+
+– En route, répondit Kernan.
+
+Le comte de Chanteleine avait toute confiance dans ce Kernan, son frère de lait ; ce brave Breton faisait partie de la famille ; il appelait « ma nièce » M*lle* Marie de Chanteleine, et la jeune fille le nommait « mon oncle Kernan ». Depuis leur enfance, le maître et le serviteur ne s'étaient jamais quittés ; le Breton, par l'éducation qu'il avait reçue, se trouvait supérieur aux gens de sa condition. Après avoir partagé les plaisirs de l'enfant, les fatigues du jeune homme, il venait de prendre avec lui sa part des misères et des malheurs de la guerre. Le comte, en partant pour rejoindre Cathelineau, aurait voulu laisser Kernan au château de Chanteleine, mais séparer le frère du frère eût été impossible ; d'autres serviteurs restaient, d'ailleurs, pour protéger la comtesse. Puis, la situation du château au fond du Finistère, loin de Quimper, loin de Brest, où s'agitaient les clubs républicains, dans un pays perdu entre le Fouesnant et Plougastel, rassurait le comte, et croyant sa famille en sûreté, il n'avait pas hésité à se jeter dans le mouvement royaliste.
+
+Seulement la rencontre de Karval, ancien domestique du château, et chassé un an auparavant pour vol, ses menaces, ses paroles, créaient un danger immédiat au-devant duquel il fallait voler.
+
+Le comte et Kernan se jetèrent donc en dehors de la route, au moment où les fuyards arrivaient aux marais de Saint-Joachim. Ils entrevirent une dernière fois cette colonne effarée qui se perdait au milieu des ténèbres et dont les cris s'éteignirent peu à peu dans l'ombre de la nuit.
+
+À huit heures du soir, le comte et Kernan arrivèrent à Guérande. Ils devançaient d'une demi-heure à peine les plus rapides des fugitifs ; les herses de la ville étaient levées, mais, par la poterne, ils pénétrèrent dans ses rues désertes.
+
+Quelle morne tranquillité comparée à l'horrible fracas de Savenay ! Pas une lumière aux fenêtres, pas un passant attardé ! La terreur enfermait les habitants dans leurs maisons noires, sous les barres et les verrous des portes ; les Guérandais avaient entendu le canon pendant toute la matinée. Quelle que fût l'issue du combat, ils devaient craindre l'envahissement de vaincus désespérés, comme l'envahissement de vainqueurs intraitables.
+
+Les deux compagnons de fuite marchaient rapidement sur les pavés raboteux, et leur pas retentissait d'une façon sinistre ; ils arrivèrent à la place de l'Église et bientôt sur les remparts.
+
+De là, ils purent entendre le bruit croissant qui venait de la campagne, un murmure menaçant dans lequel éclataient quelquefois des détonations d'armes à feu.
+
+La pluie avait cessé ; la lune apparaissait au travers des nuages déchirés, bas et sombres, que le vent de l'ouest tordait sous ses rafales ; par suite d'une illusion d'optique, l'astre des nuits, comme pris de vertige, semblait fuir dans une course insensée ; sa lumière, très vive par instants, éclairait violemment la campagne dont elle relevait les moindres lignes avec une remarquable netteté, et promenait sur le sol des ombres larges et rapides.
+
+Le comte et Kernan jetèrent alors un coup d'œil vers la mer ; la baie de Guérande s'ouvrait devant eux au-delà de l'immense échiquier des marais salants. À gauche, le clocher du bourg de Batz sortait des dunes jaunâtres ; plus loin, la flèche du Croisic, estompée par la brume, terminait cette langue de terre qui se perdait dans l'océan ; à droite, à l'extrémité de la baie, les excellents yeux de Kernan purent distinguer encore le clocher de Piriac. Au-delà, la mer étincelait sous le faisceau des rayons lunaires et se confondait dans un même éclat avec la ligne du ciel.
+
+Le vent soufflait violemment ; les maigres arbres agitaient leur squelette décharné, et de temps en temps une pierre, détachée de son alvéole, roulait du haut des remparts dans le fossé bourbeux.
+
+– Eh bien ! dit le comte de Chanteleine à son compagnon en s'arc-boutant contre le vent. Là-bas, le Croisic ; là-bas, Piriac. Où allons-nous ?
+
+– Au Croisic, nous trouverions plus facilement une barque de pécheur ; mais s'il nous fallait revenir sur nos pas, une fois engagés dans cette langue de terre, nous serions fort embarrassés, et il deviendrait facile de nous couper toute retraite.
+
+– À tes ordres, Kernan. Je te suis, mais prends par le plus court, sinon par le plus sûr.
+
+– M'est avis de tourner la baie et de marcher sur Piriac. C'est à trois lieues à peine, et, d'un bon pas, nous y arriverons en moins de deux heures.
+
+– En route, répondit le comte.
+
+Les deux fugitifs quittèrent la ville, au moment où les premiers rangs des Vendéens y entraient par le rempart opposé, forçant les portes, escaladant les fossés, donnant un véritable assaut. Des lumières apparaissaient rapidement aux fenêtres ; la paisible Guérande s'emplissait d'un bruit et d'un désordre inaccoutumés. Des détonations ébranlaient ses vieilles murailles, et bientôt, la cloche de son église jeta dans les airs les sons haletants du tocsin.
+
+Le comte éprouva un violent serrement de cœur ; sa main se crispa sur son fusil ; on eût dit qu'il allait retourner au secours de ses infortunés compagnons.
+
+– Et M*me* la comtesse ? dit Kernan d'une voix grave, et ma nièce Marie ?
+
+– Viens ! viens ! répondit le comte en descendant un pas rapide les talus de la ville.
+
+Bientôt, le maître et le serviteur furent en pleine campagne ; ils gagnèrent la côte pour éviter la route ordinaire et tournèrent les marais salants dont les *mulons* de sel étincelaient sous les rayons de la lune. Des murmures sinistres venaient au travers des arbres rachitiques courbés sous le vent du large, et l'on entendait l'assourdissante mélancolie de la marée montante.
+
+Plusieurs fois, des cris douloureux arrivaient ; quelque balle perdue venait s'aplatir avec un bruit sec sur les rochers de la côte. Des flammes d'incendie éclairaient l'horizon de reflets blafards, et des bandes de loups affamés, sentant la chair vive, poussaient dans l'ombre leurs sinistres hurlements.
+
+Le comte et Kernan marchaient sans échanger une parole ; mais les mêmes pensées les agitaient et se communiquaient de l'un à l'autre aussi distinctement que s'ils eussent parlé.
+
+Quelquefois, ils s'arrêtaient pour regarder en arrière et examiner la campagne ; puis, ne se voyant pas poursuivis, ils reprenaient leur marche à grands pas.
+
+Avant dix heures, ils atteignirent le bourg de Piriac ; ils ne voulurent pas se hasarder dans ses rues et gagnèrent directement la pointe Castelli.
+
+De là, leur regard s'étendit sur la pleine mer ; à droite, se dressaient les rochers de l'île Dumet ; à gauche, le phare du Four jetait ses éclats intermittents à tous les points de l'horizon ; au large, s'étalait la masse sombre et confuse de Belle-Île.
+
+Le comte et son compagnon, n'apercevant aucune barque de pêcheur, revinrent à Piriac. Là, plusieurs chaloupes, ancrées sur le sable, se balançaient à la houle de la marée montante.
+
+Kernan avisa l'une d'elles, qu'un pécheur se disposait à quitter après avoir replié sa voile.
+
+– Oh hé ! l'ami ! lui cria-t-il.
+
+Le pêcheur interpellé sauta sur le sable et s'approcha d'un air assez inquiet.
+
+– Viens donc, lui dit le comte.
+
+– Vous n'êtes point de chez nous, dit le pêcheur après avoir fait quelques pas en avant. Qu'est-ce que vous me voulez ?
+
+– Peux-tu prendre la mer cette nuit même, dit Kernan, et nous conduire…
+
+Kernan s'arrêta.
+
+– Où ? fit le pêcheur.
+
+– Où ? Nous te le dirons une fois embarqués, répondit le comte.
+
+– La mer est mauvaise et le vent de *surouë* n'est pas bon.
+
+– Si on te paie bien ? répondit Kernan.
+
+– On ne paiera jamais bien ma peau, fit le pêcheur, qui cherchait à dévisager ses interlocuteurs.
+
+Après un instant, il leur dit :
+
+– Vous venez du côté de Savenay, vous autres ! Ça ronflait, là-bas !
+
+– Que t'importe ! fit Kernan. Veux-tu nous embarquer ?
+
+– Ma foi, non.
+
+– Trouverons-nous dans le bourg quelque marin plus hardi que toi ? demanda le comte.
+
+– Je ne crois guère, répondit le pêcheur. Mais, dites donc, ajouta-t-il en clignant de l'œil, vous ne dites que la moitié de ce qu'il faut dire pour qu'on vous embarque ! Qu'offrez-vous ?
+
+– Mille livres, répondit le comte.
+
+– Du mauvais papier !
+
+– De l'or, répondit Kernan.
+
+– De l'or, du vrai or, voyons un peu.
+
+Le comte dénoua sa ceinture et en retira une cinquantaine de louis.
+
+– Ta barque vaut à peine le quart de cette somme.
+
+– Oui ! répondit le pêcheur, les yeux allumés par la convoitise, mais ma peau vaut bien le reste.
+
+– Eh bien !
+
+– Embarque, fit le pêcheur en prenant l'or du comte.
+
+Il attira sa chaloupe vers la grève. Le comte et Kernan entrèrent dans l'eau jusqu'aux genoux et sautèrent dans l'embarcation ; l'ancre fut arrachée du fond du sable. Pendant ce temps, Kernan hissa la vergue, et la misaine rougeâtre se tendit au vent.
+
+Au moment où le pêcheur allait s'embarquer à son tour, Kernan le repoussa vivement et, d'un coup de gaffe, il rejeta la chaloupe à une dizaine de pieds au large.
+
+– Eh bien ! fit le pêcheur.
+
+– Garde ta peau, lui cria Kernan, nous n'en avons que faire. Ton bateau est payé.
+
+– Mais, fit le comte.
+
+– Cela me connaît, répondit Kernan, qui, bordant son écoute et tenant la barre, lança la chaloupe dans le vent.
+
+Le pêcheur, stupéfait, était resté muet, et quand il recouvra la parole, ce fut pour crier :
+
+– Voleurs de républicains !
+
+Mais déjà l'embarcation disparaissait dans l'ombre, au milieu de l'écume obscurcie des vagues.
+
+
+# Chapitre III. La traversée.
+
+Kernan, comme il venait de le dire, n'était pas embarrassé de conduire une chaloupe ; il avait fait ses preuves comme pêcheur pendant sa jeunesse, et les côtes de Bretagne lui étaient familières depuis la pointe du Croisic jusqu'au cap Finistère. Pas un rocher qu'il ne connût, pas une anse, pas une baie qu'il n'eût fréquentée ! Il savait ses heures de marée et ne craignait ni écueil ni haut-fond.
+
+Cette barque que montaient les deux fugitifs était une chaloupe de pêche fine et basse de l'arrière, mais relevée de l'avant, et merveilleusement disposée pour tenir la mer, même par les gros temps ; elle portait deux voiles de couleur rouge, une misaine et un taille-vent.
+
+Le pont, qui régnait dans toute sa longueur, n'offrait qu'une seule ouverture destinée à l'homme de la barre ; elle pouvait donc passer impunément au milieu des vagues, ce qui lui arrivait souvent, quand elle allait pêcher la sardine par le travers de Belle-Île, et qu'elle revenait ensuite chercher l'entrée de la Loire pour la remonter jusqu'à Nantes.
+
+Kernan et le comte n'étaient pas trop de deux pour la manœuvrer. Mais une fois la voilure installée la barque fila grand largue.
+
+Le vent de *surouë* aidant, elle volait sur les flots avec rapidité. Bien que la brise fût très forte, le Breton n'avait pas voulu prendre un seul ris dans ses voiles, qui s'inclinaient parfois jusqu'à mouiller leurs ralingues ; mais, soit d'un coup de barre audacieux, soit en filant un peu de son écoute, Kernan relevait la barque et la rejetait dans le vent.
+
+À cinq heures du matin, elle passait entre Belle-Île et cette presqu'île de Quiberon qui, quelques mois plus tard, allait être inondée du sang français, à la honte de l'Angleterre.
+
+Quelques provisions de poisson fumé formaient l'approvisionnement de la chaloupe ; les deux fugitifs purent donc prendre un peu de nourriture ; ils n'avaient pas mangé depuis plus de quinze heures.
+
+Pendant les premiers moments de cette traversée, le comte de Chanteleine demeura taciturne ; il était en proie à une violente émotion. Son esprit mêlait confusément les scènes du passé à celles qu'il prévoyait dans l'avenir. Au moment où il courait au secours de sa femme et de sa fille, celles-ci lui apparaissaient de plus en plus menacées. Il discutait les chances d'un malheur possible, et il cherchait à se rappeler les dernières nouvelles qu'il avait reçues du château.
+
+– Ce Karval, dit-il enfin à Kernan, est bien connu dans le pays, et, certes, s'il y reparaissait, les habitants du château le recevraient fort mal.
+
+– Certes ! répondit le Breton, et on ne manquerait pas de lui faire un mauvais parti. Mais si le gueux y vient, il n'y viendra pas seul, et, d'ailleurs, rien que sur une dénonciation de sa part on peut arrêter M*me* la comtesse et ma nièce Marie. Deux pauvres femmes inoffensives ! Quel temps que celui où nous vivons !
+
+– Oui, terrible ! Kernan, un temps où la colère de Dieu ne nous épargne guère, mais il faut se soumettre à sa volonté. Heureux ceux qui, sans famille, n'ont à craindre que pour eux seuls ! Nous autres, Kernan, nous luttons, nous nous défendons, nous nous battons pour la sainte cause ! Mais nos mères, nos sœurs, nos filles, nos femmes ne peuvent que pleurer et prier.
+
+– Heureusement, nous sommes là, répondit Kernan, et, avant d'arriver jusqu'à elles, il faudra nous passer sur le corps. Quoi qu'il en soit, notre maître, vous avez bien fait de laisser Madame et Mademoiselle à Chanteleine ; les courageuses femmes voulaient vous suivre, et faire la campagne tout comme M*me* de Lescure, M*me* de Donnissant et tant d'autres ! mais au prix de quelles souffrances et de quelles misères !
+
+– Et cependant, répliqua le comte, je regrette de ne pas les avoir à mes côtés ! Je les saurais en sûreté, et, depuis les menaces de ce Karval, j'ai peur.
+
+– Oh ! demain matin, si le vent nous protège, nous relèverons la côte du Finistère, et, quoi qu'il arrive, nous ne serons pas éloignés du château.
+
+– Elles seront bien surprises de nous revoir, ces pauvres femmes, dit le comte avec un triste sourire.
+
+– Et heureuses, donc, reprit Kernan. Comme ma nièce Marie va sauter au cou de son père et dans les bras de son oncle ! Mais il ne faudra pas perdre de temps pour les mettre en lieu sûr.
+
+– Oui, tu as raison, les Bleus ne peuvent tarder à visiter le château ; la Municipalité de Quimper aura bientôt l'éveil !
+
+– Alors, notre maître, vous savez bien ce que nous aurons à faire en arrivant au château ?
+
+– Oui, dit le comte en poussant un soupir.
+
+– Il n y a pas deux partis à prendre repartit le Breton, il n'y en a qu'un.
+
+– Et lequel ? demanda le comte.
+
+– Réunir tout votre argent, notre maître, le mien, nous procurer un navire à tout prix et fuir en Angleterre.
+
+– Émigrer ! dit le comte avec un accent de douleur.
+
+– Il le faut ! répondit Kernan, il n'y a plus de sûreté dans le pays pour vous ni pour les vôtres.
+
+– Tu as raison ! Kernan ; le Comité de salut public va exercer de terribles représailles en Bretagne et en Vendée ! Après avoir vaincu, il va massacrer.
+
+– Comme vous dites ; il a déjà envoyé ses agents les plus cruels à Nantes. Il en expédiera d'autres à Quimper, à Brest, et les rivières du Finistère regorgeront bientôt de cadavres comme la Loire.
+
+– Oui ! répondit le comte : ma femme ! ma fille ! il faut les sauver avant toute chose ! pauvres et douces créatures !… Mais si nous émigrons, tu nous suivras, Kernan.
+
+– Je vous rejoindrai, notre maître.
+
+– Tu ne partiras pas avec nous ?
+
+– Non ! il y a quelqu'un à qui je veux dire deux mots avant de quitter la Bretagne.
+
+– Ce Karval ?
+
+– Lui-même !
+
+– Hé ! laisse-le, Kernan ! il n'échappera pas à la justice divine.
+
+– Notre maître, j'ai idée qu'il commencera par la justice humaine !
+
+Le comte connaissait l'entêtement de son serviteur, et combien il eût été difficile de déraciner ses idées de vengeance. Il se tut donc, et, père et mari, toute sa pensée se reporta sur sa femme et sur son enfant.
+
+Ainsi son regard dévorait la côte. Il comptait les heures, les minutes, sans songer aux périls qu'une tempête lui eût fait courir. Toute l'horreur de cette guerre civile, dans laquelle les cruautés furent épouvantables de part et d'autre, lui revenait à la mémoire. Jamais sa femme et sa fille ne lui avaient paru courir autant de dangers ! Il se les représentait attaquées, emprisonnées, ou peut-être en fuite, attendant dans quelques rochers du rivage un secours inespéré, et parfois il se prenait à écouter si quelque appel ne parvenait pas à son oreille.
+
+– N'entends-tu rien ? disait-il à Kernan.
+
+– Non ! répondit le Breton, c'est un cri de goéland emporté dans la tempête.
+
+À dix heures du soir, Kernan reconnut le goulet de la rade de Lorient et le fort du Port-Louis, dont le feu étincelait dans l'obscurité ; il donna dans la passe entre la côte et l'île de Croix, et s'élança en pleine mer.
+
+Le vent était toujours favorable, mais il fraîchissait avec violence ; Kernan, quoiqu'il voulût aller vite, et malgré les impatiences du comte, dut prendre tous les ris de sa misaine et de son taille-vent. Le comte se mit lui-même à la manœuvre, et la barque, sans que sa rapidité parût avoir diminué, souleva de son avant les vagues écumeuses.
+
+Il y avait quinze heures que durait cette dangereuse navigation.
+
+La nuit fut épouvantable ; la tempête se déchaîna ; la vue des rocs de granit sur lesquels déferlait le ressac était faite pour épouvanter les plus intrépides ; la chaloupe prit le large pour éviter les récifs qui rendent si périlleux les accores de la côte bretonne.
+
+Les deux fugitifs ne purent trouver un seul instant de sommeil ; un faux coup de la barre, un instant d'oubli, et leur barque chavirait ; ils luttaient héroïquement et puisaient de nouvelles forces dans le souvenir des êtres chéris qu'ils allaient protéger.
+
+Vers les quatre heures du matin, l'ouragan perdit un peu de sa violence, et par une éclaircie Kernan releva dans l'est la position de Trévignon.
+
+Il pouvait à peine parler, mais du doigt il montra au comte de Chanteleine le feu vacillant du phare. Le comte joignit ses mains glacées, comme s'il murmurait une prière.
+
+La chaloupe donnait alors dans la baie de la Forêt, qui s'étend entre les bourgs de Concarneau et du Fouesnant.
+
+La mer était relativement plus calme, et les vagues abritées des vents du large y brisaient moins.
+
+Une heure après, l'embarcation vint se heurter aux rochers du cap de Coz avec une violence extrême. Le choc fut épouvantable, sans qu'il eût été possible de l'éviter, et bien que les mâts fussent à sec de toile. Le comte et Kernan, précipités dans les flots, parvinrent à gagner le rivage, tandis que la chaloupe défoncée sombrait devant leurs yeux.
+
+– Plus de traces, dit Kernan au comte.
+
+– Bien ! fit ce dernier.
+
+– Et maintenant au château, répondit le Breton.
+
+Leur traversée avait duré vingt-six heures.
+
+
+# Chapitre IV. Le château de Chanteleine.
+
+Le château de Chanteleine était situé à trois lieues du bourg du Fouesnant, entre Pont-l'Abbé et Plougastel, à moins d'une lieue de la côte de Bretagne.
+
+Les biens composant la propriété de Chanteleine appartenaient depuis un temps immémorial à la famille du comte, l'une des plus vieilles de Bretagne. Le château ne datait que du temps de Louis XIII, mais il était empreint de cette rudesse campagnarde que les murailles de granit donnent aux édifices ; on le sentait lourd, imposant, mais indestructible comme les roches de la côte. Cependant, il n'avait ni tours, ni mâchicoulis, ni poterne, ni guérite suspendue à l'angle des murs, comme des nids d'aigle, et il n'éveillait pas l'idée de forteresse ; dans la paisible terre de Bretagne, les seigneurs n'avaient jamais eu à se défendre contre personne, pas même contre leurs vassaux.
+
+Depuis de longues années, la famille du comte exerçait une influence féodale presque sans conteste sur le pays. Les Chanteleine furent peu courtisans, n'étant pas d'humeur souple, et ils n'allèrent pas deux fois, en trois cents ans, faire leur cour au roi ; ils se croyaient Bretons avant tout et séparés du reste de la France. Pour eux, le mariage de Louis XII et d'Anne de Bretagne n'avait jamais eu lieu, et ils en voulurent toujours à cette fière duchesse de ce qu'ils appelaient à haute voix « une mésalliance », pis même, une trahison.
+
+Mais s'ils régnaient chez eux, les Chanteleine pouvaient être cités comme modèles aux rois de France et leur donner des leçons de gouvernement. D'ailleurs, le résultat le prouvait sans réplique, car ils étaient et furent toujours aimés de leurs paysans.
+
+Cette noble et estimable famille, d'humeur fort pacifique, fournit peu d'illustres capitaines ; les Chanteleine n'étaient pas nés soldats ; à une époque où endosser le harnais de guerre semblait être le premier devoir du gentilhomme, ils demeurèrent paisiblement dans leurs terres et se rendirent heureux du bonheur qu'ils créaient autour d'eux. Depuis Philippe Auguste, où la croisade, c'est-à-dire la défense de la religion, entraîna leurs ancêtres en Terre sainte, pas un Chanteleine ne revêtit l'armure ou ne ceignit le baudrier. On comprend dès lors qu'ils fussent peu connus de la Cour, à laquelle ils ne demandèrent jamais aucune faveur, ne se souciant pas de les mériter.
+
+Leurs biens patrimoniaux, sagement administrés, avaient acquis une importance considérable.
+
+Aussi la propriété de Chanteleine, en prés, en marais salants et en terres labourées, comptait parmi les plus considérables du pays, tout en demeurant inconnue au-delà d'un rayon de cinq ou six lieues ; grâce à cette situation, et quoique les communes environnantes, le Fouesnant, Concarneau, Pont-l'Abbé eussent déjà reçu la sanglante visite des républicains de Brest et du Finistère, le château de Chanteleine avait échappé comme par miracle à l'attention des Municipalités, quand le comte le quitta pour la première fois.
+
+Peu guerrier de son naturel, le comte, cependant, déploya de grandes qualités militaires pendant cette campagne de la Vendée. Avec la foi et le courage, on est partout soldat. Le comte se conduisit en héros, lui dont le caractère paisible n'annonçait pas de telles dispositions ; en effet, les premières tendances de son esprit le dirigèrent vers la carrière ecclésiastique, et il avait passé deux ans au grand séminaire de Rennes ; il était même occupé de ses études théologiques, lorsque son mariage avec sa cousine, M*lle* de La Contrie, le jeta dans une voie tout opposée.
+
+Mais le comte ne pouvait rencontrer une plus digne compagne de sa vie. Cette jeune fille si séduisante devint une femme courageuse et dévouée. Les premières années du mariage du comte et de la comtesse, avec leur fille Marie à élever, dans cette vieille propriété de famille, au milieu de serviteurs, humbles amis vieillis au paternel service des Chanteleine, furent aussi heureuses qu'il est donné à un homme d'en passer en ce monde.
+
+Ce bonheur rejaillissait sur tout le pays, qui vénérait son seigneur. Les habitants se croyaient plutôt les sujets du comte que ceux du roi de France, et cela se conçoit ; ils n'avaient avec ce dernier que des relations désagréables, tandis qu'en toute occasion la famille de Chanteleine leur venait en aide. Aussi ne rencontrait-on pas un malheureux dans le pays, pas un mendiant ; depuis un temps immémorial, aucun crime n'avait été commis dans cette partie reculée de la Bretagne. On comprend donc l'effet que produisit le vol de ce Karval, un Breton cependant, entré depuis deux ans au service du comte, quand celui-ci fut obligé de le chasser du château. En agissant ainsi, d'ailleurs, le comte ne fit que prévenir la justice des paysans, qui n'auraient pas souffert un voleur dans le pays.
+
+Ce Karval était bien un Breton, mais un Breton qui avait voyagé, vu du pays, et sans doute de vilains exemples avec ; on disait qu'il avait visité Paris, que ces paysans regardaient comme un endroit chimérique, et même, les plus superstitieux, comme l'antichambre de l'enfer ; il fallait bien qu'il y eût quelque chose de cela, puisque le seul d'entre eux à y avoir hasardé le pied en revint mauvais et criminel.
+
+Cette affaire, qui fit un si grand scandale, s'était passée deux ans auparavant, et Karval avait quitté le pays en proférant des menaces de vengeance. On en haussa les épaules.
+
+Mais ce que l'on pouvait mépriser de la part d'un voleur obscur méritait attention, quand ce voleur fut devenu un des agents bas et terribles du Comité de salut public. Aussi le comte, en pressant sa marche vers le château, commençait à soupçonner de sinistres événements auxquels les paroles de Karval avaient fait, allusion. Cependant, la bonté de sa femme devait être une sauvegarde pour elle ; en effet, pendant vingt années de sa vie, de 1773 à 1793, M*me* de Chanteleine se consacra tout entière au bonheur de ceux qui l'approchaient. Elle savait qu'elle rendait son mari heureux en faisant le bien. Aussi la voyait-on sans cesse au chevet des malades, recueillant les vieillards, faisant instruire les enfants, fondant des écoles, et plus tard, quand Marie atteignit l'âge de quinze ans, elle l'associa à toutes ses bonnes œuvres.
+
+Cette mère et cette fille, unies dans un même esprit de charité, et accompagnées de l'abbé Fermont, le chapelain du château, couraient les villages de la côte, depuis la baie de la Forêt jusqu'à la pointe du Raz ; elles consolaient et répandaient leurs délicates aumônes sur ces familles de pêcheurs si souvent éprouvées par les tempêtes.
+
+– Notre maîtresse, l'appelaient les paysans.
+
+– Notre bonne dame, disaient les paysannes.
+
+– Notre bonne mère, répétaient les enfants.
+
+On comprend donc combien Kernan, devait être envié de tous, lui que Marie appelait son oncle, lui qui la nommait sa nièce, lui, le propre frère de lait du comte.
+
+Lorsque celui-ci quitta le château après le soulèvement de Saint-Florent, ce fut sa première absence du foyer domestique, la première séparation du comte et de la comtesse ; elle fut douloureuse, mais Humbert de Chanteleine, emporté par le sentiment du devoir, partit, et sa courageuse femme ne put qu'approuver son départ.
+
+Pendant les premiers mois de la guerre, les deux époux eurent souvent des nouvelles l'un de l'autre par des émissaires dévoués ; mais le comte ne put abandonner un seul jour l'armée catholique pour venir embrasser les siens ; des événements impérieux le clouèrent toujours à son poste ; depuis dix longs mois, il n'avait pas revu sa chère famille ; depuis trois mois même, depuis les désastres de Grandville, du Mans, de Chollet, il était sans nouvelles du château.
+
+Son inquiétude se comprend donc, quand, accompagné de son fidèle Kernan, il revint vers le domaine de ses aïeux. On devine avec quelle émotion il mit le pied sur la côte du Fouesnant. Il n'était plus qu'à deux heures des embrassements de sa femme et des baisers de sa fille.
+
+– Allons, Kernan, marchons, dit-il.
+
+– Marchons ! répondit le Breton, et vite, cela nous réchauffera.
+
+Un quart d'heure après, le maître et le serviteur traversèrent le bourg du Fouesnant, encore profondément endormi, et prirent le long du cimetière, dévasté pendant la dernière visite des Bleus.
+
+Car les gens du Fouesnant avaient donné des premiers contre la Révolution, à propos des prêtres jureurs qui leur furent envoyés par les Municipalités ; le 19 juillet 1792, trois cents d'entre eux, conduits par leur juge de paix, Alain Nedelec, se battirent dans le bourg même contre les gardes nationaux de Quimper. Ils furent écrasés ; les vainqueurs firent paître leurs chevaux dans le cimetière, et bivouaquèrent au milieu de l'église ; le lendemain, trois charretées de vaincus rentraient à Quimper, et le premier martyr de la Bretagne, Alain Nedelec, étrennait le nouvel instrument de mort, que les administrateurs bretons appelaient la « machine à décapiter », et sur laquelle le procureur général syndic leur adressait de sa main des instructions soigneusement détaillées touchant la manière de s'en servir. Depuis, le bourg ne s'était pas relevé de sa défaite.
+
+– On voit que les Bleus ont passé par là ! dit Kernan, des ruines et des profanations !…
+
+Le comte ne répondit pas, et prit à travers ces longues plaines qui venaient mourir à la mer. Il était alors six heures du matin ; un froid assez vif avait succédé à la pluie ; la terre était dure ; il faisait très obscur encore sur les landes désertes et les vastes champs d'ajoncs rebelles à toute culture ; les flaques d'eau avaient été saisies par la gelée, et les broussailles, revêtues de blanc, paraissaient pétrifiées.
+
+À mesure que les fugitifs s'éloignaient de la mer, quelques arbres amaigris se voyaient de loin en loin, et, courbés sous les violentes rafales de l'ouest, ils dressaient à l'horizon leur squelette blanchâtre.
+
+Bientôt, aux plaines succédèrent des champs de blé noir, fortifiés de douves, de fossés, et séparés par des rangées de chênes trapus ; il fallait gagner à travers ces champs, et franchir des barrières pivotantes, équilibrées par une grosse pierre et tout embroussaillées d'épine sèche. Kernan les ouvrait devant le comte, et, au choc de l'échalier qui se refermait, les branches des arbres laissaient tomber une grêle blanche qui crépitait sur le sol.
+
+Alors le comte et son compagnon s'élançaient par les étroites sentes piétinées entre les sillons et la haie des champs, il y avait des instants où ils couraient malgré eux.
+
+Vers sept heures, le jour commença à poindre ; le château n'était pas à une demi-lieue. Le pays paraissait tranquille et désert, et même d'une tranquillité suspecte. Le comte ne put s'empêcher de remarquer ce singulier silence de la campagne :
+
+– Pas un paysan, pas un cheval allant au pré ! dit-il d'un air inquiet.
+
+– Il est encore grand matin, répondit Kernan, également frappé de la physionomie du pays, mais qui ne voulait pas effrayer le comte. On se lève tard en décembre !
+
+En ce moment, ils pénétrèrent dans un grand bois de hauts sapins ; cette vaste sapinière, toujours verte, appartenant à la propriété du comte, s'apercevait de loin en mer.
+
+Une foule de pommes sèches, grisâtres, et non écorcées, couvraient la terre au milieu des branches mortes à peau rugueuse ; il ne semblait pas que depuis longtemps un pied humain eût foulé le sol ; chaque année, cependant, les enfants des villages environnants venaient ramasser toutes ces pommes de pin avec grande joie, et les ménagères y faisaient une provision de bois que le comte leur abandonnait généreusement.
+
+Or, cette année, les pauvres n'avaient pas fait leur récolte habituelle et cette moisson de branches et de pommes sèches était encore intacte.
+
+– Tu vois, dit le comte au Breton, ils ne sont pas venus ! ni les femmes ! ni les enfants !
+
+Kernan secoua la tête sans répondre, il sentait quelque chose d'inquiétant dans l'air. Son cœur battait à se rompre dans sa poitrine. Il allongea le pas.
+
+À mesure que les deux compagnons de route s'avançaient, des lièvres, des lapins, des perdrix se levaient en grand nombre sous leurs pas, en trop grand nombre même !… Évidemment, les chasseurs avaient été rares cette année, et cependant chassait qui voulait sur les terres du comte.
+
+Il y avait donc là des symptômes d'abandon et de délaissement qu'on ne pouvait méconnaître. La figure du comte pâlissait, malgré le froid intense de cette matinée d'hiver.
+
+– Enfin ! le château ! s'écria le Breton en montrant la pointe des deux tourelles qui perçait au-dessus d'un massif éloigné.
+
+En ce moment, le comte et Kernan étaient près de la ferme de la Bordière, tenue par l'un des métayers du comte ; au tournant du bois, on allait l'apercevoir ; Louis Hégonec, le métayer, était un homme actif, matinal, assez bruyant dans ses travaux, et pourtant on ne l'entendait pas chanter en harnachant ses bœufs ou ses chevaux, ni même crier dans sa cour après sa vieille femme.
+
+Non, rien ! Un silence de mort régnait partout ; le comte, saisi de terribles pressentiments, fut forcé de s'appuyer sur le bras de son fidèle Breton.
+
+Au détour du bois, leurs regards se portèrent vivement vers la métairie.
+
+Un spectacle horrible frappa leurs yeux. Quelques pans de murs ébranlés, avec des bouts de poutre noircis, l'extrémité d'un faîtage calciné, des restes de cheminées juchés au sommet d'un pignon, d'étroits sentiers de suie qui serpentaient sur les murailles, des portes brisées, et des gonds sortant comme des poings menaçants de l'interstice des pierres, toutes les traces d'un incendie récent apparurent à la fois. La ferme avait été brûlée ; les arbres portaient les traces d'une lutte violente ; des empreintes de coups de hache sur les portes, des éraflures de balles sur les vieux troncs de chêne, des instruments de labourage brisés, tordus, des charrettes culbutées, des roues dépourvues de leurs jantes attestaient la violence de la bataille ; les cadavres d'animaux, de vaches, de chevaux abandonnés, infectaient l'air !
+
+Le comte sentit ses jambes fléchir sous lui.
+
+– Les Bleus ! toujours les Bleus ! répéta Kernan d'une voix sourde.
+
+– Au château ! s'écria le comte en poussant un cri terrible.
+
+Et cet homme qui, tout à l'heure, se soutenait à peine, Kernan avait maintenant de la peine à le suivre.
+
+Pendant cette course, pas un être humain n'apparut dans les chemins défoncés ; le pays était non pas désert, mais déserté.
+
+Le comte traversa le village. La plupart des maisons étaient brûlées ; quelques-unes encore debout, mais vides. Pour que ce pays fût ainsi dépeuplé, il fallait qu'un souffle de vengeance eût passé sur lui.
+
+– Oh ! Karval ! Karval ! murmurait le Breton entre ses dents.
+
+Enfin, le comte et Kernan arrivèrent devant la porte du château ; l'incendie l'avait respecté ; mais il demeurait sombre, silencieux ; pas une cheminée qui lançât dans l'air son panache de fumée matinale.
+
+Le comte et Kernan se précipitèrent vers la porte, et s'arrêtèrent épouvantés.
+
+– Vois ! vois ! dit le comte.
+
+Une affiche énorme était collée sur l'un des montants ; elle portait en tête l'œil de la loi, des faisceaux de piques et de rameaux surmontés du bonnet phrygien. D'un côté se trouvait la description du domaine, de l'autre son évaluation.
+
+Le château de Chanteleine, confisqué par la République, était à vendre.
+
+– Les misérables ! s'écria Kernan.
+
+Il essaya d'ébranler la porte ; mais, malgré sa force prodigieuse, il ne put y parvenir. Elle résistait obstinément ; le comte de Chanteleine ne pouvait pas même se reposer un instant dans le manoir de ses ancêtres ! sa propre porte restait fermée pour lui. Il était en proie au plus affreux désespoir !
+
+Ma femme ! ma fille ! s'écriait-il avec un accent impossible à rendre. Où est ma femme ? mon enfant ? ils les ont tuées ! ils les ont tuées !…
+
+De grosses larmes roulèrent sur les joues de Kernan, qui tâchait en vain de consoler son maître.
+
+– Il est inutile, dit-il enfin, de nous obstiner devant cette porte qui ne s'ouvrira pas !…
+
+– Où sont-elles ? où sont-elles ? criait le comte.
+
+En ce moment, une vieille femme, blottie dans le fossé, se leva tout d'un coup. Elle eût fait mal à voir à des yeux moins consternés ; sa tête d'idiote remuait stupidement.
+
+Le comte courut à elle.
+
+– Où est ma femme ? dit-il.
+
+Après de longs efforts, la vieille répondit :
+
+– Morte dans l'attaque du château !
+
+– Morte ! s'écria le comte avec un rugissement.
+
+– Et ma nièce ? demanda Kernan en secouant violemment la vieille femme.
+
+– Dans les prisons de Quimper ! dit enfin celle-ci.
+
+– Qui a fait cela ? demanda Kernan avec un accent terrible.
+
+– Karval ! répondit la vieille femme.
+
+– À Quimper ! s'écria le comte. Viens, Kernan, viens !
+
+Et ils quittèrent cette malheureuse, qui, seule, presque à son dernier souffle, représentait tout ce qui restait de vivant au bourg de Chanteleine.
+
+
+# Chapitre V. Quimper en 1793.
+
+Quimper avait vu tomber la première tête sous la hache républicaine, celle d'Alain Nedelec, et le clergé breton compta dans cette ville son premier martyr, l'évêque Conan de Saint-Luc. Depuis ce jour, Quimper fut livré à l'arbitraire des républicains et de la Municipalité.
+
+Il faut dire que les Bretons des villes se distinguèrent par leur furie républicaine ; ils furent hardis à se jeter dans le mouvement national ; ces énergiques natures ne connurent aucune borne dans le bien ni dans le mal ; aussi les premiers héros du 10 août, qui envahirent les Tuileries et suspendirent le roi Louis XVI, furent-ils les fédérés de Brest, de Morlaix, de Quimper, levés à la voix de l'Assemblée législative, quand le 11 juillet 1792, en présence de la Prusse, du Piémont et de l'Autriche, coalisés contre la France, elle déclara « la patrie en danger ».
+
+Aussi leurs services furent si bien appréciés, que le Club breton de Paris forma le noyau du futur Club des jacobins ; et, plus tard, la section du faubourg Saint-Marceau prit, pour leur faire honneur, le titre de Section du Finistère.
+
+Quimper, entre autres, fut une des villes les plus agitées, ce qu'on n'eût guère attendu de ce chef-lieu enfoui au fond de la Basse-Bretagne. Les Amis de la Constitution s'y fondèrent et siégèrent dans l'ancienne chapelle des cordeliers. Les clubs s'y multiplièrent, et plus tard ce fut l'un d'eux qui décréta que les nourrissons quitteraient le sein de leur nourrice pour venir écouter les cris de *Vive la Montagne* ! et que les enfants apprendraient à parler en bégayant la Déclaration des droits de l'homme.
+
+Cependant, quand les administrateurs de Quimper, Kergariou en tête, virent la tournure des choses et où allait la Révolution, ils voulurent enrayer le mouvement ; ils interdirent certains journaux, tels que *L'Ami du Peuple* de Marat ; la commune de Paris envoya alors pour les mettre à la raison un proconsul ; mais à son arrivée, les Quimperrois l'emprisonnèrent au fort du Taureau, et protestèrent plus énergiquement encore que les girondins de Paris contre les montagnards de la Convention ; ils envoyèrent même avec Nantes deux cents volontaires à Paris pour appuyer leur protestation à main armée, ce qui amena un décret d'accusation en masse contre les administrations de la Bretagne. Mais, après la mort de Louis XVI, après l'exécution des girondins, quand la France fut prise de vertige, lorsque le régime de la Terreur s'établit, les républicains réactionnaires de la Bretagne furent débordés.
+
+Cependant, si les habitants des villes avaient donné dans le mouvement, les campagnes se signalèrent tout d'abord par leur résistance à l'installation des prêtres assermentés ; ils les chassèrent honteusement ; puis, quand arriva la loi du recrutement, il devint très difficile de contenir les paysans du Finistère, ceux du Morbihan, de la Loire-Inférieure et des Côtes-du-Nord. Le général Canclaux put à peine les dompter avec son armée et les milices municipales. Il dut même, le 19 mars, livrer, à Saint-Pol-de-Léon, une bataille rangée.
+
+Le Comité de salut public résolut d'agir alors avec la plus extrême rigueur contre les villes et contre les campagnes. Il envoya deux délégués, Guermeur et Julien, qui organisèrent le sans-culottisme dans la Bretagne et à Quimper surtout.
+
+Avec eux, ces proconsuls apportaient la loi des suspects de septembre 1793, cette œuvre de Merlin, de Douai, qui était libellée en ces termes :
+
+« Sont réputés suspects :
+
+« 1° Ceux qui, soit par leur conduite, soit par leurs relations, par leurs propos ou leurs écrits, se sont montrés partisans de la tyrannie, du fédéralisme et ennemis de la liberté.
+
+« 2° Ceux qui ne pourront pas justifier de leur manière d'exister et de l'acquit de leurs droits civiques.
+
+« 3° Ceux à qui il a été refusé des certificats de civisme.
+
+« 4° Les fonctionnaires publics, suspendus ou destitués de leurs fonctions.
+
+« 5° Ceux des ci-devant nobles, ensemble les maris, femmes, pères, mères, fils ou filles, frères ou sœurs, et agents d'émigrés qui n'ont pas constamment manifesté leur attachement à la Révolution. »
+
+Armés de cette loi, les délégués du Comité de salut public étaient maîtres du département. Qui pouvait espérer d'échapper à ces mesures révolutionnaires ? Il n'était personne qui ne tombât plus ou moins directement sous le coup de ces terribles articles. Aussi, les représailles allèrent bon train, et le Finistère tout entier fut livré à la plus extrême terreur.
+
+Guermeur et Julien étaient accompagnés d'un sous-agent du comité, d'un infime personnage, qui n'était autre que ce Karval, ce maudit promis à la vengeance de Kernan.
+
+Ce misérable s'était produit à Paris, et fait remarquer dans les clubs ; il s'était glissé dans les rangs des terroristes et accompagnait les délégués, comme connaissant plus particulièrement le département du Finistère.
+
+Il y venait en réalité exercer ses plus basses vengeances contre le pays qui l'avait chassé. Armé de cette loi des suspects, il ne lui était pas difficile d'atteindre la famille de Chanteleine.
+
+Aussi, le lendemain de son arrivée à Quimper, il se mit en devoir d'agir.
+
+Ce Karval était un homme de taille moyenne, porteur de l'une de ces mauvaises figures que la haine, la bassesse et la méchanceté ont faites peu à peu ; chaque vice nouveau s'y imprégnait et y laissait ses stigmates ; il ne manquait pas d'intelligence, mais, à le voir, on sentait que ce devait être un lâche. Comme beaucoup de ces héros de la Révolution, il fut sanguinaire par peur, mais par peur aussi il restait inflexible, et rien ne pouvait le toucher.
+
+Le lendemain de son arrivée, le 14 septembre, il alla trouver Guermeur :
+
+– Citoyen, dit-il, il me faut cent hommes de la milice.
+
+– Qu'en veux-tu faire ? demanda Guermeur.
+
+– J'ai une tournée à opérer dans mon pays.
+
+– Où cela ?
+
+– Du côté de Chanteleine, entre Plougastel et Pont-l'Abbé. Je connais là un nid de Vendéens !
+
+– Es-tu certain de ce que tu avances ?
+
+– Certain. Demain, je t'amène le père et la mère.
+
+– Ne laisse pas échapper les petits ! répliqua en riant le farouche proconsul.
+
+– Sois tranquille ! ça me connaît. J'ai déniché des merles autrefois, et je veux leur apprendre à siffler le *Ça ira* !
+
+– Va donc ! dit Guermeur en signant l'ordre que Karval demandait.
+
+– Salut et fraternité ! dit Karval en se retirant. Le lendemain, il se mit en marche avec son détachement, composé des forcenés de la ville ; le jour même, il arrivait à Chanteleine.
+
+Les paysans, à la vue de Karval, qu'ils connaissaient bien, livrèrent un combat désespéré ; ils comprirent qu'il fallait vaincre ou mourir, mais ils furent vaincus, après avoir voulu défendre leur bonne dame.
+
+La comtesse de Chanteleine, entre sa fille, l'abbé de Fermont et ses serviteurs, attendait dans les transes les plus vives l'issue de la bataille.
+
+Elle la connut bientôt. Les miliciens de Quimper s'emparèrent du château. Karval, à leur tête, s'élança dans ses appartements en criant :
+
+– Mort aux nobles ! mort aux Blancs ! mort aux Vendéens !
+
+La comtesse, éperdue, voulut fuir, mais elle n'en eut pas le temps. Les forcenés arrivèrent jusqu'à elle dans la chapelle du château, où elle s'était réfugiée.
+
+– Arrêtez cette femme et sa fille, femme et fille de brigand ! s'écria Karval, ivre de sang et de joie, et ce calotin, ajouta-t-il en désignant l'abbé de Fermont.
+
+Marie s'était évanouie dans les bras de sa mère, à laquelle on l'arracha.
+
+– Et ton mari, le comte ? demanda Karval d'une voix féroce.
+
+La comtesse le regarda fièrement sans répondre.
+
+– Et Kernan ? s'écria-t-il.
+
+Même silence. Sa rage fut grande alors de voir que ces deux hommes lui échappaient, et dans sa colère il frappa la comtesse d'un coup mortel ; la malheureuse femme tomba en jetant un dernier regard d'angoisse sur sa fille. Karval chercha, fouilla, mais en vain.
+
+– Ils sont à l'armée des brigands, s'écria-t-il. Bon ! je les retrouverai !
+
+Puis, s'adressant à ses hommes :
+
+– Emmenez cette fille, dit-il, c'est toujours ça !
+
+Marie, inanimée, fut mise, en compagnie de l'abbé de Fermont, au milieu des paysans arrêtés ; on leur attacha les mains ; on les parqua comme des bestiaux, et ils furent emmenés.
+
+Le lendemain, Karval ramenait ses prisonniers à Guermeur.
+
+– Et le mâle ? fit Guermeur en riant.
+
+– Envolé ! mais sois tranquille, répondit Karval avec un hideux sourire, je le repincerai.
+
+Marie de Chanteleine et ses malheureux compagnons furent jetés pêle-mêle dans les prisons de la ville ; la jeune fille ne retrouva sa connaissance qu'entre les murs de son cachot.
+
+Mais les prisons finissaient par devenir trop étroites ; aussi travailla-t-on à les vider, et l'instrument de mort fonctionna sans relâche sur la grande place de Quimper. Il fut même question de l'installer dans le prétoire du tribunal pour aller plus vite.
+
+On sait comment procédait, dans ces temps de terreur, la justice révolutionnaire, quelles formalités étaient remplies et quelles garanties entouraient les accusés.
+
+Le tour de la malheureuse jeune fille ne pouvait tarder à venir.
+
+Voilà ce qui s'était passé depuis ces deux mois pendant lesquels le comte de Chanteleine avait été sans nouvelles de sa femme et de sa fille ; voilà de quelles épouvantables scènes son château fut le théâtre.
+
+Alors Kernan comprit cet air de vengeance satisfaite que respirait la figure de Karval, quand, au milieu de la mêlée, il lui lança ces paroles terribles :
+
+– On t'attend au château de Chanteleine !…
+
+Aussi, tout en marchant, en soutenant son maître que ce désastre abattait, il murmurait :
+
+– Karval, je serai sans pitié ! sans pitié !…
+
+Il était près de huit heures quand le comte et Kernan quittèrent le château ; ni la faim, ni la fatigue ne purent les arrêter un seul instant. Ils se jetèrent à travers champs, et une dernière fois, en se retournant, le Breton aperçut derrière les arbres dépouillés les murs du château de ses maîtres.
+
+Alors le fidèle serviteur guida le comte presque fou de douleur ; il se chargea d'avoir du courage et de l'intelligence pour deux ; afin d'éviter toute mauvaise rencontre, il prit par les chemins de traverse, et rejoignit bientôt la grande route de Concarneau à Quimper au village de Kerroland.
+
+Le comte et Kernan ne se trouvaient plus qu'à deux lieues et demie de Quimper, et du pas dont ils marchaient ils devaient y arriver avant dix heures du matin.
+
+– Où est-elle ?… où est ma fille ?… murmurait le comte, qui eût fait pitié aux cœurs les plus endurcis. Morte ! morte !… comme sa pauvre mère !
+
+De lugubres visions lui venaient à l'esprit, et si épouvantables, que, pour les dissiper, il se prenait à courir, comme si la vision n'eût pas été en lui.
+
+Kernan ne le quittait pas ; il le suivait dans ses bonds insensés, et le forçait même à se jeter dans les halliers quand quelque passant apparaissait au loin sur la route. Tout homme devenait dangereux en pareille circonstance, et, dans l'état d'agitation où il se trouvait, le comte se fût dénoncé lui-même.
+
+Certes, le Breton souffrait autant que son maître, mais il méditait en même temps des projets de vengeance auxquels celui-ci ne songeait pas. Sa douleur était mélangée d'une immense somme de colère. Puis il réfléchissait et se posait des questions auxquelles il ne pouvait répondre. Qu'allait faire le comte à la ville ?
+
+Si son enfant était emprisonnée, réussirait-il à la ravoir ? La justice révolutionnaire ne rendait jamais sa proie, et le comte lui-même serait arrêté à la moindre démarche suspecte.
+
+Donc, sans plan arrêté, sans idée préconçue, ces deux hommes allaient comme à l'aventure, mais poussés par une invincible puissance.
+
+Suivant les prévisions de Kernan, avant dix heures ils arrivèrent aux faubourgs de Quimper. Les rues étaient à peu près désertes, mais on pouvait entendre au loin une sorte de murmure funeste. Toute la population semblait s'être accumulée vers le centre de la ville. Kernan prit donc hardiment par les rues en contenant son maître, qui répétait à voix basse :
+
+– Ma fille ! mon enfant !
+
+Le père souffrait en lui plus encore que le mari, dont la douleur était sans remède.
+
+Après une marche de dix minutes, le maître et le serviteur arrivèrent à l'une des rues qui avoisinent la cathédrale ; là, ils se trouvèrent en queue d'un fort rassemblement.
+
+Il y avait des gens qui vociféraient, qui hurlaient ; d'autres, effrayés, regagnaient leurs maisons, dont ils fermaient les portes et les fenêtres. On entendait des accents de douleur mêlés à des imprécations ; il y avait des visages terrifiés près de faces sanguinaires. Quelque chose de sinistre planait dans l'air.
+
+Bientôt, au milieu du bruit, se firent entendre ces paroles :
+
+– Les voilà ! les voilà !
+
+Mais ni le comte ni Kernan ne purent voir ce qui excitait la curiosité de la foule. À ces paroles, d'ailleurs, succédèrent immédiatement les cris longuement prolongés de :
+
+– À bas les Blancs ! à bas les aristocrates ! vive la République !
+
+Évidemment, il se passait quelque chose d'épouvantable sur la place voisine ; au tournant de la rue, toutes les figures étaient tendues vers un même point, et la plupart, il faut le dire, reflétaient des passions inhumaines, qui venaient chercher dans ce spectacle leur cruelle satisfaction.
+
+On entendait de temps à autre des murmures plus violents ; à un certain moment, quelque chose d'extraordinaire parut se passer sur la place, car les mots :
+
+– Non ! pas de grâce ! pas de grâce ! prononcés, hurlés plutôt par les gens qui voyaient, refluèrent jusqu'aux derniers rangs des spectateurs.
+
+Le visage du comte était baigné d'une sueur froide.
+
+– Qu'est-ce qu'il y a ? se demandait-on autour de lui.
+
+Et sans savoir, par un instinct de férocité, on s'écriait :
+
+– Pas de grâce ! pas de grâce !
+
+Kernan et le comte voulurent se frayer à tout prix un chemin dans la foule, mais ils ne purent y parvenir ; d'ailleurs, quelques minutes après leur arrivée, ce spectacle se termina, car le populaire se prit tout d'un coup à refluer ; les bras furent agités, les figures se retournèrent, et les vociférations s'éteignirent peu à peu.
+
+Alors des crieurs se firent jour en lançant à la foule les noms des victimes.
+
+– Exécution du 6 nivôse de l'an II de la République ! Qui veut la liste des condamnés ?
+
+Le comte regarda Kernan d'un œil hagard.
+
+– Voilà ! voilà, continuaient les crieurs, le curé Fermont !…
+
+Le comte serra la main de Kernan à la briser.
+
+– La demoiselle de Chanteleine !
+
+– Ah ! fit le comte en poussant un cri épouvantable.
+
+Mais Kernan lui mit la main sur la bouche, le reçut dans ses bras comme il s'évanouissait, et, avant que les témoins de la scène eussent pu la comprendre, il entraîna son maître dans une rue écartée.
+
+Pendant ce temps, d'autres noms étaient jetés à la foule, et ce cri retentissait de toutes parts :
+
+– Mort aux aristocrates !… Vive la République !…
+
+
+# Chapitre VI. L'auberge du triangle-égalitaire.
+
+La position de Kernan était terrible ; il fallait mettre le comte à l'abri de tout regard avant qu'il reprît connaissance. Ses premières paroles ne pouvaient manquer de le trahir ! Il redemanderait sa fille à grands cris et décèlerait le comte de Chanteleine sous l'habit du paysan breton.
+
+En courant à travers les rues, Kernan avisa une sorte d'auberge devant laquelle il s'arrêta, traînant ou plutôt portant son maître.
+
+L'auberge avait une enseigne ornée de tous les agréments de l'époque, tels que piques et faisceaux romains, avec ces mots :
+
+Au Triangle-Égalitaire CHEZ MUTIUS SCEVOLA Loge à pied et à cheval
+
+« Une auberge de bandits, se dit-il, eh bien ! nous y serons plus en sûreté. D'ailleurs je n'ai pas le choix. »
+
+Il avait si peu le choix qu'il n'eût pas rencontré dans la ville un cabaret sans une enseigne civique.
+
+Il entra donc dans la salle basse, déposa son fardeau inerte sur une chaise et demanda une chambre. L'hôtelier, Mutius Scévola en personne, arriva :
+
+– Que veux-tu, citoyen ? demanda-t-il d'un ton bourru au Breton.
+
+– Une chambre.
+
+– Et tu paies ?
+
+– Pardieu ! répondit Kernan, on n'a pas dévalisé les chouans pour rien. Tiens, d'avance ! ajouta-t-il en jetant quelques pièces de monnaie sur la table.
+
+– De l'argent ! fit l'aubergiste, plus habitué au papier qu'au métal.
+
+– Et du bon, avec la face de la République dessus.
+
+– Bien ! on va te servir. Mais qu'a-t-il donc, ton ami ?…
+
+– Mon frère, entends-tu, si ça ne t'écorche pas trop le gosier ; en fouaillant notre bidet pour arriver à temps…
+
+– À l'exécution ! dit l'aubergiste en se frottant les mains.
+
+– Comme tu dis, répondit Kernan sans sourciller ; nous avons fait un saut dans le fossé ! la bête s'est tuée du coup, et celui-là n'en vaut guère mieux ! Mais assez causé pour le moment. J'ai payé ! Ma chambre ?
+
+– Bon ! bon ! on va te servir. Tu n'as pas besoin de faire le méchant. Ce n'est pas de ma faute si tu es arrivé trop tard. Mais puisque tu as manqué l'exécution des brigands, je te donnerai des détails.
+
+– Tu y étais ?
+
+– Parbleu ! à deux pas du citoyen Guermeur.
+
+– Un rude lapin, celui-là ! riposta Kernan, qui ne connaissait pas même ce nom.
+
+– Je t'en réponds ! répondit l'aubergiste.
+
+– Eh bien ! à tout à l'heure, citoyen Scévola !
+
+Scévola fit monter au second étage le Breton qui avait repris son fardeau.
+
+– As-tu besoin de moi ? demanda-t-il quand il fut arrivé.
+
+– Ni de toi, ni de personne, répondit le Breton.
+
+– Il n'est pas poli, mais il paie ! murmura Scévola, c'est une compensation.
+
+Quelques instants plus tard, Kernan se trouvait seul en présence de son maître inanimé, et il donnait enfin un libre cours à ses larmes ; tout en pleurant, cependant, il prodigua au comte ses soins les plus intelligents ; il humecta son front décoloré et il parvint à le ramener au sentiment. Mais il eut la précaution de lui mettre la main sur la bouche et d'arrêter la première explosion de sa douleur.
+
+– Oui, notre maître, lui dit-il, pleurons ! mais pleurons tout bas ; il ne nous est pas permis de gémir ici !
+
+– Ma femme ! ma fille ! répétait le comte au milieu de ses sanglots, est-ce donc vrai ? est-ce possible ? Mortes ! assassinées !… Et j'étais là !… et je n'ai pu !… Ah ! j'irai trouver leur assassin…
+
+Le comte se démenait comme un fou. Kernan, malgré sa force herculéenne, avait beaucoup de peine à le contenir et à étouffer ses cris.
+
+– Notre maître, disait-il, vous vous ferez arrêter !
+
+– Que m'importe ! répétait le comte en se débattant.
+
+– On vous guillotinera !
+
+– Tant mieux ! tant mieux !
+
+– Et moi aussi ! dit le Breton.
+
+– Toi ! toi ! fit le comte, qui retomba dans une prostration profonde.
+
+Pendant quelques minutes, de gros sanglots soulevèrent sa poitrine ; enfin, il se calma, se mit à genoux sur les carreaux nus de la chambre, et pria pour ceux qu'il aimait tant et qui n'étaient plus.
+
+Kernan s'agenouilla près de lui et mêla ses larmes aux siennes. Après une longue prière, il se releva et dit au comte :
+
+– Maintenant, notre maître, laissez-moi courir la ville ; restez ici ; priez et pleurez ; il faut que je sache ce qui s'est passé.
+
+– Kernan, tu me diras tout ce que tu auras appris, répondit le comte en saisissant les mains de son serviteur.
+
+– Tout, je vous le jure, notre maître !… Mais vous ne quitterez pas cette chambre ?
+
+– Je te le promets ! Va, Kernan, va !
+
+Et le comte laissa retomber sa tête dans ses mains, à travers lesquelles filtraient de grosses larmes.
+
+Kernan redescendit dans la salle basse et trouva Scévola sur sa porte.
+
+– Eh bien !… et ton frère ? lui demanda l'aubergiste patriote.
+
+– Il dort ! cela ne sera rien ! mais qu'on ne me le dérange pas ! tu entends ?
+
+– Sois tranquille !
+
+– Maintenant, dit Kernan, je t'écoute.
+
+– Ah ! tu veux que je te raconte la pièce ? Oui, je conçois cela ! ajouta-t-il en riant. Tu as fait queue, mais tu n'as pu entrer ! il y avait trop de monde !
+
+– Précisément.
+
+– Mais est-ce que tu peux écouter sans boire, toi, citoyen ? Moi, je ne peux pas parler sans humecter mes paroles !
+
+– Eh bien ! apporte une bouteille, dit Kernan, et même une miche de pain. Je t'écouterai en mangeant un morceau.
+
+– C'est dit, répliqua Mutius Scévola.
+
+Un instant après, les deux hommes étaient accoudés devant une table, et le citoyen Scévola en faisait les honneurs à son profit.
+
+– Voilà donc la chose, dit-il après avoir avalé un verre de vin. Depuis deux mois, les prisons de la ville regorgeaient. Les fuyards de la Vendée donnaient beaucoup, et on voyait le moment où l'on ne pourrait plus faire de prisonniers faute de prisons ; il fallait donc les vider plus vite que ça. Malheureusement, le citoyen Guermeur est un bon patriote, mais il n'a pas l'imagination de Carrier ou de Lebon, et il voulait procéder dans les formes.
+
+Les poings de Kernan se crispaient sous la table en entendant ces paroles. Cependant, il eut assez d'empire sur lui-même non seulement pour se contenir, mais aussi pour répondre :
+
+– Un bon, là, Carrier !
+
+– Oui, je t'en réponds ! avec ses noyades ! Après cela, il a un si beau fleuve à sa disposition ! Enfin, nous avons fait ce que nous avons pu, pendant deux mois ; on procédait par canton ; les ci-devant n'avaient pas le droit de se plaindre ; tous les pays mouraient ensemble ! Enfin, on a marché si bien, qu'on est à peu près parvenu à vider les prisons ; mais on s'occupe de les remplir.
+
+– Et ce matin, demanda Kernan, n'a-t-on pas exécuté une ci-devant demoiselle de Chanteleine ?
+
+– Oui, un beau brin de fille, ma foi ! et son curé avec elle, pour lui montrer le chemin ! C'est Karval qui a fait ce coup-là !
+
+– Ah ! le fameux Karval ?
+
+– Lui-même ! voilà un gars qui va bien ! Est-ce que tu le connais ?
+
+– Si je le connais ! deux amis ! les deux doigts de la main ! répondit tranquillement Kernan ; est-ce qu'il est ici ?
+
+– Non ! il est reparti depuis huit jours en tournée ! Il faut dire que son coup n'a pas été complet ! Quand il a fait sa pointe à Chanteleine, il espérait arrêter le ci-devant comte, sur lequel il a des idées. Mais envolé l'oiseau !
+
+– Alors ? demanda Kernan.
+
+– Alors il a rejoint l'armée de Kléber, dans la pensée de pincer son homme, et je ne serais pas étonné que, pendant la déroute de Savenay, il ne fût arrivé à ses fins.
+
+– C'est possible, car on les a frottés là, les Blancs !… répondit le Breton. Mais dis-moi, et la jeune fille ?
+
+– Quelle jeune fille ?
+
+– La ci-devant de ce matin… comment a-t-elle pris la chose ?
+
+– Peuh !… assez mal, répondit l'aubergiste en portant son verre à ses lèvres, il n'y a pas eu de plaisir avec elle ; elle était à moitié morte de peur.
+
+– Ainsi, dit Kernan, se contenant à peine, elle est bien morte ?
+
+– Dame ! à moins qu'elle n'ait eu un secret !… dit en riant l'aubergiste. Ah ! mais, par exemple, il s'est passé un fait curieux pendant la cérémonie.
+
+– Et lequel donc, citoyen Scévola ? répondit Kernan ; tu es très intéressant !
+
+– Oui, fit le monstre en se rengorgeant, mais j'aimerais mieux ne pas avoir à raconter ce que je vais te dire.
+
+– Pourquoi donc ?
+
+– Parce que ce n'est pas à l'honneur du Comité de salut public.
+
+– Quoi ! le comité ?…
+
+– L'un de ses membres a fait grâce !
+
+– Et qui cela ?
+
+– Le vertueux Couthon !
+
+– Pas possible ?
+
+– Juges-en ! Ce matin, la machine allait tranquillement son train ; les paysans, les nobles, les prêtres, tout cela basculait avec une égalité républicaine ; la petite Chanteleine y avait passé, et il ne restait plus que deux ou trois condamnés, quand un bruit se produisit dans la foule ; un jeune homme, les cheveux en désordre, monté sur un cheval qui tombe mort sur place, accourt en criant :
+
+« – Grâce ! grâce pour ma sœur !
+
+« Il fend la foule, arrive auprès du citoyen Guermeur, il lui remet un papier signé *Couthon* et portant la grâce de sa sœur.
+
+– Eh bien ?
+
+– Eh bien ! il n'y avait pas à résister ! et, cependant, ce garçon-là c'était un ci-devant !
+
+– Qui se nomme ?
+
+– Le chevalier de Trégolan, m'a-t-on dit.
+
+– Je ne le connais pas, répondit Kernan.
+
+– Il s'avança vers la guillotine, et cela lui fit un singulier effet, car il leva les bras avec désespoir ; on eût dit qu'il allait s'évanouir de sensiblerie ! Mais il a bien fait de ne pas perdre de temps, car sa sœur montait déjà les marches, évanouie au bras du citoyen bourreau."
+
+– Ma sœur ! ma sœur ! s'est-il écrié.
+
+Et il a bien fallu la lui rendre ! Ainsi, si son cheval avait fait un faux pas en route, c'était fini !
+
+– C'est donc cela qui a causé du trouble dans la foule ?
+
+– Oui ; on criait :  « Non ! non ! »
+
+Mais Guermeur, devant la signature du vertueux Couthon, a dû s'incliner. N'importe ! c'est une tache, cela, pour le Comité de salut public.
+
+– Eh bien ! répondit Kernan, il a eu de la chance, ce Trégolan… Et après ?
+
+– Après, il a emmené sa sœur, et on a continué la besogne !…
+
+– Eh bien ! à ta santé, Scévola ! dit Kernan.
+
+– À la tienne, mon gars ! répondit l'aubergiste.
+
+Les deux causeurs trinquèrent ensemble.
+
+– Et maintenant, que vas-tu faire ? demanda le patriote.
+
+– Je vais voir si mon frère dort toujours, puis j'irai faire un tour dans la ville.
+
+– À ton aise, ne te gêne pas.
+
+– Je ne me gêne pas non plus.
+
+– Est-ce que tu comptes rester quelque temps ici ?
+
+– J'aurais voulu voir Karval et lui serrer la main, répondit Kernan d'un air dégagé.
+
+– Mais il peut revenir à Quimper d'un jour à l'autre.
+
+– Si j'en étais sûr, j'attendrais, dit le Breton.
+
+– Dame ! je ne peux pas t'en dire davantage.
+
+– En tout cas, dit le Breton, je le trouverai un jour ou l'autre.
+
+– Bon !
+
+– Est-ce qu'il descend chez toi ?
+
+– Non, il demeure à l'évêché, chez le citoyen Guermeur.
+
+– Eh bien ! j'irai le voir.
+
+Là-dessus, Kernan quitta l'aubergiste ; l'effort qu'il avait fait pour se contenir, pendant toute cette conversation, l'avait brisé au point qu'il ne pouvait monter l'escalier.
+
+– Oui, Karval ! répéta-t-il, je te retrouverai !
+
+L'accent dont il prononça ces paroles est impossible à rendre.
+
+Enfin, il revint près du comte ; il le trouva abîmé dans une douleur profonde, mais résignée. Il fallut que Kernan rapportât tout ce qu'il avait appris ; après avoir bien vérifié si on ne pouvait l'entendre, après avoir sondé les murailles, il fit à voix basse son douloureux récit, pendant lequel les larmes ne cessèrent de couler sur le visage altéré du comte.
+
+Puis Kernan appela son attention sur ce qu'il restait à faire.
+
+– Je n'ai plus de femme, plus d'enfant, répondit le comte, il ne me reste plus qu'à mourir, et je mourrai pour la sainte cause !
+
+– Oui, dit Kernan, nous irons dans l'Anjou, rejoindre les chouans qui s'agitent.
+
+– Nous irons.
+
+– Dès aujourd'hui.
+
+– Demain ; j'ai ce soir un dernier devoir à remplir.
+
+– Et lequel, notre maître ?
+
+– Je veux aller au cimetière, cette nuit, prier sur cette fosse commune où ils ont jeté le corps de mon enfant.
+
+– Mais… fit Kernan.
+
+– Je le veux, répondit le comte d'une voix douce.
+
+– Nous prierons ensemble, dit doucement le Breton.
+
+Le reste de la journée se passa à pleurer ; ces deux pauvres hommes, la main de l'un dans la main de l'autre, ne furent tirés de leur douloureux silence que par les chants, des démonstrations de joie qui retentirent dans la rue.
+
+Le comte ne bougea pas ! rien ne pouvait le distraire ; Kernan alla vers la fenêtre ; un cri terrible faillit lui échapper, mais il se contint et ne voulut même pas faire part au comte de ce qu'il venait de voir.
+
+Karval, accompagné de sa horde sanglante, rentrait dans Quimper, hideux, ensanglanté, presque ivre, poussant devant lui des vieillards, des blessés, des femmes, des enfants, pauvres prisonniers vendéens arrachés à la déroute de la grande armée et destinés à l'échafaud.
+
+Il était à cheval, et tous les bandits de la ville le suivaient, en l'accablant de bruyantes acclamations.
+
+Décidément, ce Karval devenait un personnage.
+
+Quand il fut passé, Kernan revint près du comte et lui dit à voix basse :
+
+– Vous avez raison, notre maître, ce n'est pas aujourd'hui qu'il faut partir !
+
+
+# Chapitre VII. Le cimetière.
+
+Le soir arriva. Le temps avait changé ; la neige tombait. À huit heures, le comte se leva et dit :
+
+– Il est temps, partons !
+
+Kernan, sans répondre, ouvrit la porte et prit les devants. Il espérait éviter la rencontre de Scévola, mais celui-ci, l'entendant descendre, quitta la salle basse par instinct d'aubergiste, et se trouva sur le passage du Breton.
+
+– Tiens ! dit-il, tu pars, citoyen ?
+
+– Oui, mon frère va mieux !
+
+– Un mauvais temps pour se mettre en route ! Il ne peut donc pas attendre à demain ?
+
+– Non ! répliqua Kernan, qui ne savait pas trop que dire.
+
+– À propos, dit Scévola, tu sais que le vertueux Karval est rentré à Quimper ?
+
+– Précisément, fit le Breton, nous allons à l'évêché lui rendre visite.
+
+En prononçant ces mots, il s'était retourné vers le comte, qui n'avait heureusement pas entendu ce nom fatal.
+
+– Ah ! vous allez le voir à l'évêché ? reprit l'aubergiste.
+
+– Comme tu dis, et je t'assure que notre visite ne lui fera pas de peine.
+
+– Hé ! hé ! répondit Scévola en riant grossièrement, quelque dénonciation de prêtres ou d'émigrés.
+
+– Peut-être ! fit Kernan en prenant le bras de son maître et en l'entraînant vers la porte.
+
+– Allons, bonne chance, citoyen !
+
+– Au revoir ! répondit le Breton.
+
+Et il sortit enfin de l'auberge.
+
+La ville semblait déserte ; un silence profond régnait dans les rues assourdies par la neige.
+
+Le comte et son compagnon rasaient les maisons ; le premier se laissait conduire ; il ne s'apercevait pas du froid. Depuis sa résolution d'aller prier sur la tombe de sa fille, il n'avait pas prononcé une parole et s'était complètement absorbé dans sa douleur. Kernan respectait ce silence.
+
+Au bout de vingt minutes, les murs du cimetière apparurent dans l'obscurité. À cette heure, les portes en étaient fermées. Peu importait, d'ailleurs ; le Breton n'avait pas l'intention d'y pénétrer par l'entrée publique et de se faire voir du gardien.
+
+Il tourna donc les murs pour trouver un endroit propice à son escalade. Le comte le suivait avec une obéissance passive, comme un enfant ou comme un aveugle.
+
+Après avoir longtemps cherché, le Breton arriva à une place où le mur déchaussé avait cédé en partie, et laissait une brèche praticable. Kernan s'élança sur les pierres ; à peine retenues dans un ciment de neige et de boue ; de là, il tendit la main à son maître, et pénétra avec lui dans le cimetière.
+
+La blancheur de ce champ du repos offrait une pénible contemplation à la vue. Quelques tombes de pierre, de nombreuses croix de bois noir, étaient revêtues du linceul blanc de l'hiver ; spectacle triste que ce cimetière en deuil ! il venait involontairement à l'esprit que ces pauvres morts devaient avoir bien froid sous cette terre glacée, et plus encore ceux qu'une Municipalité indifférente venait de précipiter dans la fosse commune.
+
+Kernan et le comte, après avoir parcouru quelques allées désertes, arrivèrent à cette fosse à peine comblée, et couverte d'extumescences irrégulières que la neige dessinait nettement. Les bêches et les pioches des fossoyeurs étaient là pour le travail du lendemain.
+
+Au moment où il approchait, Kernan crut voir une forme humaine, courbée à terre, qui se relevait subitement et cherchait à se dérober derrière les noirs feuillages des cyprès. Il pensa d'abord que ses yeux subissaient une hallucination involontaire.
+
+« Je me trompe, se dit-il, quelqu'un ici à cette heure ? ce n'est pas possible !… »
+
+Cependant, en regardant attentivement, il vit la forme s'agiter sous les arbres ; en même temps il, remarqua des empreintes fraîches. Quelqu'un venait évidemment de s'enfuir.
+
+Était-ce un fossoyeur qui faisait sa ronde, un gardien, un détrousseur de morts ?
+
+Kernan arrêta le comte de la main ; il attendit quelques instants, et, l'individu n'ayant pas reparu, il marcha vers la fosse commune.
+
+– C'est ici, notre maître ! dit-il.
+
+Le comte s'agenouilla sur la terre glacée, ôta son chapeau et, tête nue, se mit à prier et à pleurer aussi ; ses larmes roulaient jusqu'à terre, et la neige fondait à leur brûlant contact.
+
+Kernan, agenouillé de même, priait aussi, mais il observait et surveillait les environs.
+
+Pauvre comte de Chanteleine ! Il eût voulu de ses mains écarter cette terre qui lui cachait son enfant, revoir une dernière fois ses traits chéris et donner une tombe plus décente à ses restes inanimés ! Ses mains se plongeaient dans la neige, et des soupirs à lui briser le cœur s'échappaient de sa poitrine.
+
+Depuis un quart d'heure, il était ainsi ; Kernan n'osait interrompre sa douleur. Mais il craignait que les sanglots du comte ne fussent surpris par quelque espion aux aguets.
+
+En ce moment, il crut entendre des pas ; il se retourna avec inquiétude ; il vit distinctement cette fois une forme humaine quitter le massif de cyprès et se diriger vers la fosse.
+
+– Ah ! fit le Breton, si c'est un espion, il le payera cher !
+
+Et, son couteau à la main, il se précipita vers un inconnu, qui ne parut pas vouloir l'éviter ; au contraire, celui-ci semblait attendre son agresseur de pied ferme. Bientôt, ces deux hommes furent à trois pas l'un de l'autre, dans l'attitude de la défense.
+
+– Que venez-vous faire là ? demanda rudement le Breton.
+
+L'inconnu, un jeune homme de trente ans, vêtu d'un costume de paysan, répondit d'une voix émue :
+
+– Ce que vous êtes venu faire vous-même !
+
+– Prier ?
+
+– Prier !
+
+– Ah ! dit Kernan, vous avez des parents ?…
+
+– Oui ! répondit le jeune homme d'une voix triste.
+
+Le Breton le regarda attentivement et vit des pleurs dans ses yeux.
+
+– Excusez-moi, dit-il, je vous avais pris pour un espion. Venez donc.
+
+Et, suivi de l'inconnu, il revint près du comte ; celui-ci, tiré de sa torpeur, allait se lever, quand le jeune homme lui fit signe de ne pas se déranger.
+
+– Vous venez prier, monsieur ? dit le comte. Il y a place pour nous deux sur cette tombe ! Je suis un père qui pleure son enfant ! Ils l'ont tuée ce matin et ils l'ont mise là !
+
+– Pauvre père ! fit le jeune homme.
+
+– Mais qui êtes-vous ? fit Kernan.
+
+– Le chevalier de Trégolan, répondit le jeune homme sans hésiter.
+
+– Le chevalier de Trégolan ! s'écria Kernan.
+
+Et il se mit sur ses gardes en reprenant toute sa défiance, car ce nom lui rappelait la scène du matin, et il ne comprenait pas ce que ce jeune homme eût à faire dans le cimetière.
+
+– Oui ! avait répondu le chevalier.
+
+– Vous qui ce matin avez obtenu la grâce de votre sœur et qui l'avez sauvée !
+
+– Sauvée ! fit le jeune homme en joignant ses mains.
+
+– Et c'est elle que vous venez pleurer ici ?
+
+– Chevalier, dit le comte qui ne doutait pas, vous avez eu plus de bonheur que moi ! Je ne suis pas même arrivé assez tôt pour voir une dernière fois mon enfant !…
+
+– Qui donc êtes-vous ? demanda vivement le jeune homme.
+
+Kernan allait s'élancer vers son maître pour lui fermer la bouche et l'empêcher de livrer le secret de son nom, quand celui-ci dit gravement :
+
+– Je suis le comte de Chanteleine !
+
+– Vous ! s'écria le jeune homme, vous, le comte de Chanteleine ?…
+
+– Moi, monsieur !
+
+– Mon Dieu ! mon Dieu ! fit l'inconnu en saisissant les mains du comte et en cherchant à le dévisager.
+
+– Eh bien ? demanda Kernan impatienté.
+
+– Venez, venez ! dit vivement le jeune homme, venez sans perdre un instant !
+
+– Halte-là ! fit Kernan, que voulez-vous ? Où prétendez-vous mener notre maître ?
+
+– Mais venez donc ! s'écria le jeune homme avec une certaine violence.
+
+Le Breton allait se précipiter sur le chevalier, qui s'était attaché au bras du comte et cherchait à l'entraîner, quand le comte lui dit :
+
+– Allons ! Kernan, allons ! celui-ci est un homme de cœur !
+
+Kernan, obéissant, se plaça à la gauche du jeune homme, prêt à le frapper au moindre indice de trahison, et tous les trois sortirent par la brèche du cimetière ; ils tournèrent les murs. Le chevalier de Trégolan ne parlait pas, mais ses mains demeuraient crispées sur le bras du comte.
+
+Ils rentrèrent ainsi dans la ville et s'enfoncèrent dans des ruelles étroites au lieu de suivre les rues ; d'ailleurs, ils étaient absolument seuls ; ce qui n'empêchait pas Kernan de jeter des regards attentifs autour de lui.
+
+Le silence de la nuit ne fut troublé qu'une fois, quand le chevalier et ses deux compagnons passèrent auprès de l'évêché, dont les fenêtres, vivement illuminées, laissaient passage à des cris de joie. On y fêtait le retour de Karval ; on chantait, on dansait, les juges avec les bourreaux, et Kernan sentit une épouvantable rage lui monter au cœur.
+
+Enfin, le jeune homme s'arrêta devant une maison tranquille et un peu isolée à l'extrémité d'un faubourg.
+
+– C'est là ! dit-il.
+
+Et il s'avança pour frapper à la porte. Kernan lui arrêta le bras au moment où il saisissait le marteau.
+
+– Un instant ! fit-il.
+
+– Laisse faire, Kernan ! dit le comte.
+
+– Non pas, notre maître ! Dans ces temps de misère, toute maison est suspecte ! Il faut savoir où l'on va. Pourquoi nous introduisez-vous dans cette demeure ? dit-il en fixant le jeune homme.
+
+– Pour vous montrer ma sœur ! répondit le jeune homme avec un triste sourire.
+
+Il frappa légèrement à la porte. On entendit des pas craintifs s'avancer dans l'allée et s'arrêter. Le chevalier frappa une seconde fois d'une certaine façon et dit :
+
+– Dieu et le roi !…
+
+La porte s'ouvrit ; une vieille dame se trouvait là, et parut inquiète en voyant le jeune homme accompagné de deux étrangers.
+
+– Des amis, dit celui-ci, ne craignez rien !
+
+La porte se referma rapidement ; une cire allumée permit à Kernan d'entrevoir un escalier de bois qui tournait au fond de l'allée ; le chevalier monta, suivi du comte et du Breton, celui-ci toujours armé.
+
+Cependant, il avait dû être rassuré par les paroles suivantes échangées entre la vieille dame et le jeune homme :
+
+– Chevalier, avait dit celle-là, que votre absence m'inquiétait !…
+
+– Et elle ? demanda-t-il.
+
+– Elle, répondit la vieille dame, elle pleure à faire pitié !…
+
+– Venez, monsieur le comte ! dit le jeune homme.
+
+Au haut de l'escalier se trouvait une porte dessous laquelle filtrait une nappe de lumière. Le chevalier l'ouvrit toute grande et dit ces seuls mots :
+
+– Monsieur le comte de Chanteleine, voilà ma sœur !…
+
+Avant le comte, Kernan avait jeté un rapide coup d'œil à l'intérieur de cette chambre, et il avait poussé un cri, mais un cri d'effrayante surprise !
+
+M*lle* de Chanteleine, Marie, sa nièce, était devant ses yeux, étendue sur un lit, mais vivante ! vivante !…
+
+– Mon enfant ! s'écria le comte.
+
+– Ah ! mon père ! fit la jeune fille en se relevant et en se jetant dans ses bras.
+
+Ce fut un indescriptible moment de délire. Comment peindre les caresses de ce père et de son enfant ? Kernan pleurait dans un coin après avoir embrassé Marie. Le chevalier de Trégolan considérait cette scène attendrissante en se croisant les mains.
+
+Soudain, Marie poussa un cri, et une pensée terrible passa devant son souvenir.
+
+– Ma mère ! s'écria-t-elle.
+
+Elle ignorait que sa mère eût péri dans le sac du château.
+
+Le comte, sans parler, montra du doigt le ciel à sa fille, qui retomba presque évanouie sur le lit.
+
+– Mon enfant ! mon enfant ! fit le comte en se précipitant vers elle.
+
+– Ne craignez rien, notre maître, dit Kernan en soulevant la tête de la jeune fille ; c'est une crise qui passera !
+
+En effet, au bout de quelques instants, Marie reprit connaissance, et ses larmes coulèrent en abondance. Enfin, ses sanglots s'arrêtèrent, et le comte put l'interroger.
+
+– Mais quel miracle t'a soustraite à la mort, mon enfant ? demanda-t-il.
+
+– Je l'ignore, mon père ! J'ai été traînée mourante à l'échafaud ! Je n'ai rien vu, rien entendu ! et je me suis retrouvée ici !
+
+– Parlez donc, monsieur de Trégolan, parlez ! dit le comte.
+
+– Monsieur le comte, répondit le chevalier, ma sœur avait été jetée dans les prisons de Quimper ; désespéré, je courus à Paris, et après de longues sollicitations j'obtins sa grâce de Couthon, auquel ma famille avait autrefois rendu service. Je revins à Quimper avec l'ordre signé, et, malgré mes efforts, je suis arrivé trop tard !…
+
+– Trop tard ?…
+
+– La tête de ma pauvre sœur, reprit le chevalier en sanglotant, venait de rouler sur l'échafaud en ma présence !…
+
+– Oh ! oh ! fit le comte en saisissant les mains du jeune homme.
+
+– Comment ne suis-je pas tombé mort ?… comment n'ai-je pas crié ?… comment n'ai-je pas redemandé celle dont j'avais la vie entre les mains ?… Je ne puis vous le dire, mais le Ciel m'envoya une inspiration dont je le remercie. Toutes ces malheureuses victimes étaient là pêle-mêle ; les exécuteurs ne les reconnaissaient même pas ! Au moment où M*lle* de Chanteleine montait évanouie au bras du bourreau, je m'avançai, je fis un effort surhumain, et je dis : « – Grâce ! grâce ! c'est ma sœur !… » Et il fallut bien me la rendre, et je la transportai chez cette bonne dame. Voilà pourquoi vous m'avez vu priant ce soir sur la tombe de celle qui n'est plus !
+
+Le comte s'était levé.
+
+– Mon fils ! dit-il au chevalier en s'agenouillant devant lui.
+
+Kernan, étendu à terre, couvrait de ses larmes les pieds du jeune homme.
+
+
+# Chapitre VIII. La fuite.
+
+On peut se figurer quelle nuit le comte passa près de sa fille sauvée de la mort. S'il ressentit plus vivement alors la perte de la comtesse, s'il entretint Marie de sa pauvre mère, une sainte et une martyre, toutes ces douleurs furent pourtant mêlées d'une joie immense ; quelles prières de miséricorde il éleva vers le ciel pour sa femme morte, de reconnaissance pour sa fille vivante et pour son sauveur !
+
+Kernan avait dit au jeune homme :
+
+– Monsieur le chevalier, vous avez en moi un chien dévoué, et tout mon sang ne payera pas ce que vous avez fait là !
+
+Pauvre jeune homme ! on sentait que toute cette joie devait être désolante pour lui, car elle était payée de la mort de sa sœur.
+
+Le matin venu, Kernan songea au plus pressé ; on ne pouvait demeurer dans cette maison sans mettre en danger la vie de la vieille dame ; on résolut donc de partir et, provisoirement, Kernan dut renoncer à sa vengeance contre Karval. Actuellement, le salut de sa nièce Marie passait avant tout.
+
+On discuta le parti à prendre.
+
+– Monsieur le comte, dit le chevalier de Trégolan, j'avais tout disposé pour mettre ma pauvre sœur en lieu de sûreté dans une cabane de pêcheur, au village de Douarnenez ; voulez-vous y venir attendre des jours meilleurs ou une occasion de quitter la France ?
+
+Le comte regarda Kernan.
+
+– Allons à Douarnenez, répondit celui-ci ; l'avis est bon, et si on ne peut s'embarquer, nous tâcherons de nous cacher si bien qu'on ne soupçonne pas notre présence.
+
+– Je conseille de partir ce matin même, dit le chevalier ; il ne faut pas perdre un instant, et il est nécessaire de pourvoir au plus tôt à la sûreté de M*lle* de Chanteleine.
+
+– Mais à Douarnenez, demanda le comte, trouverons-nous à vivre sans exciter les soupçons ?
+
+– Oui ; j'ai là un vieux serviteur de ma famille qui y exerce l'état de pêcheur, le bonhomme Locmaillé ; il nous recevra de grand cœur et nous pourrons demeurer dans sa maison jusqu'à ce qu'une occasion se présente de quitter la France.
+
+– Va comme il est dit, répondit Kernan, et mettons-nous en route au plus tôt. Nous ne sommes qu'à cinq lieues de Douarnenez et nous pouvons y arriver ce soir.
+
+Le comte approuva ce parti ; il avait hâte de donner à sa fille un peu de cette tranquillité dont la pauvre enfant avait grand besoin ; mais, à la voir si faible, il craignait qu'elle ne pût supporter les fatigues de la route ; les scènes de l'échafaud revenaient parfois à l'esprit de Marie avec une telle vivacité qu'elle paraissait sur le point de s'évanouir. Elle tressaillait au moindre bruit ; elle savait ses bourreaux encore si près d'elle ! Cependant, les caresses de son père, celles de Kernan lui rendirent un peu de force, et elle se déclara prête à tout braver pour quitter cette ville dans laquelle elle laissait d'épouvantables souvenirs.
+
+Il fallut alors procéder à sa toilette.
+
+On fit venir la vieille dame, à laquelle le comte adressa de vives paroles de reconnaissance. Cette digne femme put fournir des vêtements de paysanne. La jeune fille, restée seule dans sa chambre avec sa bienfaisante hôtesse, revêtit ce costume, sous lequel on ne devait pas soupçonner Marie de Chanteleine, des bas de laine rouge usés par un fréquent lavage, une jupe de laine rayée, avec un tablier de grosse toile qui l'entourait tout entière.
+
+Marie de Chanteleine était une jeune fille de dix-sept ans ; elle ressemblait beaucoup au comte, avec ses doux yeux bleus, alors rougis par les larmes, et sa bouche charmante qui essayait de sourire ; elle avait cruellement souffert pendant sa détention, mais un observateur attentif eût reconnu toute sa réelle beauté. Le reste de ses cheveux blonds, coupés par la main du bourreau, se dissimula facilement sous la coiffe bretonne qui lui enveloppait la tête suivant la mode du pays ; le haut de son tablier se rabattit sur son corsage, retenu par des pattes fixées au moyen de grosses épingles ; ses mains blanches furent frottées de terre afin de prendre une couleur moins suspecte, et, ainsi vêtue, elle eût été méconnaissable à tous, même à Karval, son plus terrible ennemi.
+
+Au bout d'une demi-heure sa toilette était terminée, et elle fut prête à partir. Sept heures du matin sonnaient à l'horloge de la Municipalité, il faisait à peine jour, et les fugitifs, après de sympathiques adieux à la vieille dame, quittèrent la ville sans avoir été remarqués.
+
+Il s'agissait de gagner d'abord la grande route d'Audierne qui conduit à Douarnenez. Kernan connaissait parfaitement le pays ; il fit prendre à la petite troupe des chemins détournés, plus longs mais plus sûrs ; on ne pouvait marcher vite ; Marie se traînait à peine et s'appuyait tantôt sur le bras de son père et tantôt sur celui de Kernan. Mais on voyait au prix de quels efforts elle parvenait à se soutenir ; ce grand air pur, dont elle avait été privée pendant sa douloureuse incarcération et qu'elle aspirait à pleins poumons, lui causait une sorte de vertige et l'enivrait comme un vin généreux.
+
+Au bout de deux heures de marche, elle fut contrainte de s'arrêter et demanda quelques instants de repos. Les fugitifs firent halte.
+
+– Nous n'arriverons pas aujourd'hui, dit Kernan.
+
+– Non, répondit le jeune homme, nous serons obligés de demander asile dans quelque maison.
+
+– Toute maison me paraît suspecte, répondit le Breton, et, s'il le fallait absolument, j'aimerais mieux prendre quelques heures de repos sous un hallier de la route.
+
+– Continuons, mes amis, répondit Marie après un quart d'heure d'arrêt, je puis encore faire quelques pas ; lorsque cela me sera tout à fait impossible, je vous le dirai.
+
+Et l'on reprit la marche interrompue. La neige avait cessé, mais il faisait froid ; Kernan se débarrassa de sa peau de bique et en couvrit les épaules de la jeune fille.
+
+Vers onze heures du matin, les voyageurs avaient à peine fait deux lieues ; le village de Plonéis n'était pas encore dépassé ; la campagne semblait déserte ; on ne voyait pas même une cabane de chaume ; le sol disparaissait tout entier sous d'immenses nappes blanches. Marie ne pouvait plus faire un pas. Kernan fut obligé de la prendre et de la porter ; mais la pauvre enfant, que la marche ne réchauffait plus, demeurait glacée entre les bras du Breton ; le comte, le chevalier se dépouillèrent de leurs vestes et entourèrent ses pieds du mieux qu'ils purent.
+
+Enfin, tant bien que mal, le soir, après avoir suivi la grande route, on parvint au village de Kermingny ; il restait encore plus d'une lieue et demie à faire pour arriver à Douarnenez ; mais alors le froid devint tel qu'on fut obligé de s'arrêter ; Marie perdait connaissance.
+
+– Elle ne peut aller plus loin ! fit Kernan. Il lui faut quelques heures de repos.
+
+Le comte s'était assis sur le revers de la route et soutenait son enfant dans ses bras ; il essayait vainement de la réchauffer sous ses baisers.
+
+– Que faire ! Que faire ! dit alors Kernan. Je ne veux pourtant pas demander l'hospitalité chez des gens qui nous trahiraient.
+
+– Quoi ! s'écria le comte d'un ton désespéré, n'y a-t-il donc pas dans le pays une âme assez charitable pour nous recevoir ?
+
+– Hélas ! non, répondit le chevalier. S'adresser aux paysans, ce serait courir à une mort certaine ! Les soldats Bleus se conduisent d'une manière horrible avec ceux qui donnent asile aux proscrits ; ils leur coupent les oreilles ou les envoient à l'échafaud sur le moindre soupçon.
+
+– M. de Trégolan a raison, répliqua Kernan, ce serait risquer non pas notre vie, qui est peu importante, mais celle de cette enfant !
+
+– Kernan, dit le comte, je ne sais qu'une chose, c'est que ma fille ne peut passer la nuit en plein air ! Elle mourrait de froid !
+
+– Eh bien ! répondit le chevalier, je vais aller jusqu'aux maisons du village, et je verrai si la Terreur n'a pas tué tout sentiment d'hospitalité chez les paysans bretons.
+
+– Allez, monsieur de Trégolan ! allez, dit le comte en joignant les mains, et sauvez encore une fois la vie à ma fille !
+
+Le chevalier s'élança vers le village ; la nuit était venue ; au bout d'un quart d'heure de course, le jeune homme arriva aux premières maisons ; elles étaient toutes fermées et silencieuses ; les portes et les fenêtres semblaient bouchées avec tant de soin que la plus mince lumière ne pouvait filtrer au-dehors.
+
+« On se cache ici comme partout », se dit le jeune homme.
+
+Il frappa à plusieurs portes ; il appela ; il ne reçut aucune réponse ; cependant, il reconnut à quelques fumées qui s'échappaient dans l'ombre que ces maisons devaient être habitées ; il heurta de nouveau aux portes et aux fenêtres ; il cria. C'était un parti pris de ne pas répondre.
+
+Le chevalier ne perdit pas courage. La pensée de la jeune fille mourante était toujours devant ses yeux ; il alla donc à toutes les maisons, il frappa de porte en porte. Partout même silence ! Il comprit que pas un des habitants de ce village, habitués sans doute à craindre la visite des Bleus, ne lui ouvrirait sa porte. La Terreur rendait durs et cruels ceux qu'elle frappait.
+
+Après sa vaine tentative, Henry de Trégolan n'avait plus qu'à rejoindre ses compagnons ; il revint donc d'un air désespéré. Il retrouva bientôt le comte et Marie dans la position où il les avait laissés : le père, assis sur le revers d'un fossé, essayait toujours de réchauffer sa fille entre ses bras. Mais, en dépit de ses soins, il la sentait se glacer peu à peu. Au moment même où le jeune homme arrivait, le comte, effrayé de l'immobilité de Marie, la regarda et la trouva sans connaissance.
+
+– Mon Dieu ! mon Dieu ! s'écria-t-il.
+
+– Eh bien ! répondit celui-ci, ce village est un cimetière !
+
+– Alors, dit Kernan, jetons-nous de l'autre côté de la route, dans la forêt de Nevet ; nous passerons la nuit derrière quelque tronc de chêne, et nous ferons du feu avec du bois mort.
+
+– Nous n'avons pas d'autres ressources, répondit le jeune homme, en route !
+
+Kernan communiqua son projet au comte, reprit la jeune fille entre ses bras et, suivi de ses deux compagnons, il traversa la route d'Audierne ; quelques minutes plus tard, il entrait dans le taillis ; les branches sèches craquaient sous ses pieds. Henry le précédait pour lui frayer le chemin.
+
+Il fallait s'enfoncer au plus profond du bois afin d'échapper à tous regards. Après un grand quart d'heure de marche, Henry découvrit un gros chêne creux qui pouvait offrir un abri à la jeune fille ; là, elle fut couchée soigneusement, puis Kernan, faisant jaillir des étincelles de son briquet, eut bientôt allumé un feu clair et pétillant.
+
+À cette bienfaisante chaleur, Marie ne tarda pas à reprendre connaissance ; son retour au sentiment fut marqué par un profond effroi ; mais quand elle se vit entourée de tous ceux qu'elle aimait, elle sourit faiblement et ne tarda pas à s'endormir.
+
+Pendant toute cette nuit, le comte, Kernan et le jeune homme veillèrent auprès d'elle ; elle était bien couverte, bien abritée, et son repos fut paisible.
+
+Kernan entretenait son feu de branches mortes ; ses compagnons, accroupis ou étendus, se réchauffaient de leur mieux ; quant à dormir, il n'en était pas question ; ni le comte, ni le chevalier ne pouvaient trouver le sommeil dans ces circonstances ; ils causèrent une partie de la nuit.
+
+Le chevalier raconta au comte de Chanteleine l'histoire de sa famille, histoire douloureuse aussi. Les Trégolan, originaires de Saint-Pol-de-Léon, avaient presque tous péri dans les sanglantes batailles dont la ville fut le théâtre en mars 1793 ; M. de Trégolan le père tomba mitraillé par les canons du général Canclaux, quand celui-ci voulut faire rétablir le pont coupé par les insurgés de Kerguiduff, sur la route de Lesneven ; le jeune homme avait vainement essayé de se faire tuer auprès de son père ; les balles républicaines ne voulurent pas de lui, et quand il revint à Saint-Pol-de-Léon il trouva sa maison en flammes et sa sœur entraînée dans les prisons de Quimper. En prononçant le nom de sa sœur, Henry ne put retenir ses pleurs, et le comte le pressa dans ses bras.
+
+Alors, à son tour, il lui raconta ses propres malheurs, le pillage de son château et la mort de la comtesse ; leurs histoires se réunissaient par le lien commun du malheur, et ils pouvaient mêler ensemble ces larmes que la République faisait couler.
+
+La nuit se passa ainsi. Kernan veillait avec soin et battait parfois les taillis environnants. Mais heureusement le jour arriva, et les fugitifs purent quitter leur retraite.
+
+Ces quelques heures de repos et de sommeil avaient ranimé la jeune fille ; elle se sentait assez forte pour marcher ; elle s'appuya au bras de son père, et la route fut reprise à huit heures du matin.
+
+À neuf heures, Kernan, guidant ses compagnons, quitta la route d'Audierne au village de Plouaré ; une demi-heure plus tard, la petite troupe arrivait à l'entrée du bourg de Douarnenez, et le chevalier la conduisit directement à la maison du vieux pécheur.
+
+
+# Chapitre X. Douarnenez.
+
+Douarnenez, en l'an II de la République, ne comptait encore qu'une vingtaine de familles de pêcheurs ; la réunion de ces maisons, faites d'éclats de granit, offrait un pittoresque coup d'œil à qui arrivait par mer.
+
+Le bourg, longtemps caché derrière les sinuosités de la côte, apparaissait tout à coup, dominé par le clocher solitaire d'une église située au sommet d'une colline.
+
+Le bourg, étendu au fond même de la baie, venait baigner ses pieds dans les hautes vagues ; les toitures des maisons étaient recouvertes de grosses pierres, afin de résister aux vents violents du nord-ouest.
+
+La côte de la Bretagne, depuis Concarneau jusqu'à Brest, est échancrée par une suite de baies de toutes grandeurs.
+
+Les plus importantes sont celles de Douarnenez et de Brest, qui mesurent jusqu'à vingt-cinq lieues de tour ; les baies d'Audierne, des Trépassés, de Camaret, de Dinan ne forment que des anses, à proprement parler ; entre toutes, la baie de Douarnenez est la plus mauvaise, et de nombreux naufrages lui ont assuré une sinistre réputation.
+
+Sa partie méridionale est formée par une langue de terre presque droite, une pyramide renversée de huit lieues de long, qui va s'enfoncer dans l'océan à la pointe du Raz.
+
+Sa base a environ quatre lieues de largeur au méridien de Douarnenez ; là se rencontrent les paroisses du Poullan, de Benzec, de Cleden, d'Audierne, de Pont-Croix, de Plogoff et quelques villages épars.
+
+La partie nord de la baie est faite d'une immense courbure de la côte, que vient terminer brusquement le cap de la Chèvre. Là se trouvent situées les magnifiques grottes de Morgat. Au-dessus on aperçoit les montagnes d'Aray, estompées par la brume.
+
+La baie, n'étant pas suffisamment fermée, reste exposée à toutes les tempêtes du large.
+
+Aussi la mer y est-elle toujours mauvaise ; les pêcheurs, aventurés dans leur chaloupe, s'y voient souvent en perdition, et, devant leur petit port de refuge, ils restent des journées entières sans pouvoir atterrir.
+
+Le bourg est situé à l'embouchure d'une petite rivière qui est à sec à marée basse. C'est là que les bateaux de pêche vont se réfugier par les mauvais temps, car la jetée qui couvre actuellement le petit port n'existait pas alors, et les maisons du rivage étaient battues d'écharpe par les vagues.
+
+L'extrémité de la petite rivière, du côté du bourg, se nomme le Guet.
+
+C'est à cette pointe même que s'élevait la petite maison du bonhomme Locmaillé. De ses fenêtres latérales, on pouvait apercevoir toute l'échancrure de la baie, depuis le cap de la Chèvre jusqu'à Douarnenez. Cette maisonnette se distinguait peu des roches environnantes ; elle n'était pas belle, mais solide et sûre.
+
+Elle se composait d'une salle basse, avec une large cheminée autour de laquelle on suspendait les filets mouillés et les engins de pèche, et de trois petites chambres au-dessus, d'où l'on apercevait la barque du pêcheur échouée ou flottante dans la rivière, suivant les caprices de la marée.
+
+Elle était habitée par le bonhomme Locmaillé, âgé de soixante ans, un serviteur dévoué de la famille, un autre Kernan, moins l'instruction.
+
+C'est là que furent reçus le comte de Chanteleine et sa fille ; le bonhomme leur fit comprendre qu'ils étaient chez eux, et en entrant ils ne purent retenir un soupir de satisfaction ; cette humble cabane leur apparaissait comme un lieu de refuge, sinon un lieu d'asile.
+
+Bien que la demeure fût petite, Henry trouva moyen de réserver une chambre pour la jeune fille, une autre pour le comte et même une sorte de petit cabinet pour lui ; suivant la coutume, ces chambres ne communiquaient pas avec la salle basse, et on y arrivait par un escalier de pierre construit extérieurement.
+
+La grande salle convenait parfaitement au bonhomme Locmaillé et à Kernan, décidé à devenir un pécheur déterminé, en attendant mieux.
+
+Les installations ne furent pas longues ; un feu de sarment crépita bientôt dans la chambre de Marie, et une demi-heure après son arrivée à Douarnenez elle était véritablement chez elle. Pour la première fois, le père et la fille pouvaient se trouver enfin seuls, et ils se retirèrent. On respecta leur isolement.
+
+Pendant ce temps, Kernan, aidé de Locmaillé, prépara un déjeuner frugal, fait de poissons frais et de quelques œufs ; lorsque le comte et sa fille redescendirent, les proscrits s'installèrent dans la chambre basse ; ils mangèrent dans des écuelles avec de l'argenterie de bois noir, sans linge, sur une table raboteuse, mais au moins en sûreté dans cette maison de pêcheur.
+
+– Mes amis, dit le chevalier, le Ciel nous a protégés en nous conduisant jusqu'ici, mais il ne veut nous aider qu'à la condition que nous nous aiderons nous-mêmes ; parlons donc de nos projets à venir.
+
+– Mon cher enfant, répondit le comte, nous nous en rapportons à vous ; je remets ma vie et celle de ma fille entre vos mains !
+
+– Monsieur le comte, dit le chevalier, je crois que le temps de vos grandes douleurs est passé, et j'ai bon espoir pour l'avenir.
+
+– Moi aussi, dit Kernan, vous êtes un digne jeune homme, monsieur Henry, et à nous cinq, il faudra bien que nous nous tirions d'affaire ; mais, dites-moi, notre arrivée dans le pays ne paraîtra-t-elle pas extraordinaire ?
+
+– Non ! Locmaillé a dit à qui voulait l'entendre qu'il attendait ses parents à Douarnenez.
+
+– Bien, répondit le Breton ; mais ne peut-on trouver singulier cet accroissement de famille ?
+
+– Non ; M. le comte de Chanteleine est mon oncle, et M*lle* Marie ma cousine.
+
+– Votre sœur, monsieur Henry, dit la jeune fille, votre sœur ! N'ai-je pas à remplacer près de vous cette noble fille qui n'est plus ?
+
+– Mademoiselle ! fit Henry avec l'accent de la plus vive émotion.
+
+– Cela se peut ! cela se peut, répondit Kernan ; moi, je serai le cousin du bonhomme Locmaillé, si cela lui va.
+
+– Trop honoré, fit le vieux pêcheur.
+
+– Eh bien ! la famille sera complète, une famille de pêcheurs ; ce ne sera pas la première fois que notre maître et moi, nous ferons ce métier ; nous n'étions pas maladroits, dans notre jeunesse, et j'espère que nous n'aurons pas trop perdu.
+
+– Eh bien ! fit le chevalier, dès demain nous courrons la baie de Douarnenez ! La barque est-elle en état, Locmaillé ?
+
+– Toute parée, répondit le bonhomme.
+
+– Mes amis, dit alors le comte, si nous devons rester dans ce pays, s'il nous faut y braver la tourmente révolutionnaire, si nous ne pouvons fuir plus loin de nos ennemis, j'approuve sans réserve vos arrangements ; mais devons-nous renoncer à l'espoir de passer à l'étranger ?
+
+– Monsieur le comte, répondit Henry, si un pareil projet eût été praticable, croyez bien que je vous l'eusse déjà proposé ; mais moi-même, depuis longtemps, j'ai voulu fuir en Angleterre, sans en trouver le moyen ; tout ce que je puis vous promettre, c'est que, si l'occasion se présente, nous ne la manquerons pas, et peut-être, à prix d'or, pourrons-nous la faire naître.
+
+– Malheureusement, il me reste peu de ressources.
+
+– Et moi, je n'ai pour vivre que mes bras et mon bateau.
+
+– Bon ! bon ! dit Kernan, nous verrons plus tard ! Mais actuellement, notre maître, fussiez-vous dix fois plus riche, et eussions-nous une bonne chaloupe à notre disposition, que je ne conseillerais à personne de s'y embarquer. Nous sommes dans les mauvais mois de l'hiver et la mer est terriblement dure en dehors de la baie. Les tempêtes nous rejetteraient bientôt sur quelque point de la côte, où nous pourrions nous trouver fort mal pris, et ma nièce Marie ne doit pas affronter un pareil danger. Dans les beaux jours, si Dieu n'a pas encore eu pitié de la France, on verra ce qu'il y aura à faire ; mais maintenant nous n'avons rien de mieux à imaginer que de pêcher, puisque nous sommes des pêcheurs, et de vivre tranquilles dans ce pays.
+
+– Bien parlé, Kernan, dit le chevalier.
+
+– Bien dit, mon bon Kernan, répondit le comte, sachons donc nous résigner, et, sans demander l'impossible, contentons-nous de ce que le Ciel nous donne.
+
+– Mes amis, dit alors la jeune fille, si mon oncle Kernan a parlé, nous devons l'écouter ; car il est de bon conseil ; il sait bien que je n'aurais pas reculé devant les dangers de la mer ; mais, puisqu'une traversée lui paraît impraticable, il faut nous regarder comme arrivés au port et attendre, nous ne sommes pas riches, eh bien ! nous travaillerons, et pour mon compte, je veux apporter mon faible contingent à la communauté.
+
+– Oh ! mademoiselle, fit vivement le jeune homme, c'est un dur métier que le nôtre ; vous n'avez pas été élevée comme les femmes et les filles de nos pêcheurs ; nous ne pouvons pas vous exposer à de pareilles fatigues. D'ailleurs, nous vous gagnerons votre pain de chaque jour.
+
+– Pourquoi, monsieur Henry, répondit la jeune fille, si je puis me procurer un travail qui ne dépasse pas la mesure de mes forces ? ce sera un plaisir et une consolation pour moi. Ne puis-je au besoin coudre ou repasser ?
+
+– Comment donc, s'écria Kernan, mais ma nièce Marie travaille comme une fée, et je lui ai vu broder des devants d'autel pour l'église de la Palud, dont sainte Anne devait être fière !
+
+– Hélas ! mon oncle Kernan, répondit Marie avec tristesse, il n'est plus question maintenant de devants d'autel ou d'ornements d'église ! Mais il est d'autres ouvrages plus humbles, plus lucratifs !…
+
+– Ma foi, j'en vois peu, fit Henry, qui ne voulait pas que la jeune fille s'occupât d'un travail manuel ; je vous assure que vous ne trouverez rien à faire dans le pays.
+
+– À moins de coudre des grosses chemises pour les pêcheurs ou les Bleus de Quimper, dit Locmaillé.
+
+– Oh !
+
+– J'accepte volontiers, s'écria Marie.
+
+– Mademoiselle ! fit le chevalier.
+
+– Et pourquoi pas ? dit Kernan, je vous assure que ma nièce s'en tirera à merveille.
+
+– Oui, fit le bonhomme, mais à cinq sols la pièce !
+
+– C'est très beau, cinq sols la pièce, s'écria Kernan ; ainsi, ma nièce Marie, tu seras lingère !
+
+– C'était le métier de M*lles* de Sapinaud et de La Lézardière après leur fuite du Mans, répondit la jeune fille, et je puis bien faire comme elles.
+
+– Convenu. Locmaillé te trouvera de l'ouvrage.
+
+– C'est entendu.
+
+– Et maintenant, Marie, maintenant, notre maître, reposez-vous pendant le reste de la journée ; je vais aller visiter la chaloupe avec M. Henry, et demain, nous nous mettrons en mer.
+
+Cela dit, Henry et Kernan sortirent ; Locmaillé alla courir le village, et la jeune fille, restée avec son père, se mit à ranger le petit ménage de la maison.
+
+Le chevalier et Kernan, arrivés à la pointe du Guet, trouvèrent l'embarcation en parfait état ; elle portait deux hautes voiles rouges et était faite pour tenir la mer par les gros temps.
+
+Là, quelques pêcheurs, en train de raccommoder leurs filets, vinrent causer « pour causer », et Kernan répondit à leurs questions en marin fini ; il donna son avis sur un petit nuage noir qui ne présageait rien de bon, et fit néanmoins des préparatifs de départ en homme qui s'y entendait. Le lendemain, en effet, il se mit en mer en compagnie du chevalier, pour lequel il ressentait une bien grande amitié.
+
+C'était, en effet, un bon et excellent cœur que ce jeune homme ; il avait pris, avec courage la situation terrible que la Révolution faisait aux gens de sa naissance et de son âge ; bien qu'il comptât vingt-cinq ans à peine, les événements mûrirent singulièrement son esprit au milieu de cette atmosphère qui embrasait la France. Après avoir tout perdu, sans famille, seul, il semblait naturel qu'Henry de Trégolan reportât ce qu'il avait d'affection et de dévouement sur le comte et sur sa fille. Kernan le sentait bien et il entrevoyait déjà, pour l'avenir, certains arrangements qui ne lui déplaisaient pas ; au contraire.
+
+Au sang-froid surhumain que le jeune Trégolan montra en sauvant M*me* de Chanteleine, au courage qu'il déployait dans son métier de pécheur, Kernan reconnut en lui un caractère adroit, sage et résolu. C'était un homme dans toute l'acception du mot, c'est-à-dire un appui sûr qu'il ne fallait pas dédaigner à cette époque de bouleversement social.
+
+Quand Kernan aimait quelqu'un, il l'aimait bien, et il en parlait ; plusieurs fois, il formula devant le comte son opinion bien arrêtée sur Henry, et il n'attendait guère que Marie ne fût pas là pour la dire.
+
+Quelques jours après son arrivée à Douarnenez, le comte voulut aider lui-même ses compagnons dans leur pénible travail ; il s'embarqua avec eux ; il était toujours fort triste, mais les incidents de la pêche amenaient une heureuse diversion dans ses idées. Quelquefois, les journées étaient bonnes, mais cinq jours sur huit le gros temps empêchait les bateaux de sortir.
+
+Les poissons se vendaient sur place à des expéditeurs qui les envoyaient à Quimper ou à Brest ; on en consommait aussi dans le ménage. En somme, ce que la pêche rapportait et les quelques sols gagnés par la jeune fille à ses ouvrages de couture suffisaient à faire vivre ce petit monde, qui se trouvait presque heureux dans sa détresse.
+
+Kernan ne voulait pas que l'on touchât à l'argent du comte ; les circonstances pouvaient devenir graves, et il fallait le garder précieusement, pour le cas où il fût devenu nécessaire ou possible de quitter le pays.
+
+Quant à lui, s'il était jamais obligé de fuir la Bretagne, il le ferait, il n'abandonnerait pas son maître ; mais assurément il y reviendrait accomplir certaine vengeance qui lui tenait au cœur. Seulement il n'en parlait jamais, et ne faisait aucune allusion à Karval.
+
+Pendant la pêche, on s'arrangeait toujours de façon à ce que la jeune fille ne fût jamais seule, et soit son père, soit le bonhomme Locmaillé, il y avait toujours quelqu'un près d'elle.
+
+D'ailleurs, l'arrivée des nouveaux venus dans le pays n'avait surpris personne ; on ne s'inquiétait aucunement de leur présence ; on les acceptait comme des parents du bonhomme Locmaillé, et, comme ils étaient fort serviables, on finit par les aimer. D'ailleurs, ils avaient peu de communication avec le dehors, et les bruits de la Révolution venaient expirer au seuil de leur cabane.
+
+Le 1*er* janvier 1794, Henry vint trouver la jeune fille en présence de son père et de Kernan, et lui offrit une petite bague, pour présent de nouvelle année.
+
+– Acceptez, mademoiselle, lui dit-il d'une voix émue : cette bague vient de ma sœur.
+
+– Ah ! monsieur Henry, murmura Marie.
+
+Elle s'arrêta, regarda son père et Kernan, se jeta dans leurs bras en les mouillant de larmes ; puis elle revint vers le chevalier.
+
+– Henry, dit-elle en lui tendant timidement sa joue, je n'ai pas d'autre présent à vous faire.
+
+Le jeune homme effleura de ses lèvres la joue fraîche de la jeune fille, et sentit son cœur battre à se rompre dans sa poitrine.
+
+Kernan souriait, et le comte mêlait involontairement dans sa pensée les noms d'Henry de Trégolan et de Marie de Chanteleine.
+
+
+# Chapitre X. L'île Tristan.
+
+Le mois de janvier s'écoula paisiblement, et les hôtes de Locmaillé reprirent peu à peu confiance. Trégolan se sentait chaque jour plus vivement attiré vers la jeune fille ; mais, Marie étant son obligée, il mettait à cacher son amour tout le soin qu'un autre, moins délicat, eût mis à l'afficher ; personne donc ne s'en doutait, si ce n'est peut-être Kernan, qui avait de bons yeux et qui se disait : « Cela se fera, et rien de plus heureux n'aura pu se faire. »
+
+Le village de Douarnenez était tranquille et ce calme ne fut troublé qu'une seule fois, et dans les circonstances suivantes.
+
+Il y avait, de l'autre côté de la rivière, en face de la maison de Locmaillé, à un demi-quart de lieue à peine, une île très rapprochée de la côte et faite uniquement d'un gros rocher inculte ; un feu allumé à son sommet signalait pendant la nuit l'entrée du port. On l'appelait l'île Tristan, et elle justifiait bien son nom ; Kernan avait remarqué que les pêcheurs semblaient l'avoir prise en horreur ; ils évitaient avec soin d'y aborder ; plusieurs d'entre eux même montraient le poing en passant devant elle ; d'autres se signaient et leurs femmes menaçaient les enfants méchants de « l'île maudite ».
+
+On eût dit qu'elle renfermait une léproserie ou un lazaret. C'était un véritable lieu de proscription et dont on avait peur.
+
+Les pêcheurs disaient parfois :
+
+– Le vent souffle de l'île Tristan, la mer sera mauvaise, et plus d'un y restera.
+
+Cette crainte n'était évidemment pas justifiée ; néanmoins, cet endroit passait pour dangereux et funeste. Et cependant il était habité, car de temps à autre on apercevait, errant sur les rocs, un homme vêtu de noir, que les gens de Douarnenez se montraient du doigt en criant :
+
+– Le voilà ! le voilà !
+
+Souvent même, à ces cris se joignaient des menaces.
+
+– À mort ! à mort ! répétaient les pêcheurs avec colère.
+
+Alors l'homme vêtu de noir rentrait dans une hutte délabrée, située au sommet de l'îlot.
+
+Cet incident se renouvela plusieurs fois ; Kernan le fit observer au comte, et ils interrogèrent Locmaillé à ce sujet.
+
+– Ah ! fit celui-ci, vous l'avez donc vu ?
+
+– Oui ! répondit le comte ; pouvez-vous me dire, mon ami, quel est ce malheureux qui semble rejeté de la société des hommes ?
+
+– Ça ! c'est le maudit ! répliqua le pêcheur avec un air de menace.
+
+– Mais quel maudit ? demanda Kernan.
+
+– Yvenat, le *juroux*.
+
+– Quel Yvenat ? quel *juroux* ?
+
+– Il vaut mieux n'en pas parler, répliqua le bonhomme.
+
+Il n'y avait rien à tirer du vieil entêté ; mais un soir, dans les premiers jours de février, cette question fut reprise sur une réflexion que fit Locmaillé lui-même. Tout le petit monde était réuni devant le vaste feu de la salle basse. Le temps était mauvais ; la pluie et le vent sifflaient au-dehors ; on entendait les ais de la porte et des volets gémir péniblement ; il se faisait aussi, dans le large tuyau de la cheminée, de grands engouffrements d'air qui rabattaient la flamme et la fumée dans la chambre.
+
+Chacun était plongé dans ses pensées ; on écoutait rugir la tempête, quand le bonhomme dit, comme s'il se fût parlé à lui-même :
+
+– Un bon temps et une bonne nuit pour le *juroux* ! on n'en pouvait pas choisir une plus belle !
+
+– Ah ! tu veux parler de cet Yvenat, dit Henry.
+
+– Du maudit ! oui ! mais bientôt, si on en parle encore, on ne le verra plus, du moins !
+
+– Que veux-tu dire ?
+
+– Je m'entends.
+
+Et le bonhomme retomba dans ses réflexions, tout en prêtant l'oreille à quelque rumeur attendue.
+
+– Henry, dit alors le comte, vous paraissez connaître l'histoire de ce malheureux, pourriez-vous nous dire quel est cet Yvenat, et quel est ce maudit ?
+
+– Oui, monsieur Henry, dit la jeune fille, j'en ai entendu parler, j'ai même vu un infortuné sur l'île Tristan, mais je n'ai pu en apprendre davantage.
+
+– Mademoiselle, répondit Trégolan, cet Yvenat est un prêtre constitutionnel, un assermenté, un *juroux*, comme ils disent, et depuis que la Municipalité de Quimper est venue l'installer à sa cure il n'a eu d'autre ressource que de se réfugier dans cette île pour échapper à la fureur de ses paroissiens !
+
+– Ah ! s'écria le comte, c'est un assermenté, un de ces prêtres qui ont adhéré à la Constitution civile du clergé !
+
+– Comme vous dites, monsieur le comte, répondit Trégolan ; aussi, dès que la force armée qui l'avait installé a été partie, vous voyez ce qu'est devenu ce malheureux. Il a dû s'échapper dans une barque, et se réfugier au sommet de cette île, où il vit de quelques coquillages !
+
+– Et comment ne s'enfuit-il pas ? demanda Kernan.
+
+– On ne laisse pas une chaloupe approcher de l'île, et cet infortuné finira par périr.
+
+– Ce ne sera pas long, murmura Locmaillé.
+
+– Le malheureux ! dit le comte en poussant un profond soupir, voilà donc ce qu'il a gagné à se rallier à la Constitution civile ! Il n'a pas compris le rôle sublime du prêtre pendant ces époques de bouleversement et de terreurs !
+
+– Oui, fit Trégolan, c'est une noble mission !
+
+– Certes, reprit le comte avec enthousiasme, plus belle même que celui du Vendéen et du Breton qui ont couru aux armes pour la défense de la sainte cause ! J'ai vu de près ces ministres du Ciel ! Je les ai vus bénissant et absolvant une armée entière agenouillée avant la bataille ! Je les ai vus célébrant la messe sur un tertre isolé avec une croix de bois, des vases de terre et des ornements de toile ; je les ai vus ensuite, se jetant dans la mêlée le crucifix à la main, secourir, consoler, absoudre les blessés jusque sous le feu des canons républicains, et là, ils m'ont paru plus enviables qu'autrefois dans la pompe des cérémonies religieuses.
+
+En parlant ainsi, le comte semblait animé du feu sacré des martyrs ; son regard brillait d'une ardeur toute catholique ; on sentait en lui une inébranlable conviction, qui en eût fait un confesseur déterminé de la foi.
+
+– Enfin, ajouta-t-il, pendant ce terrible temps d'épreuves, si je n'avais été ni époux ni père !… j'aurais voulu être prêtre !
+
+Chacun regarda la figure du comte. Elle resplendissait.
+
+En ce moment, une sourde rumeur se fit entendre au milieu des sifflements de la tempête ; des menaces humaines se mêlaient à la menace des éléments. C'était encore un bruit indécis ; mais sans doute Locmaillé savait à quoi s'en tenir, car il se leva en disant :
+
+– Bon ! les voilà ! les voilà !
+
+– Que se passe-t-il donc ? fit Kernan.
+
+Il alla vers la porte ; celle-ci, à peine entrebâillée, fut si violemment repoussée par le vent, que le robuste Breton n'eut pas trop de toute sa force pour la refermer.
+
+Mais si peu qu'il eût regardé au-dehors, il avait aperçu sur la ligne du rivage des torches allumées qui s'agitaient dans les rafales ; des cris terribles retentissaient pendant les courts apaisements de la tempête. De sinistres scènes se préparaient pour la nuit.
+
+Autrefois, avant la Révolution, les prêtres étaient en grande vénération dans toute la Bretagne ; ils n'avaient point trempé dans les excès ni dans les abus de pouvoir qui signalèrent le clergé des provinces plus avancées. Dans ce coin de la France, ils étaient bons, humbles, serviables, et faits pour ainsi dire du meilleur de la population. On les comptait en grand nombre, et personne ne songeait à s'en plaindre ; il y avait jusqu'à cinq prêtres par paroisse, et même quelquefois douze ; en somme, plus de quinze cents religieux dans le seul département du Finistère. Les curés, ou, pour les appeler comme en Bretagne, les recteurs, jouissaient d'un pouvoir considérable, mais considéré. Ils nommaient leurs desservants, ils enregistraient les actes de l'état civil, les contrats, les testaments ; ils étaient presque tous inamovibles et comptaient sous leurs ordres de nombreux jeunes clercs, qui vivaient avec les paysans, les instruisaient dans leurs devoirs religieux et leur apprenaient des cantiques.
+
+Quand arriva le serment, lorsque la Constitution civile du clergé fut décrétée, alors que tous les prêtres de France durent y adhérer, le clergé français se sépara en assermentés et en insermentés. Ceux-ci furent les plus nombreux ; ils refusèrent de jurer, et durent opter entre la prison ou l'exil ; une somme de trente-deux livres fut accordée à qui amènerait les récalcitrants au district, et enfin une loi du 26 août 1792 décréta leur déportation en masse.
+
+Pendant un assez long temps, les prêtres réfractaires purent se soustraire aux dénonciations et aux poursuites de leurs ennemis ; mais la haine ne se lassa pas ; bientôt, ils furent tous pris, déportés ou massacrés ; et des départements entiers se virent privés de leurs vieux amis.
+
+C'est ce qui arriva dans le Finistère, où le clergé fut très vivement traqué ; les prêtres disparurent bientôt, et les secours de la religion manquèrent absolument.
+
+Alors les Municipalités introduisirent les prêtres constitutionnels ; les paroissiens refusèrent de les recevoir. Il y eut lutte et bataille en plus d'un endroit ; les paysans chassèrent les jureurs ; plusieurs prises de possession de cure furent ensanglantées.
+
+À Douarnenez, le 23 décembre 1792, les gardes nationaux de Quimper vinrent établir le prêtre Yvenat ; ce n'était point un méchant homme, loin de là ; avant cette malheureuse affaire du serment, il avait toujours rempli dignement son sacerdoce ; c'était certainement un homme de bien, à qui sa conscience ne défendait pas d'adhérer à une Constitution que Louis XVI avait signée, après tout, et, quoique assermenté, il eût certainement rempli dignement son ministère.
+
+Mais c'était un jureur ; les paysans n'en voulurent point ; ils ne raisonnaient pas à cet égard ; c'était affaire de sentiment ; aussi, dès le début, les ennuis commencèrent pour le prêtre Yvenat ; il ne trouva personne pour le servir au presbytère ; les cordes de ses cloches furent coupées ; il ne pouvait faire sonner les offices ; aucun enfant ne voulut répondre la messe, aucun parent ne l'eût permis ; on préférait s'en passer ; enfin, le vin lui manquait pour le sacrifice ; pas un aubergiste n'eût osé lui en vendre. Yvenat eut beau faire, patienter, il n'obtint rien ; on ne lui parlait pas, puis quand on vint à lui parler, ce fut pour l'injurier ; des injures aux mauvais traitements il n'y avait qu'un pas, il fut franchi ; puis la superstition s'en mêla ; on vit dans ce jureur le mauvais génie, le maudit ; on l'accusa des tempêtes ; on mit sur son compte les barques chavirées ; on s'ameuta, et enfin la colère publique prit de telles proportions que le prêtre dut abandonner le presbytère ; il se réfugia dans l'île Tristan où les pêcheurs le laissèrent mourant de faim ; il y avait plus d'un mois qu'il habitait ce roc isolé, vivant de mauvais légumes, pêchant au besoin ; la charité ne semblait pas faite pour lui.
+
+Mais la patience des paysans devait avoir un terme, et leur colère revint avec les calamités qui, chaque jour, fondaient sur eux. Les Bretons échappés aux balles républicaines pendant la guerre de Vendée rentraient dans leurs foyers, épuisés, blessés, se traînant ; la misère s'accroissait ; la famine menaçait le pays. Tant de maux ne pouvaient être imputés qu'au maudit, dans une contrée superstitieuse. Après avoir laissé cet infortuné végéter sur un roc nu, la haine se retourna vers lui ; jusqu'où elle irait, on ne pouvait le prévoir de la part de ces rudes paysans. Enfin le jour de l'explosion arriva et fut annoncé par ces cris que Kernan venait d'entendre.
+
+Henry de Trégolan avait raconté tous les détails de la vie d'Yvenat à ses compagnons. Et quand Kernan lui apprit ce qu'il avait vu par la porte entrouverte, il comprit que ces menaces s'adressaient au jureur, et qu'on en voulait à sa vie.
+
+Il n'entrait pas dans la pensée de gens braves comme le comte et ses amis, qu'un homme seul, quelles que fussent ses fautes, pût être abandonné aux fureurs de toute une population ameutée, et d'un commun accord ils se levèrent.
+
+– Mon père, s'écria Marie, où allez-vous ?
+
+– Empêcher un crime ! répondit le comte.
+
+– Restez, notre maître, dit Kernan ; M. de Trégolan et moi, nous sommes là, ma nièce Marie ne peut demeurer seule. Venez, monsieur Henry, venez !
+
+– Je vous suis, répondit le jeune homme, qui serra précipitamment la main du comte.
+
+Puis Kernan et lui s'élancèrent au-dehors, pendant que le bonhomme Locmaillé secouait la tête d'un air de désapprobation.
+
+Henry et Kernan se précipitèrent vers la plage, du côté où les cris plus distincts arrivaient jusqu'à eux. Là les gens de Douarnenez, mêlés à ceux de Pont-Croix, de Poullan, de Crozon, marchaient en pleine tempête, accompagnés de femmes, d'enfants, et secouant leurs torches de résine enflammée ; ils traversèrent en bateau la rivière du Guet, et, prenant par la côte opposée, ils arrivèrent devant l'île Tristan.
+
+Le Breton et le jeune homme avaient si bien manœuvré qu'ils se trouvaient au premier rang de la foule. Songer à la retenir eût été une folie, il valait mieux tenter de lui arracher sa victime.
+
+À ce moment, les plus irrités des pêcheurs se jetèrent dans des barques au nombre d'une vingtaine, et ramèrent vers l'île.
+
+La foule, restée sur la plage, hurlait, et l'on entendait ces cris de haine :
+
+– À mort ! à mort ! le *juroux* !
+
+– Cassez-lui la tête d'un coup de *pen-bas* !
+
+– Un bon coup de *ferte* au maudit !
+
+Le malheureux prêtre, éveillé par ces vociférations, était sorti de sa hutte ; on le voyait courir sur cette île sans issue, épouvanté, effaré ; il se sentait voué à une mort affreuse ; il allait et venait, les cheveux hérissés, et vêtu d'une mauvaise soutane toute déchirée aux arêtes aiguës des rocs.
+
+Bientôt, les assaillants accostèrent l'île et se dirigèrent vers le maudit ; ils couraient en secouant leurs torches. Kernan, comme s'il eût été le plus ardent à la vengeance, les devançait tous.
+
+Yvenat, éperdu, s'était enfui vers la mer ; mais enfin, acculé à un rocher, il n'avait plus moyen de s'échapper, il fallait périr ; les cris retentissaient autour de lui, et toutes les angoisses de la dernière heure se peignaient sur son visage livide.
+
+Deux ou trois pêcheurs, le bâton levé, se précipitèrent vers lui ; mais, plus rapide, Kernan le saisit à bras-le-corps, le souleva, et avec lui se lança dans les flots noirs et écumants.
+
+– Kernan ! s'écria le chevalier.
+
+– À mort ! à mort ! s'écrièrent les assaillants, qui se penchaient sur l'abîme. Noie-le comme un chien !
+
+Cependant, Kernan, invisible dans l'ombre, remonta à la surface de l'eau avec Yvenat, qui ne savait pas nager ; il le soutint, et, quand la connaissance fut revenue au prêtre :
+
+– Tenez-moi bien, lui dit-il..
+
+– Grâce ! s'écria le malheureux.
+
+– Je vous sauve !
+
+– Vous !
+
+– Oui ; gagnons un point de la côte ! N'ayez pas peur ! appuyez-vous sur moi.
+
+Le prêtre, sans se rendre compte de ce secours inattendu, ne comprit qu'une chose, c'est que sa vie pouvait être sauvée. Il se cramponna au vigoureux Breton, qui nageait d'un bras robuste, pendant que les cris de mort retentissaient dans les ténèbres.
+
+Au bout d'une demi-heure, Kernan et le prêtre abordèrent sur la côte, bien au-dessous de l'île. Le prêtre était épuisé.
+
+– Pouvez-vous marcher ? lui demanda le Breton.
+
+– Oui ! oui ! s'écria Yvenat en faisant un suprême effort.
+
+– Eh bien ! prenez par les champs, évitez les maisons, vous avez la nuit devant vous ! Que le matin vous trouve du côté de Brest ou de Quimper.
+
+– Mais qui êtes-vous ? demanda le prêtre avec un vif accent de reconnaissance.
+
+– Un ennemi, répondit Kernan. Allez ! que le Ciel vous conduise, s'il a encore pitié de vous.
+
+Yvenat voulut serrer la main de son sauveur ; mais celui-ci s'était déjà éloigné ; le prêtre alors, se traînant vers les plaines incultes, disparut dans la nuit.
+
+Kernan avait repris le chemin de la côte ; il revint vers la foule des pêcheurs.
+
+– Le maudit ! le maudit ! lui crièrent cent voix haineuses.
+
+– Mort ! répondit le Breton.
+
+Un immense silence succéda à cette réponse, et cependant personne n'entendit Kernan murmurer à l'oreille du jeune homme :
+
+– Il est sauvé, monsieur Henry ! Voilà une bonne action dont je ferai pénitence !
+
+
+# Chapitre XI. Quelques jours de bonheur.
+
+Après cette terrible soirée, dans laquelle la colère de toute une population se déchaîna contre un seul homme, le village de Douarnenez reprit son calme habituel, et, il faut le dire, les pécheurs retournèrent à leurs travaux accoutumés avec plus de confiance ; depuis la mort du maudit, ils ne pensaient pas avoir à redouter les représailles des républicains, qui ne connaissaient rien de l'affaire. Il n'en était pas ainsi du comte et de ses amis ; ils devaient craindre que le premier acte de la liberté d'Yvenat ne fût une dénonciation en règle contre les habitants de Douarnenez. On pouvait donc s'attendre, un jour ou l'autre, à la visite des gardes nationaux du département et des forcenés des villes.
+
+De là un danger sérieux pour le comte et pour sa fille.
+
+Quelques jours se passèrent dans les plus vives inquiétudes ; Kernan fit même ses préparatifs pour le cas où un départ subit fût devenu nécessaire. Mais enfin, une semaine après les événements, rien ne légitimant la crainte d'une invasion des républicains, le comte commença à se rassurer.
+
+Ou Yvenat n'avait pu gagner les villes, et était retombé entre les mains de ses paroissiens, ou, ne voulant pas se venger de ses ennemis, il avait pris le parti de rentrer dans l'ombre.
+
+Il existait aussi une troisième hypothèse : que les Municipalités des villes, les délégués du Comité de salut public, trop occupés de la guerre vendéenne qu'il fallait terminer, et de la chouannerie qui prenait naissance, n'eussent pas de temps à consacrer à la vengeance du prêtre Yvenat.
+
+Quoi qu'il en soit, le pays demeura tranquille ; le comte reprit peu à peu confiance et retomba dans ses préoccupations habituelles. À le considérer, on voyait combien le malheur l'avait rapidement vieilli ; Kernan s'en effrayait quelquefois ; il lui semblait d'ailleurs que son maître était dominé par une grande idée, dont lui n'avait pas le secret. Véritable peine pour le fidèle Breton, habitué à partager toutes les pensées du comte ; mais il respectait le silence dans lequel celui-ci se renfermait.
+
+Marie avait aussi remarqué combien son père se retirait de plus en plus en lui-même. Toutes les fois qu'elle pénétrait dans sa chambre, elle le voyait le plus souvent agenouillé et priant avec une extrême ferveur. Elle revenait alors tout émue et se sentait prise d'une indéfinissable inquiétude qu'elle ne voulut pas cacher à Kernan. Celui-ci la rassurait de son mieux, sans être rassuré lui-même.
+
+Cependant, les jours se succédaient avec la série de leurs incidents peu variés. La pêche allait tant bien que mal, et les hôtes de Locmaillé étaient réduits à manger ses produits plus souvent qu'à les vendre. L'hiver avait été fort rigoureux : Marie travaillait à ses grosses chemises, et ses faibles doigts se tiraient à leur honneur de cette tâche ingrate ; souvent même, Trégolan l'aidait dans la partie des gros ourlets qu'elle n'avait pas la force de coudre, et quand il ne faisait pas le métier de pêcheur, assis à ses côtés, il faisait bravement celui de couturière. D'ailleurs, à cette époque, plus d'un gentilhomme émigré dut demander ainsi l'existence à l'ouvrage de ses mains ; ce n'était pas déroger, au contraire. Henry commettait souvent bien des maladresses et des gaucheries dont souriait la jeune fille ; cependant, aidée ou non, elle ne gagnait guère plus de cinq à six sols par jour.
+
+Pendant ces quelques heures de travail, Henry avait raconté toute sa vie, et toute l'histoire de cette pauvre sœur qu'il aimait tant. Marie trouvait dans son cœur de douces consolations pour le jeune homme.
+
+– Monsieur Henry, lui disait-elle, ne puis-je être votre sœur ? ne dois-je pas remplacer près de vous cette sainte martyre dont la mort m'a sauvée ?
+
+– Oui ! répondait le chevalier, vous êtes ma sœur ; vous êtes belle et bonne comme elle ! Vous avez son cœur et ses yeux ; c'est son âme tout entière que je retrouve en vous ! Oui ! Vous êtes ma sœur, et ma sœur bien-aimée !
+
+Alors il s'arrêtait, et souvent s'enfuyait pour ne pas en dire davantage ; car il sentait un autre sentiment, plus fort que celui de l'amour fraternel, l'envahir tout entier.
+
+La jeune fille, bien qu'elle ne se rendît pas compte de l'état de son âme, sentait aussi une émotion inconnue se glisser en son cœur ; mais elle prenait cette émotion pour la reconnaissance poussée à l'extrême envers son sauveur.
+
+Cependant, le secret de pareils sentiments ne peut demeurer éternellement dans les âmes généreuses sans faire irruption au-dehors ; celui qui aime véritablement est souvent débordé par son amour ; il faut qu'il parle, et, comme Henry se serait gardé sur toutes choses de déclarer ses véritables sentiments à la jeune fille, il cherchait dans Kernan le confident obligé.
+
+Le Breton avait tout vu, mais il laissait venir.
+
+Henry causa d'abord fort évasivement.
+
+– Si le comte venait à manquer à sa fille, lui dit-il un jour, que deviendrait-elle ? Ne serait-ce pas une situation funeste que celle de cette orpheline ? Comment la pauvre proscrite pourrait-elle échapper à ses ennemis ?
+
+– Je serais là, répondit Kernan en souriant.
+
+– Sans doute, reprit Henry, sans doute ; mais, mon brave Kernan, qui sait où la destinée vous entraînera ! Le comte ne peut-il vous rappeler sous les drapeaux de l'armée catholique, eh bien ! Dans ce cas, qui protégerait Marie ?
+
+Kernan pouvait facilement répondre que ni le comte ni le serviteur n'abandonneraient ensemble la demoiselle de Chanteleine, mais il feignit d'accepter l'argument du chevalier comme irréfutable.
+
+– Oui ! dit-il, qui la protégerait alors ? Ah ! Monsieur Henry, il lui faudrait un brave cœur pour l'aimer, et le bras d'un mari pour la défendre ! Mais qui oserait prendre à sa charge cette jeune fille proscrite et sans fortune ?
+
+– Il ne faudrait pas être bien audacieux pour le faire, répondit Henry avec vivacité, la connaissant comme nous pouvons la connaître ! Marie a passé par de terribles épreuves, et elle fera une digne femme, la femme qu'il faut à un honnête homme pour traverser les époques révolutionnaires.
+
+– Vous avez raison, monsieur Henry, reprit Kernan, si on la connaissait, mais on ne la connaît pas, et il n'y a guère d'apparence que dans ce village de Douarnenez nous trouvions jamais le mari qui convient à ma nièce.
+
+En parlant ainsi, le Breton voulait obliger le jeune homme à s'ouvrir plus clairement ; mais cette réponse produisit un effet tout opposé. Le chevalier crut voir dans ces paroles une désapprobation complète. Et ce jour-là il n'en dit pas davantage, ce dont Kernan fut très vexé.
+
+Le mois de février se passa. Pendant la semaine, chacun travaillait de son mieux ; le dimanche, le comte lisait l'office divin dans la salle basse, et ces pieuses gens y apportaient une ferveur vraiment catholique ; ils imploraient le Ciel pour leurs martyrs, et, en vrais chrétiens, ils priaient aussi pour leurs ennemis, sauf Kernan. Le Breton faisait seul exception ; il n'était pas chrétien jusqu'à l'oubli des injures, et chaque soir sa prière était suivie d'un serment de vengeance.
+
+Puis, quand le temps était beau, Kernan proposait une promenade sur la côte. Le plus souvent, le comte restait à la maison. Alors Henry, Kernan et Marie s'en allaient par les rochers ; ils gravissaient la colline sur laquelle est assis le village de Douarnenez ; ils remontaient la grande route du côté de l'église qui domine la baie, et de là leurs regards se perdaient sur ce morceau de mer largement ouvert à l'horizon, qui a ses tempêtes et ses sinistres comme l'océan. Quel magnifique spectacle que celui de cette baie agitée et furieuse ! On apercevait quelque barque attardée qui, sa voile au bas ris, luttait avec les vagues, disparaissait parfois, et se voyait entraînée souvent loin du port ; de là, l'œil suivait jusqu'à la pointe du Raz ce long promontoire qui s'enfonçait dans la mer.
+
+Henry, très au courant des choses du pays, faisait admirer ces beaux points de vue à sa compagne ; il l'instruisait ; il lui nommait tous les clochers, ceux de Poullan, de Beuzec, de Pont-Croix, de Plogoff, qui signalaient alors tant de paroisses désertes.
+
+Puis les promenades se prolongeaient jusque du côté de Sainte-Anne de la Palud ; on tournait la baie ; on apercevait au loin la chaîne des monts d'Aray affaissés sur eux-mêmes comme des montagnes fatiguées qui se seraient couchées dans la plaine.
+
+Un autre jour, les promeneurs faisaient bravement leurs quatre lieues de pays et allaient écouter l'océan mugir à la pointe du Raz. Là, le ressac produisait des effets merveilleux et terribles sur les rocs de cette petite baie au nom sinistre, qui s'appelle la baie des Trépassés. Ce spectacle des flots irrités impressionnait vivement la jeune fille ; elle se serrait au bras du chevalier quand les nappes d'écume enlevées par le vent retombaient en bruyantes cataractes.
+
+Il y avait aussi certaines vieilles légendes qu'Henry racontait et dont la plus célèbre est celle de la fille du roi Canut, qui livra au diable les clés d'un puits immense et sans fond. C'était du temps où des plaines immenses s'étalaient à la place de la baie ; mais les portes du puits ayant été imprudemment ouvertes, les flots firent irruption, noyèrent les villes, les habitants, les troupeaux, tout ce pays alors si fertile, et formèrent ce bras de mer qui s'est appelé depuis la baie de Douarnenez.
+
+– Un singulier temps que celui où l'on croyait à de pareilles choses, disait Henry.
+
+– Ne valait-il pas notre siècle de malheur ? répondait Kernan.
+
+– Non, Kernan, reprenait le jeune homme, car les époques d'ignorance et de superstitions sont toujours détestables ; il n'en peut rien sortir de bon ; tandis que, lorsque Dieu aura pris pitié de la France, qui sait si de ces épouvantables excès l'humanité n'aura pas retiré quelque profit que nous ne pouvons prévoir ! Les voies du Ciel sont impénétrables, et dans le mal se trouve toujours le germe du bien.
+
+Puis, en causant ainsi, en se faisant un fonds d'espérance pour l'avenir, on revenait tranquillement à la maison, et de ces longues courses on rapportait un bon appétit. C'étaient véritablement des jours heureux pour ce petit monde, et n'eût été la profonde préoccupation du comte, ces pauvres proscrits n'auraient rien demandé que la continuation de ce bonheur.
+
+Cependant, Henry n'avait pas renouvelé sa tentative auprès de Kernan, bien qu'il eût surpris souvent le Breton à regarder la jeune fille et lui avec un malin sourire.
+
+Mais Marie, qui n'y entendait pas malice, naïve et simple, ne se gênait pas pour parler à son oncle du chevalier de Trégolan ; elle le faisait même à son insu avec un véritable enthousiasme.
+
+– Un bien excellent cœur ! disait-elle ; un véritable cœur de gentilhomme, et tel que je ne pourrais souhaiter d'autre frère que lui.
+
+Kernan la laissait dire.
+
+– Quelquefois même, reprenait Marie, je me demande si nous n'abusons pas de sa générosité ! car il travaille pour nous, ce pauvre M. Henry, il se donne bien du mal, et nous ne pourrons jamais le payer de ses peines !
+
+Kernan ne répliquait pas.
+
+– Ajoute, continuait la jeune fille, qui se figurait sans doute que le Breton répondait affirmativement à toutes ses questions, ajoute qu'il n'est pas proscrit, lui, qu'il a des protecteurs, puisqu'il a pu obtenir à Paris la grâce de sa sœur ! Et cependant il reste dans ce pays, dans cette cabane ; il se condamne à un rude métier, il y risque sa vie ; et cela pour qui ? pour nous ! Oh ! il faudra bien que le Ciel le récompense un jour, car nous, nous serons impuissants à le faire.
+
+Kernan se taisait toujours, mais il souriait en songeant que la récompense n'était pas loin.
+
+– Enfin, dit Marie, est-ce que tu ne trouves pas que c'est un digne jeune homme ?
+
+– Certes, répondit Kernan, ton père n'en voudrait pas d'autre pour fils, et moi, ma nièce Marie, je n'en voudrais pas d'autre pour neveu.
+
+Ce fut la seule allusion que se permît le Breton, mais il ne sut pas si elle fut comprise. Cependant, il est probable qu'en causant avec le chevalier, Marie lui rapporta l'opinion de Kernan à son égard. En effet, quelques jours plus tard, Henry se trouvant à la pêche avec Kernan, lui fit les plus complètes ouvertures en rougissant et en laissant échapper ses filets.
+
+– Il faut en parler au père, se contenta de répondre le Breton.
+
+– Tout de suite ! s'écria le chevalier, effrayé d'une telle hâte.
+
+– En rentrant.
+
+– Mais… fit le jeune homme.
+
+– Mettez donc la barre au vent, ou nous allons ralinguer.
+
+Et ce fut tout. Henry redressa la barre, mais il la tenait si mal que Kernan fut obligé de prendre place au gouvernail.
+
+Ceci se passait le 20 mars ; pendant les jours précédents, le comte avait paru plus soucieux que d'habitude ; plusieurs fois, il avait pris sa fille dans ses bras et l'avait serrée sur son cœur sans prononcer une parole. Lorsque Kernan fut de retour après la pêche, une pêche d'amoureux, pour tout dire, et qui fut assez mauvaise, il s'adressa d'abord à Marie.
+
+– Où est ton père ? lui demanda-t-il.
+
+– Mon père est sorti, répondit la jeune fille.
+
+– Tiens ! cela est singulier, fit Kernan ; ce n'est guère dans ses habitudes.
+
+– Il ne vous a rien dit, mademoiselle ? dit Henry.
+
+– Non ! je lui ai proposé de l'accompagner ; mais il s'est contenté, pour toute réponse, de m'embrasser bien affectueusement, et il est parti.
+
+– Eh bien ! attendons son retour, monsieur Henry, dit Kernan.
+
+– Vous aviez à lui parler ? demanda la jeune fille.
+
+– Oui, mademoiselle, balbutia Henry.
+
+– Oui, répondit Kernan, une bêtise, un rien ; attendons.
+
+Ils attendirent ; l'heure du souper arriva sans que le comte fût de retour. On patienta, mais bientôt on commença à s'inquiéter. Le bonhomme Locmaillé avait vu le comte se diriger vers la route de Châteaulin ; il marchait rapidement, un bâton à la main, comme quelqu'un qui voyage.
+
+– Qu'est-ce que cela veut dire ? s'écria Marie.
+
+– Comment ! il serait parti sans nous prévenir.
+
+Henry se précipita dans l'escalier et monta à la chambre du comte ; il redescendit bientôt, tenant à la main une lettre, qu'il remit à Marie ; elle ne contenait que ces mots :
+
+Ma fille, je pars pour quelques jours. Que Kernan veille sur toi ! Prie pour ton père.
+
+Comte de Chanteleine.
+
+
+# Chapitre XII. Le départ.
+
+On comprend l'effet que produisit la lecture de ces quelques mots sur ses auditeurs ! Marie ne put s'empêcher d'éclater en sanglots, et Henry ne parvint pas sans peine à la consoler.
+
+Où était allé le comte de Chanteleine ? pourquoi ce départ précipité ? pourquoi ce secret, que son fidèle Kernan n'avait pu percer ?
+
+– Il est allé se battre ! il est allé rejoindre les Blancs ! furent les premiers mots de Marie.
+
+– Sans moi ! s'écria Kernan.
+
+Mais en considérant que Marie était seule au monde, il comprit que le comte avait dû lui laisser le soin de la protéger.
+
+On discuta donc cette supposition, que le comte eût rejoint les débris de l'armée catholique. Cette hypothèse était fort plausible.
+
+En effet, la lutte continuait, plus ardente et plus opiniâtre, malgré toutes ces guerres que la Convention avait sur les bras, malgré la Terreur qui existait à Paris depuis l'exécution des girondins ; bien que les membres de ce gouvernement fussent en lutte ouverte avec certains députés de la Convention et que, quelques semaines plus tard, Danton dût succomber, le Comité de salut public faisait des prodiges d'activité.
+
+Il est bon de connaître ce que certains hommes de partis contraires ont pensé de ce comité, qui, par ses moyens terribles et sanguinaires, a sauvé la France, livrée à toutes les horreurs de la guerre civile et à tous les périls de la coalition.
+
+À Sainte-Hélène, Napoléon a dit :
+
+– Le Comité de salut public est le seul gouvernement qu'ait eu la France pendant la Révolution.
+
+M. de Maistre, l'homme du parti légitimiste, a eu le courage d'en convenir également, disant que les émigrés, après avoir livré la France aux rois, n'auraient jamais eu la force de l'arracher de leurs mains.
+
+Chateaubriand pensait ainsi de ces douze hommes nommés Barrère, Billaud-Varennes, Carnot, Collot-d'Herbois, Prieur de la Marne, Robert Lindet, Robespierre aîné, Couthon, Saint-Just, Jean Bon-Saint-André, Prieur de la Côte-d'Or et Héraut-Séchelles, dont les noms sont pour la plupart voués à l'exécration publique.
+
+Quoi qu'il en soit, le comité, voulant en finir avec la Vendée, entra dans la voie des plus horribles dévastations ; les colonnes infernales, dirigées par les généraux Turreau et Grignon, s'avancèrent sur le pays après la défaite de Savenay. Elles pillèrent, elles massacrèrent, elles ruinèrent ; femmes, enfants, vieillards, personne n'échappa à leurs sanglantes représailles.
+
+Le prince de Talmont fut pris et exécuté devant le château de ses ancêtres ; d'Elbée, malade, fusillé sur son fauteuil, entre deux de ses parents. Henri de La Rochejaquelein, le 29 janvier 1794, après une dernière victoire remportée à Nouaille sur les colonnes incendiaires, s'avança vers deux soldats Bleus surpris dans un champ :
+
+– Rendez-vous, leur dit-il, je vous fais grâce.
+
+Mais l'un de ces misérables, le couchant en joue, le tua roide d'une balle au milieu du front.
+
+Pendant ce temps, les plus sanguinaires agents du comité étaient envoyés dans les provinces ; Carrier, à Nantes, depuis le 8 octobre, imaginait ces moyens qu'il appelait les déportations verticales, et, le 22 janvier, il inaugurait ses bateaux à soupapes en l'honneur des prisonniers de l'armée vendéenne.
+
+Mais plus on les décimait, plus les royalistes se montraient ardents à combattre la Révolution. Il était donc possible que le comte de Chanteleine eût rejoint soit Charette, qui avait repris la campagne après avoir évacué l'île de Noirmoutier, soit Stofflet, qui venait de succéder à La Rochejaquelein.
+
+L'armée catholique était démembrée ; il se faisait alors une terrible guerre de partisans. Stofflet et Charette, ces deux illustres Vendéens, battaient les généraux de la République. Charette, avec dix mille hommes, pendant trois mois vainqueur des troupes républicaines, défit et tua le général Haxo.
+
+Ces nouvelles arrivaient jusqu'au fond de la Bretagne, et Douarnenez tressaillit souvent au bruit des batailles.
+
+Si le comte n'était pas en Vendée, il pouvait s'être jeté dans le mouvement de la chouannerie. Jean Chouan, pendant les derniers mois de cette funeste année de 93, s'était levé, entraînant toutes les populations du Bas-Maine, et se ruant depuis le fond de la Mayenne jusqu'au fond du Morbihan.
+
+Il y avait là un grand rôle à jouer pour le comte de Chanteleine ; pourquoi ne l'aurait-il pas accepté ? Trégolan et Kernan discutèrent toutes ces probabilités. Cependant, le secret gardé par le comte faisait hésiter Kernan.
+
+– Il ne se serait pas caché de nous, disait-il, s'il était retourné sur les champs de bataille.
+
+– Qui sait ?
+
+– Non, il faut qu'il y ait autre chose.
+
+Alors l'un ou l'autre allait aux nouvelles ; ils s'exposaient même pour savoir ce qui se passait dans la Vendée ou, dans le Morbihan ; le bruit d'un engagement leur mettait la mort dans l'âme. Cependant, malgré tous leurs efforts, ils ne purent apprendre quoi que se fût.
+
+Marie tremblait et priait pour son père, et, en regardant autour d'elle, elle arrivait à se considérer comme presque isolée dans le monde.
+
+Alors il lui prenait des moments de désespoir. Kernan et le chevalier essayaient de la rassurer, sans y réussir.
+
+Les jours se passèrent ; les nouvelles du comte manquaient toujours ; les bruits du dehors étaient alarmants.
+
+Le comte avait disparu le 20 mars, et, six jours après, les Vendéens reprenaient l'offensive par un coup d'éclat.
+
+Le 26 mars, la ville de Mortagne venait d'être enlevée aux Bleus ; or, à cette affaire, Marigny commandait en chef ; Marigny, l'ancien compagnon de Chanteleine, qui, après trois mois d'une existence vagabonde, reparaissait en vainqueur.
+
+En apprenant ce fait, Kernan s'écria :
+
+– Notre maître est là ! Il est à Mortagne !
+
+Mais en connaissant les détails de la sanglante bataille qui avait eu lieu, comment les meilleurs soldats des Blancs y trouvèrent la mort, l'inquiétude des deux hommes et de la jeune fille fut au comble, et quand, quinze jours après la prise de Mortagne, on fut encore sans nouvelles, Marie, désespérée, s'écria :
+
+– Mon père ! Mon pauvre père est mort !
+
+– Ma chère Marie, répondit Trégolan, calmez-vous ! Non, votre père n'est pas mort ! Rien ne le prouve.
+
+– Je vous répète qu'il est mort ! répéta la jeune fille sans vouloir l'entendre.
+
+– Ma nièce, reprit Kernan, on n'envoie pas de ses nouvelles comme on veut, dans les temps de guerre ; au bout du compte, c'est une victoire qui vient d'être remportée sur les républicains.
+
+– Non ! Kernan ! Il ne faut pas espérer ! Ma mère morte dans son château ! Mon père mort sur le champ de bataille ! Je suis seule au monde ! Seule, seule !
+
+Marie sanglotait. Cette épreuve l'avait brisée ; sa frêle nature ne pouvait résister à tant de coups répétés. Et, quoiqu'elle n'eût aucune preuve de la mort de son père, comme il arrive dans certains moments de désespoir, elle se fit à cet endroit une conviction que rien ne put ébranler.
+
+Cependant, lorsque Marie s'écria qu'elle était seule au monde, Kernan sentit une grosse larme couler le long de sa joue, son cœur saigna, et il ne put s'empêcher de dire :
+
+– Ma nièce Marie, ton oncle est encore près de toi.
+
+– Kernan, mon bon Kernan, répondit la jeune fille en serrant la main du Breton.
+
+– Tu auras toujours un ami pour t'aimer, reprit-il.
+
+– Deux, s'écria Trégolan, auquel cette parole échappait malgré lui ; deux ! Ma chère Marie, car je vous aime !
+
+– Monsieur Henry ! dit Kernan.
+
+– Pardonnez-moi, Marie ; pardonnez-moi, Kernan, mais ces paroles m'étouffaient ! Non ! Ma chère bien-aimée n'est pas seule au monde ! Non ! Je serai heureux de lui consacrer ma vie tout entière.
+
+– Henry ! s'écria la jeune fille.
+
+– Oui, je l'aime, vous le savez, Kernan, et vous à qui son père l'a confiée, vous approuvez mon amour !
+
+– Monsieur Henry, pourquoi dire ces choses, puisque… ?
+
+– Ne craignez rien, Kernan, ni vous, ma chère Marie ; si j'ai parlé ainsi, c'est que je vais partir.
+
+– Partir ! s'écria Marie.
+
+– Oui, m'éloigner de vous, de vous que j'aime et de qui j'aurais voulu emporter quelque bonne parole. Si j'avais dû rester, j'aurais renfermé ce secret dans mon cœur, comme je l'avais promis à Kernan ; mais je pars, pour combien de temps ? Je l'ignore ; et maintenant me pardonnez-vous d'avoir parlé ?
+
+– Mais où allez-vous donc, Henry ? demanda M*lle* de Chanteleine avec un accent qui pénétra l'âme du jeune homme.
+
+– Où je vais ? Dans le Poitou, dans la Vendée, à Mortagne, partout où je pourrai rencontrer votre père, partout où je pourrai avoir de ses nouvelles, afin de vous dire si vous avez encore pour vous aimer sur terre un autre cœur que celui de Kernan et le mien !
+
+– Quoi ! dit Kernan, vous voulez rejoindre le comte ?
+
+– Oui, et j'y parviendrai, je le retrouverai, ou je mourrai à la peine !
+
+– Henry ! s'écria la jeune fille.
+
+– Eh bien ! allez ! monsieur Henry, dit Kernan d'une voix profondément émue, et que le Ciel vous protège, pendant votre absence, je veillerai sur cette chère enfant ; mais soyez prudent, car vous savez que nous comptons sur votre retour.
+
+– Soyez tranquille, Kernan ; j'ai une tâche à remplir, non pour me faire tuer là-bas, mais pour rejoindre le comte de Chanteleine, et il ne sera pas si bien caché que je ne le retrouve. Le rang qu'il occupait dans l'armée royaliste ne permet pas qu'il y soit inconnu. J'irai à Mortagne, Marie, et je vous rapporterai des nouvelles de votre père.
+
+– Henry, reprit la jeune fille, vous allez braver bien des dangers pour nous ! Que Dieu vous accompagne, et qu'il vous récompense.
+
+– Quand partez-vous ? demanda Kernan.
+
+– Ce soir même, à la nuit, je voyagerai à cheval ou à pied, suivant les circonstances, mais j'arriverai.
+
+Les préparatifs du départ ne furent pas longs. La jeune fille, au moment arrivé, prit la main du chevalier dans les siennes et la garda longtemps sans pouvoir parler. Kernan était très ému. Mais Henry puisa dans les yeux de la jeune fille une force surhumaine, et, après un long adieu, il se dirigea vers la porte.
+
+À ce moment, celle-ci s'ouvrit rapidement et un homme enveloppé d'un manteau parut.
+
+C'était le comte.
+
+– Mon père ! s'écria Marie.
+
+– Ma fille bien-aimée ! répondit le comte en pressant Marie sur son cœur.
+
+– Oh ! Que nous avons été inquiets de votre absence, mon père, et M. Henry allait partir pour vous retrouver et vous ramener à nous.
+
+– Brave enfant, fit le comte en tendant la main au chevalier. Vous vouliez encore vous dévouer.
+
+– Allons ! Tout va bien, dit Kernan. Je crois décidément que la chance s'en mêle.
+
+Le comte, qui s'était tu sur le motif de son absence, ne parla pas davantage du but qu'il avait atteint. Il parut évident au Breton que ce voyage se rattachait à une intrigue royaliste, une sorte de conspiration nouvelle, mais il n'interrogea pas son maître à cet égard.
+
+Seulement, il crut devoir mettre le père au courant de ce qui s'était passé ; il lui dépeignit l'amour dont il avait été le confident, et comment, pendant le désespoir de Marie, l'aveu de cet amour avait quitté les lèvres du jeune homme ; il ne doutait pas que la jeune fille ne l'aimât.
+
+– Et certes jamais homme n'était plus digne d'être aimé ! ajouta le Breton. Après tout, notre maître, si ce mariage se décidait, il ne pourrait pas être célébré, car il n'y a pas de prêtre dans le pays, et il faudrait attendre.
+
+Le comte secoua la tête sans répondre.
+
+
+# Chapitre XIII. Le prêtre mystérieux.
+
+En effet, cette absence de prêtres dans le département avait nécessairement suspendu l'exercice de la religion ; les populations des campagnes souffraient surtout de cet état de choses. Et cependant, plutôt que de reconnaître les assermentés, elles se renfermaient dans leurs maisons et fuyaient les églises ; aussi les enfants naissaient sans recevoir le baptême, les mourants mouraient sans avoir été administrés, les mariages ne pouvaient se célébrer ni religieusement, ni même civilement, car les troubles n'avaient pas même permis d'installer les bureaux de l'état civil.
+
+Cependant, pendant la dernière quinzaine d'avril, un changement manifeste se produisit dans les campagnes de la partie du Finistère comprise dans un rayon de quelques lieues autour de Douarnenez ; il devint bientôt évident qu'un prêtre était revenu dans le pays accomplir sa noble mission en bravant des dangers sans nombre.
+
+Ce fut une chose qui d'abord se dit à l'oreille ; il ne fallait pas éveiller l'attention des espions que les Municipalités entretenaient en tous lieux ; mais enfin il paraissait certain qu'un homme mystérieux allait et venait dans le pays ; par les mauvais temps, dans les orages et la nuit, un inconnu, toujours seul, parcourait les campagnes, visitait les villages, tantôt Pont-Croix, tantôt Crozon, Douarnenez, Pouellan ; non seulement il se transportait au sein des paroisses, mais aussi dans les maisons les plus isolées.
+
+Il paraissait connaître parfaitement le pays et être au courant de ses besoins. À la naissance d'un enfant, il accourait ; il apportait des consolations et les derniers sacrements aux moribonds ; on le voyait peu, car sa figure était le plus souvent voilée ; mais on n'avait pas besoin de le voir, il suffisait de l'entendre pour reconnaître en lui le ministre d'une religion de charité.
+
+Ce fait, d'abord peu connu, ne tarda pas à attirer l'attention publique. Bientôt, on en causa à Douarnenez.
+
+– Cette nuit, il est venu chez la mère Kerdenan et il l'a administrée, disait celui-ci.
+
+– Avant-hier, il a baptisé l'enfant aux Brezenelt, répondait celui-là.
+
+– Profitons-en, pendant qu'il est là, répliquaient naïvement les autres, car il pourrait bien lui arriver malheur.
+
+Les habitants de cette côte, en somme de pieuses gens, étaient heureux de la présence de cet inconnu, qui, renouvelait la situation morale du pays.
+
+Il y avait un vieux tronc de chêne sur la route de Douarnenez à Pont-Croix, où ceux qui réclamaient les secours de la religion déposaient un billet, un mot, un signe quelconque, et, la nuit suivante, le prêtre mystérieux apparaissait.
+
+Vu leur isolement, les hôtes de Locmaillé ne connurent pas d'abord ce nouvel état de choses ; ils ne causaient guère avec leurs voisins, et ils s'enfermaient volontiers chez eux. Pendant deux mois, au moins, cette sainte mission fut exercée sans qu'ils en fussent instruits, sans qu'ils pussent en profiter pour leur compte.
+
+Cependant, le bonhomme Locmaillé apprit ce qui se passait ; il en dit quelque chose à Kernan ; le Breton n'eut rien de plus pressé que d'en parler à son maître ; un éclair de satisfaction brilla dans les yeux du comte.
+
+– Ma foi, dit Kernan, ce prêtre-là doit être un homme courageux et dévoué, car il faut du dévouement et du courage pour agir ainsi.
+
+– Oui, répondit le comte, mais il en est récompensé par le bien qu'il répand autour de lui.
+
+– Sans doute, notre maître, et je m'explique que les habitants de cette côte soient heureux de sa présence dans le pays ! Savez-vous que c'était dur de mourir sans confession !
+
+– Oui, répondit le comte.
+
+– Pour moi, reprit le Breton avec une conviction profonde, c'eût été la pire des douleurs ; l'enfant nouveau-né peut attendre son baptême, et chacun a le droit de remplacer le prêtre auprès d'un berceau ; les jeunes gens peuvent remettre le mariage à des temps plus heureux ! Mais mourir sans un confesseur à son chevet, il y a de quoi désespérer !
+
+– Tu as raison, mon pauvre Kernan.
+
+– Mais j'y pense, reprit le Breton, voilà qui fera plaisir à M. Henry ! Nous devons beaucoup à ce courageux jeune homme ; heureusement, il nous sera facile d'être reconnaissants envers lui ! Savez-vous que ma nièce aura là un mari sur lequel elle pourra compter ! Et certainement, en lui permettant de la sauver, le Ciel la lui réservait pour l'avenir !
+
+– Nous devons le penser, Kernan, répondit le comte ; puisse cette chère enfant être heureuse comme elle le mérite ! Elle a été assez éprouvée pour que le Ciel lui sonne désormais une existence heureuse. Mais avant de parler de ce prêtre au chevalier, Kernan, laisse-moi arranger cette affaire.
+
+Kernan promit de ne rien dire, mais le chevalier ne tarda pas à entendre parler de ce qui faisait la conversation de tout le pays. Aussitôt il vint entretenir Kernan de sa grande découverte, et le Breton ne put s'empêcher de sourire.
+
+– Parlez-en ce soir à souper, lui dit-il, et vous verrez ce qu'on vous répondra.
+
+Henry suivit le conseil de Kernan, et le soir même, après avoir tendu la main à Marie, il appelait le comte de Chanteleine du nom de père.
+
+– Mais ce prêtre, dit-il, qui le verra ?
+
+– Moi, dit le comte.
+
+Marie se jeta dans ses bras.
+
+– Cela va bien, cela va bien, dit Kernan, et cela nous portera bonheur. Je ne serais pas étonné que ce fût la fin de la fin. Ah ! monsieur Henry, vous nous l'aimerez bien.
+
+– Oui, mon oncle, répondit Henry en se précipitant au cou du Breton.
+
+Un long mois se passa encore ; le comte ne parlait plus du prêtre mystérieux. L'avait-il vu ? Henry osait à peine s'informer. Mais un soir, le comte annonça à ses enfants que leur mariage serait célébré dans les grottes de Morgat le 13 juillet ; c'était trois semaines de patience.
+
+Il fallait donc se résigner et attendre. Le temps paraît bien long, qui mène au bonheur, et cependant c'est encore celui qui marche le plus vite ; on s'occupait de mille petites choses. Kernan voulut que Marie fût belle dans son costume de mariée, et il dépensa quelques vieux écus à lui acheter un ruban par-ci, une guimpe par-là. Henry se ruina véritablement, ce qui ne fut pas difficile ; sans en rien dire, il alla un jour à Châteaulin et rapporta un bel habillement de paysanne bretonne.
+
+Il faut dire aussi que Kernan tint à l'honneur de figurer dans la cérémonie avec de bons gros souliers, et il n'y eut pas jusqu'au bonhomme Locmaillé qui ne voulût avoir des sabots neufs.
+
+Enfin, tout fut prêt bien avant le jour fixé. Henry s'inquiétait toujours du prêtre ; il aurait voulu le voir. Ayant appris l'histoire du tronc d'arbre, il s'y rendit un matin, et déposa un billet qui rappelait au curé mystérieux cette importante date du 13 juillet, et les grottes de Morgat.
+
+Quelques instants après, un homme d'assez mauvaise mine s'emparait du billet et disparaissait aussitôt.
+
+Enfin, la veille du grand jour arriva ; la dernière soirée se passa dans la salle basse. Henry ne pouvait contenir son bonheur. Le comte entretint ses enfants des grands devoirs de la vie, et comment il fallait les accomplir ; il leur dit des choses touchantes ; Henry et Marie se jetèrent à ses genoux et lui demandèrent de les bénir.
+
+– Oui, dit le comte, que le Ciel vous bénisse ! Qu'il vous absolve par ma voix ! Qu'il vous garde pendant le reste de votre vie ! Oh ! Oui, mes enfants bien-aimés, qu'il accomplisse les bénédictions d'un père.
+
+Puis, les relevant, il les serra tous les deux dans ses bras.
+
+
+# Chapitre XIV. Les grottes de Morgat.
+
+Le cap de la Chèvre fait l'extrémité d'une longue pointe de terre formée par la courbure de la côte nord, et qui vient fermer en partie la baie de Douarnenez. Le promontoire couvre lui-même une sorte de petite baie intérieure, qui s'aperçoit parfaitement du bourg, un peu sur la gauche.
+
+C'est vers la partie centrale et sur une plage magnifique que se trouvent les célèbres grottes de Morgat. Il y en a plusieurs. Elles sont accessibles à marée basse, sauf la plus belle et la plus importante, dans laquelle on ne peut pénétrer qu'avec le flot.
+
+Cette dernière est très vaste ; elle a des profondeurs que le regard humain n'a jamais pu sonder, faute d'air respirable ; les torches qu'on y promène pâlissent d'abord et finissent par s'éteindre ; les êtres animés ne sauraient y vivre. Mais toute la partie antérieure de la grotte est vaste, aérée et d'un aspect grandiose.
+
+C'était le lieu choisi pour la célébration du mariage. Le bruit se répandit bientôt dans les paroisses environnantes qu'une messe solennelle y serait célébrée. On comprend l'effet de cette nouvelle sur une population privée depuis si longtemps de ses cérémonies religieuses ; aussi se proposait-on dans le pays de venir en foule aux grottes de Morgat. D'ailleurs le choix du lieu devait mettre les fidèles à l'abri de toute surprise.
+
+En effet, les pêcheurs, forcés d'entendre la messe sur leur barque, pouvaient facilement échapper aux Bleus qui voudraient les surprendre par terre. C'est ce qui avait décidé le prêtre à officier publiquement.
+
+Le jour arriva ; il faisait un bon vent, très favorable. Dès le matin, un grand nombre de chaloupes chargées d'hommes, de femmes, d'enfants, de vieillards, quittèrent le port de Douarnenez pour traverser la baie. Le spectacle fut magnifique de cette flottille qui mettait à la voile avec les pêcheurs parés de leurs plus beaux habits.
+
+La barque de Trégolan devançait toutes les autres. Marie était charmante sous son costume de mariée bretonne, avec son air de bonheur, toujours un peu mélancolique. Henry lui tenait la main. Kernan était à la barre et le bonhomme Locmaillé à l'avant.
+
+Le comte de Chanteleine était parti de grand matin, avant le déjeuner ; il fallait que tout fût prêt, et surtout que le principal personnage, le prêtre, fût là.
+
+Donc la flottille allait par une belle mer ; quelquefois le vent venait à fraîchir ; toutes ces chaloupes s'inclinaient ensemble et se relevaient quand la brise était passée. Déjà le bourg de Douarnenez se perdait dans l'éloignement.
+
+Bientôt, la grotte fut visible. Il n'y avait pas de clocher pour la distinguer, ni de cloche sonnant joyeusement dans l'air une messe de mariage ; mais la piété de toute une population allait la transformer en église naturelle.
+
+Quand on arriva devant la grotte, la marée n'était pas encore assez haute pour y pénétrer ; les barques se rangèrent dans un bon ordre et attendirent.
+
+Enfin, le flot s'élança par-dessus la grève, d'abord en écumant sur le sable, puis plus tranquille à mesure qu'il montait. Les chaloupes entrèrent et se disposèrent circulairement le long des murailles de granit. Celles-ci, revêtues de roches rouges, prenaient des reflets de cornaline qui charmaient le regard.
+
+Au centre de la grotte se trouve un rocher isolé, un îlot de quelques pieds carrés, sur lequel un autel avait été élevé ; quelques cierges brûlaient dans des chandeliers de bois, et les dernières ondulations de la mer venaient mourir au pied de cet autel, tandis que les barques se balançaient au mouvement de la houle.
+
+Marie, cependant, promenait autour d'elle un regard inquiet.
+
+– Et mon père ? dit-elle au Breton.
+
+– Il ne peut tarder à venir, répondit Kernan.
+
+– Marie ! Je vous aime, murmurait le jeune homme à l'oreille de la jeune fille.
+
+Bientôt, au fond de la grotte, une clochette retentit, et l'on vit une barque s'avancer lentement : un enfant agitait la clochette, un pêcheur ramait à l'avant ; à l'arrière, le prêtre portait le calice. Il arriva au rocher, débarqua, posa le vase sacré sur l'autel et se retourna vers les assistants.
+
+– Mon père ! s'écria Marie.
+
+– Lui ! Lui ! fit Kernan.
+
+Ce prêtre, c'était le comte de Chanteleine, et pendant que les siens, stupéfaits, ne pouvant en croire leurs yeux, demeuraient dans le plus profond silence, le comte prit la parole et dit :
+
+– Mes frères, mes amis, celui qui vous parle est un père ; veuf, il s'est fait prêtre pour vous apporter les secours de la religion ! Un saint évêque, caché près de Redon, lui a donné le droit d'exercer le divin sacerdoce, il vient marier sa fille avec celui qui l'a sauvée de l'échafaud, et il vous demande de prier pour elle.
+
+Ces paroles furent suivies d'un frémissement. Tous les pêcheurs reconnaissaient celui qui leur parlait ainsi et comprirent son dévouement sublime. Marie pleurait, et Kernan ne pouvait prononcer une parole.
+
+L'absence du comte s'expliquait alors : les études théologiques qu'il avait faites pendant sa jeunesse lui avaient permis de franchir rapidement les premiers degrés de l'état sacerdotal, et en quelques jours il avait été ordonné prêtre.
+
+Alors, revenu près des siens, il employa ses nuits à exercer son saint ministère ; il s'échappait de sa maisonnette par l'escalier extérieur sans que personne se doutât de son absence, et s'il n'avoua pas plus tôt à ses amis, à son enfant, le secret de sa nouvelle existence, c'est qu'il ne voulut pas les effrayer par la crainte des dangers auxquels il s'exposait.
+
+De la main, le comte fit approcher la barque des fiancés jusqu'au pied du rocher, et la messe commença.
+
+Il y avait quelque chose de touchant à voir ce veuf devenu prêtre, ce père qui mariait sa fille ; l'étrangeté de cette situation dominait tous les esprits.
+
+Bientôt, le murmure de la prière se mêla au murmure des flots. On sentait, à l'entendre, combien la voix du comte était émue.
+
+Enfin, le moment de l'élévation arriva ; le son de la clochette retentit ; les fidèles s'inclinèrent dans un profond recueillement, et le prêtre élevait au ciel l'hostie consacrée, quand tout à coup des cris retentirent au-dehors.
+
+– Feu ! s'écria une voix.
+
+Et une décharge épouvantable éclata soudain.
+
+– Les Bleus ! les Bleus ! s'écria-t-on de toutes parts.
+
+Et chaque barque se prit à fuir au-dehors, sous le feu d'un brick de guerre, *Le Sans-culotte*, qui s'était embossé devant la plage. Il avait mis ses chaloupes à la mer, et, chargées de soldats, elles se dirigèrent vers la grotte.
+
+Le désordre était au comble ; des blessés expiraient, les uns essayaient de se cramponner aux rocs et de gagner la plaine, d'autres se noyaient au milieu de la fumée ; on ne se voyait pas. Les républicains pénétrèrent alors dans la grotte ; une barque vint jusqu'à l'autel, sur lequel un homme s'élança :
+
+– Ah ! Comte de Chanteleine, je te tiens, s'écria-t-il, saisissant le prêtre et le remettant à ses soldats ! Prêtre et noble ! Ton affaire est bonne !
+
+Cet homme était Karval. Le billet déposé par Henry avait été saisi par un espion qui surveillait le pays. Aussitôt, Karval, instruit de l'affaire, partit sur un navire de Brest, et vint surprendre les malheureux.
+
+Kernan avait aperçu Karval ; mais à un cri du comte il repoussa vivement la barque, et se réfugia dans la partie la plus sombre de la grotte.
+
+Cependant, Karval avait eu le temps de reconnaître Marie, à son grand étonnement, car il la croyait morte ; il la fit donc chercher partout, quand la fumée fut dissipée, et pour échapper à ses ennemis, Kernan n'hésita pas à lancer la barque dans l'une de ces profondes cavités, où il risquait de périr faute d'air.
+
+Karval jurait, blasphémait en poursuivant ses recherches.
+
+– Rien ! Rien ! La fille m'échappe ! Mais elle n'a donc pas été exécutée ? Par où ont-ils pu fuir ?
+
+Il se fit conduire en dehors de la grotte. Ceux des pêcheurs qui avaient pu gagner le rivage fuyaient dans toutes les directions ; Karval ne vit rien et dut se contenter de la prise du comte.
+
+Celui-ci fut mis à bord du brick, qui reprit la pleine mer et revint vers Brest.
+
+Cependant, la situation de Kernan était terrible ; la jeune fille, évanouie, gisait à ses pieds ; Henry se sentait étouffer. Enfin la barque de Karval quitta la grotte. Le Breton se hâta alors de fuir cette retraite funeste, et il fit revenir Marie en mouillant son visage décoloré.
+
+– Elle vit ! Elle vit ! s'écria le jeune homme.
+
+– Mon père ! murmura Marie.
+
+Henry ne répondit pas, tandis que Kernan faisait un geste de menace et de colère.
+
+– Ah ! Karval ! dit-il, je te tuerai !
+
+Laissant alors Marie aux soins du chevalier, dont l'union n'avait pas encore été bénie, Kernan se jeta à la nage, et gagna le devant de la grève ; n'apercevant plus les républicains, il sortit peu à peu, et il arriva sur la plage ; il y avait là des cadavres et du sang ; il monta sur le haut des rocs, et rejoignit quelques malheureux qui se cachaient.
+
+– Eh bien ! leur demanda-t-il, les Bleus ?
+
+– Là.
+
+Ils lui montrèrent le brick, qui doublait en ce moment le cap de la Chèvre.
+
+– Et le prêtre ? demanda Kernan.
+
+– À bord, répondirent les pêcheurs.
+
+Kernan se laissa glisser du haut du talus sur la plage et rentra dans la grotte ; il plongea de nouveau, et il regagna la barque où Marie était étendue, respirant à peine.
+
+– Le comte ? demanda Henry.
+
+– Emmené à Brest.
+
+– Eh bien ! il faut aller à Brest, s'écria Henry, le délivrer ou mourir.
+
+– C'est mon avis, répondit Kernan ; d'ailleurs, nous ne pouvons retourner à Douarnenez, nous n'y serions plus en sûreté. Locmaillé ramènera la chaloupe, nous nous cacherons aux environs de Brest et nous attendrons.
+
+– Mais comment y aller ?
+
+– Il faut gagner par terre la rade de Brest.
+
+– Mais Marie ?
+
+– Je la porterai, dit Kernan.
+
+– Je marcherai, répondit la jeune fille en se relevant avec une force surhumaine. À Brest ! à Brest !
+
+– Attendons l'obscurité, dit Kernan.
+
+Toute la journée se passa dans les craintes et le désespoir ; les pauvres gens avaient été frappés d'un coup de foudre au milieu de leur bonheur.
+
+Kernan fit sortir la chaloupe à la marée du soir ; quand la nuit fut venue, il gagna la plage, serra la main au bonhomme Locmaillé, et, soutenant Marie, il prit à travers les champs.
+
+Une demi-heure après, les fugitifs arrivaient au village de Crozon, situé à une demi-lieue des grottes ; ils rencontrèrent sur la route des cadavres encore chauds. Ils marchèrent ainsi pendant plus d'une heure.
+
+Où allaient ces malheureux ? Qu'allaient-ils faire ? Qu'espéraient-ils ? Comment arracher le comte à la mort ? Ils n'en savaient rien, mais ils allaient. Ils passèrent ainsi les villages de Pen-av-Menez, de Lescoat, de Laspilleau, et arrivèrent enfin au Fret, qui est situé sur la rade de Brest, après deux heures de marche.
+
+Marie n'en pouvait plus ; heureusement, Kernan trouva un pêcheur qui voulut bien lui faire traverser la rade.
+
+On s'embarqua ; à une heure du matin, Kernan, Marie et Henry débarquaient, non pas à Brest, mais sur la côte qui mène à Recouvrance, près de Porzik, à la porte d'une mauvaise auberge, où ils purent trouver une chambre.
+
+Kernan, le lendemain, alla aux nouvelles, et il apprit le retour du brick *Le Sans-Culotte*, qui avait fait une prise importante sur les côtes de Bretagne.
+
+Kernan revint donc à l'auberge.
+
+– Maintenant, Henry, dit-il, je vous laisse à votre fiancée ; je vais à la ville, je veux savoir à quoi m'en tenir.
+
+Kernan partit, suivit la côte, entra par Recouvrance, arriva au port de Brest, le traversa en bateau et remonta du côté du château, autour duquel il rôda toute la journée.
+
+Brest était en proie à la plus épouvantable terreur ; le sang coulait à flots sur ses places publiques. Un des membres du Comité de salut public, Jean Bon-Saint-André, y exerçait les plus horribles représailles.
+
+Le Tribunal révolutionnaire fonctionnait sans relâche. On faisait même guillotiner par les enfants, « pour leur apprendre à lire dans l'âme des ennemis de la République ».
+
+La folie se mêlait à l'ivresse du sang.
+
+Kernan, en interrogeant l'un et l'autre, apprit que le comte avait été emprisonné et condamné à mort. Seulement, on retardait son exécution pour un motif atroce.
+
+Karval voulait que la jeune fille fût guillotinée sous les yeux de son père, et il avait juré de s'en emparer à tout prix.
+
+« Cela ne peut pas avoir lieu, se dit simplement Kernan, il y a des choses que le Ciel ne permettrait pas ! »
+
+Quoi qu'il en soit, Karval, après avoir reçu les félicitations des clubs et du proconsul, retourna à Douarnenez le jour même, et continua ses recherches.
+
+Kernan revint le soir au Porzik ; il apprit aux deux jeunes gens que l'exécution du comte était retardée, sans leur dire pour quelle raison, et il annonça son intention d'aller chaque jour à Brest savoir ce qui s'y passait. Mais, par-dessus toutes choses, il leur recommanda de ne pas mettre le pied au-dehors.
+
+Marie, d'ailleurs, était couchée et mourante. Cette dernière épreuve l'avait brisée.
+
+Pendant treize jours, Kernan partit le matin et revint le soir sans rapporter aucun fait nouveau. La plupart des pêcheurs arrêtés à Morgat, avec leurs femmes et leurs enfants, avaient été exécutés. Quant au comte, un miracle seul pouvait le sauver.
+
+Le soir du treizième jour, le 26 juillet, Kernan, parti le matin, suivant sa coutume, ne rentra pas, et Henry passa la nuit dans une mortelle inquiétude.
+
+
+# Chapitre XV. La confession.
+
+Le retour de Kernan avait été, en effet, retardé par une rencontre inattendue. Il était neuf heures du soir ; il revenait désespéré ; on annonçait pour le lendemain l'exécution du ci-devant comte de Chanteleine. Karval, ne pouvant retrouver la jeune fille, avait enfin ordonné le supplice.
+
+Kernan était décidé à employer les moyens extrêmes pour enlever le comte à la fatale charrette qui le conduirait à l'échafaud. Mais, avant de prendre un parti, il voulut revoir le chevalier et sa nièce Marie, pour la dernière fois peut-être. Il marcha donc à grands pas, après avoir longtemps rôdé autour de la prison.
+
+Déjà il avait traversé le port de Brest, et il remontait les rues roides et détournées de Recouvrance, quand il aperçut, marchant devant lui, un homme dont la tournure le frappa. L'obscurité n'était pas encore assez grande pour qu'il pût s'y méprendre. Certains détails lui firent venir la pensée que cet homme était celui qu'il haïssait tant. Bientôt, il ne put en douter.
+
+« Karval ! se dit-il, Karval ! »
+
+La haine, la colère, le désir de la vengeance l'aveuglèrent un instant, au point qu'il fut prêt à se jeter sur le misérable et à le tuer sur place. Mais il parvint à se contenir.
+
+– Je le tiens, dit-il, du sang-froid !
+
+Kernan se prit à suivre Karval ; il ôta ses souliers ; il le laissa prendre une certaine avance sur lui pour n'être pas remarqué, et, courant pieds nus quand son ennemi venait à tourner l'angle d'une rue, il reprenait sa piste comme un sauvage des prairies d'Amérique.
+
+Karval s'engagea dans les petites ruelles montantes si nombreuses dans ce quartier de la ville. L'obscurité s'accroissait peu à peu, et les rues devenaient désertes ; Kernan dut se rapprocher de Karval pour ne pas le perdre de vue. D'ailleurs, le misérable, ne soupçonnant pas la présence du Breton dans la ville, ne l'aurait pas reconnu. Cependant, il ne tarda pas à voir qu'il était suivi, et il pressa le pas. Kernan, craignant à chaque instant qu'une porte ne s'ouvrît devant lui, résolut de l'aborder. Il hâta donc sa marche, et le rejoignit près du chemin de ronde, le long des fortifications de la ville.
+
+Karval recula vivement, et, d'une voix peu rassurée, il dit au Breton :
+
+– Que me veux-tu, citoyen ?
+
+– J'ai une dénonciation à te faire, répondit Kernan.
+
+– Ce n'est ni le lieu ni l'heure, répliqua Karval, dont le Breton avait saisi le bras.
+
+– Si, pour un patriote comme toi… Mon affaire intéresse la République.
+
+– Enfin, que veux-tu ?
+
+– Tu cherches la citoyenne de Chanteleine.
+
+– Ah ! fit Karval en reprenant confiance dans sa haine, tu sais où elle est ?
+
+– Elle est en mon pouvoir, répondit Kernan, et je puis te la livrer.
+
+– Tout de suite ?
+
+– À l'instant même.
+
+– Et que demandes-tu pour cela ? dit le misérable.
+
+– Rien. Viens donc.
+
+– Attends ; le poste des remparts n'est pas loin. Je vais prendre quelques hommes, et, pas plus tard que demain, la citoyenne fera la bascule sous les yeux de son père.
+
+Le poignet de fer du Breton serra si violemment le bras de Karval, que celui-ci ne put retenir un cri. En ce moment, la lueur d'un réverbère tomba sur la figure de Kernan, et Karval le regarda. Soudain, ses traits se décomposèrent, et d'une voix articulée il s'écria :
+
+– Kernan ! Kernan !
+
+Il voulut appeler au secours, mais la voix lui manqua ; il tremblait ; ce bandit était le plus lâche des hommes. D'ailleurs, il pouvait être effrayé avec raison ; la figure de Kernan étincelait, et sa main était armée d'un large coutelas, dont la pointe s'appuyait sur la poitrine du républicain.
+
+– Un mot, et tu tombes mort, dit le Breton d'une voix grave ; tu vas me suivre.
+
+– Mais que veux-tu ? balbutia le misérable.
+
+– Te faire voir M*lle* de Chanteleine ; mets ton bras sous le mien ! Allons, pas de façons ! Tu n'es pas de force ; nous allons passer devant des maisons habitées, devant des postes même ; tu sentiras toujours cette lame appuyée sur ton cœur ; au moindre cri, je l'enfonce. Mais je sais que tu es un lâche, tu ne crieras pas.
+
+Karval ne put répondre ; saisi dans un étau de fer, il suivit le Breton ; et ces deux hommes, bras dessus, bras dessous, avaient l'air de deux amis. Kernan se dirigea vers la porte de Recouvrance ; plusieurs fois, des passants attardés croisèrent Kernan et Karval ; celui-ci n'osa pas ouvrir la bouche ; il sentait la pointe du poignard qui déchirait ses vêtements.
+
+Les rues devenaient de plus en plus désertes ; il y avait de gros nuages noirs qui rendaient la nuit très obscure. Parfois, Kernan serrait si fort son compagnon que des cris sourds s'échappaient de la bouche du misérable.
+
+– Tu me fais mal, disait-il.
+
+– Ce n'est rien, répondait le Breton.
+
+Enfin, ils arrivèrent à la poterne. Là, était une porte assez vivement éclairée ; Karval vit les soldats allant et venant dans le corps de garde ; il n'avait qu'un cri à jeter pour se faire entendre ; il se tut pourtant !
+
+À dix pas, la sentinelle se promenait de long en large. Karval frôla le soldat en passant ; il n'avait qu'un signe à faire ; il ne le fit pas. Le poignard de Kernan entrait dans sa poitrine, et quelques gouttes de sang filtraient à travers ses habits.
+
+Bientôt, la double enceinte fortifiée fut dépassée ; les deux hommes remontèrent la grande route pendant un quart de lieue dans le plus grand silence, Karval toujours rivé à Kernan ; puis le Breton se jeta dans un chemin couvert sur la gauche, et ne tarda pas à arriver à l'un de ces champs incultes et entourés de pierres qui forment le sommet des hauts rochers de la côte.
+
+On entendait la mer se briser au pied des rocs à une centaine de pieds de profondeur.
+
+Là, Kernan s'arrêta :
+
+– Maintenant, dit-il d'une voix grave, mais qui indiquait une résolution irrévocablement arrêtée, et dans laquelle était empreint tout l'entêtement breton, maintenant, tu vas mourir.
+
+– Moi ! s'écria le misérable.
+
+Peut-être voulut-il appeler, alors, mais sa voix lui resta dans la gorge.
+
+– Tu peux crier, dit le Breton ; tu peux demander grâce ; personne ne t'entendra, pas même moi. Rien ne te sauvera. À ta place, foi de Breton, je mourrais bravement, et non comme un lâche.
+
+Karval essaya de se débattre ; mais le Breton d'une main le contint, et le courba jusqu'à terre.
+
+– Kernan ! dit alors Karval d'une voix entrecoupée, grâce ! Je suis riche, j'ai de l'or ; je t'en donnerai beaucoup ! Beaucoup ! Grâce ! Grâce !
+
+– Grâce à toi, malheureux ! s'écria Kernan d'une voix terrible ; toi qui as de ta main assassiné notre bonne dame, toi qui as de ta main arrêté notre maître, toi qui l'as fait condamner à mort, toi qui vas jeter notre fille à la guillotine ; toi, Breton renégat, voleur, incendiaire, qui as pillé, ruiné, brûlé ton pays ! Ah ! Dieu me damnerait, misérable, si je ne te tuais pas de ma main ! Meurs donc !
+
+Karval était étendu à terre, le bras de Kernan se levait pour le frapper, quand le Breton s'arrêta. Une idée subite venait de traverser son esprit. Pendant cette guerre, cette même idée suspendit souvent la mort des prisonniers républicains, et prenait son origine dans ce sentiment religieux qui souleva les masses vendéennes.
+
+Kernan s'était relevé en disant :
+
+– Tu mourras, mais tu ne mourras pas sans confession.
+
+Karval comprenait à peine ces paroles ; mais enfin, sa mort retardée, il avait encore une faible chance de s'échapper ; il était incapable de faire un mouvement. Kernan le releva d'une main, en se parlant à lui-même, sans autrement faire attention au misérable Karval.
+
+– Oui ! Il faut qu'il se confesse. Je n'ai pas le droit de le tuer sans confession. Mais un prêtre ! Un prêtre ! Où en trouver un ? J'irai jusque dans Brest en chercher un, s'il le faut ! Un assermenté ! Un jureur ! Ce sera toujours assez bon pour ce gueux-là !
+
+Pendant ce temps, le Breton marchait ; Karval, comme une masse inerte, pendait à son bras, et des gouttes de sang marquaient son passage sur les pierres de la route.
+
+Cependant, les murs de Brest apparurent bientôt, et Karval, en qui survivait le sentiment de la conservation, comprit quelle unique chance s'offrait à lui ; une fois rentré dans la ville, il était décidé à appeler au secours, dût-il tomber mort. Il ouvrit donc les yeux, et vit peu à peu les remparts se dessiner dans l'ombre. Encore quelques pas, et il pourrait tenter son dernier moyen de salut.
+
+En ce moment, à l'extrémité d'un chemin creux qui coupait la grande route, il aperçut un homme qui passait. Il ramassa alors un dernier reste d'énergie ; il s'arracha à l'étreinte du Breton, et courut en s'écriant :
+
+– Sauvez-moi ! Sauvez-moi !
+
+Mais, en deux bonds, Kernan rejoignit Karval, et, regardant cet homme que le hasard amenait devant lui, il poussa un cri de joie féroce :
+
+– Yvenat ! s'écria-t-il ; le prêtre Yvenat ! Qui donc oserait dire que la justice de Dieu n'est pas dans tout ceci, Karval ? Écoute, c'est un prêtre !
+
+Karval recula.
+
+– Yvenat, dit alors Kernan, je te connais ; c'est moi qui t'ai sauvé de l'île Tristan. Tu es prêtre, cet homme est condamné à mourir, confesse-le.
+
+– Mais ! dit le prêtre.
+
+– Il n'y a pas d'objections ! Pas de grâce à espérer ! Obéis.
+
+Yvenat voulut résister ; Kernan leva sa redoutable main en lui disant :
+
+– Ne me force pas à porter la main sur toi. Confesse cet homme. S'il ne peut parler, je vais aider ses souvenirs ; il a tué et volé ! Il n'a plus que quelques minutes pour se repentir avant de paraître devant Dieu.
+
+Il se passa alors une scène épouvantable ; le misérable, auquel revinrent en un instant les souvenirs et les sentiments de sa jeunesse, les leçons de son enfance, s'accusa vaguement, pleurant, faisant pitié sans émouvoir le Breton. Il ne savait ce qu'il disait ; Yvenat tremblait de tous ses membres, une irrésistible terreur s'emparait de lui ; le prêtre entendait à peine les paroles que le pénitent prononçait sans les comprendre, et enfin, n'en pouvant plus, et lui donnant une absolution rapide, il s'enfuit sans oser retourner la tête.
+
+Il n'avait pas disparu à l'angle du chemin creux, qu'un cri sinistre retentissait dans les airs, et bientôt, le prêtre épouvanté put apercevoir un homme, portant un autre homme sur ses épaules, passer lentement à travers les champs déserts, et précipiter un cadavre du haut des rochers dans les flots sombres de la baie.
+
+
+# Chapitre XVI. Le 9 thermidor.
+
+À minuit, Kernan rentrait au Porzik. Il déclara qu'il venait de tuer Karval. Marie, frissonnante, rentra dans sa chambre. Dès qu'elle fut partie, le Breton saisit le bras du chevalier.
+
+– C'est demain l'exécution, dit-il.
+
+Henry devint pâle de terreur.
+
+– C'est demain, reprit Kernan, mais j'arracherai notre maître à la mort au pied même de l'échafaud, ou je mourrai !
+
+– J'irai avec vous, Kernan, dit Henry.
+
+– Et Marie, que deviendra-t-elle ?
+
+– Marie, Marie, fit le jeune homme.
+
+– Il faut bien que vous restiez là, si je venais à mourir. Mais qu'elle ne sache rien, la pauvre enfant ; demain, elle sera orpheline, ou son père lui sera rendu.
+
+Henry voulut insister encore, mais il se débattait contre lui-même, et la raison, d'accord avec ses sentiments, lui faisait une loi de demeurer près de sa fiancée.
+
+Ni Kernan ni Henry ne dormirent pendant cette nuit funeste ; le Breton pria avec ferveur.
+
+Au matin, Kernan embrassa Marie, serra la main du chevalier, et reprit le chemin de Recouvrance. Il n'avait pas de projet arrêté : les circonstances le décideraient à agir.
+
+À six heures, il entra dans la ville et se dirigea vers la prison. Pendant deux heures il attendit ; il vit venir la charrette peinte en rouge. À huit heures, elle ressortait avec une charge de condamnés ; le comte de Chanteleine était parmi eux. Les gardes nationaux les entouraient et le funèbre cortège se dirigea vers l'échafaud.
+
+Un moment, le comte aperçut Kernan dans la foule. Une interrogation rapide passa dans son regard ; que pouvait-il demander, sinon ce qu'était devenue son enfant ?
+
+Un signe de Kernan lui apprit qu'elle était en sûreté ; le comte le comprit, car un sourire passa sur ses lèvres, et il se mit à prier avec une ferveur dans laquelle entrait une vive reconnaissance.
+
+La charrette s'avançait au milieu d'une foule considérable. Les sans-culottes de la ville, les clubistes, tout le rebut de la population insultait les condamnés, les menaçait et leur prodiguait les plus grossières injures. Le comte surtout, noble et prêtre, était en butte à leurs plus haineuses vociférations.
+
+Kernan marchait auprès de la charrette ; au détour d'une rue, l'instrument de mort apparut ; il n'était pas à deux cents pas.
+
+Tout à coup, un temps d'arrêt se fit, la foule s'arrêta. Il se passait quelque chose ; on s'interrogeait ; des cris se mêlaient aux hurlements. On entendait même ces paroles :
+
+– Assez ! Assez !
+
+– Faites rebrousser chemin aux condamnés !
+
+– À bas les tyrans ! À bas Robespierre ! Vive la République !
+
+Un mot expliqua tout. Le 9 Thermidor venait d'éclater à Paris. Le télégraphe, que deux ans auparavant Chappe avait fait adopter à la Convention, apportait à l'instant la grande nouvelle. Robespierre, Couthon, Saint-Just venaient à leur tour de périr sur l'échafaud.
+
+Il y eut immédiatement une sorte de réaction ; on était dégoûté du sang. La pitié l'emporta un instant sur la colère, la charrette fatale s'arrêta.
+
+Kernan s'élança aussitôt, enleva le comte avec une force irrésistible au milieu des bravos et des cris, et, une demi-heure après, le comte était dans les bras de sa fille.
+
+Pendant les quelques jours d'étonnement qui succédèrent au 9 Thermidor, le comte et les siens purent quitter le pays et enfin passer en Angleterre. Dieu avait donné à leurs infortunes un dénouement qu'ils ne pouvaient espérer de la part des hommes.
+
+Ici finit cet épisode, pris aux plus mauvais jours de la Terreur. Ce qui suivit, chacun le devine.
+
+Le mariage de Henry de Trégolan et de Marie se fit en Angleterre, où toute la famille resta pendant quelques années.
+
+Dès que les émigrés purent regagner leur pays, le comte fut un des premiers à rentrer en France. Il revint à Chanteleine avec sa fille, Henry et le brave Kernan.
+
+Là, ils vécurent heureux et tranquilles, le comte administra tranquillement sa petite paroisse, préférant cet humble rôle aux dignités qui lui furent offertes, et les pêcheurs de la côte parlent encore avec regret et reconnaissance du noble curé de Chanteleine.
