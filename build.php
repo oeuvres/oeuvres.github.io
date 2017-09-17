@@ -12,6 +12,11 @@ $build = new Teinte_Build (
         "publisher" => 'Œuvres',
         "source" => "http://oeuvres.github.io/dumas/%s.xml",
       ),
+      "baudelaire" => array(
+        "glob" => '../baudelaire/*_*.xml',
+        "publisher" => 'Œuvres',
+        "source" => "http://oeuvres.github.io/baudelaire/%s.xml",
+      ),
       "flaubert" => array(
         "glob" => '../flaubert/*_*.xml',
         "publisher" => 'Œuvres',
@@ -31,6 +36,11 @@ $build = new Teinte_Build (
         "glob" => '../poesie/*_*.xml',
         "publisher" => 'Œuvres',
         "source" => "http://oeuvres.github.io/poesie/%s.xml",
+      ),
+      "proust" => array(
+        "glob" => '../proust/*_*.xml',
+        "publisher" => 'Œuvres',
+        "source" => "http://oeuvres.github.io/proust/%s.xml",
       ),
       "stendhal" => array(
         "glob" => '../stendhal/*_*.xml',
@@ -64,4 +74,10 @@ $build = new Teinte_Build (
   )
 );
 $build->sets( );
+ob_start();
+include( 'index.php' );
+$html = ob_get_contents();
+ob_end_clean();
+file_put_contents( "index.html", $html );
+
 ?>

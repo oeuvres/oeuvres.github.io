@@ -2,7 +2,7 @@
 identifier: sade_philosophieboudoir  
 creator: Sade, Donatien Alphonse François de  
 date: 1795  
-title: La philosophie dans le boudoir ou les instituteurs immoraux. Dialogues destinés à l’éducation des jeunes demoiselles.  
+title: La philosophie dans le boudoir. ou les instituteurs immoraux. Dialogues destinés à l’éducation des jeunes demoiselles.  
 ---
 
 
