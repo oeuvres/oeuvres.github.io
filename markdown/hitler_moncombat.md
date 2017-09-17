@@ -239,23 +239,7 @@ Landsberg-a.-L., Maison d'arrêt, le 16 octobre 1924.
 Adolf *Hitler.*
 
 
-
-
-
-
-
-
-
-
-
-
 # Tome premier Bilan.
-
-
-
-
-
-
 
 
 ## Chapitre I La maison familiale.

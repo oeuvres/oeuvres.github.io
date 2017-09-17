@@ -2,7 +2,7 @@
 identifier: garat_elogefunebre  
 creator: Garat, Dominique Joseph (1749-1833)  
 date:   
-title: title : Éloge funèbre des généraux Kleber et Desaix  
+title: Éloge funèbre des généraux Kleber et Desaix  
 ---
 
 

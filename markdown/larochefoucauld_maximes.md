@@ -2,7 +2,7 @@
 identifier: larochefoucauld_maximes  
 creator: La Rochefoucauld, François de (1613-1680)  
 date:   
-title: title : Réflexions ou Sentences et maximes morales  
+title: Réflexions ou Sentences et maximes morales  
 ---
 
 
@@ -3579,14 +3579,14 @@ La quatrième difficulté est, ce me semble, que *les Maximes sont presque parto
 
 Néanmoins il est certain que nous connaissons, vous et moi, bien des gens qui ne se scandalisent pas de celle des *Réflexions*, j'entends de ceux qui ont l'hypocrisie en aversion, et qui avouent de bonne foi ce qu'ils sentent en eux-mêmes et ce qu'ils remarquent dans les autres. Mais peu de gens sont capables d'y penser, ou s'en veulent donner la peine, et si par hasard ils y pensent, ce n'est jamais sans se flatter. Souvenez-vous, s'il vous plaît, de la manière dont notre ami Guarini traite ces gens-là :
 
-*Huomo sono, e mi preggio d'esser humano* :  
-*            E teco, che sei huomo*  
-*            E ch'altro esser non puoi*,  
-*Come huomo parlo di cosa humana.*  
-*E se di cotal nome forse ti sdegni*,  
-*            Guarda, garzon superbo*,  
-*Che, nel dishumanarti*,  
-*Non divenghi una fiera, anzi ch'un dio.*  
+uomo sono, e mi preggio d'esser humano :  
+            E teco, che sei huomo  
+            E ch'altro esser non puoi,  
+Come huomo parlo di cosa humana.  
+E se di cotal nome forse ti sdegni,  
+            Guarda, garzon superbo,  
+Che, nel dishumanarti,  
+Non divenghi una fiera, anzi ch'un dio.  
 
 Voilà, Monsieur, comme il faut parler de l'orgueil de la nature humaine ; et au lieu de se fâcher contre le miroir qui nous fait voir nos défauts, au lieu de savoir mauvais gré à ceux qui nous les découvrent, ne vaudrait-il pas mieux nous servir des lumières qu'ils nous donnent pour connaître l'amour-propre et l'orgueil, et pour nous garantir des surprises continuelles qu'ils font à notre raison ? Peut-on jamais donner assez d'aversion pour ces deux vices, qui furent les causes funestes de la révolte de notre premier père, ni trop décrier ces sources malheureuses de toutes nos misères ?
 

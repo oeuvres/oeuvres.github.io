@@ -3412,7 +3412,7 @@ Si vous croyez que ces raisons ne suffisent pas pour fermer la bouche aux critiq
 Néanmoins il est certain que nous connaissons, vous et moi, bien des gens qui ne se scandalisent pas de celle des Réflexions, j'entends de ceux qui ont l'hypocrisie en aversion, et qui avouent de bonne foi ce qu'ils sentent en eux-mêmes et ce qu'ils remarquent dans les autres.
 Mais peu de gens sont capables d'y penser, ou s'en veulent donner la peine, et si par hasard ils y pensent, ce n'est jamais sans se flatter.
 Souvenez-vous, s'il vous plaît, de la manière dont notre ami Guarini traite ces gens-là :
-Huomo sono, e mi preggio d'esser humano :
+uomo sono, e mi preggio d'esser humano :
             E teco, che sei huomo
             E ch'altro esser non puoi,
 Come huomo parlo di cosa humana.

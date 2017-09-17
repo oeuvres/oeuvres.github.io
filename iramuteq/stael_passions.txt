@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1796
+**** *book_ *id_body-1 *date_1796 *creator_stael_holstein
 
 Avant-propos
 
@@ -9,7 +9,7 @@ Quæsivit cœlo lucem ingemuitque repertâ.
 On pensera, peut-être, qu'il y a de l'empressement d'auteur à faire paraître la première partie d'un livre quand la seconde n'est pas encore faite ; d'abord, malgré la connexion de ces deux parties entre elles, chacune peut être considérée comme un ouvrage séparé ; mais il est possible aussi que, condamnée à la célébrité, sans pouvoir être connue, j'éprouve le besoin de me faire juger par mes écrits.
 Calomniée sans cesse, et me trouvant trop peu d'importance pour me résoudre à parler de moi, j'ai dû céder à l'espoir qu'en publiant ce fruit de mes méditations, je donnerais quelque idée vraie des habitudes de ma vie et de la nature de mon caractère.
 
-**** *book_ *id_body-2 *date_1796
+**** *book_ *id_body-2 *date_1796 *creator_stael_holstein
 
 Introduction
 
@@ -182,7 +182,7 @@ Hélas ! j'ai tant éprouvé ce que c'était que souffrir, qu'un attendrissemen
 Ah ! ce n'est pas assez d'avoir juré, que dans les limites de son existence, de quelque injustice, de quelque tort qu'on fut l'objet, on ne causerait jamais volontairement une peine, on ne renoncerait jamais volontairement à la possibilité d'en soulager une ; il faut essayer encore si quelque ombre de talent, si quelque faculté de méditation ne pourrait pas faire trouver la langue, dont la mélancolie ébranle doucement le cœur, ne pourrait pas aider à découvrir, à quelle hauteur philosophique les armes qui blessent n'atteindraient plus.
 Enfin, si le temps et l'étude apprenaient, comment on peut donner aux principes politiques assez d'évidence pour qu'ils ne fussent plus l'objet de deux religions, et par conséquent des plus sanglantes fureurs, il semble que l'on aurait du moins offert un examen complet, de tout ce qui livre la destinée de l'homme à la puissance du malheur.
 
-**** *book_ *id_body-3 *date_1796
+**** *book_ *id_body-3 *date_1796 *creator_stael_holstein
 
 Section première. Des passions.
 
@@ -950,7 +950,7 @@ Le courage, qui fait braver la mort, n'a point de rapport avec la disposition qu
 
 Hélas ! il serait si difficile de ne pas s'intéresser à l'homme plus grand que la nature, alors qu'il rejette ce qu'il tient d'elle, alors qu'il se sert de la vie pour détruire la vie, alors qu'il sait dompter par la puissance de l'âme le plus fort mouvement de l'homme, l'instinct de sa conservation : il serait si difficile de ne pas croire à quelques mouvements de générosité dans l'homme qui, par repentir, se donnerait la mort ; qu'il est bon que les véritables scélérats soient incapables d'une telle action ; ce serait une souffrance pour une âme honnête, que de ne pas pouvoir mépriser complètement l'être qui lui inspire de l'horreur.
 
-**** *book_ *id_body-4 *date_1796
+**** *book_ *id_body-4 *date_1796 *creator_stael_holstein
 
 Section II. Des sentiments qui sont l'intermédiaire entre les passions, et les ressources qu'on trouve en soi.
 
@@ -1136,7 +1136,7 @@ Que serait-ce, si, quittant les idées nuancées, je parlais des exemples qu'il 
 J'ai donc dû, de toutes les manières, ne pas admettre la religion parmi les ressources qu'on trouve en soi, puisqu'elle est absolument indépendante de notre volonté, puisqu'elle nous soumet et à notre propre imagination, et à celle de tous ceux dont la sainte autorité est reconnue.
 En étant conséquente au système sur lequel cet ouvrage est fondé, au système qui considère la liberté absolue de l'être moral comme son premier bien, j'ai dû préférer et indiquer comme le meilleur et le plus sûr des préservatifs contre le malheur, les divers moyens dont on va voir le développement.
 
-**** *book_ *id_body-5 *date_1796
+**** *book_ *id_body-5 *date_1796 *creator_stael_holstein
 
 Section III. Des ressources qu'on trouve en soi.
 
@@ -1379,7 +1379,7 @@ Sans vouloir méconnaître le lien sacré de la religion, on peut affirmer que l
 C'est sur ce fondement que tous ont intérêt au sacrifice de chacun, et qu'on retrouve, comme dans le tribut de l'impôt, le prix de son dévouement particulier dans la part de protection qu'assure l'ordre général.
 Toutes les véritables vertus dérivent de la bonté, et si l'on voulait faire un jour l'arbre de la morale, comme il en existe un des sciences, c'est à ce devoir, à ce sentiment, dans son acception la plus étendue, que remonterait tout ce qui inspire de l'admiration ou de l'estime.
 
-**** *book_ *id_body-6 *date_1796
+**** *book_ *id_body-6 *date_1796 *creator_stael_holstein
 
 Conclusion.
 

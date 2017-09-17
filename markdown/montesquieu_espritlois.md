@@ -1,7 +1,7 @@
 ---
 identifier: montesquieu_espritlois  
 creator: Montesquieu, Charles-Louis de Secondat (1689-1755 ; baron de La Brède et de)   
-date:   
+date: 1758  
 title: De l’esprit des lois  
 ---
 
@@ -49,7 +49,7 @@ Je me croirais le plus heureux des mortels, si je pouvais faire que les hommes p
 
 C'est en cherchant à instruire les hommes, que l'on peut pratiquer cette vertu générale qui comprend l'amour de tous. L'homme, cet être flexible, se pliant dans la société aux pensées et aux impressions des autres, est également capable de connaître sa propre nature lorsqu'on la lui montre, et d'en perdre jusqu'au sentiment lorsqu'on la lui dérobe.
 
-J'ai bien des fois commencé, et bien des fois abandonné cet ouvrage ; j'ai mille fois envoyé aux [1] vents les feuilles que j'avais écrites, je sentais tous les jours les mains paternelles tomber [2]* *; je suivais mon objet sans former de dessein ; je ne connaissais ni les règles ni les exceptions ; je ne trouvais la vérité que pour la perdre. Mais, quand j'ai découvert mes principes, tout ce que je cherchais est venu à moi ; et, dans le cours de vingt années, j'ai vu mon ouvrage commencer, croître, s'avancer et finir.
+J'ai bien des fois commencé, et bien des fois abandonné cet ouvrage ; j'ai mille fois envoyé aux [1] vents les feuilles que j'avais écrites, je sentais tous les jours les mains paternelles tomber [2] ; je suivais mon objet sans former de dessein ; je ne connaissais ni les règles ni les exceptions ; je ne trouvais la vérité que pour la perdre. Mais, quand j'ai découvert mes principes, tout ce que je cherchais est venu à moi ; et, dans le cours de vingt années, j'ai vu mon ouvrage commencer, croître, s'avancer et finir.
 
 Si cet ouvrage a du succès, je le devrai beaucoup à la majesté de mon sujet ; cependant je ne crois pas avoir totalement manqué de génie. Quand j'ai vu ce que tant de grands hommes, en France, en Angleterre et en Allemagne, ont écrit avant moi, j'ai été dans l'admiration ; mais je n'ai point perdu le courage : Et moi aussi, je suis peintre [3], ai-je dit avec le Corrège.
 
@@ -95,7 +95,7 @@ L'homme, comme être physique, est, ainsi que les autres corps, gouverné par de
 
 Avant toutes ces lois, sont celles de la nature, ainsi nommées, parce qu'elles dérivent uniquement de la constitution de notre être. Pour les connaître bien, il faut considérer un homme avant l'établissement des sociétés. Les lois de la nature seront celles qu'il recevrait dans un état pareil.
 
-Cette loi qui, en imprimant dans nous-mêmes l'idée d'un créateur, nous porte vers lui, est la première des lois *naturelles* par son importance, et non pas dans l'ordre de ces lois. L'homme, dans l'état de nature, aurait plutôt la faculté de connaître, qu'il n'aurait des connaissances. Il est clair que ses premières idées ne seraient point des idées spéculatives : il songerait à la conservation de son être, avant de chercher l'origine de son être. Un homme pareil ne sentirait d'abord que sa faiblesse ; sa timidité serait extrême : et, si l'on avait là-dessus besoin de l'expérience, l'on a trouvé dans les forêts des hommes sauvages [5]* *; tout les fait trembler, tout les fait fuir.
+Cette loi qui, en imprimant dans nous-mêmes l'idée d'un créateur, nous porte vers lui, est la première des lois *naturelles* par son importance, et non pas dans l'ordre de ces lois. L'homme, dans l'état de nature, aurait plutôt la faculté de connaître, qu'il n'aurait des connaissances. Il est clair que ses premières idées ne seraient point des idées spéculatives : il songerait à la conservation de son être, avant de chercher l'origine de son être. Un homme pareil ne sentirait d'abord que sa faiblesse ; sa timidité serait extrême : et, si l'on avait là-dessus besoin de l'expérience, l'on a trouvé dans les forêts des hommes sauvages [5] ; tout les fait trembler, tout les fait fuir.
 
 Dans cet état, chacun se sent inférieur ; à peine chacun se sent-il égal. On ne chercherait donc point à s'attaquer, et la paix serait la première loi naturelle.
 
@@ -167,7 +167,7 @@ Il ne peut être monarque que par ses suffrages qui sont ses volontés. La volon
 
 Libanios [6] dit qu'à Athènes un étranger qui se mêlait dans l'assemblée du peuple, était puni de mort. C'est qu'un tel homme usurpait le droit de souveraineté.
 
-Il est essentiel de fixer le nombre des citoyens qui doivent former les assemblées ; sans cela, on pourrait ignorer si le peuple a parlé, ou seulement une partie du peuple. À Lacédémone, il fallait dix mille citoyens. À Rome, née dans la petitesse pour aller à la grandeur ; à Rome, faite pour éprouver toutes les vicissitudes de la fortune ; à Rome, qui avait tantôt presque tous ses citoyens hors de ses murailles, tantôt toute l'Italie et une partie de la terre dans ses murailles, on n'avait point fixé ce nombre [7]* *; et ce fut une des grandes causes de sa ruine.
+Il est essentiel de fixer le nombre des citoyens qui doivent former les assemblées ; sans cela, on pourrait ignorer si le peuple a parlé, ou seulement une partie du peuple. À Lacédémone, il fallait dix mille citoyens. À Rome, née dans la petitesse pour aller à la grandeur ; à Rome, faite pour éprouver toutes les vicissitudes de la fortune ; à Rome, qui avait tantôt presque tous ses citoyens hors de ses murailles, tantôt toute l'Italie et une partie de la terre dans ses murailles, on n'avait point fixé ce nombre [7] ; et ce fut une des grandes causes de sa ruine.
 
 Le peuple qui a la souveraine puissance doit faire par lui-même tout ce qu'il peut bien faire ; et ce qu'il ne peut pas bien faire, il faut qu'il le fasse par ses ministres.
 
@@ -203,11 +203,11 @@ Solon établit à Athènes que l'on nommerait par choix à tous les emplois mili
 
 Il voulut que l'on donnât par choix les magistratures civiles qui exigeaient une grande dépense, et que les autres fussent données par le sort.
 
-Mais, pour corriger le sort, il régla qu'on ne pourrait élire que dans le nombre de ceux qui se présenteraient ; que celui qui aurait été élu serait examiné par des juges [13], et que chacun pourrait l'accuser d'en être indigne [14]* *: cela tenait en même temps du sort et du choix. Quand on avait fini le temps de sa magistrature, il fallait essuyer un autre jugement sur la manière dont on s'était comporté. Les gens sans capacité devaient avoir bien de la répugnance à donner leur nom pour être tirés au sort.
+Mais, pour corriger le sort, il régla qu'on ne pourrait élire que dans le nombre de ceux qui se présenteraient ; que celui qui aurait été élu serait examiné par des juges [13], et que chacun pourrait l'accuser d'en être indigne [14] : cela tenait en même temps du sort et du choix. Quand on avait fini le temps de sa magistrature, il fallait essuyer un autre jugement sur la manière dont on s'était comporté. Les gens sans capacité devaient avoir bien de la répugnance à donner leur nom pour être tirés au sort.
 
 La loi qui fixe la manière de donner les billets de suffrage est encore une fois fondamentale dans la démocratie. C'est une grande question si les suffrages doivent être publics ou secrets. Cicéron [15] écrit que les lois [16] qui les rendirent secrets dans les derniers temps de la République romaine, furent une des grandes causes de sa chute. Comme ceci se pratique diversement dans différentes républiques, voici, je crois, ce qu'il en faut penser.
 
-Sans doute que, lorsque le peuple donne ses suffrages, ils doivent être publics [17]*  [18]*; et ceci doit être regardé comme une loi fondamentale de la démocratie. Il faut que le petit peuple soit éclairé par les principaux, et contenu par la gravité de certains personnages. Ainsi, dans la République romaine, en rendant les suffrages secrets, on détruisit tout ; il ne fut plus possible d'éclairer une populace qui se perdait. Mais lorsque, dans une aristocratie, le corps des nobles donne les suffrages, ou dans une démocratie, le sénat [19]* *; comme il n'est là question que de prévenir les brigues, les suffrages ne sauraient être trop secrets.
+Sans doute que, lorsque le peuple donne ses suffrages, ils doivent être publics [17]  [18]; et ceci doit être regardé comme une loi fondamentale de la démocratie. Il faut que le petit peuple soit éclairé par les principaux, et contenu par la gravité de certains personnages. Ainsi, dans la République romaine, en rendant les suffrages secrets, on détruisit tout ; il ne fut plus possible d'éclairer une populace qui se perdait. Mais lorsque, dans une aristocratie, le corps des nobles donne les suffrages, ou dans une démocratie, le sénat [19] ; comme il n'est là question que de prévenir les brigues, les suffrages ne sauraient être trop secrets.
 
 La brigue est dangereuse dans un sénat ; elle est dangereuse dans un corps de nobles : elle ne l'est pas dans le peuple, dont la nature est d'agir par passion. Dans les États où il n'a point de part au gouvernement, il s'échauffera pour un acteur, comme il aurait fait pour les affaires. Le malheur d'une république, c'est lorsqu'il n'y a plus de brigues ; et cela arrive lorsqu'on a corrompu le peuple à prix d'argent : il devient de sang-froid, il s'affectionne à l'argent, mais il ne s'affectionne plus aux affaires : sans souci du gouvernement et de ce qu'on y propose, il attend tranquillement son salaire.
 
@@ -404,9 +404,9 @@ On n'y peut pas plus représenter ses craintes sur un événement futur, qu'excu
 
 Il ne sert de rien d'opposer les sentiments naturels, le respect pour un père, la tendresse pour ses enfants et ses femmes, les lois de l'honneur, l'état de sa santé ; on a reçu l'ordre, et cela suffit.
 
-En Perse, lorsque le roi a condamné quelqu'un, on ne peut plus lui en parler, ni demander grâce. S'il était ivre ou hors de sens, il faudrait que l'arrêt s'exécutât tout de même [47]* *; sans cela, il se contredirait, et la loi ne peut se contredire. Cette manière de penser y a été de tout temps : l'ordre que donna Assuérus d'exterminer les Juifs ne pouvant être révoqué, on prit le parti de leur donner la permission de se défendre.
+En Perse, lorsque le roi a condamné quelqu'un, on ne peut plus lui en parler, ni demander grâce. S'il était ivre ou hors de sens, il faudrait que l'arrêt s'exécutât tout de même [47] ; sans cela, il se contredirait, et la loi ne peut se contredire. Cette manière de penser y a été de tout temps : l'ordre que donna Assuérus d'exterminer les Juifs ne pouvant être révoqué, on prit le parti de leur donner la permission de se défendre.
 
-Il y a pourtant une chose que l'on peut quelquefois opposer à la volonté du prince [48]* *: c'est la religion. On abandonnera son père, on le tuera même, si le prince l'ordonne : mais on ne boira pas de vin, s'il le veut et s'il l'ordonne. Les lois de la religion sont d'un précepte supérieur, parce qu'elles sont données sur la tête du prince comme sur celle des sujets. Mais, quant au droit naturel, il n'en est pas de même ; le prince est supposé n'être plus un homme.
+Il y a pourtant une chose que l'on peut quelquefois opposer à la volonté du prince [48] : c'est la religion. On abandonnera son père, on le tuera même, si le prince l'ordonne : mais on ne boira pas de vin, s'il le veut et s'il l'ordonne. Les lois de la religion sont d'un précepte supérieur, parce qu'elles sont données sur la tête du prince comme sur celle des sujets. Mais, quant au droit naturel, il n'en est pas de même ; le prince est supposé n'être plus un homme.
 
 Dans les États monarchiques et modérés la puissance est bornée par ce qui en est le ressort ; je veux dire l'honneur, qui règne, comme un monarque, sur le prince et sur le peuple. On n'ira point lui alléguer les lois de la religion. Un courtisan se croirait ridicule. On lui alléguera sans cesse celles de l'honneur. De là résultent des modifications nécessaires dans l'obéissance ; l'honneur est naturellement sujet à des bizarreries, et l'obéissance les suivra toutes.
 
@@ -468,7 +468,7 @@ Cet honneur bizarre fait que les vertus ne sont que ce qu'il veut, et comme il l
 
 Il n'y a rien dans la monarchie que les lois, la religion et l'honneur prescrivent tant que l'obéissance aux volontés du prince : mais cet honneur nous dicte que le prince ne doit jamais nous prescrire une action qui nous déshonore, parce qu'elle nous rendrait incapables de le servir.
 
-Crillon refusa d'assassiner le duc de Guise, mais il offrit à Henri III de se battre contre lui. Après la Saint-Barthélemy, Charles IX ayant écrit à tous les gouverneurs de faire massacrer les huguenots, le vicomte d'Orte, qui commandait dans Bayonne, écrivit au roi [49]* *: « Sire, je n'ai trouvé parmi les habitants et les gens de guerre que de bons citoyens, de braves soldats, et pas un bourreau ; ainsi, eux et moi, supplions Votre Majesté d'employer nos bras et nos vies à choses faisables. » Ce grand et généreux courage regardait une lâcheté comme une chose impossible.
+Crillon refusa d'assassiner le duc de Guise, mais il offrit à Henri III de se battre contre lui. Après la Saint-Barthélemy, Charles IX ayant écrit à tous les gouverneurs de faire massacrer les huguenots, le vicomte d'Orte, qui commandait dans Bayonne, écrivit au roi [49] : « Sire, je n'ai trouvé parmi les habitants et les gens de guerre que de bons citoyens, de braves soldats, et pas un bourreau ; ainsi, eux et moi, supplions Votre Majesté d'employer nos bras et nos vies à choses faisables. » Ce grand et généreux courage regardait une lâcheté comme une chose impossible.
 
 Il n'y a rien que l'honneur prescrive plus à la noblesse que de servir le prince à la guerre. En effet, c'est la profession distinguée, parce que ses hasards, ses succès et ses malheurs même conduisent à la grandeur. Mais, en imposant cette loi, l'honneur veut en être l'arbitre ; et, s'il se trouve choqué, il exige ou permet qu'on se retire chez soi.
 
@@ -487,7 +487,7 @@ Comme l'éducation dans les monarchies ne travaille qu'à élever le cœur, elle
 
 L'extrême obéissance suppose de l'ignorance dans celui qui obéit ; elle en suppose même dans celui qui commande : il n'a point à délibérer, à douter, ni à raisonner ; il n'a qu'à vouloir.
 
-Dans les États despotiques, chaque maison est un empire séparé. L'éducation, qui consiste principalement à vivre avec les autres, y est donc très bornée : elle se réduit à mettre la crainte dans le cœur, et à donner à l'esprit la connaissance de quelques principes de religion fort simples. Le savoir y sera dangereux, l'émulation funeste ; et, pour les vertus, Aristote ne peut croire qu'il y en ait quelqu'une de propre aux esclaves [51]* *; ce qui bornerait bien l'éducation dans ce gouvernement.
+Dans les États despotiques, chaque maison est un empire séparé. L'éducation, qui consiste principalement à vivre avec les autres, y est donc très bornée : elle se réduit à mettre la crainte dans le cœur, et à donner à l'esprit la connaissance de quelques principes de religion fort simples. Le savoir y sera dangereux, l'émulation funeste ; et, pour les vertus, Aristote ne peut croire qu'il y en ait quelqu'une de propre aux esclaves [51] ; ce qui bornerait bien l'éducation dans ce gouvernement.
 
 L'éducation y est donc en quelque façon nulle. Il faut ôter tout, afin de donner quelque chose ; et commencer par faire un mauvais sujet, pour faire un bon esclave.
 
@@ -717,9 +717,9 @@ Chaque gouvernement a sa nature et son principe. Il ne faut donc pas que l'arist
 
 Il y a deux sources principales de désordres dans les États aristocratiques : l'inégalité extrême entre ceux qui gouvernent et ceux qui sont gouvernés ; et la même inégalité entre les différents membres du corps qui gouverne. De ces deux inégalités résultent des haines et des jalousies que les lois doivent prévenir ou arrêter.
 
-La première inégalité se trouve principalement lorsque les privilèges des principaux ne sont honorables que parce qu'ils sont honteux au peuple. Telle fut à Rome la loi qui défendait aux patriciens de s'unir par mariage aux plébéiens [92]* *; ce qui n'avait d'autre effet que de rendre d'un côté les patriciens plus superbes, et de l'autre plus odieux. Il faut voir les avantages qu'en tirèrent les tribuns dans leurs harangues.
+La première inégalité se trouve principalement lorsque les privilèges des principaux ne sont honorables que parce qu'ils sont honteux au peuple. Telle fut à Rome la loi qui défendait aux patriciens de s'unir par mariage aux plébéiens [92] ; ce qui n'avait d'autre effet que de rendre d'un côté les patriciens plus superbes, et de l'autre plus odieux. Il faut voir les avantages qu'en tirèrent les tribuns dans leurs harangues.
 
-Cette inégalité se trouvera encore, si la condition des citoyens est différente par rapport aux subsides ; ce qui arrive de quatre manières : lorsque les nobles se donnent le privilège de n'en point payer ; lorsqu'ils font des fraudes pour s'en exempter [93]* *; lorsqu'ils les appellent à eux, sous prétexte de rétributions ou d'appointements pour les emplois qu'ils exercent ; enfin, quand ils rendent le peuple tributaire, et se partagent les impôts qu'ils lèvent sur eux. Ce dernier cas est rare ; une aristocratie, en cas pareil, est le plus dur de tous les gouvernements.
+Cette inégalité se trouvera encore, si la condition des citoyens est différente par rapport aux subsides ; ce qui arrive de quatre manières : lorsque les nobles se donnent le privilège de n'en point payer ; lorsqu'ils font des fraudes pour s'en exempter [93] ; lorsqu'ils les appellent à eux, sous prétexte de rétributions ou d'appointements pour les emplois qu'ils exercent ; enfin, quand ils rendent le peuple tributaire, et se partagent les impôts qu'ils lèvent sur eux. Ce dernier cas est rare ; une aristocratie, en cas pareil, est le plus dur de tous les gouvernements.
 
 Pendant que Rome inclina vers l'aristocratie, elle évita très bien ces inconvénients. Les magistrats ne tiraient jamais d'appointements de leur magistrature. Les principaux de la République furent taxés comme les autres ; ils le furent même plus ; et quelquefois ils le furent seuls. Enfin, bien loin de se partager les revenus de l'État, tout ce qu'ils purent tirer du trésor public, tout ce que la fortune leur envoya de richesses, ils le distribuèrent au peuple pour se faire pardonner leurs honneurs [94].
 
@@ -808,7 +808,7 @@ Aussi toutes nos histoires sont-elles pleines de guerres civiles sans révolutio
 
 Ceux qui ont écrit l'histoire des guerres civiles de quelques États, ceux mêmes qui les ont fomentées, prouvent assez combien l'autorité que les princes laissent à de certains ordres pour leur service, leur doit être peu suspecte ; puisque, dans l'égarement même, ils ne soupiraient qu'après les lois et leur devoir, et retardaient la fougue et l'impétuosité des factieux plus qu'ils ne pouvaient la servir [106].
 
-Le cardinal de Richelieu, pensant peut-être qu'il avait trop avili les ordres de l'État, a recours, pour le soutenir, aux vertus du prince et de ses ministres [107]* *; et il exige d'eux tant de choses, qu'en vérité il n'y a qu'un ange qui puisse avoir tant d'attention, tant de lumières, tant de fermeté, tant de connaissances ; et on peut à peine se flatter que, d'ici à la dissolution des monarchies, il puisse y avoir un prince et des ministres pareils.
+Le cardinal de Richelieu, pensant peut-être qu'il avait trop avili les ordres de l'État, a recours, pour le soutenir, aux vertus du prince et de ses ministres [107] ; et il exige d'eux tant de choses, qu'en vérité il n'y a qu'un ange qui puisse avoir tant d'attention, tant de lumières, tant de fermeté, tant de connaissances ; et on peut à peine se flatter que, d'ici à la dissolution des monarchies, il puisse y avoir un prince et des ministres pareils.
 
 Comme les peuples qui vivent sous une bonne police sont plus heureux que ceux qui, sans règle et sans chefs, errent dans les forêts ; aussi les monarques qui vivent sous les lois fondamentales de leur État, sont-ils plus heureux que les princes despotiques, qui n'ont rien qui puisse régler le cœur de leurs peuples, ni le leur.
 
@@ -890,7 +890,7 @@ Après tout ce que nous venons de dire, il semblerait que la nature humaine se s
 
 ### Chapitre XV. Continuation du même sujet.
 
-Dans les climats chauds, où règne ordinairement le despotisme, les passions se font plus tôt sentir, et elles sont aussi plus tôt amorties [116]*  [117]*; l'esprit y est plus avancé ; les périls de la dissipation des biens y sont moins grands ; il y a moins de facilité de se distinguer, moins de commerce entre les jeunes gens renfermés dans la maison ; on s'y marie de meilleure heure : on y peut donc être majeur plus tôt que dans nos climats d'Europe. En Turquie, la majorité commence à quinze ans.
+Dans les climats chauds, où règne ordinairement le despotisme, les passions se font plus tôt sentir, et elles sont aussi plus tôt amorties [116]  [117]; l'esprit y est plus avancé ; les périls de la dissipation des biens y sont moins grands ; il y a moins de facilité de se distinguer, moins de commerce entre les jeunes gens renfermés dans la maison ; on s'y marie de meilleure heure : on y peut donc être majeur plus tôt que dans nos climats d'Europe. En Turquie, la majorité commence à quinze ans.
 
 La cession des biens n'y peut avoir lieu. Dans un gouvernement où personne n'a de fortune assurée, on prête plus à la personne qu'aux biens.
 
@@ -980,7 +980,7 @@ QUATRIÈME QUESTION. Convient-il que les charges soient vénales ? Elles ne doi
 
 Cette vénalité est bonne dans les États monarchiques, parce qu'elle fait faire, comme un métier de famille, ce qu'on ne voudrait pas entreprendre pour la vertu ; qu'elle destine chacun à son devoir, et rend les ordres de l'État plus permanents. Suidas [135] dit très bien qu'Anastase avait fait de l'empire une espèce d'aristocratie en vendant toutes les magistratures.
 
-Platon [136] ne peut souffrir cette vénalité. « C'est, dit-il, comme si, dans un navire, on faisait quelqu'un pilote ou matelot pour son argent. Serait-il possible que la règle fût mauvaise dans quelque autre emploi que ce fût de la vie, et bonne seulement pour conduire une république ? » Mais Platon parle d'une république fondée sur la vertu, et nous parlons d'une monarchie. Or, dans une monarchie où, quand les charges ne se vendraient pas par un règlement public, l'indigence et l'avidité des courtisans les vendraient tout de même ; le hasard donnera de meilleurs sujets que le choix du prince. Enfin, la manière de s'avancer par les richesses inspire et entretient l'industrie [137]* **;* chose dont cette espèce de gouvernement a grand besoin.
+Platon [136] ne peut souffrir cette vénalité. « C'est, dit-il, comme si, dans un navire, on faisait quelqu'un pilote ou matelot pour son argent. Serait-il possible que la règle fût mauvaise dans quelque autre emploi que ce fût de la vie, et bonne seulement pour conduire une république ? » Mais Platon parle d'une république fondée sur la vertu, et nous parlons d'une monarchie. Or, dans une monarchie où, quand les charges ne se vendraient pas par un règlement public, l'indigence et l'avidité des courtisans les vendraient tout de même ; le hasard donnera de meilleurs sujets que le choix du prince. Enfin, la manière de s'avancer par les richesses inspire et entretient l'industrie [137] *;* chose dont cette espèce de gouvernement a grand besoin.
 
 CINQUIÈME QUESTION. Dans quel gouvernement faut-il des censeurs ? Il en faut dans une république, où le principe du gouvernement est la vertu. Ce ne sont pas seulement les crimes qui détruisent la vertu, mais encore les négligences, les fautes, une certaine tiédeur dans l'amour de la patrie, des exemples dangereux, des semences de corruption ; ce qui ne choque point les lois, mais les élude ; ce qui ne les détruit pas, mais les affaiblit : tout cela doit être corrigé par les censeurs.
 
@@ -1053,7 +1053,7 @@ Dans les États despotiques, il n'y a point de loi : le juge est lui-même sa r
 
 ### Chapitre IV. De la manière de former les jugements.
 
-De là suivent les différentes manières de former les jugements. Dans les monarchies, les juges prennent la manière des arbitres ; ils délibèrent ensemble, ils se communiquent leurs pensées, ils se concilient ; on modifie son avis pour le rendre conforme à celui d'un autre ; les avis les moins nombreux sont rappelés aux deux plus grands. Cela n'est point de la nature de la république. À Rome et dans les villes grecques, les juges ne se communiquaient point : chacun donnait son avis d'une de ces trois manières : *J'absous, Je condamne, Il ne me paraît pas* [140]* *: c'est que le peuple jugeait, ou était censé juger. Mais le peuple n'est pas jurisconsulte ; toutes ces modifications et tempéraments des arbitres ne sont pas pour lui ; il faut lui présenter un seul objet, un fait, et un seul fait, et qu'il n'ait qu'à voir s'il doit condamner, absoudre, ou remettre le jugement.
+De là suivent les différentes manières de former les jugements. Dans les monarchies, les juges prennent la manière des arbitres ; ils délibèrent ensemble, ils se communiquent leurs pensées, ils se concilient ; on modifie son avis pour le rendre conforme à celui d'un autre ; les avis les moins nombreux sont rappelés aux deux plus grands. Cela n'est point de la nature de la république. À Rome et dans les villes grecques, les juges ne se communiquaient point : chacun donnait son avis d'une de ces trois manières : *J'absous, Je condamne, Il ne me paraît pas* [140] : c'est que le peuple jugeait, ou était censé juger. Mais le peuple n'est pas jurisconsulte ; toutes ces modifications et tempéraments des arbitres ne sont pas pour lui ; il faut lui présenter un seul objet, un fait, et un seul fait, et qu'il n'ait qu'à voir s'il doit condamner, absoudre, ou remettre le jugement.
 
 Les Romains, à l'exemple des Grecs, introduisirent des formules d'actions [141], et établirent la nécessité de diriger chaque affaire par l'action qui lui était propre. Cela était nécessaire dans leur manière de juger : il fallait fixer l'état de la question, pour que le peuple l'eût toujours devant les yeux. Autrement, dans le cours d'une grande affaire, cet état de la question changerait continuellement, et on ne le reconnaîtrait plus.
 
@@ -1086,7 +1086,7 @@ Les jugements rendus par le prince seraient une source intarissable d'injustices
 
 « Claude, dit Tacite [152], ayant attiré à lui le jugement des affaires et les fonctions des magistrats, donna occasion à toutes sortes de rapines. » Aussi Néron, parvenant à l'empire après Claude, voulant se concilier les esprits, déclara-t-il : « Qu'il se garderait bien d'être le juge de toutes les affaires, pour que les accusateurs et les accusés, dans les murs d'un palais, ne fussent pas exposés à l'inique pouvoir de quelques affranchis [153]. »
 
-« Sous le règne d'Arcadius, dit Zozime [154], la nation des calomniateurs se répandit, entoura la cour et l'infecta. Lorsqu'un homme était mort, on supposait qu'il n'avait point laissé d'enfants [155]* *; on donnait ses biens par un rescrit. Car, comme le prince était étrangement stupide, et l'impératrice entreprenante à l'excès, elle servait l'insatiable avarice de ses domestiques et de ses confidentes ; de sorte que, pour les gens modérés, il n'y avait rien de plus désirable que la mort. »
+« Sous le règne d'Arcadius, dit Zozime [154], la nation des calomniateurs se répandit, entoura la cour et l'infecta. Lorsqu'un homme était mort, on supposait qu'il n'avait point laissé d'enfants [155] ; on donnait ses biens par un rescrit. Car, comme le prince était étrangement stupide, et l'impératrice entreprenante à l'excès, elle servait l'insatiable avarice de ses domestiques et de ses confidentes ; de sorte que, pour les gens modérés, il n'y avait rien de plus désirable que la mort. »
 
 « Il y avait autrefois, dit Procope [156], fort peu de gens à la cour ; mais, sous Justinien, comme les juges n'avaient plus la liberté de rendre justice, leurs tribunaux étaient déserts, tandis que le palais du prince retentissait des clameurs des parties qui y sollicitaient leurs affaires. » Tout le monde sait comment on y vendait les jugements, et même les lois.
 
@@ -1102,7 +1102,7 @@ Il y a, par la nature des choses, une espèce de contradiction entre le Conseil 
 
 ### Chapitre VII. Du magistrat unique.
 
-Un tel magistrat ne peut avoir lieu que dans le gouvernement despotique. On voit, dans l'histoire romaine, à quel point un juge unique peut abuser de son pouvoir. Comment Appius, sur son tribunal, n'aurait-il pas méprisé les lois, puisqu'il viola même celle qu'il avait faite [157]*  [158]*? Tite-Live nous apprend l'inique distinction du décemvir. Il avait aposté un homme qui réclamait devant lui Virginie comme son esclave ; les parents de Virginie lui demandèrent, qu'en vertu de sa loi, on la leur remit jusqu'au jugement définitif. Il déclara que sa loi n'avait été faite qu'en faveur du père, et que, Virginius étant absent, elle ne pouvait avoir d'application.
+Un tel magistrat ne peut avoir lieu que dans le gouvernement despotique. On voit, dans l'histoire romaine, à quel point un juge unique peut abuser de son pouvoir. Comment Appius, sur son tribunal, n'aurait-il pas méprisé les lois, puisqu'il viola même celle qu'il avait faite [157]  [158]? Tite-Live nous apprend l'inique distinction du décemvir. Il avait aposté un homme qui réclamait devant lui Virginie comme son esclave ; les parents de Virginie lui demandèrent, qu'en vertu de sa loi, on la leur remit jusqu'au jugement définitif. Il déclara que sa loi n'avait été faite qu'en faveur du père, et que, Virginius étant absent, elle ne pouvait avoir d'application.
 
 
 ### Chapitre VIII. Des accusations dans les divers gouvernements.
@@ -1139,7 +1139,7 @@ Dans les gouvernements modérés, tout, pour un bon législateur, peut servir à
 
 ### Chapitre X. Des anciennes lois françaises.
 
-C'est bien dans les anciennes lois françaises que l'on trouve l'esprit de la monarchie. Dans les cas où il s'agit de peines pécuniaires, les non-nobles sont moins punis que les nobles [163]. C'est tout le contraire dans les crimes [164]* **: le* noble perd l'honneur et réponse en cour, pendant que le vilain, qui n'a point d'honneur, est puni en son corps.
+C'est bien dans les anciennes lois françaises que l'on trouve l'esprit de la monarchie. Dans les cas où il s'agit de peines pécuniaires, les non-nobles sont moins punis que les nobles [163]. C'est tout le contraire dans les crimes [164] *: le* noble perd l'honneur et réponse en cour, pendant que le vilain, qui n'a point d'honneur, est puni en son corps.
 
 
 ### Chapitre XI. Que, lorsqu'un peuple est vertueux, il faut peu de peines.
@@ -1200,7 +1200,7 @@ Voilà l'origine, voilà l'esprit des lois du Japon. Mais elles ont eu plus de f
 
 Il faut lire la relation de l'entrevue de l'empereur et du deyro à Méaco [174]. Le nombre de ceux qui y furent étouffés, ou tués par des garnements, fut incroyable ; on enleva les jeunes filles et les garçons ; on les retrouvait tous les jours exposés dans des lieux publics, à des heures indues, tout nus, cousus dans des sacs de toile, afin qu'ils ne connussent pas les lieux par où ils avaient passé ; on vola tout ce qu'on voulut ; on fendit le ventre à des chevaux pour faire tomber ceux qui les montaient ; on renversa des voitures pour dépouiller les dames. Les Hollandais, à qui l'on dit qu'ils ne pouvaient passer la nuit sur des échafauds sans être assassinés, en descendirent, etc.
 
-Je passerai vite sur un autre trait. L'empereur, adonné à des plaisirs infâmes, ne se mariait point : il courait risque de mourir sans successeur. Le deyro lui envoya deux filles très belles : il en épousa une par respect, mais il n'eut aucun commerce avec elle. Sa nourrice fit chercher les plus belles femmes de l'empire, tout était inutile. La fille d'un armurier étonna son goût [175]* *; il se détermina, il en eut un fils. Les dames de la cour, indignées de ce qu'il leur avait préféré une personne d'une si basse naissance, étouffèrent l'enfant. Ce crime fut caché à l'empereur ; il aurait versé un torrent de sang. L'atrocité des lois en empêche donc l'exécution. Lorsque la peine est sans mesure, on est souvent obligé de préférer l'impunité.
+Je passerai vite sur un autre trait. L'empereur, adonné à des plaisirs infâmes, ne se mariait point : il courait risque de mourir sans successeur. Le deyro lui envoya deux filles très belles : il en épousa une par respect, mais il n'eut aucun commerce avec elle. Sa nourrice fit chercher les plus belles femmes de l'empire, tout était inutile. La fille d'un armurier étonna son goût [175] ; il se détermina, il en eut un fils. Les dames de la cour, indignées de ce qu'il leur avait préféré une personne d'une si basse naissance, étouffèrent l'enfant. Ce crime fut caché à l'empereur ; il aurait versé un torrent de sang. L'atrocité des lois en empêche donc l'exécution. Lorsque la peine est sans mesure, on est souvent obligé de préférer l'impunité.
 
 Livre VI : conséquences des principes des divers gouvernements par rapport à la simplicité des lois civiles et criminelles, la forme des jugements et l'établissement des peines
 
@@ -1232,7 +1232,7 @@ Presque toutes les lois de Sylla ne portaient que l'interdiction de l'eau et du 
 
 Les empereurs ayant établi un gouvernement militaire, ils sentirent bientôt qu'il n'était pas moins terrible contre eux que contre les sujets ; ils cherchèrent à le tempérer : ils crurent avoir besoin des dignités et du respect qu'on avait pour elles.
 
-On s'approcha un peu de la monarchie, et l'on divisa les peines en trois classes [183]*  [184]*: celles qui regardaient les premières personnes de l'État, et qui étaient assez douces ; celles qu'on infligeait aux personnes d'un rang inférieur [185], et qui étaient plus sévères ; enfin, celles qui ne concernaient que les conditions basses [186], et qui furent les plus rigoureuses.
+On s'approcha un peu de la monarchie, et l'on divisa les peines en trois classes [183]  [184]: celles qui regardaient les premières personnes de l'État, et qui étaient assez douces ; celles qu'on infligeait aux personnes d'un rang inférieur [185], et qui étaient plus sévères ; enfin, celles qui ne concernaient que les conditions basses [186], et qui furent les plus rigoureuses.
 
 Le féroce et insensé Maximin irrita, pour ainsi dire, le gouvernement militaire qu'il aurait fallu adoucir. Le sénat apprenait, dit Capitolin [187], que les uns avaient été mis en croix, les autres exposés aux bêtes, ou enfermés dans des peaux de bêtes récemment tuées, sans aucun égard pour les dignités. Il semblait vouloir exercer la discipline militaire, sur le modèle de laquelle il prétendait régler les affaires civiles.
 
@@ -1247,7 +1247,7 @@ Il est essentiel que les peines aient de l'harmonie entre elles, parce qu'il est
 
 Cela fait souvenir d'un mot de Charles II, roi d'Angleterre. Il vit, en passant, un homme au pilori ; il demanda pourquoi il était là. « Sire, *lui* dit-on, *c'est parce qu'il a fait des libelles contre vos ministres. — Le grand sot* ! dit le roi : *que ne les écrivait-il contre moi ? on ne lui aurait rien fait. »*
 
-« Soixante-dix personnes conspirèrent contre l'empereur Basile [189]* **;* il les fit fustiger ; on leur brûla les cheveux et le poil. Un cerf l'ayant pris avec son bois par la ceinture, quelqu'un de sa suite tira son épée, coupa sa ceinture et le délivra : il lui fit trancher la tête, parce qu'il avait, disait-il, tiré l'épée contre lui. » Qui pourrait penser que, sous le même prince, on eût rendu ces deux jugements ?
+« Soixante-dix personnes conspirèrent contre l'empereur Basile [189] *;* il les fit fustiger ; on leur brûla les cheveux et le poil. Un cerf l'ayant pris avec son bois par la ceinture, quelqu'un de sa suite tira son épée, coupa sa ceinture et le délivra : il lui fit trancher la tête, parce qu'il avait, disait-il, tiré l'épée contre lui. » Qui pourrait penser que, sous le même prince, on eût rendu ces deux jugements ?
 
 C'est un grand mal, parmi nous, de faire subir la même peine à celui qui vole sur un grand chemin, et à celui qui vole et assassine. Il est visible que, pour la sûreté publique, il faudrait mettre quelque différence dans la peine.
 
@@ -1353,7 +1353,7 @@ Les bonnes républiques grecques avaient, à cet égard, des institutions admira
 
 ### Chapitre IV. Des lois somptuaires dans les monarchies.
 
-« Les Suions, nation germanique, rendent honneur aux richesses, dit Tacite [208]* *; ce qui fait qu'ils vivent sous le gouvernement d'un seul. » Cela signifie bien que le luxe est singulièrement propre aux monarchies, et qu'il n'y faut point de lois somptuaires.
+« Les Suions, nation germanique, rendent honneur aux richesses, dit Tacite [208] ; ce qui fait qu'ils vivent sous le gouvernement d'un seul. » Cela signifie bien que le luxe est singulièrement propre aux monarchies, et qu'il n'y faut point de lois somptuaires.
 
 Comme, par la constitution des monarchies, les richesses y sont inégalement partagées, il faut bien qu'il y ait du luxe. Si les riches n'y dépensent pas beaucoup, les pauvres mourront de faim. il faut même que les riches y dépensent à proportion de l'inégalité des fortunes, et que, comme nous avons dit, le luxe y augmente dans cette proportion. Les richesses particulières n'ont augmenté que parce qu'elles ont ôté à une partie des citoyens le nécessaire physique ; il faut donc qu'il leur soit rendu.
 
@@ -1363,7 +1363,7 @@ Dans le sénat de Rome, composé de graves magistrats, de jurisconsultes et d'ho
 
 Sous Tibère, les édiles proposèrent dans le sénat le rétablissement des anciennes lois somptuaires [210]. Ce prince, qui avait des lumières, s'y opposa : « L'État ne pourrait subsister, disait-il, dans la situation où sont les choses. Comment Rome pourrait-elle vivre ? comment pourraient vivre les provinces ? Nous avions de la frugalité lorsque nous étions citoyens d'une seule ville ; aujourd'hui nous consommons les richesses de tout l'univers ; on fait travailler pour nous les maîtres et les esclaves. » Il voyait bien qu'il ne fallait plus de lois somptuaires.
 
-Lorsque, sous le même empereur, on proposa au sénat de défendre aux gouverneurs de mener leurs femmes dans les provinces, à cause des dérèglements qu'elles y apportaient, cela fut rejeté. On dit « que les exemples de la dureté des anciens avaient été changés en une façon de vivre plus agréable [211]* *». On sentit qu'il fallait d'autres mœurs.
+Lorsque, sous le même empereur, on proposa au sénat de défendre aux gouverneurs de mener leurs femmes dans les provinces, à cause des dérèglements qu'elles y apportaient, cela fut rejeté. On dit « que les exemples de la dureté des anciens avaient été changés en une façon de vivre plus agréable [211] ». On sentit qu'il fallait d'autres mœurs.
 
 Le luxe est donc nécessaire dans les États monarchiques ; il l'est encore dans les États despotiques. Dans les premiers, c'est un usage que l'on fait de ce qu'on possède de liberté. Dans les autres, c'est un abus qu'on fait des avantages de sa servitude, lorsqu'un esclave, choisi par son maître pour tyranniser ses autres esclaves, incertain pour le lendemain de la fortune de chaque jour, n'a d'autre félicité que celle d'assouvir l'orgueil, les désirs et les voluptés de chaque jour.
 
@@ -1418,7 +1418,7 @@ De plus, comme dans ces États, les princes se jouent de la nature humaine, ils 
 
 Dans les républiques, les femmes sont libres par les lois, et captivées par les mœurs ; le luxe en est banni, et avec lui la corruption et les vices.
 
-Dans les villes grecques, où l'on ne vivait pas sous cette religion qui établit que, chez les hommes même, la pureté des mœurs est une partie de la vertu ; dans les villes grecques, où un vice aveugle régnait d'une manière effrénée, où l'amour n'avait qu'une forme que l'on n'ose dire, tandis que la seule amitié s'était retirée dans les mariages [220]*  [221]*; la vertu, la simplicité, la chasteté des femmes y étaient telles, qu'on n'a guère jamais vu de peuple qui ait eu à cet égard une meilleure police.
+Dans les villes grecques, où l'on ne vivait pas sous cette religion qui établit que, chez les hommes même, la pureté des mœurs est une partie de la vertu ; dans les villes grecques, où un vice aveugle régnait d'une manière effrénée, où l'amour n'avait qu'une forme que l'on n'ose dire, tandis que la seule amitié s'était retirée dans les mariages [220]  [221]; la vertu, la simplicité, la chasteté des femmes y étaient telles, qu'on n'a guère jamais vu de peuple qui ait eu à cet égard une meilleure police.
 
 
 ### Chapitre X. Du tribunal domestique chez les romains.
@@ -1527,7 +1527,7 @@ La démocratie a donc deux excès à éviter : l'esprit d'inégalité, qui la m
 
 Il est vrai que ceux qui corrompirent les républiques grecques ne devinrent pas toujours tyrans. C'est qu'ils s'étaient plus attachés à l'éloquence qu'à l'art militaire : outre qu'il y avait dans le cœur de tous les Grecs une haine implacable contre ceux qui renversaient le gouvernement républicain ; ce qui fit que l'anarchie dégénéra en anéantissement, au lieu de se changer en tyrannie.
 
-Mais Syracuse, qui se trouva placée au milieu d'un grand nombre de petites oligarchies changées en tyrannies [244]*  [245]*; Syracuse, qui avait un sénat dont il n'est presque jamais fait mention dans l'histoire, essuya des malheurs que la corruption ordinaire ne donne pas. Cette ville, toujours dans la licence [246] ou dans l'oppression, également travaillée par sa liberté et par sa servitude, recevant toujours l'une et l'autre comme une tempête, et malgré sa puissance au-dehors, toujours déterminée à une révolution par la plus petite force étrangère, avait dans son sein un peuple immense, qui n'eut jamais que cette cruelle alternative de se donner un tyran, ou de l'être lui-même.
+Mais Syracuse, qui se trouva placée au milieu d'un grand nombre de petites oligarchies changées en tyrannies [244]  [245]; Syracuse, qui avait un sénat dont il n'est presque jamais fait mention dans l'histoire, essuya des malheurs que la corruption ordinaire ne donne pas. Cette ville, toujours dans la licence [246] ou dans l'oppression, également travaillée par sa liberté et par sa servitude, recevant toujours l'une et l'autre comme une tempête, et malgré sa puissance au-dehors, toujours déterminée à une révolution par la plus petite force étrangère, avait dans son sein un peuple immense, qui n'eut jamais que cette cruelle alternative de se donner un tyran, ou de l'être lui-même.
 
 
 ### Chapitre III. De l'esprit d'égalité extrême.
@@ -1543,7 +1543,7 @@ La place naturelle de la vertu est auprès de la liberté ; mais elle ne se tro
 
 ### Chapitre IV. Cause particulière de la corruption du peuple.
 
-Les grands succès, surtout ceux auxquels le peuple contribue beaucoup, lui donnent un tel orgueil, qu'il n'est plus possible de le conduire. Jaloux des magistrats, il le devient de la magistrature ; ennemi de ceux qui gouvernent, il l'est bientôt de la constitution. C'est ainsi que la victoire de Salamine sur les Perses corrompit la république d'Athènes [247]* **;* c'est ainsi que la défaite des Athéniens perdit la république de Syracuse [248].
+Les grands succès, surtout ceux auxquels le peuple contribue beaucoup, lui donnent un tel orgueil, qu'il n'est plus possible de le conduire. Jaloux des magistrats, il le devient de la magistrature ; ennemi de ceux qui gouvernent, il l'est bientôt de la constitution. C'est ainsi que la victoire de Salamine sur les Perses corrompit la république d'Athènes [247] *;* c'est ainsi que la défaite des Athéniens perdit la république de Syracuse [248].
 
 Celle de Marseille n'éprouva jamais ces grands passages de l'abaissement à la grandeur : aussi se gouverna-t-elle toujours avec sagesse ; aussi conserva-t-elle ses principes.
 
@@ -1556,7 +1556,7 @@ Quand les familles régnantes observent les lois, c'est une monarchie qui a plus
 
 Dans ce cas, la république ne subsiste qu'à l'égard des nobles, et entre eux seulement. Elle est dans le corps qui gouverne, et l'État despotique est dans le corps qui est gouverné ; ce qui fait les deux corps du monde les plus désunis.
 
-L'extrême corruption est lorsque les nobles deviennent héréditaires [249]* **;* ils ne peuvent plus guère avoir de modération. S'ils sont en petit nombre, leur pouvoir est plus grand, mais leur sûreté diminue ; s'ils sont en plus grand nombre, leur pouvoir est moindre, et leur sûreté plus grande : en sorte que le pouvoir va croissant, et la sûreté diminuant, jusqu'au despote, sur la tête duquel est l'excès du pouvoir et du danger.
+L'extrême corruption est lorsque les nobles deviennent héréditaires [249] *;* ils ne peuvent plus guère avoir de modération. S'ils sont en petit nombre, leur pouvoir est plus grand, mais leur sûreté diminue ; s'ils sont en plus grand nombre, leur pouvoir est moindre, et leur sûreté plus grande : en sorte que le pouvoir va croissant, et la sûreté diminuant, jusqu'au despote, sur la tête duquel est l'excès du pouvoir et du danger.
 
 Le grand nombre des nobles dans l'aristocratie héréditaire rendra donc le gouvernement moins violent ; mais comme il y aura peu de vertu, on tombera dans un esprit de nonchalance, de paresse, d'abandon, qui fera que l'État n'aura plus de force ni de ressort [250].
 
@@ -1584,7 +1584,7 @@ Le principe de la monarchie se corrompt lorsque les premières dignités sont le
 
 Il se corrompt encore plus, lorsque l'honneur a été mis en contradiction avec les honneurs, et que l'on peut être à la fois couvert d'infamie [253] et de dignités.
 
-Il se corrompt lorsque le prince change sa justice en sévérité ; lorsqu'il met, comme les empereurs romains, une tête de Méduse sur sa poitrine [254]* **; lorsqu'il* prend cet air menaçant et terrible que Commode faisait donner à ses statues [255].
+Il se corrompt lorsque le prince change sa justice en sévérité ; lorsqu'il met, comme les empereurs romains, une tête de Méduse sur sa poitrine [254] *; lorsqu'il* prend cet air menaçant et terrible que Commode faisait donner à ses statues [255].
 
 Le principe de la monarchie se corrompt lorsque des âmes singulièrement lâches tirent vanité de la grandeur que pourrait avoir leur servitude ; et qu'elles croient que ce qui fait que l'on doit tout au prince, fait que l'on ne doit rien à sa patrie.
 
@@ -1613,13 +1613,13 @@ Le principe du gouvernement despotique se corrompt sans cesse, parce qu'il est c
 
 Lorsque les principes du gouvernement sont une fois corrompus, les meilleures lois deviennent mauvaises, et se tournent contre l'État ; lorsque les principes en sont sains, les mauvaises ont l'effet des bonnes ; la force du principe entraîne tout.
 
-Les Crétois, pour tenir les premiers magistrats dans la dépendance des lois, employaient un moyen bien singulier : c'était celui de *l'insurrection*. Une partie des citoyens se soulevait [256], mettait en fuite les magistrats, et les obligeait de rentrer dans la condition privée. Cela était censé fait en conséquence de la loi. Une institution pareille, qui établissait la sédition pour empêcher l'abus du pouvoir, semblait devoir renverser quelque république que ce fût ; elle ne détruisit pas celle de Crète. Voici pourquoi [257]* *:
+Les Crétois, pour tenir les premiers magistrats dans la dépendance des lois, employaient un moyen bien singulier : c'était celui de *l'insurrection*. Une partie des citoyens se soulevait [256], mettait en fuite les magistrats, et les obligeait de rentrer dans la condition privée. Cela était censé fait en conséquence de la loi. Une institution pareille, qui établissait la sédition pour empêcher l'abus du pouvoir, semblait devoir renverser quelque république que ce fût ; elle ne détruisit pas celle de Crète. Voici pourquoi [257] :
 
 Lorsque les Anciens voulaient parler d'un peuple qui avait le plus grand amour pour la patrie, ils citaient les Crétois. *La patrie*, disait Platon [258], *nom si tendre aux Crétois.* Ils l'appelaient d'un nom qui exprime l'amour d'une mère pour ses enfants [259]. Or, l'amour de la patrie corrige tout.
 
 Les lois de Pologne ont aussi leur *insurrection*. Mais les inconvénients qui en résultent font bien voir que le seul peuple de Crète était en état d'employer avec succès un pareil remède.
 
-Les exercices de la gymnastique établis chez les Grecs ne dépendirent pas moins de la bonté du principe du gouvernement. « Ce furent les Lacédémoniens et les Crétois, dit Platon [260], qui ouvrirent ces académies fameuses qui leur firent tenir dans le monde un rang si distingué. La pudeur s'alarma d'abord ; mais elle céda à l'utilité publique. » Du temps de Platon, ces institutions étaient admirables [261]*  [262]*: elles se rapportaient à un grand objet, qui était l'art militaire. Mais, lorsque les Grecs n'eurent plus de vertu, elles détruisirent l'art militaire même : on ne descendit plus sur l'arène pour se former, mais pour se corrompre.
+Les exercices de la gymnastique établis chez les Grecs ne dépendirent pas moins de la bonté du principe du gouvernement. « Ce furent les Lacédémoniens et les Crétois, dit Platon [260], qui ouvrirent ces académies fameuses qui leur firent tenir dans le monde un rang si distingué. La pudeur s'alarma d'abord ; mais elle céda à l'utilité publique. » Du temps de Platon, ces institutions étaient admirables [261]  [262]: elles se rapportaient à un grand objet, qui était l'art militaire. Mais, lorsque les Grecs n'eurent plus de vertu, elles détruisirent l'art militaire même : on ne descendit plus sur l'arène pour se former, mais pour se corrompre.
 
 Plutarque nous dit [263] que, de son temps, les Romains pensaient que ces jeux avaient été la principale cause de la servitude où étaient tombés les Grecs. C'était, au contraire, la servitude des Grecs qui avait corrompu ces exercices. Du temps de Plutarque [264], les parcs où l'on combattait à nu, et les jeux de la lutte, rendaient les jeunes gens lâches, les portaient à un amour infâme, et n'en faisaient que des baladins ; mais du temps d'Épaminondas, l'exercice de la lutte faisait gagner aux Thébains la bataille de Leuctres [265].
 
@@ -1721,7 +1721,7 @@ D'ailleurs, les lettres du P. Parennin sur le procès que l'empereur fit faire 
 
 Nous avons encore les lettres de M. de Mairan et du même P. Parennin sur le gouvernement de la Chine. Après des questions et des réponses très sensées, le merveilleux s'est évanoui.
 
-Ne pourrait-il pas se faire que les missionnaires auraient été trompés par une apparence d'ordre ; qu'ils auraient été frappés de cet exercice continuel de la volonté d'un seul, par lequel ils sont gouvernés eux-mêmes, et qu'ils aiment tant à trouver dans les cours des rois des Indes, parce que n'y allant que pour y faire de grands changements, il leur est plus aisé de convaincre les princes qu'ils peuvent tout faire que de persuader aux peuples qu'ils peuvent tout souffrir [276]* *?
+Ne pourrait-il pas se faire que les missionnaires auraient été trompés par une apparence d'ordre ; qu'ils auraient été frappés de cet exercice continuel de la volonté d'un seul, par lequel ils sont gouvernés eux-mêmes, et qu'ils aiment tant à trouver dans les cours des rois des Indes, parce que n'y allant que pour y faire de grands changements, il leur est plus aisé de convaincre les princes qu'ils peuvent tout faire que de persuader aux peuples qu'ils peuvent tout souffrir [276] ?
 
 Enfin, il y a souvent quelque chose de vrai dans les erreurs mêmes. Des circonstances particulières, et peut-être uniques, peuvent faire que le gouvernement de la Chine ne soit pas aussi corrompu qu'il devrait l'être. Des causes, tirées la plupart du physique du climat, ont pu forcer les causes morales dans ce pays, et faire des espèces de prodiges.
 

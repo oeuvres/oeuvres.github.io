@@ -117,19 +117,13 @@ Comment ces rêves ont-ils été déçus ? Comment ont-ils fait place à la plu
 
 Si le succès justifie tout, le gouvernement prussien est complètement absous ; mais nous sommes philosophes, monsieur ; nous avons la naïveté de croire que celui qui a réussi peut avoir eu des torts. Le gouvernement prussien avait sollicité, accepté l'alliance secrète de l'empereur Napoléon III et de la France. Quoique rien n'eût été stipulé, il devait à l'empereur et à la France des marques de gratitude et de sympathie. Un de vos compatriotes, qui montre en ce moment contre la France plus de passion que je n'aime à en voir chez un galant homme, me disait, à l'époque dont il s'agit, que l'Allemagne devait à la France une grande reconnaissance pour la part réelle, quoique négative, que cette dernière avait prise à sa fondation. Conduit par un principe d'orgueil qui aura dans l'avenir de fâcheuses conséquences, le cabinet de Berlin ne l'entendit pas ainsi. Certes les agrandissements territoriaux, quand il s'agit d'une nation forte déjà de trente ou quarante millions d'hommes, ont peu d'importance ; l'acquisition de la Savoie et de Nice a été pour la France plus fâcheuse qu'utile. On peut regretter cependant que le gouvernement prussien n'ait pas fait céder la rigueur de ses prétentions dans l'affaire du Luxembourg. Le Luxembourg cède à la France, la France n'eût pas été plus grande ni l'Allemagne plus petite ; mais cette concession insignifiante eût suffi pour satisfaire l'opinion superficielle, qui en un pays de suffrage universel doit être ménagée, et eût permis au gouvernement français de masquer sa retraite. Dans le plus grand château des croisés qui existe encore en Syrie, le *Kalaat-el-hosn*, se voit, en beaux caractères du XII*e* siècle, sur une pierre au milieu des ruines, l'inscription suivante, que la maison de Hohenzollern devrait faire graver sur l'écusson de tous ses châteaux :
 
-
-
-*Sit tibi copia*,
-
-*Sit sapientia*,
-
-*Formaque detur* ;
-
-*Inquinat omnia*
-
-*Sola superbia*
-
-*Si comitetur.*
+Sit tibi copia,  
+Sit sapientia,  
+Formaque detur ;  
+Inquinat omnia  
+Inquinat omnia  
+Sola superbia  
+Si comitetur.  
 
 Dans les causes éloignées de la guerre, un esprit impartial peut donc faire presque égale la part de reproches que méritent d'un côté le gouvernement de la France et d'un autre côté celui de la Prusse. Quant à la cause prochaine, à ce pitoyable incident diplomatique ou plutôt ce jeu cruel de vanités blessées qui, pour venger de chétives querelles de diplomates, a déchaîné tous les fléaux sur l'espèce humaine, vous savez ce que j'en pense. J'étais à Tromsoë, où le plus splendide paysage de neige des mers polaires me faisait rêver aux îles des Morts de nos ancêtres celtes et germains, quand j'appris cette horrible nouvelle ; je n'ai jamais maudit comme ce jour-là le sort fatal qui semble condamner notre malheureux pays à n'être jamais conduit que par l'ignorance, la présomption et l'ineptie.
 

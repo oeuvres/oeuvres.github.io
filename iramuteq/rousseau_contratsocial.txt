@@ -8,7 +8,19 @@ Ce petit Traité est extrait d'un Ouvrage plus étendu, entrepris autrefois sans
 Des divers morceaux qu'on pouvait tirer de ce qui était fait, celui-ci est le plus considérable, et m'a paru le moins indigne d'être offert au Public.
 Le reste n'est déjà plus.
 
-**** *book_ *id_body-2-1
+**** *book_ *id_body-2
+
+Livre premier
+
+Je veux chercher si dans l'ordre civil il peut y avoir quelque règle d'administration légitime et sûre, en prenant les hommes tels qu'ils sont, et les lois telles qu'elles peuvent être : je tâcherai d'allier toujours, dans cette recherche ce que le droit permet avec ce que l'intérêt prescrit, afin que la justice et l'utilité ne se trouvent point divisées.
+
+J'entre en matière sans prouver l'importance de mon sujet.
+On me demandera si je suis prince ou législateur pour écrire sur la Politique ?
+Je réponds que non, et que c'est pour cela que j'écris sur la Politique.
+Si j'étais prince ou législateur, je ne perdrais pas mon temps à dire ce qu'il faut faire, je le ferais, ou je me tairais.
+
+Né citoyen d'un État libre, et membre du souverain, quelque faible influence que puisse avoir ma voix dans les affaires publiques, le droit d'y voter suffit pour m'imposer le droit de m'en instruire.
+Heureux, toutes les fois que je médite sur les Gouvernements, de trouver toujours dans mes recherches de nouvelles raisons d'aimer celui de mon pays !
 
 Chapitre premier. Sujet de ce premier Livre.
 
@@ -24,8 +36,6 @@ Mais l'ordre social est un droit sacré, qui sert de base à tous les autres.
 Cependant ce droit ne vient point de la nature ; il est donc fondé sur des conventions.
 Il s'agit de savoir quelles sont ces conventions.
 Avant d'en venir là, je dois établir ce que je viens d'avancer.
-
-**** *book_ *id_body-2-2
 
 Chapitre II. Des premières Sociétés.
 
@@ -64,8 +74,6 @@ Je n'ai rien dit du roi Adam, ni de l'empereur Noé père de trois grands Monarq
 J'espère qu'on me saura gré de cette modération ; car, descendant directement de l'un de ces princes, et peut-être de la branche aînée, que sais-je si par la vérification des titres je ne me trouverais point le légitime roi du genre humain ?
 Quoi qu'il en soit, on ne peut disconvenir qu'Adam n'ait été souverain du monde comme Robinson de son île, tant qu'il en fut le seul habitant ; et ce qu'il y avait de commode dans cet empire, était que le monarque assuré sur son trône n'avait à craindre ni rebellions, ni guerres, ni conspirateurs.
 
-**** *book_ *id_body-2-3
-
 Chapitre III. Du droit du plus fort.
 
 Le plus fort n'est jamais assez fort pour être toujours le maître, s'il ne transforme sa force en droit et l'obéissance en devoir.
@@ -90,8 +98,6 @@ Qu'un brigand me surprenne au coin d'un bois ; non seulement il faut par force 
 
 Convenons donc que force ne fait pas droit, et qu'on n'est obligé d'obéir qu'aux puissances légitimes.
 Ainsi ma question primitive revient toujours.
-
-**** *book_ *id_body-2-4
 
 Chapitre IV. De l'esclavage.
 
@@ -160,8 +166,6 @@ Ces mots esclavage et droit, sont contradictoires ; ils s'excluent mutuellement
 Soit d'un homme à un homme, soit d'un homme à un peuple, ce discours sera toujours également insensé.
 Je fais avec toi une convention toute à ta charge et toute à mon profit, que j'observerai tant qu'il me plaira, et que tu observeras tant qu'il me plaira.
 
-**** *book_ *id_body-2-5
-
 Chapitre V. Qu'il faut toujours remonter à une première convention.
 
 Quand j'accorderais tout ce que j'ai réfuté jusqu'ici, les fauteurs du despotisme n'en seraient pas plus avancés.
@@ -178,8 +182,6 @@ Car cet acte étant nécessairement antérieur à l'autre, est le vrai fondement
 
 En effet, s'il n'y avait point de convention antérieure, où serait, à moins que l'élection ne fût unanime, l'obligation pour le petit nombre de se soumettre au choix du grand, et d'où cent qui veulent un maître ont-ils le droit de voter pour dix qui n'en veulent point ?
 La loi de la pluralité des suffrages est elle-même un établissement de convention, et suppose au moins une fois l'unanimité.
-
-**** *book_ *id_body-2-6
 
 Chapitre VI. Du Pacte Social.
 
@@ -210,8 +212,6 @@ Cette personne publique, qui se forme ainsi par l'union de toutes les autres, pr
 À l'égard des associés, ils prennent collectivement le nom de Peuple, et s'appellent en particulier Citoyens, comme participant à l'autorité souveraine, et Sujets, comme soumis aux lois de l'État.
 Mais ces termes se confondent souvent et se prennent l'un pour l'autre ; il suffit de les savoir distinguer, quand ils sont employés dans toute leur précision.
 
-**** *book_ *id_body-2-7
-
 Chapitre VII. Du Souverain.
 
 On voit par cette formule que l'acte d'association renferme un engagement réciproque du publie avec les particuliers, et que chaque individu contractant, pour ainsi dire, avec lui-même, se trouve engagé sous un double rapport ; savoir, comme membre du Souverain envers les particuliers, et comme membre de l'État envers le Souverain.
@@ -237,8 +237,6 @@ Son intérêt particulier peut lui parler tout autrement que l'intérêt commun�
 
 Afin donc que le pacte social ne soit pas un vain formulaire, il renferme tacitement cet engagement qui seul peut donner de la force aux autres, que quiconque refusera d'obéir à la volonté générale y sera contraint par tout le corps : ce qui ne signifie autre chose, sinon qu'on le forcera d'être libre : car telle est la condition qui donnant chaque citoyen à la patrie le garantit de toute dépendance personnelle ; condition qui fait l'artifice et le jeu de la machine politique, et qui seule rend légitimes les engagements civils, lesquels sans cela seraient absurdes, tyranniques, et sujets aux plus énormes abus.
 
-**** *book_ *id_body-2-8
-
 Chapitre VIII. De l'État civil.
 
 Ce passage de l'état de nature à l'état civil produit dans l'homme un changement très remarquable, en substituant dans sa conduite la justice à l'instinct, et donnant à ses actions la moralité qui leur manquait auparavant.
@@ -251,8 +249,6 @@ Pour ne pas se tromper dans ces compensations, il faut bien distinguer la libert
 
 On pourrait sur ce qui précède ajouter à l'acquis de l'état civil la liberté morale, qui seule rend l'homme vraiment maître de lui ; car l'impulsion du seul appétit est esclavage, et l'obéissance à la loi qu'on s'est prescrite est liberté.
 Mais je n'en ai déjà que trop dit sur cet article, et le sens philosophique du mot liberté n'est pas ici de mon sujet.
-
-**** *book_ *id_body-2-9
 
 Chapitre IX. Du domaine réel.
 
@@ -291,7 +287,9 @@ De quelque manière que se fasse cette acquisition, le droit que chaque particul
 
 Je terminerai ce chapitre et ce livre par une remarque qui doit servir de base à tout le système social : c'est qu'au lieu de détruire l'égalité naturelle, le pacte fondamental substitue au contraire une égalité morale et légitime à ce que la nature avait pu mettre d'inégalité physique entre les hommes, et que, pouvant être inégaux en force ou en génie, ils deviennent tous égaux par convention et de droit.
 
-**** *book_ *id_body-3-1
+**** *book_ *id_body-3
+
+Livre II
 
 Chapitre premier. Que la Souveraineté est inaliénable.
 
@@ -310,8 +308,6 @@ Ce n'est point à dire que les ordres des chefs ne puissent passer pour des volo
 En pareil cas, du silence universel on doit présumer le consentement du peuple.
 
 Ceci s'expliquera plus au long.
-
-**** *book_ *id_body-3-2
 
 Chapitre II. Que la Souveraineté est indivisible.
 
@@ -336,8 +332,6 @@ C'eût bien été aussi le goût de Barbeyrac, qui dédiait sa traduction au roi
 Si ces deux écrivains avaient adopté les vrais principes, toutes les difficultés étaient levées, et ils eussent été toujours conséquents ; mais ils auraient tristement dit la vérité, et n'auraient fait leur cour qu'au peuple.
 Or, la vérité ne mène point à la fortune, et le peuple ne donne ni ambassades, ni chaires, ni pensions.
 
-**** *book_ *id_body-3-3
-
 Chapitre III. Si la volonté générale peut errer.
 
 Il s'ensuit de ce qui précède que la volonté générale est toujours droite et tend toujours à l'utilité publique : mais il ne s'ensuit pas que les délibérations du peuple aient toujours la même rectitude.
@@ -354,8 +348,6 @@ Il importe donc, pour avoir bien l'énoncé de la volonté générale qu'il n'y 
 Telle fut l'unique et sublime institution du grand Lycurgue.
 Que s'il y a des sociétés partielles, il en faut multiplier le nombre et en prévenir l'inégalité, comme firent Solon, Numa, Servius.
 Ces précautions sont les seules bonnes pour que la volonté générale soit toujours éclairée, et que le peuple ne se trompe point.
-
-**** *book_ *id_body-3-4
 
 Chapitre IV. Des bornes du pouvoir Souverain.
 
@@ -396,8 +388,6 @@ Que font-ils qu'ils ne fissent plus fréquemment et avec plus de danger dans l'�
 Tous ont à combattre au besoin pour la patrie, il est vrai ; mais aussi nul n'a jamais à combattre pour soi.
 Ne gagne-t-on pas encore à courir, pour ce qui fait notre sûreté une partie des risques qu'il faudrait courir pour nous-mêmes sitôt qu'elle nous serait ôtée ?
 
-**** *book_ *id_body-3-5
-
 Chapitre V. Du droit de vie et de mort.
 
 On demande comment les particuliers n'ayant point droit de disposer de leur propre vie, peuvent transmettre au Souverain ce même droit qu'ils n'ont pas ?
@@ -432,8 +422,6 @@ Dans un État bien gouverné il y a peu de punitions, non parce qu'on fait beauc
 Sous la République Romaine, jamais le sénat ni les consuls ne tentèrent de faire grâce : le peuple même n'en faisait pas, quoiqu'il révoquât quelquefois son propre jugement.
 Les fréquentes grâces annoncent que bientôt les forfaits n'en auront plus besoin, et chacun voit où cela mène.
 Mais je sens que mon cœur murmure et retient ma plume ; laissons discuter ces questions à l'homme juste qui n'a point failli, et qui jamais n'eut lui-même besoin de grâce.
-
-**** *book_ *id_body-3-6
 
 Chapitre VI. De la Loi.
 
@@ -485,8 +473,6 @@ Il faut obliger les uns à conformer leurs volontés à leur raison ; il faut a
 Alors des lumières publiques résulte l'union de l'entendement et de la volonté dans le Corps social, de là l'exact concours des parties, et enfin la plus grande force du tout.
 Voilà d'où naît la nécessité d'un Législateur.
 
-**** *book_ *id_body-3-7
-
 Chapitre VII. Du Législateur.
 
 Pour découvrir les meilleures règles de société qui conviennent aux nations, il faudrait une intelligence supérieure, qui vît toutes les passions des hommes, et qui n'en éprouvât aucune, qui n'eût aucun rapport avec notre nature, et qui la connût à fond, dont le bonheur fût indépendant de nous, et qui pourtant voulût biens s'occuper du nôtre ; enfin qui, dans le progrès des temps se ménageant une gloire éloignée, pût travailler dans un siècle et jouir dans un autre.
@@ -537,8 +523,6 @@ La loi Judaïque toujours subsistante, celle de l'enfant d'Ismaël qui depuis di
 
 Il ne faut pas, de tout ceci conclure avec Warburton que la politique et la religion aient parmi nous un objet commun, mais que dans l'origine des nations l'une sert d'instrument à l'autre.
 
-**** *book_ *id_body-3-8
-
 Chapitre VIII. Du Peuple.
 
 Comme avant d'élever un grand édifice l'architecte observe et observe et sonde le sol pour voir s'il en peut soutenir le poids, le sage instituteur ne commence pas par rédiger de bonnes lois en elles-mêmes, mais il examine auparavant si le peuple auquel il les destine est propre à les supporter.
@@ -568,8 +552,6 @@ L'Empire de Russie voudra subjuguer l'Europe et sera subjugué lui-même.
 Les Tartares ses sujets ou ses voisins deviendront ses maîtres et les nôtres : cette révolution me paraît infaillible.
 Tous les rois de l'Europe travaillent de concert à l'accélérer.
 
-**** *book_ *id_body-3-9
-
 Chapitre IX. Suite.
 
 Comme la nature a donné des termes à la stature d'un homme bien conformé, passé lesquels elle ne fait plus que des géants ou des nains, il y a de même, eu égard à la meilleure constitution d'un État, des bornes à l'étendue qu'il peut avoir, afin qu'il ne soit ni trop grand pour pouvoir être bien gouverné, ni trop petit pour pouvoir se maintenir par lui-même.
@@ -597,8 +579,6 @@ On peut dire en général que les premières, n'étant qu'extérieures et relati
 
 Au reste, on a vu des États tellement constitués, que la nécessité des conquêtes entrait dans leur constitution même, et que pour se maintenir, ils étaient forcés de s'agrandir sans cesse.
 Peut-être se félicitaient-ils beaucoup de cette heureuse nécessité, qui leur montrait pourtant, avec le terme de leur grandeur, l'inévitable moment de leur chute.
-
-**** *book_ *id_body-3-10
 
 Chapitre X. Suite.
 
@@ -632,8 +612,6 @@ Il est encore en Europe un pays capable de législation ; c'est l'île de Corse
 La valeur et la constance avec laquelle ce brave peuple a su recouvrer et défendre sa liberté, mériterait bien que quel homme sage lui apprît à la conserver.
 J'ai quelque pressentiment qu'un jour cette petite Isle étonnera l'Europe.
 
-**** *book_ *id_body-3-11
-
 Chapitre XI. Des divers systèmes de Législation.
 
 Si l'on recherche en quoi consiste précisément le plus grand bien de tous, qui doit être la fin de tout système de législation, on trouvera qu'il se réduit à deux objets principaux, la liberté et l'égalité.
@@ -662,8 +640,6 @@ L'auteur de l'Esprit des lois a montré dans des foules d'exemples par quel art 
 Ce qui rend la constitution d'un État véritablement solide et durable, c'est quand les convenances sont tellement observées, que les rapports naturels et les lois tombent toujours de concert sur les mêmes points, et que celles-ci ne font, pour ainsi dire, qu'assurer accompagner, rectifier les autres.
 Mais si le législateur se trompant dans son objet, prend un principe différent de celui qui naît de la nature des choses ; que l'un tende à la servitude, et l'autre à la liberté ; l'un aux richesses, l'autre à la population ; l'un à la paix, l'autre aux conquêtes ; on verra les lois s'affaiblir insensiblement, la constitution s'altérer, et l'État ne cessera d'être agité jusqu'à ce qu'il soit détruit ou changé, et que l'invincible nature ait repris son empire.
 
-**** *book_ *id_body-3-12
-
 Chapitre XII. Division des lois.
 
 Pour ordonner le tout, ou donner la meilleure forme possible à la chose publique, il y a diverses relations à considérer.
@@ -683,7 +659,11 @@ Je parle des mœurs, des coutumes, et surtout de l'opinion ; partie inconnue à
 
 Entre ces diverses classes, les lois politiques, qui constituent la forme du Gouvernement, sont la seule relative à mon sujet.
 
-**** *book_ *id_body-4-1
+**** *book_ *id_body-4
+
+Livre III
+
+Avant de parler des diverses formes de Gouvernement, tâchons de fixer le sens précis de ce mot, qui n'a pas encore été fort bien expliqué.
 
 Chapitre premier. Du Gouvernement en général.
 
@@ -761,8 +741,6 @@ Enfin, sans s'éloigner directement du but de son institution, il peut s'en éca
 C'est de toutes ces différences que naissent les rapports divers que le Gouvernement doit avoir avec le Corps de l'État, selon les rapports accidentels et particuliers par lesquels ce même État est modifié.
 Car souvent le Gouvernement le meilleur en soi deviendra le plus vicieux, si ses rapports ne sont altérés selon les défauts du Corps politique auquel il appartient.
 
-**** *book_ *id_body-4-2
-
 Chapitre II. Du principe qui constitue les diverses formes de Gouvernement.
 
 Pour exposer la cause générale de ces différences, il faut distinguer ici le Prince et le Gouvernement, comme j'ai distingué ci-devant l'État et le Souverain.
@@ -804,8 +782,6 @@ D'où il suit que le rapport des magistrats au Gouvernement doit être inverse d
 Au reste je ne parle ici que de la force relative du Gouvernement, et non de sa rectitude : car, au contraire, plus le magistrat est nombreux, plus la volonté de Corps se rapproche de la volonté générale ; au lieu que sous un magistrat unique cette même volonté de Corps n'est, comme je le dit, qu'une volonté particulière.
 Ainsi l'on perd d'un côté ce qu'on peut gagner de l'autre, et l'art du Législateur est de savoir fixer le point où la force et la volonté du Gouvernement, toujours en proportion réciproque, se combinent dans le rapport le plus avantageux à l'État.
 
-**** *book_ *id_body-4-3
-
 Chapitre III. Division des Gouvernements.
 
 On a vu dans le chapitre précédent pourquoi l'on distingue les diverses espèces ou formes de Gouvernements par le nombre des membres qui les composent ; il reste à voir dans celui-ci comment se fait cette division.
@@ -830,8 +806,6 @@ On a de tout temps beaucoup disputé sur la meilleure forme de Gouvernement, san
 
 Si dans les différents États le nombre des magistrats suprêmes doit être en raison inverse de celui des citoyens, il s'ensuit qu'en général le Gouvernement démocratique convient aux petits États, l'aristocratique aux médiocres, et le monarchique aux grands.
 Cette règle se tire immédiatement du principe ; mais comment compter la multitude de circonstances qui peuvent fournir des Exceptions ?
-
-**** *book_ *id_body-4-4
 
 Chapitre IV. De la Démocratie.
 
@@ -859,8 +833,6 @@ C'est surtout dans cette constitution que le citoyen doit s'armer de force et de
 
 S'il y avait un peuple de Dieux, il se gouvernerait démocratiquement.
 Un Gouvernement si parfait ne convient pas à des hommes.
-
-**** *book_ *id_body-4-5
 
 Chapitre V. De l'Aristocratie.
 
@@ -893,8 +865,6 @@ Mais si l'aristocratie exige quelques vertus de moins que le Gouvernement popula
 
 Au reste, si cette forme comporte une certaine inégalité de fortune, c'est bien pour qu'en général l'administration des affaires publiques soit confiée à ceux qui peuvent le mieux y donner tout leur temps, mais non pas, comme prétend Aristote, pour que les riches soient toujours préférés.
 Au contraire, il importe qu'un choix opposé apprenne quelquefois au peuple qu'il y a dans le mérite des hommes, des raisons de préférence plus importantes que la richesse.
-
-**** *book_ *id_body-4-6
 
 Chapitre VI. De la Monarchie.
 
@@ -973,8 +943,6 @@ Ce discours est édifiant, sans doute ; mais je ne sais s'il ne conviendrait pa
 Que dire d'un médecin qui promet des miracles, et dont tout l'art est d'exhorter son malade à la patience ?
 On sait bien qu'il faut souffrir un mauvais Gouvernement quand on l'a ; la question serait d'en trouver un bon.
 
-**** *book_ *id_body-4-7
-
 Chapitre VII. Des Gouvernements mixtes.
 
 À proprement parler, il n'y a point de Gouvernement simple.
@@ -996,8 +964,6 @@ Alors le Gouvernement n'est pas mixte, il est tempéré.
 On peut remédier par des moyens semblables à l'inconvénient opposé, et quand le Gouvernement est trop lâche, ériger des tribunaux pour le concentrer.
 Cela se pratique dans toutes les démocraties.
 Dans le premier cas on devise le Gouvernement pour l'affaiblir, et dans le second pour le renforcer ; car les maximum de force et de faiblesse se trouvent également dans les Gouvernements simples, au lieu que les formes mixtes donnent une force moyenne.
-
-**** *book_ *id_body-4-8
 
 Chapitre VIII. Que toute forme de Gouvernement n'est pas propre à tout pays.
 
@@ -1083,8 +1049,6 @@ L'avantage d'un Gouvernement tyrannique est donc en ceci d'agir à grandes dista
 Celle du peuple au contraire n'agit que concentrée, elle s'évapore et se perd en s'étendant, comme l'effet de la poudre éparse à terre et qui ne prend feu que grain à grain.
 Les pays les moins peuplés sont ainsi les plus propres à la tyrannie : les bêtes féroces ne règnent que dans les déserts.
 
-**** *book_ *id_body-4-9
-
 Chapitre IX. Des signes d'un bon Gouvernement.
 
 Quand donc on demande absolument quel est le meilleur Gouvernement, on fait une question insoluble comme indéterminée ; ou si l'on veut, elle a autant de bonnes solutions qu'il y a de combinaisons possibles dans les positions absolues et relatives des peuples.
@@ -1104,8 +1068,6 @@ C'est leur nombre et leur population.
 N'allez donc pas chercher ailleurs ce signe si disputé.
 Toute chose d'ailleurs égale, le Gouvernement sous lequel, sans moyens étrangers, sans naturalisation, sans colonies, les citoyens peuplent et multiplient davantage, est infailliblement le meilleur ; celui sous lequel un peuple diminue et dépérit est le pire.
 Calculateurs, c'est maintenant votre affaire ; comptez, mesurez, comparez.
-
-**** *book_ *id_body-4-10
 
 Chapitre X. De l'abus du Gouvernement et de sa pente à dégénérer.
 
@@ -1144,8 +1106,6 @@ Pour donner différents noms à différentes choses, j'appelle tyran l'usurpateu
 Le tyran est celui qui s'ingère, contre les lois à gouverner selon les lois ; le despote est celui qui se met au-dessus des lois mêmes.
 Ainsi le tyran peut n'être pas despote, mais le despote est toujours tyran.
 
-**** *book_ *id_body-4-11
-
 Chapitre XI. De la mort du Corps politique.
 
 Telle est la pente naturelle et inévitable des Gouvernements les mieux constitués.
@@ -1173,8 +1133,6 @@ C'est pour cela même.
 On doit croire qu'il n'y a que l'excellence des volontés antiques qui les ait pu conserver si longtemps ; si les Souverain ne les eût reconnues constamment salutaires, il les eût mille fois révoquées.
 Voilà pourquoi, loin de s'affaiblir, les lois acquièrent sans cesse une force nouvelle dans tout État bien constitué ; le préjugé de antiquité les rend chaque jour plus vénérables ; au lieu que partout où les lois s'affaiblissent en vieillissant, cela prouve qu'il n'y a plus de pouvoir législatif, et que l'État ne vit plus.
 
-**** *book_ *id_body-4-12
-
 Chapitre XII. Comment se maintient l'autorité souveraine.
 
 Le Souverain n'ayant d'autre force que la puissance législative, n'agit que par des lois, et les lois n'étant que des actes authentiques de la volonté générale, le Souverain ne saurait agir que quand le peuple est assemblé.
@@ -1195,8 +1153,6 @@ Il traitait certaines affaires, il jugeait certaines causes, et tout ce peuple �
 
 En remontant aux premiers temps des nations, on trouverait que la plupart des anciens Gouvernements, même monarchiques tels que ceux des Macédoniens et des Francs, avaient de semblables conseils.
 Quoi qu'il en soit, ce seul fait incontestable répond à toutes les difficultés : de l'existant au possible, la conséquence me paraît bonne.
-
-**** *book_ *id_body-4-13
 
 Chapitre XIII. Suite.
 
@@ -1225,8 +1181,6 @@ Peuplez également le territoire, étendez-y partout les mêmes droits, portez-y
 Souvenez-vous que les murs des villes ne se forment que du débris des maisons des champs.
 À chaque palais que je vois élever dans la capitale, je crois voir mettre en masures tout un pays.
 
-**** *book_ *id_body-4-14
-
 Chapitre XIV. Suite.
 
 À l'instant que le peuple est légitimement assemblé en Corps Souverain, toute juridiction du Gouvernement cesse, la puissance exécutive est suspendue, et la personne du dernier citoyen est aussi sacrée et inviolable que celle du premier magistrat, parce qu'où se trouve le représenté, il n'y a plus de représentant.
@@ -1237,8 +1191,6 @@ Ces intervalles de suspension où le prince reconnaît ou doit reconnaître un s
 Quand ceux-ci sont avares, lâches, pusillanimes, plus amoureux du repos que de la liberté, ils ne tiennent pas longtemps contre les efforts redoublés du Gouvernement ; c'est ainsi que, la force résistante augmentant sans cesse, l'autorité souveraine s'évanouit à la fin, et que la plupart des cités tombent et périssent avant le temps.
 
 Mais entre l'autorité souveraine et le Gouvernement arbitraire, il s'introduit quelquefois un pouvoir moyen dont il faut parler.
-
-**** *book_ *id_body-4-15
 
 Chapitre XV. Des Députés ou Représentants.
 
@@ -1305,8 +1257,6 @@ Mais si elle est très petite elle sera subjuguée ?
 Non.
 Je ferai voir ci-après comment on peut réunir la puissance extérieure d'un grand peuple avec la police aisée et le bon ordre d'un petit État.
 
-**** *book_ *id_body-4-16
-
 Chapitre XVI. Que l'institution du Gouvernement n'est point un contrat.
 
 Le pouvoir législatif une fois bien établi, il s'agit d'établir de même le pouvoir exécutif ; car ce dernier, qui n'opère que par des actes particuliers, n'étant pas de l'essence de l'autre, en est naturellement séparé.
@@ -1330,8 +1280,6 @@ On voit encore que les parties contractantes seraient entre elles sous la seule 
 Il n'y a qu'un contrat dans l'État, c'est celui de association celui-là seul en exclut tout autre.
 On ne saurait imaginer aucun contrat public, qui ne fût une violation du premier.
 
-**** *book_ *id_body-4-17
-
 Chapitre XVII. De l'institution du Gouvernement.
 
 Sous quelle idée faut-il donc concevoir l'acte par lequel le Gouvernement est institué ?
@@ -1352,8 +1300,6 @@ Ce changement de relation n'est point une subtilité de spéculation sans exempl
 Tel est avantage propre au Gouvernement démocratique, de pouvoir être établi dans le fait par un simple acte de la volonté générale.
 Après quoi ce Gouvernement provisionnel reste en possession si telle est la forme adoptée, ou établit au nom du Souverain le Gouvernement prescrit par la loi, et tout se trouve ainsi dans la règle.
 Il n'est pas possible d'instituer le Gouvernement d'aucune autre manière légitime, et sans renoncer aux principes ci-devant établis.
-
-**** *book_ *id_body-4-18
 
 Chapitre XVIII. Moyen de prévenir les usurpations du Gouvernement.
 
@@ -1379,7 +1325,9 @@ Je suppose ici ce que je crois avoir démontré, savoir qu'il n'y a dans l'État
 Grotius pense même que chacun peut renoncer à l'État dont il est membre, et reprendre sa liberté naturelle et ses biens en sortant du pays.
 Or il serait absurde que tous les citoyens réunis ne pussent pas ce que peut séparément chacun d'eux.
 
-**** *book_ *id_body-5-1
+**** *book_ *id_body-5
+
+Livre IV
 
 Chapitre premier. Que la volonté générale est indestructible.
 
@@ -1409,8 +1357,6 @@ La faute qu'il commet est de changer l'état de la question et de répondre autr
 Ainsi la loi de ordre public dans les assemblées n'est pas tant d'y maintenir la volonté générale, que de faire qu'elle soit toujours interrogée et qu'elle réponde toujours.
 
 J'aurais ici bien des réflexions à faire sur le simple droit de voter dans tout acte de souveraineté ; droit que rien ne peut ôter aux citoyens ; et sur celui d'opiner, de proposer, de diviser, de discuter, que le Gouvernement a toujours grand soin de ne laisser qu'à ses membres ; mais cette importante matière demanderait un traité à part, et je ne puis tout dire dans celui-ci.
-
-**** *book_ *id_body-5-2
 
 Chapitre II. Des Suffrages.
 
@@ -1458,8 +1404,6 @@ Deux maximes générales peuvent servir à régler ces rapports : l'une, que pl
 La première de ces maximes paraît plus convenable aux lois, et la seconde aux affaires.
 Quoi qu'il en soit, c'est sur leur combinaison que s'établissent les meilleurs rapports qu'on peut donner à la pluralité pour prononcer.
 
-**** *book_ *id_body-5-3
-
 Chapitre III. Des Élections.
 
 À l'égard des élections du Prince et des magistrats, qui sont, comme je l'ai dit, des actes complexes, il y a deux voies pour y procéder ; savoir, le choix et le sort.
@@ -1498,8 +1442,6 @@ Pierre proposait de multiplier les conseils du roi de France et d'en élire les 
 
 Il me resterait à parler de la manière de donner et de recueillir les voix dans l'assemblée du peuple ; mais peut-être l'historique de la police Romaine à cet égard expliquera-t-il plus sensiblement toutes les maximes que je pourrais établir.
 Il n'est pas indigne d'un lecteur judicieux de voir un peu en détail comment se traitaient les affaires publiques et particulières dans un conseil de deux cent mille hommes.
-
-**** *book_ *id_body-5-4
 
 Chapitre IV. Des Comices Romains.
 
@@ -1637,8 +1579,6 @@ Ce qui n'empêcha pas que la fidélité des officiers chargés de ces fonctions 
 Vers les derniers temps, l'on était souvent contraint de recourir à des expédients extraordinaires pour suppléer à l'insuffisance des lois.
 Tantôt l'on supposait des prodiges ; mais ce moyen qui pouvait en imposer au peuple n'en imposait pas à ceux qui le gouvernaient ; tantôt l'on convoquait brusquement une assemblée avant que les candidats eussent eu le temps de faire leurs brigues, tantôt l'on consumait toute une séance à parler quand l'on voyait le peuple gagné prêt à prendre un mauvais parti : mais enfin l'ambition éluda tout, et ce qu'il y a d'incroyable, c'est qu'au milieu de tant d'abus, ce peuple immense, à la faveur de ses anciens règlements, ne laissait pas d'élire les magistrats, de passer les lois, de juger les causes, d'expédier les affaires particulières et publiques, presque avec autant de facilité qu'eût pu faire le Sénat lui-même.
 
-**** *book_ *id_body-5-5
-
 Chapitre V. Du Tribunat.
 
 Quand l'on ne peut établir une exacte proportion entre les parties constitutives de l'État, ou que des causes indestructibles en altèrent sans cesse les rapports, alors l'on institue une magistrature particulière qui ne fait point Corps avec les autres, qui replace chaque terme dans son vrai rapport, et qui fait une liaison ou un moyen terme, soit entre le Prince et le peuple, soit entre le Prince et le Souverain, soit à la fois des deux côtés s'il est nécessaire.
@@ -1665,8 +1605,6 @@ Le meilleur moyen de prévenir les usurpations d'un si redoutable Corps, moyen d
 Ces intervalles qui ne doivent pas être assez grands pour laisser aux abus le temps de s'affermir, peuvent être fixés par la loi, de manière qu'il soit aisé de les abréger au besoin par des commissions extraordinaires.
 
 Ce moyen me paraît sans inconvénient, parce que, comme je l'ai dit, le Tribunat ne faisant point partie de la constitution peut être ôté sans qu'elle en souffre, et il me paraît efficace, parce qu'un magistrat nouvellement rétabli ne part point du pouvoir qu'avait son prédécesseur, mais de celui que la loi lui donne.
-
-**** *book_ *id_body-5-6
 
 Chapitre VI. De la Dictature.
 
@@ -1710,8 +1648,6 @@ Au reste, de quelque manière que cette importante commission soit conférée, i
 Si le terme eût été plus long, peut-être eussent-ils été tentés de le prolonger encore, comme firent les Décemvirs celui d'une année.
 Le Dictateur n'avait que le temps de pourvoir au besoin qui l'avait fait élire, il n'avait pas celui de songer à d'autres projets.
 
-**** *book_ *id_body-5-7
-
 Chapitre VII. De la Censure.
 
 De même que la déclaration de la volonté générale se fait par la loi, la déclaration du jugement public se fait par la Censure ; l'opinion publique est l'espèce de loi dont le Censeur est le ministre, et qu'il ne fait qu'applique aux cas particuliers, à l'exemple du Prince.
@@ -1740,8 +1676,6 @@ Quel honneur pour l'un, quelle note pour l'autre, sans avoir donné ni louange n
 Certains ivrognes de Samos souillèrent le tribunal des Éphores : le lendemain par édit public il fut permis aux Samiens d'être des vilains.
 Un vrai châtiment eût été moins sévère qu'une pareille impunité.
 Quand Sparte a prononcé sur ce qui est ou n'est pas honnête, la Grèce n'appelle pas de ses jugements.
-
-**** *book_ *id_body-5-8
 
 Chapitre VIII. De la Religion civile.
 
@@ -1892,8 +1826,6 @@ Maintenant qu'il n'y a plus et qu'il ne peut plus y avoir de religion nationale 
 Mais quiconque ose dire, hors de l'église point de salut, doit être chassé de l'État ; à moins que l'État ne soit l'Église, et que le Prince ne soit le Pontife.
 Un tel dogme n'est bon que dans un Gouvernement théocratique, dans tout autre il est pernicieux.
 La raison sur laquelle l'on dit qu'Henri IV embrassa la religion Romaine, la devrait faire quitter à tout honnête homme, et surtout à tout Prince qui saurait raisonner.
-
-**** *book_ *id_body-5-9
 
 Chapitre IX. Conclusion.
 

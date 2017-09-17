@@ -2426,7 +2426,7 @@ Toutes les grandes hégémonies militaires, celle de l'Espagne au xvie siècle, 
 Que la Prusse y prenne garde, sa politique radicale peut l'engager dans une série de complications dont il ne lui soit plus loisible de se dégager ; un œil pénétrant verrait peut-être dès à présent le nœud déjà formé de la coalition future.
 Les sages amis de la Prusse lui disent tout bas, non comme menace, mais comme avertissement : Vœ victoribus !
 
-**** *book_ *id__LETTRE_ADRESSÉE
+**** *book_ *id_body-5
 
 Lettre adressée à M. Strauss
 
@@ -2600,7 +2600,7 @@ Pour avoir la conscience tranquille dans des temps comme les nôtres, il faut po
 
 Conservez-moi toujours votre amitié, et croyez à mes sentiments les plus élevés.
 
-**** *book_ *id__NOUVELLE_LETTRE_ADRESSÉE
+**** *book_ *id_body-6
 
 Nouvelle lettre adressée à M. Strauss
 

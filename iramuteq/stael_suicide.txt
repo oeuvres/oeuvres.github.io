@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1813
+**** *book_ *id_body-1 *date_1813 *creator_stael_holstein
 
 À Son Altesse Royale le Prince royal de Suède.
 
@@ -24,7 +24,7 @@ Les devoirs ne Vous semblent jamais des bornes mais des appuis, et c'est ainsi q
 
 Poursuivez, Monseigneur, la carrière dans laquelle un si bel avenir Vous est offert, et Vous montrerez au monde ce qu'il avait désappris, c'est que les véritables lumières enseignent la morale, et que les héros vraiment magnanimes, loin de mépriser l'espèce humaine, ne se croient supérieurs aux autres hommes, que par les sacrifices mêmes qu'ils leur font.
 
-**** *book_ *id_body-2 *date_1813
+**** *book_ *id_body-2 *date_1813 *creator_stael_holstein
 
 Réflexions sur le suicide.
 
@@ -502,7 +502,7 @@ Quelle patrie ne verrions-nous pas renaître si c'était la nation qui disposât
 
 L'imagination se représente cette belle France qui nous accueillerait sous son ciel d'azur, ces amis qui s'attendriraient en nous revoyant, ces souvenirs de l'enfance, ces traces de nos parents que nous retrouverions ; à chaque pas ; et ce retour nous apparaît comme une sorte de résurrection terrestre, comme une autre vie accordée dès ici-bas ; mais si la bonté céleste ne nous a pas réservé un tel bonheur, dans quelques lieux que nous soyons nous prierions pour ce pays qui sera si glorieux, si jamais il apprend à connaître la liberté, c'est-à-dire, la garantie politique de la justice
 
-**** *book_ *id_body-3 *date_1813
+**** *book_ *id_body-3 *date_1813 *creator_stael_holstein
 
 Notice sur Lady Jane Grey.
 

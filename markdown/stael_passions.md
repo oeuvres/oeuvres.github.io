@@ -1,8 +1,8 @@
 ---
 identifier: stael_passions  
-creator: Staël-Holstein, Germaine de (1766-1817)  
+creator: Staël-Holstein, Germaine de  
 date: 1796  
-title: title : De l’influence des passions sur le bonheur des individus et des nations  
+title: De l’influence des passions sur le bonheur des individus et des nations  
 ---
 
 

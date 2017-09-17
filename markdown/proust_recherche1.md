@@ -2,7 +2,7 @@
 identifier: proust_recherche1  
 creator: Proust, Marcel  
 date:   
-title: Du côté de chez Swann (À la recherche du temps perdu)  
+title: Du côté de chez Swann — À la recherche du temps perdu  
 ---
 
 

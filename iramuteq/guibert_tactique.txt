@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1
+**** *book_ *id_body-1 *date_1772
 
 À ma patrie
 
@@ -38,7 +38,7 @@ J'ai sa hardiesse, je n'aurai peut-être pas son succès.
 Mais si je m'égare, si j'embrasse quelquefois la chimère du mieux impossible, qu'on me plaigne, et qu'on me pardonne.
 Le délire d'un citoyen, qui rêve au bonheur de sa patrie, a quelque chose de respectable.
 
-**** *book_ *id_body-2
+**** *book_ *id_body-2 *date_1772
 
 Discours préliminaire
 
@@ -834,7 +834,7 @@ J'y encourage un de mes amis, qui le médite et le prépare depuis longtemps.
 Je dénonce ici son nom, son plan, ses talents.
 Je voudrais lui faire contracter vis-à-vis de ses citoyens, un engagement qu'il est en état de remplir, et dont l'exécution fera la gloire particulière, en même temps que l'instruction publique.
 
-**** *book_ *id_body-3
+**** *book_ *id_body-3 *date_1772
 
 Plan d'un ouvrage intitulé : « La France politique et militaire »
 
@@ -979,7 +979,7 @@ Enfin en donnant ce plan, j'imite ces élèves des arts.
 C'est une grande étude que je présente au concours et que je soumets à mes juges.
 Puisse-t-il s'élever un homme plus capable que moi, auquel ce plan en fasse concevoir un meilleur, ou dont l'exécution du mien tente le génie.
 
-**** *book_ *id_body-4
+**** *book_ *id_body-4 *date_1772
 
 Introduction à l'Essai Général de Tactique
 
@@ -1254,7 +1254,7 @@ Je donnerai une théorie pratique de tous les mouvements qu'elle peut exécuter 
 À la suite de cette théorie et afin que mon plan contienne tout ce qui appartient à la tactique, j'examinerai le rapport que la science des fortifications et la connaissance des terrains doivent avoir avec la tactique et particulièrement avec la guerre de campagne.
 Je parlerai de la manière dont nous faisons subsister nos armées et des changements avantageux qu'on pourrait faire à cet égard.
 
-**** *book_ *id_body-5
+**** *book_ *id_body-5 *date_1772
 
 Première partie. Tactique élémentaire
 
@@ -2766,7 +2766,7 @@ C'est dans d'excellents mémoires manuscrits, faits par des officiers de ce corp
 C'est en approfondissant avec ces officiers les principes de leur art.
 Partout mon but est le même et ce sont les lumières d'autrui, bien plus souvent que mes opinions, que je cherche à répandre ….
 
-**** *book_ *id_body-6
+**** *book_ *id_body-6 *date_1772
 
 Seconde partie. Grande tactique
 
@@ -3685,7 +3685,7 @@ Nous raisonnions ensuite sur ce que nous avions fait.
 Il aimait mes doutes et jusqu'à mes contrariétés.
 Souvent les nuits se passaient dans cette occupation, tant cette étude nous attachait, tant mon instituteur avait su lui prêter de charmes.
 
-**** *book_ *id_body-7
+**** *book_ *id_body-7 *date_1772
 
 Premier mémoire. Rapport de la science des fortifications avec la tactique et avec la guerre en général
 
@@ -3959,7 +3959,7 @@ Car les troupes étant une fois parvenues à ce point de perfection, avec de la 
 
 Ayant osé avancer mes opinions sur le véritable usage qu'on devrait faire des fortifications, je peux, bien à propos du corps qui les dirige, oser dire que dans cette révolution de système, il y aurait une autre constitution à lui donner, une constitution qui le rapprocherait davantage des troupes et de la connaissance de toutes les autres parties de la guerre : qui lui donnerait même sur l'art qu'il cultive, des écoles plus instructives et plus militaires ; qui enfin détruisant beaucoup de préjugés, suite de sa constitution actuelle et de la manière dont on le fait servir, le rendrait propre à plus et de plus grands objets ….
 
-**** *book_ *id_body-8
+**** *book_ *id_body-8 *date_1772
 
 Second mémoire. Rapport de la connaissance des terrains avec la tactique
 
@@ -4103,7 +4103,7 @@ Il craindra d'être séparé de ses établissements, dont il ne saura se passer,
 
 Enfin je dis qu'une armée, bien constituée et bien commandée, ne doit jamais trouver devant elle de position qui l'arrête ou qui la force d'y attaquer avec désavantage l'armée qui est y établie ; à moins que ce ne soit de ces positions rares qui, touchant à l'objet qu'elles veulent couvrir, ne laissent la ressource de manœuvrer, ni sur leur derrière, ni sur leur flanc ….
 
-**** *book_ *id_body-9
+**** *book_ *id_body-9 *date_1772
 
 Troisième mémoire. Rapport de la science des subsistances avec la guerre et particulièrement avec la guerre de campagne. Examen de la manière dont nous faisons subsister nos armées
 
@@ -4442,7 +4442,7 @@ Nous sommes des sybarites.
 Telle est cependant l'influence de l'exemple et de la mode sur notre nation, à la fois faible et forte, légère et capable de réfléchir, que, si le souverain voulait en changer les mœurs, lui donner l'esprit militaire, apprendre à commander ses armées, les commander, en bannir le luxe, être lui-même frugal et patient à souffrir, avant peu d'années les vertus guerrières y deviendraient communes et respectées, autant qu'elles le sont peu aujourd'hui.
 L'honneur si facile de régénérer la nation ne tentera-t-il donc jamais un de nos princes ?
 
-**** *book_ *id_body-10
+**** *book_ *id_body-10 *date_1772
 
 Conclusion
 
