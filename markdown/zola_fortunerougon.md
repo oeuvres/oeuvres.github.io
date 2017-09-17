@@ -1,5 +1,5 @@
 ---
-identifier: zola_fortune-rougon  
+identifier: zola_fortunerougon  
 creator: Zola, Émile  
 date: 1870  
 title: La fortune des Rougon  

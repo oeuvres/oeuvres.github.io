@@ -1,0 +1,329 @@
+
+
+**** *book_ *id__1759_pref *date_1759 *creator_diderot *date_1759 *subject_essai
+
+À mon ami M. Grimm
+
+Voici à peu près ce que vous m'avez demandé.
+Je souhaite que vous puissiez en tirer parti.
+
+Beaucoup de tableaux, mon ami, beaucoup de mauvais tableaux.
+J'aime à louer.
+Je suis heureux quand j'admire.
+Je ne demandais pas mieux que d'être heureux et d'admirer…
+
+**** *book_ *id_vanloo-lm_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_van_loo,_louis_michel
+
+Michel Van Loo
+
+C'est un portrait du maréchal d'Etrées qui a l'air d'un petit fou ou d'un spadassin déguisé.
+
+C'en est un autre de Madame de Pompadour plus droit et plus froid ; un visage précieux ; une bouche pincée ; de petites mains d'un enfant de treize ans ; un grand panier en éventail ; une robe de satin à fleurs bien imité, mais d'un mauvais choix.
+
+Je n'aime point en peinture les étoffes à fleurs.
+Elles n'ont ni simplicité ni noblesse.
+Il faut que les fleurs papillotent avec le fond qui, s'il est blanc surtout, forme comme une multitude de petites lumières éparses.
+Quelque habile que fût un artiste, il ne ferait jamais un beau tableau d'un parterre, ni un beau vêtement d'une robe à fleurs.
+
+Ce portrait a sept pieds et demi de hauteur, sur cinq pieds et demi de large ; imaginez l'espace que ce panier à guirlandes doit occuper.
+
+Ce portrait et quelques autres qui n'intéressent pas davantage sont de Vanloo.
+
+**** *book_ *id_restout_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_restout
+
+Restout
+
+Il y a une Annonciation de Restout.
+Je ne sais ce que c'est.
+Un Aman sortant du palais d'Assuerus, irrité de ce que Mardochée ne l'adore pas.
+Je me rappelle que l'Annonciation est traitée d'une manière sèche, roide et froide ; qu'elle est sans effet ; et qu'on dirait un morceau détaché d'une vieille coupole, qui a souffert et qui n'était pas d'un trop habile homme.
+Pour le tableau d'Amman, on lit ce que c'est sur le livre, mais on n'en devine rien sur la toile.
+Si la foule qui s'ouvre devant l'homme fier qui passe, s'inclinait ou se prosternait et qu'on remarquât un seul homme debout, on dirait, voilà Mardochée.
+Mais le peintre a fait le contraire.
+Un seul fléchit le genou ; le reste est debout, et l'on cherche en vain le personnage intéressant.
+Du reste nulle expression ; point de distance entre les plans ; une couleur sombre ; des lumières de nuit.
+Cet artiste use plus d'huile à sa lampe que sur sa palette.
+
+Une Purification de la Vierge du même.
+Je ne me la remets pas ; c'est peut-être vous en dire du mal.
+
+**** *book_ *id_vanloo-carle_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_van_loo,_carle
+
+Carle Van Loo
+
+Enfin nous l'avons vu, ce tableau fameux de Jason et Medée.
+O mon ami, la mauvaise chose !
+C'est une décoration théâtrale avec toute sa fausseté ; un faste de couleur qu'on ne peut supporter ; un Jason d'une bêtise inconcevable.
+L'imbécile tire son épée contre une magicienne qui s'envole dans les airs, qui est hors de sa portée et qui laisse à ses pieds ses enfants égorgés.
+C'est bien cela ?
+Il fallait lever au ciel des bras désespérés, avoir la tête renversée en arrière ; les cheveux hérissés ; une bouche ouverte qui poussât de longs cris ; des yeux égarés ; et puis une petite Medée, courte, roide, engoncée, surchargée d'étoffes ; une Medée de coulisse ; pas une goutte de sang qui tombe de la pointe de son poignard ou qui coule sur ses bras ; point de désordre ; point de terreur.
+On regarde, on est ébloui, et l'on reste froid.
+La draperie qui touche au corps a le mat et les reflets d'une cuirasse ; on dirait d'une plaque de cuivre jaune.
+Il y a sur le devant un très bel enfant renversé sur les degrés arrosés de son sang ; mais il est sans effet.
+Ce peintre ne pense ni ne sent.
+Un char d'une pesanteur énorme.
+Si c'était un morceau de tapisserie que ce tableau, il faudrait accorder une pension au teinturier.
+J'aime mieux ses Baigneuses.
+
+C'est un autre tableau oit l'on voit deux femmes nues, au sortir du bain.
+L'une par devant, à qui l'on présente une chemise, et l'autre par derrière.
+Celle-ci n'a pas le visage agréable ; je lui trouve le bas des reins plat ; elle est noire ; ses chairs sont molles ; la main droite de l'autre m'a paru sinon estropiée et trop petite, du moins désagréable ; elle a les doigts recourbés.
+Pourquoi ne les avoir pas étendus ?
+La figure serait mieux appuyée sur le plat de la main, et cette main aurait été d'un meilleur choix.
+Il y a de la volupté dans ce tableau, des pieds nus, des cuisses, des tétons, des fesses ; et c'est moins peut-être le talent de l'artiste qui nous arrête que notre vice.
+La couleur a bien de l'éclat.
+Les femmes occupées à servir les figures principales- sont éteintes avec jugement ; vraies, naturelles et belles, sans causer de distraction.
+
+**** *book_ *id_jeaurat_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_collin_de_vermon *person_jeaurat
+
+Collin de Vermont et Jeaurat
+
+Il y a de Colin de Vermont une mauvaise Adoration des rois.
+
+De Jeaurat, des Chartreux en méditation ; c'est pis encore.
+Point de silence ; rien de sauvage ; rien qui rappelle la justice divine ; nulle idée ; nulle adoration profonde ; nul recueillement intérieur ; point d'extase ; point de terreur.
+Cet homme ne s'est pas douté de cela.
+Si son génie ne lui disait rien que n'allait-il aux Chartreux.
+Il aurait vu là ce qu'il n'imaginait pas.
+Mais croyez-vous qu'il eût vu ?
+S'il y a peu de gens qui sachent regarder un tableau, y a-t-il bien des peintres qui sachent regarder la nature ?
+
+Je ne vous dirai rien de quatre petits tableaux du même.
+Ce sont des Musulmans qui conversent ; des Femmes du sérail qui travaillent, une Pastorale, un Jardinier avec sa Jardinière.
+C'est le coloris de Boucher, sans ses grâces, sans son feu, sans sa finesse.
+Que le costume y soit bien observé, j'y consens ; mais c'est de toutes les parties de la peinture, celle dont je fais le moins de cas.
+
+**** *book_ *id_nattier_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_nattier
+
+Nattier
+
+Voici une Vestale de Natier ; et vous allez imaginer de la jeunesse, de l'innocence, de la candeur, des cheveux épars, une draperie à grands plis, ramenée sur la tête et dérobant une partie du front ; un peu de pâleur ; car la pâleur sied bien à la piété (et à la tendresse).
+Rien de cela, mais à la place, une coiffure de tête élégante, un ajustement recherché, toute l'afféterie d'une femme du monde à sa toilette, et des yeux pleins de volupté, pour ne rien dire de plus.
+
+**** *book_ *id_halle_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_halle
+
+Hallé
+
+Hallé a fait deux pendants des Dangers de l'amour et du vin.
+Ici des nymphes enivrent un satyre d'une belle brique, bien dure, bien jaunâtre et bien cuite ; et puis à côté de cette figure qui sort du four d'un potier, nul esprit, nulle finesse, point de mouvement, point d'idée ; mais le coloris de Boucher.
+Cet homme qu'on a très bien nommé le Fontenelle de la peinture, finira par les gâter tous.
+
+Je vois encore sur le livret une Fuite de la Vierge en Égypte ; personne ne saurait sans cela qu'elle est au Salon.
+Je renvoie ses deux petits pendants au pont Notre Dame.
+
+**** *book_ *id_vien_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_vien
+
+Vien
+
+La Piscine miraculeuse de Vien est une grande composition qui n'est pas sans mérite.
+Le Christ y a l'air benêt comme de coutume ; tout le côté droit est brouillé d'un tas de figures jetées pêle-mêle, sans effet et sans goût.
+Mais la couleur m'a paru vraie.
+Au-dessus des malades, il y a un ange qui est très bien en l'air ; derrière le Christ un apôtre en gris de lin que Le Sueur ne dédaignerait pas, mais qu'il revendiquerait peut-être ; et sur le milieu, un malade assis par terre qui fait de l'effet.
+II est vrai qu'il est vigoureux et gras.
+Et que ma Sophie a raison quand elle dit que s'il est malade, il faut que ce soit d'un cor au pied.
+
+Jesus Christ rompant le pain à ses disciples ; St Pierre, à qui Jesus demande, après la pêche, s'il l'aime ; La Musique ; une Résurrection du Lazare sont quatre tableaux du même, dont je ne sens pas le mérite.
+
+Vous rappelez-vous, mon ami, la Résurrection du Rembrant ; ces disciples écartés ; ce Christ en prière ; cette tête enveloppée du linceul, dont on ne voit que le sommet, et ces deux bras effrayants qui sortent du tombeau.
+Ces gens-ci croient qu'il n'y a qu'à arranger des figures.
+Ils ne savent pas que le premier point, le point important, c'est de trouver une grande idée.
+Qu'il faut se promener, méditer, laisser là les pinceaux et demeurer en repos jusqu'à ce que la grande idée soit trouvées.
+
+**** *book_ *id_lagrenee_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_lagrenee
+
+La Grenée
+
+Il y a d'un La Grenée une Assomption ; Venus aux forges de Lemnos demandant à Vulcain des armes pour son fils ; un Enlèvement de Cephale par l'Aurore, un Jugement de Paris, un Satyre qui s'amuse du sifflet de Pan et quelques petits tableaux, car les précédents sont grands.
+
+Si j'avais eu à peindre la descente de Venus dans les forges de Lemnos, on aurait vu les forges en feu sous des masses de roches ; Vulcain debout, devant son enclume, les mains appuyées sur son marteau ; la déesse toute nue lui passant la main sous le menton ; ici le travail des Ciclopes suspendu ; quelques-uns regardant leur maître que sa femme séduit, et souriant ironiquement ; d'autres cependant auraient fait étinceler le fer embrasé.
+Les étincelles dispersées sous les coups auraient écarté les Amours ; dans un coin ces enfants turbulents auraient mis en désordre l'atelier du forgeron ; et qui aurait empêché qu'un des Ciclopes n'en eût saisi un par les ailes pour le baiser ?
+Le sujet était de poésie et d'imagination, et j'aurais tâché d'en montrer.
+Au lieu de cela, c'est une grande toile nue, où quelques figures oisives et muettes se perdent.
+On ne regarde ni Vulcain, ni la déesse.
+Je ne sais s'il y a des Ciclopes.
+La seule figure qu'on remarque, c'est un homme placé sur le devant qui soulève une poutre ferrée par le bout.
+
+Et ce Jugement de Paris ?
+Que vous en dirai-je?
+Il semble que le lieu de la scène devait être un paysage écarté, silencieux, désert, mais riche ; que la beauté des déesses devait tenir le spectateur et le juge incertains ; qu'on ne pouvait rencontrer le vrai caractère de Paris que par un coup de génie.
+M. de La Grenée n'y a pas vu tant de difficulté.
+Il était bien loin de soupçonner l'effet sublime du lieu de la scène.
+Son Jeune Satyre qui s'amuse du sifflet de Pan a plus de gorge qu'une jeune fille.
+Le reste, c'est de la couleur, de la toile et du temps perdus.
+
+**** *book_ *id_challe_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_challe
+
+Challe
+
+Je n'ai pas mémoire d'avoir vu ni un Saint Hippolite dans la prison, ni un Domine non sum dignus, ni une Lucrece présentant le poignard à Brutus, ni les autres tableaux de Challe.
+Vous savez avec quelle dédaigneuse inadvertance on passe sur les compositions médiocres.
+
+**** *book_ *id_chardin_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_chardin
+
+Chardin
+
+Il y a de Chardin un Retour de chasse ; des Pièces de gibier ; un Jeune élève qui dessine vu par le dos ; une Fille qui fait de la tapisserie ; deux petits tableaux de Fruits.
+C'est toujours la nature et la vérité ; vous prendriez les bouteilles par le goulot, si vous aviez soif ; les pêches et les raisins éveillent l'appétit et appellent la main.
+J'aimerais bien mieux que ces derniers fussent dans votre cabinet que chez ce vilain Trublet à qui ils appartiennent.
+Ce Chardin est homme d'esprit ; il entend la théorie de son art ; il peint d'une manière qui lui est propre, et ses tableaux seront un jour recherchés.
+Il a le faire aussi large dans ses petites figures, que si elles avaient des coudées.
+La largeur du faire est indépendante de l'étendue de la toile et de la grandeur des objets ; réduisez tant qu'il vous plaira une Sainte Famille de Raphael, et vous n'en détruirez point la largeur du faire.
+
+**** *book_ *id_aved_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_aved
+
+Aved
+
+Une belle chose, c'est le Portrait du maréchal de Clermont Tonnerre peint par Aved.
+Il est debout à côté de sa tente ; en bottines ; avec la veste de buffle à petits parements retroussés, et le ceinturon de cuir.
+Je voudrais que vous vissiez avec quelle vérité de couleur et quelle simplicité cela est fait.
+On s'y tromperait.
+De près la figure paraît un peu longue ; mais c'est un portrait.
+Si l'homme est ainsi ?
+D'ailleurs éloignez-vous encore de quelques pas et ce défaut, si c'en est un, n'y sera plus.
+Il me fâche seulement qu'on soit si bien peigné dans un camp.
+Il y a là une perruque que Vandick aurait, je crois, un peu ébouriffée.
+Mais je suis trop difficile.
+
+**** *book_ *id_quentin-de-la-tour_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_quentin_de_la_tour
+
+Latour
+
+Latour avait peint plusieurs pastels qui sont restés chez lui ; parce qu'on lui refusait les places qu'il demandait.
+
+**** *book_ *id_bachelier_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_bachelier
+
+Bachelier
+
+Bachelier a fait une grande et mauvaise Résurrection, à la manière de peindre du comte de Caylus.
+Mr Bachelier, mon ami, croyez-moi, revenez à vos tulipes.
+Il n'y a ni couleur ni composition, ni expression, ni dessin dans votre tableau.
+Ce Christ est tout disloqué.
+C'est un patient dont les membres ont été mal reboutés ; de la manière dont vous avez ouvert ce tombeau, c'est vraiment un miracle qu'il en soit sorti ; et si on le faisait parler d'après son geste, il dirait au spectateur ; Adieu, Messieurs, je suis votre serviteur ; il ne fait pas bon parmi vous, et je m'en vais.
+Tous ces chercheurs de méthodes nouvelles n'ont point de génie.
+
+**** *book_ *id_vernet_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_vernet
+
+Vernet
+
+Nous avons eu une foule de Marines de Vernet ; les unes locales, les autres idéales ; et dans toutes, c'est la même imagination, le même feu, la même sagesse, le même coloris, les mêmes détails, la même variété.
+Il faut que cet homme travaille avec une facilité incroyable.
+Vous connaissez son mérite.
+Il est tout entier dans quatorze ou quinze tableaux.
+Les mers se soulèvent ou se tranquillisent toujours à son gré.
+Le ciel s'obscurcit l'éclair s'allume ; le tonnerre gronde, la tempête s'élève, les vaisseaux s'embrasent, on entend le bruit des flots, les cris de ceux qui périssent, on voit, on voit tout ce qu'il lui plaît.
+
+**** *book_ *id_vien-mme_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_vien,_madame
+
+Mme Vien
+
+Les morceaux d'histoire naturelle de Mad Vien ont le mérite qu'il y faut désirer, la patience et l'exactitude.
+Un portefeuille de sa façon instruirait autant qu'un cabinet, plairait davantage, et ne durerait pas moins.
+
+**** *book_ *id_drouais_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_drouais
+
+Drouais
+
+Si vous êtes curieux de visages de plâtre, vous verrez à votre retour les tableaux de Drouais.
+Mais à quoi tient cette fausseté ?
+Cela n'est pas dans la nature.
+Ces gens voient donc d'une façon et font d'une autre.
+
+**** *book_ *id_deshays_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_deshays
+
+Deshays
+
+On loue un Martyre de St André de Deshays.
+Je n'en saurais que dire, il est placé trop haut pour mes yeux.
+
+Quant à son Hector exposé sur les rives du Scamandre, il est vilain, dégoûtant et hideux.
+C'est un malfaiteur ignoble qu'on a décroché du gibet.
+
+Il y a du même une Marche de voyageurs dans les montagnes.
+Je n'ose juger des figures, mais je crois le paysage beau.
+Il m'a rappelé plusieurs fois.
+Les arbres, les roches, les eaux font un bel effet.
+Il y a de la poésie dans la composition, et de la force dans la couleur.
+Quand on compare ce morceau avec les autres du même, on dirait qu'il n'est pas de lui.
+O la belle solitude  !
+Je l'imagine avec plaisir.
+Le baron dit que c'est une imitation.
+Je le croirais bien.
+
+**** *book_ *id_parrocel_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_parrocel
+
+Parrocel
+
+Agar chassée par Abraham, errante dans le désert, manquant d'eau et de pain et s'éloignant de son fils qui expire.
+Quel sujet !
+La misère, le désespoir, la mort.
+De par Apollon dieu de la peinture, nous condamnons le Sr Parrocel auteur de cette maussade composition, à lécher sa toile, jusqu'à ce qu'il n'y reste rien, et lui défendons de choisir à l'avenir des sujets qui demandent du génie.
+
+**** *book_ *id_greuze_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_greuze
+
+Greuze
+
+Les Greuze ne sont pas merveilleux cette année.
+Le faire en est roide, et la couleur fade et blanchâtre.
+J'en étais tenté autrefois.
+Je ne m'en soucie plus.
+
+**** *book_ *id_doyen_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_doyen
+
+Doyen
+
+La Mort de Virginie par Doyen est une composition immense où il y a de très belles choses.
+Le défaut c'est que les figures principales sont petites, et les accessoires grandes.
+Virginie est manquée ; ce n'est ni Appius ni Claudius ni le père ni la fille qui attachent ; mais des gens du peuple, des soldats et d'autres personnages qui sont aussi du plus beau choix ; et des draperies d'un moelleux, d'une richesse et d'un ton de couleur surprenant.
+Il y a de lui d'autres morceaux qui sont fort inférieurs à celui-ci.
+
+Sa Fête au dieu des jardins est coloriée vigoureusement ; mais elle dégoûte ; de grosses femmes endormies et enivrées ; des culs monstrueux ; des masses de chair mal arrangées.
+Cependant de la chaleur, de la poésie et de l'enthousiasme.
+Cet homme deviendra un grand artiste ou rien.
+Il faut attendre.
+Les amateurs disent que sa vanité le perdra ; c'est-à-dire qu'il sent leur médiocrité et qu'il méprise leurs conseils.
+Vous n'en prendrez pas vous, plus mauvaise opinion.
+
+**** *book_ *id_boucher_1759 *date_1759 *creator_diderot *date_1759 *subject_peinture *person_boucher
+
+Boucher
+
+Avant que de passer à la sculpture ; il ne faut pas que j'oublie une petite Nativité de Boucher.
+J'avoue que le coloris en est faux ; qu'elle a trop d'éclat ; que l'enfant est de couleur de rose ; qu'il n'y a rien de si ridicule qu'un lit galant en baldaquin dans un sujet pareil ; mais la Vierge est si belle, si amoureuse et si touchante ; il est impossible d'imaginer rien de plus fin, ni de plus espiègle que ce petit saint Jean couché sur le dos, qui tient un épi.
+Il me prend toujours envie d'imaginer une flèche à la place de cet épi ; et puis des têtes d'anges plus animées, plus gaies, plus vivantes ; le nouveau-né le plus joli.
+Je ne serais pas fâché d'avoir ce tableau.
+Toutes les fois que vous viendriez chez moi, vous en diriez du mal, mais vous le regarderiez.
+
+**** *book_ *id_sculpteurs_1759 *date_1759 *creator_diderot *date_1759 *subject_sculpture *person_vassier *person_pajou *person_mignot
+
+Sculpture, Vassié, Pajou, Mignot
+
+Je n'ai vu parmi un grand nombre de morceaux de sculpture qu'une Nymphe de grandeur naturelle ; un Buste de Le Moine par un de ses élèves, et le Buste d'une prêtresse de Diane, à ce que je crois.
+
+La Nymphe ne me paraît pas inférieure à la Dormeuse qui rassemblait tout le monde autour d'elle, au dernier Salon.
+Elle est couchée nonchalamment ; elle tient une coquille d'une main ; elle est accoudée sur son autre bras.
+La tête a de la jeunesse, des grâces, de la vérité, de la noblesse.
+Il y a partout une grande mollesse de chair ; et par-ci par-là des vérités de détail qui font croire que cet artiste ne s'épargne pas y les modèles.
+Mais comment fait-il pour en trouver de beaux.
+
+Oh, le beau buste que celui de Le Moine, mon ami, le beau buste !
+Il vit, il pense, il regarde, il voit, il entend, il va parler.
+Je suis tenté d'aller chez vous et de jeter par les fenêtres ce bloc de terre mort qui y est.
+
+C'est encore une belle chose que ce buste de Diane.
+On croirait que c'est un morceau réchappé des ruines d'Athenes ou de Rome.
+Quel visage !
+Comme cela est coiffé !
+Comme cette draperie de tête est jetée !
+Et ces cheveux, et cette plante qui court autour.
+Que les Anciens sont étonnants !
+
+Nous avons beaucoup d'artistes ; peu de bons ; pas un excellent ; ils choisissent de beaux sujets ; mais la force leur manque ; ils n'ont ni esprit, ni élévation, ni chaleur, ni imagination.
+Presque tous pèchent par le coloris.
+Beaucoup de dessin, point d'idée.
+Tâchez de réchauffer cela et me tenez quitte.
+
+
+
+Je me suis trompé ; mettez à la place de l'Annonciation de Restout, l'Assomption de La Grenée.
+N'oubliez pas cette note ; et gardez-vous bien de mettre mon nom à ce papier.
+Orphée ne fut pas plus mal entre les mains des Bacchantes, que je le serais entre les mains de nos peintres.
