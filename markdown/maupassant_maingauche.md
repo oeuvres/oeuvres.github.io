@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_maingauche  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1889  
 title: La main gauche  
 ---

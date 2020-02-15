@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1-1 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MÉDITATION
 ... Ce monde où les meilleures choses
@@ -26,12 +26,11 @@ Comme l'ombre d'un songe au bout de peu d'instants
 Ce qui charme s'en va, ce qui fait peine reste :
 La rose vit une heure et le cyprès cent ans.
 
-**** *book_ *id_body-1-2 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MOYEN AGE
 
-Y ot un grant et vieil chastex A messire Yvain qui fut tex ; Ot tours, donjons, machecoulis, Fossés d'iave nette remplis, Murs de fine pierre de taille, Couverts d'engins por la bataille.
-Ancien fabliau.
+Y ot un grant et vieil chastex A messire Yvain qui fut tex ; Ot tours, donjons, machecoulis, Fossés d'iave nette remplis, Murs de fine pierre de taille, Couverts d'engins por la bataille. Ancien fabliau.
 
 Quand je vais poursuivant mes courses poétiques,
 Je m'arrête surtout aux vieux châteaux gothiques ;
@@ -56,13 +55,11 @@ Où, recueilli dans moi, je m'égare, rêvant,
 Paré de souvenirs d'amour et de féerie,
 Le brillant moyen âge et la chevalerie.
 
-**** *book_ *id_body-1-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉLÉGIE I
 
-Dame, d'amer déesse Pour votre grace avoir, Vous offre ma jeunesse.
-Mes biens et mon avoir.
-A. Chartier.
+Dame, d'amer déesse Pour votre grace avoir, Vous offre ma jeunesse. Mes biens et mon avoir. A. Chartier.
 
 Nuit et jour, malgré moi, lorsque je suis loin d'elle,
 A ma pensée ardente un souvenir fidèle
@@ -87,12 +84,11 @@ Dont les regards furtifs vous poursuivent toujours ;
 A la taille élancée, à la gorge divine,
 Que sous les plis du lin la volupté devine.
 
-**** *book_ *id_body-1-4 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PAYSAGE
 
-..... omnia plenis Rura natant fossis.
-P. Virgilius Maro.
+..... omnia plenis Rura natant fossis. P. Virgilius Maro.
 
 Pas une feuille qui bouge,
 Pas un seul oiseau chantant,
@@ -114,15 +110,13 @@ Dans le flanc des coteaux bleus,
 Et comme un ruban s'allonge
 En minces plis onduleux.
 
-**** *book_ *id_body-1-5 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA JEUNE FILLE
 
-La vierge est un ange d'amour.
-A. Guiraud.
+La vierge est un ange d'amour. A. Guiraud.
 
-Dieu l'a faite une heureuse et belle créature.
-Inédit, M⁎⁎⁎⁎⁎.
+Dieu l'a faite une heureuse et belle créature. Inédit, M⁎⁎⁎⁎⁎.
 
 Brune à la taille svelte, aux grands yeux noirs, brillants,
 A la lèvre rieuse, aux gestes sémillants ;
@@ -149,15 +143,13 @@ La jeune fille ! — elle est un souvenir des cieux,
 Au tissu de la vie une fleur d'or brodée,
 Un rayon de soleil qui sourit dans l'ondée !
 
-**** *book_ *id_body-1-6 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE MARAIS A MON AMI ARMAND E⁎⁎⁎
 
-Ainsi près d'un marais on contemple voler Mille oiseaux peinturés.
-Amadis Jamyn.
+Ainsi près d'un marais on contemple voler Mille oiseaux peinturés. Amadis Jamyn.
 
-En chasse, et chasse heureuse.
-Alfred de Musset.
+En chasse, et chasse heureuse. Alfred de Musset.
 
 C'est un marais dont l'eau dormante
 Croupit, couverte d'une mante
@@ -215,12 +207,11 @@ Et tu reviendras de bonne heure,
 Avant le soir, en ta demeure,
 La joie au cœur, l'orgueil au front.
 
-**** *book_ *id_body-1-7 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET I
 
-Aux seuls ressouvenirs Nos rapides pensers volent dans les étoiles.
-Théophile.
+Aux seuls ressouvenirs Nos rapides pensers volent dans les étoiles. Théophile.
 
 Aux vitraux diaprés des sombres basiliques,
 Les flammes du couchant s'éteignent tour à tour ;
@@ -240,12 +231,11 @@ Et le poëte, assis près des flots, sur la grève,
 Écoute ces accents fugitifs comme un rêve,
 Lève les yeux au ciel, et triste se souvient.
 
-**** *book_ *id_body-1-8 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SERMENT
 
-L'on ne seust en nule terre Nul plus bel cors de fame querre.
-Roman de la Rose.
+L'on ne seust en nule terre Nul plus bel cors de fame querre. Roman de la Rose.
 
 Par tes yeux si beaux sous les voiles
 De leurs franges de longs cils noirs,
@@ -272,13 +262,11 @@ Par l'aube de tes dix-sept ans,
 Je t'aimerai, ma jeune folle,
 Un peu plus que toujours, — longtemps !
 
-**** *book_ *id_body-1-9 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES SOUHAITS
 
-...
-Quelque bonne fée Urgèl Promettant palais et trésors Au filleul mis sous sa tutelle, Pour te promener t'aurait-elle Ravi sur son nuage d'or.
-Joseph Delorme.
+... Quelque bonne fée Urgèl Promettant palais et trésors Au filleul mis sous sa tutelle, Pour te promener t'aurait-elle Ravi sur son nuage d'or. Joseph Delorme.
 
 Si quelque jeune fée à l'aile de saphir,
     Sous une sombre et fraîche arcade,
@@ -340,12 +328,11 @@ Mais surtout je voudrais un cœur fait pour le mien,
 Qui le sentît, l'aimât, et qui le comprît bien,
 Un cœur naïf de jeune fille !
 
-**** *book_ *id_body-1-10 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE LUXEMBOURG
 
-Enfant, dans les ébats de l'enfance joueuse.
-J. Delorme.
+Enfant, dans les ébats de l'enfance joueuse. J. Delorme.
 
 Au Luxembourg souvent lorsque dans les allées
 Gazouillaient des moineaux les joyeuses volées,
@@ -364,15 +351,13 @@ Et, trompant les regards de sa mère inquiète,
 Au risque de brunir un teint frais et vermeil,
 Livrer sa joue en fleur aux baisers du soleil !
 
-**** *book_ *id_body-1-11 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE SENTIER
 
-En une sente me vins rendre Longue et estroite, où l'herbe tendre Croissait très-drue.
-Le livre des quatre Dames.
+En une sente me vins rendre Longue et estroite, où l'herbe tendre Croissait très-drue. Le livre des quatre Dames.
 
-Un petit sentier vert, je le pris...
-Alfred de Musset.
+Un petit sentier vert, je le pris... Alfred de Musset.
 
 Il est un sentier creux dans la vallée étroite,
 Qui ne sait trop s'il marche à gauche ou bien à droite.
@@ -399,15 +384,13 @@ Où l'amour s'embellit des charmes du mystère,
 Sous les grands châtaigniers aux bercements plaintifs,
 Sans les tromper jamais conduit mes pas furtifs.
 
-**** *book_ *id_body-1-12 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CAUCHEMAR
 
-Bizoy quen ne consquaff a maru garu ne marnaff.
-Ancien proverbe breton.
+Bizoy quen ne consquaff a maru garu ne marnaff. Ancien proverbe breton.
 
-Jamais je ne dors que je ne meure de mort amère.
-Les goules de l'abyme Attendant leur victime, Ont faim : Leur ongle ardent s'allonge, Leur dent en espoir ronge Ton sein.
+Jamais je ne dors que je ne meure de mort amère. Les goules de l'abyme Attendant leur victime, Ont faim : Leur ongle ardent s'allonge, Leur dent en espoir ronge Ton sein.
 
 Avec ses nerfs rompus, une main écorchée
 Qui marche sans le corps dont elle est arrachée,
@@ -452,16 +435,13 @@ De broyer sous mes dents sa chair, et de saisir,
 Avec quelque lambeau de sa peau bleue et verte,
 Son cœur demi pourri dans sa poitrine ouverte.
 
-**** *book_ *id_body-1-13 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA DEMOISELLE A MON AMI ALPHONSE B⁎⁎⁎
 
-..... insectes agiles Cuirassés d'or.
-Am.
-Tastu.
+..... insectes agiles Cuirassés d'or. Am. Tastu.
 
-Là de bleuâtres demoiselles Fêtant du nénuphar les hôtes bienheureux Éventails animés, se balancent sur eux Avec leurs frémissantes ailes.
-Saintine.
+Là de bleuâtres demoiselles Fêtant du nénuphar les hôtes bienheureux Éventails animés, se balancent sur eux Avec leurs frémissantes ailes. Saintine.
 
 Sur la bruyère arrosée
 De rosée ;
@@ -556,12 +536,11 @@ Demoiselle en liberté ?
 
 1830.
 
-**** *book_ *id_body-1-14 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES DEUX AGES
 
-La petite fille est devenue jeune fille.
-Victor Hugo.
+La petite fille est devenue jeune fille. Victor Hugo.
 
 Ce n'était, l'an passé, qu'une enfant blanche et blonde
 Dont l'œil bleu, transparent et calme comme l'onde
@@ -590,12 +569,11 @@ La même ; mais l'œil bleu, jadis pur comme l'onde
 Du lac qui réfléchit le ciel riant d'été,
 N'exprime plus bonheur et naïve gaîté.
 
-**** *book_ *id_body-1-15 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 FAR NIENTE
 
-Quant à son temps bien le sut disposer : Deux parts en fit dont il souloit passer L'une à dormir et l'autre à ne rien faire.
-Jean de la Fontaine.
+Quant à son temps bien le sut disposer : Deux parts en fit dont il souloit passer L'une à dormir et l'autre à ne rien faire. Jean de la Fontaine.
 
 Quand je n'ai rien à faire, et qu'à peine un nuage
 Dans les champs bleus du ciel, flocon de laine, nage,
@@ -620,12 +598,11 @@ Au murmure de l'eau qu'un caillou fait gémir,
 Ou j'écoute chanter près de moi la fauvette,
 Et là-haut dans l'azur gazouiller l'alouette.
 
-**** *book_ *id_body-1-16 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 STANCES
 
-La jeune fille rieuse.
-Victor Hugo.
+La jeune fille rieuse. Victor Hugo.
 
 Vous ne connaissez pas les molles rêveries
 Où l'âme se complaît et s'arrête longtemps,
@@ -667,14 +644,13 @@ Dont le cours lentement par les prés se déroule,
 Votre existence pure et limpide s'écoule,
 Heureuse d'un bonheur calme et silencieux.
 
-**** *book_ *id_body-1-17 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PROMENADE NOCTURNE
 
 Allons, la belle nuit d'été, Alfred de Musset.
 
-C'était par un beau soir, par un des soirs que rêve Au murmure lointain d'un invisible accord Le poète qui veille ou l'amante qui dort.
-Victor Pavie.
+C'était par un beau soir, par un des soirs que rêve Au murmure lointain d'un invisible accord Le poète qui veille ou l'amante qui dort. Victor Pavie.
 
 La rosée arrondie en perles
 Scintille aux pointes du gazon,
@@ -706,15 +682,13 @@ Où brillent ses moites réseaux,
 En babillant l'eau qui chemine
 Conte à l'oreille des roseaux.
 
-**** *book_ *id_body-1-18 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET II
 
-Amour tant vous hai servit Senz pecas et senz failhimen, Et vous sabez quant petit Hai avut de jauzimen.
-Peyrols.
+Amour tant vous hai servit Senz pecas et senz failhimen, Et vous sabez quant petit Hai avut de jauzimen. Peyrols.
 
-Ne sais tu pas que je n'eus onc D'elle plaisir ny un seul bien.
-Marot.
+Ne sais tu pas que je n'eus onc D'elle plaisir ny un seul bien. Marot.
 
 Ne vous détournez pas, car ce n'est point d'amour
 Que je veux vous parler ; que le passé, madame,
@@ -734,15 +708,13 @@ Et mon front avant l'âge a perdu cette fleur
 Qui s'entr'ouvre vermeille au printemps de la vie,
 Et qui ne revient plus alors qu'elle est ravie.
 
-**** *book_ *id_body-1-19 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA BASILIQUE
 
-The pillared arches were over their head And beneath their feet were the bones of the dead.
-The lay of last minstrel.
+The pillared arches were over their head And beneath their feet were the bones of the dead. The lay of last minstrel.
 
-On voit des figures de chevaliers à genoux sur un tombeau, les mains jointes... les arcades obscures de l'église couvrent de leurs ombres ceux qui reposent.
-Göerres.
+On voit des figures de chevaliers à genoux sur un tombeau, les mains jointes... les arcades obscures de l'église couvrent de leurs ombres ceux qui reposent. Göerres.
 
 Il est une basilique
 Aux murs moussus et noircis,
@@ -816,15 +788,13 @@ Du vieux temps noble relique,
 Où l'âme mélancolique
 Flotte en pensers indécis.
 
-**** *book_ *id_body-1-20 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'OISEAU CAPTIF
 
-Car quand il pleut et le soleil des cieux Ne reluit point, tout homme est soucieux.
-Clément Marot.
+Car quand il pleut et le soleil des cieux Ne reluit point, tout homme est soucieux. Clément Marot.
 
-...... yet shall reascend Self raised, and repossess its native seat.
-Lord Byron.
+...... yet shall reascend Self raised, and repossess its native seat. Lord Byron.
 
 Depuis de si longs jours prisonnier, tu t'ennuies,
 Pauvre oiseau, de ne voir qu'intarissables pluies,
@@ -855,15 +825,13 @@ Et remonter enfin à la cause première ;
 Mais, grand Dieu ! quelle main ouvrira sa prison,
 Quelle main à son vol livrera l'horizon ?
 
-**** *book_ *id_body-1-21 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 RÊVE
 
-Et nous voulons mourir quand le rêve finit.
-A. Guiraud.
+Et nous voulons mourir quand le rêve finit. A. Guiraud.
 
-Tout la nuict je ne pense qu'en celle Qui ha le cors plus gent qu'une pucelle De quatorze ans.
-Maître Clément Marot.
+Tout la nuict je ne pense qu'en celle Qui ha le cors plus gent qu'une pucelle De quatorze ans. Maître Clément Marot.
 
 Voici ce que j'ai vu naguère en mon sommeil :
 Le couchant enflammait à l'horizon vermeil
@@ -882,15 +850,13 @@ Me dit, le front brûlant et rouge d'embarras,
 Ce mot mystérieux qui jamais ne s'achève : —
 O nuit trompeuse ! — Hélas ! pourquoi n'est-ce qu'un rêve ?
 
-**** *book_ *id_body-1-22 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PENSÉES D'AUTOMNE
 
-La rica autouna s'es passada L'hiver suz un cari tourat S'en ven la capa ementoulada D'un veû neblouz enjalibrat.
-Son autounous.
+La rica autouna s'es passada L'hiver suz un cari tourat S'en ven la capa ementoulada D'un veû neblouz enjalibrat. Son autounous.
 
-J'entends siffler la bise aux branchages rouillés Des saules qui là-bas se balancent mouillés.
-Auguste M.
+J'entends siffler la bise aux branchages rouillés Des saules qui là-bas se balancent mouillés. Auguste M.
 
 L'automne va finir ; au milieu du ciel terne,
 Dans un cercle blafard et livide que cerne
@@ -917,15 +883,13 @@ Et de la route étroite en son milieu frayée,
 Et surtout des bleuets et des coquelicots,
 Points de pourpre et d'azur dans l'or des blés égaux.
 
-**** *book_ *id_body-1-23 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 INFIDÉLITÉ
 
-Bandiera d'ogni vento Conosco que sei tu.
-Chanson italienne.
+Bandiera d'ogni vento Conosco que sei tu. Chanson italienne.
 
-La volonté de l'ingrate est changée.
-Antoine de Baïf.
+La volonté de l'ingrate est changée. Antoine de Baïf.
 
 Voici l'orme qui balance
 Son ombre sur le sentier ;
@@ -962,15 +926,13 @@ Se joue et lustre son aile ;
 L'air est pur, le gazon doux....
 Rien n'a donc changé que vous.
 
-**** *book_ *id_body-1-24 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A MON AMI AUGUSTE M⁎⁎⁎
 
-For yonder faithless phantom flie To lure thee to thy doom.
-Goldsmith.
+For yonder faithless phantom flie To lure thee to thy doom. Goldsmith.
 
-C'est, dit-il, d'autant que j'ay veu plusieurs bouteilles qui auoient la robe toute neufve et le verre estoit cassé dedans ; et plusieurs pommes desquelles l'écorce estoit vermeille et reluisante dont le dedans estoit mangé de vers et tout pourry.
-Le Vagabond.
+C'est, dit-il, d'autant que j'ay veu plusieurs bouteilles qui auoient la robe toute neufve et le verre estoit cassé dedans ; et plusieurs pommes desquelles l'écorce estoit vermeille et reluisante dont le dedans estoit mangé de vers et tout pourry. Le Vagabond.
 
 Par une nuit d'été, quand le ciel est d'azur,
 Souvent un feu follet sort du marais impur ;
@@ -991,15 +953,13 @@ Qui sous de beaux semblants cache une vilaine âme,
 Pour ceux que sa beauté décevante a séduits,
 Pareille au feu follet, l'est encore à ces fruits.
 
-**** *book_ *id_body-1-25 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉLÉGIE II
 
-Ingrate... pour t'avoir bien servie Adorant ta beauté, Je vois bien qu'à la fin tu m'osteras la vie Après la liberté.
-De Lingendes.
+Ingrate... pour t'avoir bien servie Adorant ta beauté, Je vois bien qu'à la fin tu m'osteras la vie Après la liberté. De Lingendes.
 
-... je l'adore et meurs de trop aimer.
-Philippe Desportes.
+... je l'adore et meurs de trop aimer. Philippe Desportes.
 
 Je voudrais l'oublier ou ne pas la connaître...
 Oh, si j'avais pensé que dans mon cœur dût naître
@@ -1028,12 +988,11 @@ N'a jamais répondu que par le froid mépris,
 La vague indifférence, et la haine peut-être !...
 Je voudrais l'oublier ou ne pas la connaître.
 
-**** *book_ *id_body-1-26 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 VEILLÉE
 
-Je lis les faits joyeux du bon Pantagruel, Je sais presque par cœur l'histoire véritable Des quatre fils Aymon et de Robert-le-Diable.
-Grandval, le Vice puni.
+Je lis les faits joyeux du bon Pantagruel, Je sais presque par cœur l'histoire véritable Des quatre fils Aymon et de Robert-le-Diable. Grandval, le Vice puni.
 
 Lorsque le lambris craque, ébranle sourdement,
 Que de la cheminée il jaillit par moment
@@ -1062,15 +1021,13 @@ En larges nappes coule, et la vitre rougie
 Laisse voir dans le ciel, au bord de l'orient,
 Le soleil qui se lève avec un front riant.
 
-**** *book_ *id_body-1-27 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉLÉGIE III
 
-Soccoreys ojos con aqua que el coraçon La demanda.
-Chanson espagnole.
+Soccoreys ojos con aqua que el coraçon La demanda. Chanson espagnole.
 
-Fare thee well.
-Lord Byron.
+Fare thee well. Lord Byron.
 
 Elle est morte pour moi, dans la tombe glacée
 Comme si le trépas l'avait déjà placée ;
@@ -1091,15 +1048,13 @@ D'une harpe magique. Hélas ! et c'est en vain
 Qu'en longs transports d'amour, en vifs élans de flamme,
 J'ai dépensé pour elle et mes jours et mon âme !
 
-**** *book_ *id_body-1-28 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CLÉMENCE
 
-O peu durables fleurs de la beauté mortelle !
-Philippe Desportes.
+O peu durables fleurs de la beauté mortelle ! Philippe Desportes.
 
-D'Isabelle l'ame ait paradis.
-Épitaphe gothique.
+D'Isabelle l'ame ait paradis. Épitaphe gothique.
 
 Un monument sur ta cendre chérie
 Ne pèse pas,
@@ -1121,15 +1076,13 @@ Avec des fleurs,
 Vient, à l'endroit seulement connu d'elle,
 Verser des pleurs.
 
-**** *book_ *id_body-1-29 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 VOYAGE
 
-Il me faut du nouveau n'en fût-il plus au monde.
-Jean de La Fontaine.
+Il me faut du nouveau n'en fût-il plus au monde. Jean de La Fontaine.
 
-Jam mens prætrepidans avet vagari, Jam læti studio pedes vigescunt.
-Catulle.
+Jam mens prætrepidans avet vagari, Jam læti studio pedes vigescunt. Catulle.
 
 Au travers de la vitre blanche
 Le soleil rit, et sur les murs
@@ -1212,21 +1165,17 @@ Aussitôt que poindra l'aurore,
 Postillons, pressez vos chevaux,
 Je veux voir des sites nouveaux.
 
-**** *book_ *id_body-1-30 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE COIN DU FEU
 
-Blow, blow, winter's wind.
-Shakspeare.
+Blow, blow, winter's wind. Shakspeare.
 
-Vente, gelle, gresle, j'ay mon pain cuict.
-Villon.
+Vente, gelle, gresle, j'ay mon pain cuict. Villon.
 
-Around in sympathetic mirth, Its tricks the kitten tries ; The cricket chirrups in the hearth, The crackling faggot flies.
-Goldsmith.
+Around in sympathetic mirth, Its tricks the kitten tries ; The cricket chirrups in the hearth, The crackling faggot flies. Goldsmith.
 
-Quam juvat immites ventos audire cubantem.
-Tibulle.
+Quam juvat immites ventos audire cubantem. Tibulle.
 
 Que la pluie à déluge au long des toits ruisselle !
 Que l'orme du chemin penche, craque et chancelle
@@ -1242,15 +1191,13 @@ Qu'importe ? n'ai-je pas un feu clair dans mon âtre,
 Sur mes genoux un chat qui se joue et folâtre,
 Un livre pour veiller, un fauteuil pour dormir ?
 
-**** *book_ *id_body-1-31 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA TÊTE DE MORT
 
-Ton test n'aura plus de peau, Et ton visage si beau N'aura veines ni artères, Tu n'auras plus que des dents Telles qu'on les voit dedans Les têtes des cimetières.
-Pierre Ronsard.
+Ton test n'aura plus de peau, Et ton visage si beau N'aura veines ni artères, Tu n'auras plus que des dents Telles qu'on les voit dedans Les têtes des cimetières. Pierre Ronsard.
 
-La mort nous fait dormir une éternelle nuit.
-Joachim du Bellay.
+La mort nous fait dormir une éternelle nuit. Joachim du Bellay.
 
 Personne ne voulait aller dans cette chambre,
 Surtout pendant les nuits si tristes de décembre,
@@ -1313,22 +1260,17 @@ Du sort qui nous attend image menaçante ;
 Voilà ce qu'il en reste avec un souvenir
 Qui s'éteindra bientôt dans le vaste avenir.
 
-**** *book_ *id_body-1-32 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 BALLADE
 
-Regarder les ondes de l'air . . . . . . . . . . . . . . . . . .
-Puis admirant sur les sillons Les ailes des gais papillons De mille couleurs parsemées, Les croire des fleurs animées.
-Saint-Amand.
+Regarder les ondes de l'air . . . . . . . . . . . . . . . . . . Puis admirant sur les sillons Les ailes des gais papillons De mille couleurs parsemées, Les croire des fleurs animées. Saint-Amand.
 
-See ! moats and bridges walls and castles rid.
-Crabbe.
+See ! moats and bridges walls and castles rid. Crabbe.
 
-Sonne, sonne, ami Dampierre.
-Ballade des chasseurs.
+Sonne, sonne, ami Dampierre. Ballade des chasseurs.
 
-Un peu plus loin considérez cette alouette qui s'élève peu à peu du milieu des blés, en voltigeant en haut, elle chante si mélodieusement qu'il ne se peut mieux, vous diriez qu'elle va en chantant boire dans les nuées.
-Le Confiteor de l'infidèle éprouvé.
+Un peu plus loin considérez cette alouette qui s'élève peu à peu du milieu des blés, en voltigeant en haut, elle chante si mélodieusement qu'il ne se peut mieux, vous diriez qu'elle va en chantant boire dans les nuées. Le Confiteor de l'infidèle éprouvé.
 
 Quand à peine un nuage,
 Flocon de laine, nage
@@ -1470,15 +1412,13 @@ Puis je m'endors tranquille
 Sous l'ondoyant asile
 De quelque ombrage obscur.
 
-**** *book_ *id_body-1-33 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 UNE AME
 
-Son ame avait brisé son corps.
-Victor Hugo.
+Son ame avait brisé son corps. Victor Hugo.
 
-Diex por amer l'avoit faicte.
-Le chastelain de Coucy.
+Diex por amer l'avoit faicte. Le chastelain de Coucy.
 
 C'était une âme neuve, une âme de créole,
 Toute de feu, cachant à ce monde frivole
@@ -1505,15 +1445,13 @@ Un soir d'automne sombre et grisâtre, une bière
 Fut apportée : un être à la terre manqua ;
 Et cette absence, à peine un cœur la remarqua.
 
-**** *book_ *id_body-1-34 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SOUVENIR
 
-Deux estions et n'avions qu'ung cœur.
-Le lay de maistre Ytier Marchant.
+Deux estions et n'avions qu'ung cœur. Le lay de maistre Ytier Marchant.
 
-Hélas ! il n'étoit pas saison Sitôt de son département.
-La complainte de Valentin Granson.
+Hélas ! il n'étoit pas saison Sitôt de son département. La complainte de Valentin Granson.
 
 D'elle que reste-t-il aujourd'hui ? Ce qui reste,
 Au réveil d'un beau rêve, illusion céleste ;
@@ -1526,13 +1464,11 @@ Du murmure léger des ondes du ruisseau,
 Des soupirs argentins de la cloche, et des ombres
 Quand l'aube de la nuit perce les voiles sombres.
 
-**** *book_ *id_body-1-35 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET III
 
-L'homme n'est rien qu'un mort qui traîne sa carcasse.
-Du May.
-Fronti nulla fides.
+L'homme n'est rien qu'un mort qui traîne sa carcasse. Du May. Fronti nulla fides.
 
 Quelquefois, au milieu de la folâtre orgie,
 Lorsque son verre est plein, qu'une jeune beauté
@@ -1552,15 +1488,13 @@ Au dehors on ne voit que riante verdure,
 Au dedans, que poussière infecte et noire ordure,
 Et qu'ossements jaunis aux décombres mêlés.
 
-**** *book_ *id_body-1-36 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MARIA
 
-... meæ puellæ Flendo turgiduli rubent ocelli.
-V. Catullus.
+... meæ puellæ Flendo turgiduli rubent ocelli. V. Catullus.
 
-Ne pleure pas...
-Dovalle.
+Ne pleure pas... Dovalle.
 
 De tes longs cils de jais que ta main blanche essuie,
 Comme des gouttes d'eau d'un arbre après la pluie,
@@ -1587,16 +1521,13 @@ Répandent leurs parfums, heureusement écloses.
 Qu'avais-tu donc, enfant ? quel malheur imprévu
 Te faisait triste ? — Hier je ne t'avais pas vu.
 
-**** *book_ *id_body-1-37 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A MON AMI EUGÈNE DE N⁎⁎⁎
 
-Les parfums les plus doux et les plus belles fleurs Perdoient en un instant leurs charmantes odeurs ; Tous ces mets savoureux dont je chargeois ma table Ne m'ont jamais offert qu'un plaisir peu durable, Oublié le jour même et suivi de regrets.
-Mais de ces jours heureux, Xanthus, et de ces veilles Où de savans discours ont charmé mes oreilles Il m'en reste des fruits qui ne mourront jamais.
-Callimaque, traduction de La Porte Duteil.
+Les parfums les plus doux et les plus belles fleurs Perdoient en un instant leurs charmantes odeurs ; Tous ces mets savoureux dont je chargeois ma table Ne m'ont jamais offert qu'un plaisir peu durable, Oublié le jour même et suivi de regrets. Mais de ces jours heureux, Xanthus, et de ces veilles Où de savans discours ont charmé mes oreilles Il m'en reste des fruits qui ne mourront jamais. Callimaque, traduction de La Porte Duteil.
 
-Vous voyez bien que j'ai mille choses à dire.
-Hernani.
+Vous voyez bien que j'ai mille choses à dire. Hernani.
 
 Ne t'en va pas, Eugène, il n'est pas tard ; la lune
 A l'angle du carreau sur l'atmosphère brune
@@ -1699,7 +1630,7 @@ Ce que je ne saurais faire assez bien comprendre
 Par mes vers ; mais alors, Eugène, il sera tard,
 Et je ne pourrai plus reculer ton départ.
 
-**** *book_ *id_body-1-38 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE JARDIN DES PLANTES
 
@@ -1746,18 +1677,15 @@ Et sur le banc de pierre après nous reposer,
 Et nous nous promettons de nous revoir dimanche,
 Et je reviens avec ma feuille toute blanche.
 
-**** *book_ *id_body-1-39 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE CHAMP DE BATAILLE
 
-En icelle valée oyait on grans sons de tabours trompes et naquerres.
-Mandeville.
+En icelle valée oyait on grans sons de tabours trompes et naquerres. Mandeville.
 
-Or ilz sont mortz, Diex ayt leurs ames Quant est des cors, ils sont pourryz.
-Le grand Testament de Villon.
+Or ilz sont mortz, Diex ayt leurs ames Quant est des cors, ils sont pourryz. Le grand Testament de Villon.
 
-De dars i ot grant lanceis Et de pierres grant jeteis Et de lances grand bouteis Et d'espées grant capleis.
-Li romans du Brut.
+De dars i ot grant lanceis Et de pierres grant jeteis Et de lances grand bouteis Et d'espées grant capleis. Li romans du Brut.
 
 Aux branches des tilleuls, aux pignons des tourelles,
 Sans crainte revenez vous poser, tourterelles.
@@ -1822,7 +1750,7 @@ Malheur à lui ! malheur ! car il n'est qu'un maudit !
 Aux branches des tilleuls, aux pignons des tourelles,
 Sans crainte revenez vous poser, tourterelles.
 
-**** *book_ *id_body-1-40 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 IMITATION DE BYRON
 
@@ -1871,7 +1799,7 @@ Sous un berceau de fleurs, d'entourer de ses bras
 Pour la première fois sa première maîtresse,
 Jeune fille aux yeux bruns qui tremble et ne veut pas.
 
-**** *book_ *id_body-1-41 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 BALLADE
 Femme souvent varie ;
@@ -1901,12 +1829,11 @@ Mais votre âme est si frivole,
 Mais votre tête est si folle,
 Que l'on n'ose vous aimer.
 
-**** *book_ *id_body-1-42 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SOLEIL COUCHANT
 
-Notre-Dame, Que c'est beau !
-Victor Hugo.
+Notre-Dame, Que c'est beau ! Victor Hugo.
 
 En passant sur le pont de la Tournelle, un soir,
 Je me suis arrêté quelques instants pour voir
@@ -1931,12 +1858,11 @@ De la vieille cité berçait l'image vague ;
 Et moi, je regardais toujours, ne songeant pas
 Que la nuit étoilée arrivait à grands pas.
 
-**** *book_ *id_body-1-43 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET IV
 
-Oh ! la paresseuse fille !
-Sara la Baigneuse.
+Oh ! la paresseuse fille ! Sara la Baigneuse.
 
 Lorsque je vous dépeins cet amour sans mélange,
 Cet amour à la fois ardent, grave et jaloux,
@@ -1958,12 +1884,11 @@ Ma belle paresseuse, il faut aimer vous-même.
 
 1831.
 
-**** *book_ *id_body-1-44 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ENFANTILLAGE
 
-Hanneton, vole, vole, vole.
-Ballade des petites filles.
+Hanneton, vole, vole, vole. Ballade des petites filles.
 
 Lorsque la froide pluie enfin s'en est allée,
 Et que le ciel gaîment rouvre son bel œil bleu,
@@ -1985,15 +1910,13 @@ D'un brin d'herbe où la Vierge a filé son coton.
 Dans le parc Saint-Fargeau, voir les petites filles
 Emplir leurs tabliers de pain de hanneton.
 
-**** *book_ *id_body-1-45 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 NONCHALOIR
 
-Il vaut mieux être assis que levé, il vaut mieux être couché qu'assis. — Il vaut mieux être mort que couché.
-Ferideddin Atar.
+Il vaut mieux être assis que levé, il vaut mieux être couché qu'assis. — Il vaut mieux être mort que couché. Ferideddin Atar.
 
-J'aime sur les coussins la vie horizontale.
-Barthélemy.
+J'aime sur les coussins la vie horizontale. Barthélemy.
 
 Pour oublier le reste, et m'oublier moi-même
 (Ici-bas être heureux c'est oublier), que j'aime,
@@ -2020,12 +1943,11 @@ Dans la nacre, chatoie une moite étincelle,
 Et sa bouche mignarde, au parler enfantin,
 S'ouvre comme une rose aux baisers du matin.
 
-**** *book_ *id_body-1-46 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DÉCLARATION
 
-Mais toujours fust mon opinion telle Que toute amour doict estre mutuelle ; Qui son cœur donne, il en merite.
-Les loyalles et pudicques amours de Scalion de Virbluneau, à madame de Boufflers.
+Mais toujours fust mon opinion telle Que toute amour doict estre mutuelle ; Qui son cœur donne, il en merite. Les loyalles et pudicques amours de Scalion de Virbluneau, à madame de Boufflers.
 
 Je vous aime, ô jeune fille !
 Aussi lorsque je vous vois,
@@ -2051,12 +1973,11 @@ Frais comme au cœur la louange,
 Ardent à toucher un ange,
 Pur à rendre Dieu jaloux.
 
-**** *book_ *id_body-1-47 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PLUIE
 
-Glasglatcha : son de la pluie dans la pluie, en anglais, splash.
-Dictionnaire arabe.
+Glasglatcha : son de la pluie dans la pluie, en anglais, splash. Dictionnaire arabe.
 
 Ce nuage est bien noir : — sur le ciel il se roule,
 Comme sur les galets de la côte une houle.
@@ -2105,12 +2026,11 @@ Ou, du binocle armés, regardent un tableau :
 
 1831.
 
-**** *book_ *id_body-1-48 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 POINT DE VUE
 
-Des petits horizons...
-Sainte-Beuve.
+Des petits horizons... Sainte-Beuve.
 
 Voici que je vis. — Labrunie (G. de Nerval).
 
@@ -2133,12 +2053,11 @@ Qui ressemblent de loin à des cous de vautours.
 Et ses clochers aigus à flèche dentelée,
 Comme un peigne mordant la nue échevelée.
 
-**** *book_ *id_body-1-49 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE RETOUR
 
-Je m'en vais promener tantôt parmy la plaine, Tantôt en un village et tantôt en un bois, Et tantôt par les lieux solitaires et cois.
-Pierre Ronsard.
+Je m'en vais promener tantôt parmy la plaine, Tantôt en un village et tantôt en un bois, Et tantôt par les lieux solitaires et cois. Pierre Ronsard.
 
 J'ai quitté pour un an la campagne ; — le chaume
 Était jaune ; les champs n'avaient plus cet arome
@@ -2231,16 +2150,13 @@ Que rester enfoui dans ce pays perdu.
 
 1831.
 
-**** *book_ *id_body-1-50 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PAN DE MUR
 
-La mousse des vieux jours qui brunit sa surface, Et d'hiver en hiver incrustée à ses flancs, Donne en lettre vivante une date à ses ans.
-Harmonies.
+La mousse des vieux jours qui brunit sa surface, Et d'hiver en hiver incrustée à ses flancs, Donne en lettre vivante une date à ses ans. Harmonies.
 
-...
-Qu'il vienne à ma croisée.
-Petrus Borel.
+... Qu'il vienne à ma croisée. Petrus Borel.
 
 De la maison momie enterrée au Marais
 Où, du monde cloîtré, jadis je demeurais,
@@ -2269,15 +2185,13 @@ Mais il faut pour le rendre une touche hardie,
 Une palette riche où luise plus d'un ton,
 Celle de Boulanger ou bien de Bonnington.
 
-**** *book_ *id_body-1-51 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 COLÈRE
 
-Amende-toi, vieille au regard hideux, Ou pour ung mot villain en auras deux.
-Epistre à la première vieille.
+Amende-toi, vieille au regard hideux, Ou pour ung mot villain en auras deux. Epistre à la première vieille.
 
-A Montfaucon tout sec puisse-tu pendre, Les yeux mangéz de corbeaux charongneux, Les pieds tiréz de ces mastins hargneux Qui vont grondant, hérissés de furie, Quand on approche auprès de leur voirie.
-Pierre Ronsard.
+A Montfaucon tout sec puisse-tu pendre, Les yeux mangéz de corbeaux charongneux, Les pieds tiréz de ces mastins hargneux Qui vont grondant, hérissés de furie, Quand on approche auprès de leur voirie. Pierre Ronsard.
 
 Hypocrisie et vice, — oui, c'est bien là le monde :
 Belles maximes et grands airs
@@ -2312,18 +2226,15 @@ Comme l'on n'a jamais aimé,
 D'un amour pur et saint, et qui de Dieu lui-même
 Certes ne peut être blâmé.
 
-**** *book_ *id_body-1-52 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET V
 
-C'est mon plaisir ; chacun querre le sien.
-P. L. Jacob, bibliophile.
+C'est mon plaisir ; chacun querre le sien. P. L. Jacob, bibliophile.
 
-Heureusement que, pour nous consoler de tout cela, il nous reste l'adultère, le tabac de Maryland, et le papel español por cigaritos.
-Petrus Borel, le lycanthrope.
+Heureusement que, pour nous consoler de tout cela, il nous reste l'adultère, le tabac de Maryland, et le papel español por cigaritos. Petrus Borel, le lycanthrope.
 
-Où trouver le bonheur ?
-Méry et Barthélemy.
+Où trouver le bonheur ? Méry et Barthélemy.
 
 Qu'est-ce que ce bonheur dont on parle ? — L'avare
 Au fond d'un coffre-fort empile des ducats,
@@ -2345,12 +2256,11 @@ Qui sont : — Un beau soleil, une femme, un cheval !
 
 1831.
 
-**** *book_ *id_body-1-53 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 JUSTIFICATION
 
-Vous êtes mal pour moi, vous avez quelque chose.
-Marion Delorme.
+Vous êtes mal pour moi, vous avez quelque chose. Marion Delorme.
 
 Celui que chaque soir votre parole élève,
 Qui pense avec vous de moitié ;
@@ -2381,15 +2291,13 @@ Quelque bras de pin foudroyé,
 Il attache au soleil son grand œil sans paupière,
 D'ineffables lueurs noyé.
 
-**** *book_ *id_body-1-54 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 FRISSON
 
-Chauffons-nous, chauffons-nous bien.
-Béranger.
+Chauffons-nous, chauffons-nous bien. Béranger.
 
-Je déteste le monde et je vis dans mon cœur.
-Ulric Guttinguer.
+Je déteste le monde et je vis dans mon cœur. Ulric Guttinguer.
 
 Un brouillard épais noie
 L'horizon où tournoie
@@ -2538,12 +2446,11 @@ Comme deux alouettes
 Ou comme deux fauvettes
 Oublieuses du nid.
 
-**** *book_ *id_body-1-55 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET VI
 
-Merci à toi, à toi merci.
-Térésa.
+Merci à toi, à toi merci. Térésa.
 
 Avant cet heureux jour, j'étais sombre et farouche,
 — Mon sourcil se tordait sur mon front soucieux,
@@ -2563,15 +2470,13 @@ Aux saints épanchements mon cœur était fermé,
 — Car je ne savais pas alors combien tu m'aimes ;
 Et comment croire en Dieu quand on n'est pas aimé !
 
-**** *book_ *id_body-1-56 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉLÉGIE IV
 
-J'ai peur que votre amour par le temps ne s'efface.
-Ronsard.
+J'ai peur que votre amour par le temps ne s'efface. Ronsard.
 
-Aimée, aimée, hélas ! que j'ai grand'peur Qu'un autre amour par cet amour pipeur N'aille gravant pendant ta longue absence Quelqu'autre amant dedans ta souvenance !
-Ponthus de Thyard, Erreurs amoureuses.
+Aimée, aimée, hélas ! que j'ai grand'peur Qu'un autre amour par cet amour pipeur N'aille gravant pendant ta longue absence Quelqu'autre amant dedans ta souvenance ! Ponthus de Thyard, Erreurs amoureuses.
 
 Ma charmante, depuis ta visite imprévue
 Deux mois se sont passés que je ne t'ai pas vue.
@@ -2648,16 +2553,14 @@ Pour te les redonner, gardés fidèlement.
 
 1831.
 
-**** *book_ *id_body-1-57 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET VII
 
 
-Liberté de juillet ! femme au buste divin, Et dont le corps finit en queue !
-G. de Nerval.
+Liberté de juillet ! femme au buste divin, Et dont le corps finit en queue ! G. de Nerval.
 
-E la lor cieca vita è tanto bassa ch'invidiosi son d'ogn'altra sorte.
-Inferno, canto III.
+E la lor cieca vita è tanto bassa ch'invidiosi son d'ogn'altra sorte. Inferno, canto III.
 
 Avec ce siècle infâme il est temps que l'on rompe ;
 Car à son front damné le doigt fatal a mis
@@ -2677,22 +2580,15 @@ Seule, la poésie incarnée en Hugo
 Ne nous a pas déçus, et de palmes divines
 Vers l'avenir tournée ombrage nos ruines.
 
-**** *book_ *id_body-1-58 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PARIS
 
-Das drængt und stœsst, das ruscht und klappert Das zischt und quirlt, das zieht und plappert !
-Das leuchtet, sprüht, und stinkt und brennt !
-Gœthe..
-Faust.
+Das drængt und stœsst, das ruscht und klappert Das zischt und quirlt, das zieht und plappert ! Das leuchtet, sprüht, und stinkt und brennt ! Gœthe.. Faust.
 
-Dans la simplicité de mon cœur enfantin L'œil fixé sur les cieux, j'enviais le destin De l'oiseau voyageur, du nuage qui passe Et fait tant de chemin, et dans ce large espace Voit les mondes sous lui glisser rapidement, Ainsi qu'un météore aux champs du firmament.
-Eugène DE ⁎⁎⁎.
+Dans la simplicité de mon cœur enfantin L'œil fixé sur les cieux, j'enviais le destin De l'oiseau voyageur, du nuage qui passe Et fait tant de chemin, et dans ce large espace Voit les mondes sous lui glisser rapidement, Ainsi qu'un météore aux champs du firmament. Eugène DE ⁎⁎⁎.
 
-Hé, Dieu ! que de maisons ! que de beaux bâtiments !
-Estienne de Knobelsdorff.
-Salle de réception du diable.
-Don Juan, ch. x, st. 81.
+Hé, Dieu ! que de maisons ! que de beaux bâtiments ! Estienne de Knobelsdorff. Salle de réception du diable. Don Juan, ch. x, st. 81.
 
 Quand il voit le soleil, déchirant le nuage,
 De splendides rayons illuminer sa cage,
@@ -2781,7 +2677,7 @@ Longs grincements de dents et beaux concerts. Voilà !
 
 1831.
 
-**** *book_ *id_body-1-59 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 UN VERS DE WORDSWORTH
 
@@ -2807,15 +2703,13 @@ Que Prospéro n'est pas obéi d'Ariel,
 Aux marges du papier je jette, à gauche, à droite,
 Des dessins de clochers montrant du doigt le ciel.
 
-**** *book_ *id_body-1-60 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DÉBAUCHE
 
-Buvons du grog et cassons-nous les reins.
-Chanson des marins.
+Buvons du grog et cassons-nous les reins. Chanson des marins.
 
-Tu as Dieu dans la bouche et dans le cœur Satan.
-Dubartas.
+Tu as Dieu dans la bouche et dans le cœur Satan. Dubartas.
 
 Je hais plus que la mort cette débauche prude
 Qui n'ose sortir que de nuit,
@@ -2862,15 +2756,13 @@ Où brillent mille tons divers,
 Un type net et franc, une chose complète,
 De la couleur ! des chants ! des vers !
 
-**** *book_ *id_body-1-61 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE BENGALI A UNE JEUNE FILLE CRÉOLE
 
-Les bengalis dont le ramage est si doux.
-Bernardin de Saint-Pierre.
+Les bengalis dont le ramage est si doux. Bernardin de Saint-Pierre.
 
-La France et ses printemps, ses hivers inconnus Où la bise gémit, où les arbres sont nus, Où l'on voit voltiger ces blancs flocons de neige Que je désirais voir, et la glace, — que sais-je ?
-Mlle L. A.
+La France et ses printemps, ses hivers inconnus Où la bise gémit, où les arbres sont nus, Où l'on voit voltiger ces blancs flocons de neige Que je désirais voir, et la glace, — que sais-je ? Mlle L. A.
 
 Oiseau dépaysé, qui t'amène vers nous ?
 Notre soleil est froid, notre ciel en courroux :
@@ -2900,15 +2792,13 @@ Avec les colibris va becqueter les fleurs,
 Boire à leurs coupes d'or, te baigner dans leurs pleurs,
 Bâtir ton hamac sous leurs gerbes !
 
-**** *book_ *id_body-1-62 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE CAVALIER POURSUIVI
 
-Moi, poëte, je vais du couchant à l'aurore.
-Jules de Saint-Félix.
+Moi, poëte, je vais du couchant à l'aurore. Jules de Saint-Félix.
 
-Und hurré ! hurré ! hop hop hop !
-Burger.
+Und hurré ! hurré ! hop hop hop ! Burger.
 
 C'est un fort beau cheval ; une large poitrine,
 Des jambes de gazelle, et dans chaque narine
@@ -4845,7 +4735,7 @@ Pour me comprendre. — Ainsi, bonsoir. — Fermez la porte,
 Donnez-moi la pincette, et dites qu'on m'apporte
 Un tome de Pantagruel.
 
-**** *book_ *id_body-2-56-1 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE NUAGE
 
@@ -4869,7 +4759,7 @@ Prit son kandjar au manche ciselé,
 Et poignarda sa favorite brune....
 Quant au nuage, il s'était envolé !
 
-**** *book_ *id_body-2-56-2 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES COLOMBES
 
@@ -4888,7 +4778,7 @@ De blancs essaims de folles visions
 Tombent des cieux, en palpitant des ailes,
 Pour s'envoler dès les premiers rayons.
 
-**** *book_ *id_body-2-56-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES PAPILLONS PANTOUM
 
@@ -4907,7 +4797,7 @@ A travers vallons et forêts,
 J'irais à vos lèvres mi-closes,
 Fleur de mon âme, et j'y mourrais.
 
-**** *book_ *id_body-2-56-4 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 TÉNÈBRES
 
@@ -5177,7 +5067,7 @@ N'a plus assez de sang pour teindre le couteau.
 
 Le Dieu ne viendra pas. L'Église est renversée.
 
-**** *book_ *id_body-2-56-5 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 THÉBAÏDE
 
@@ -5433,7 +5323,7 @@ Quand donc laisseras-tu tomber ton dernier grain ?
 
 1873.
 
-**** *book_ *id_body-2-56-6 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ROCAILLE
 
@@ -5457,7 +5347,7 @@ En flots d'argent sur les marches la suit ;
 La roide étoffe à trame blanche et bleue
 A chaque pas derrière elle bruit.
 
-**** *book_ *id_body-2-56-7 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PASTEL
 
@@ -5483,7 +5373,7 @@ Au souvenir de vos galants défunts.
 
 1835.
 
-**** *book_ *id_body-2-56-8 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 WATTEAU
 
@@ -5507,7 +5397,7 @@ En regardant j'avais compris cela :
 Que j'étais près du rêve de ma vie,
 Que mon bonheur était enfermé là.
 
-**** *book_ *id_body-2-56-9 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE TRIOMPHE DE PÉTRARQUE A LOUIS BOULANGER
 
@@ -5715,7 +5605,7 @@ Et vous aurez au front la couronne et l'étoile !
 
 1836.
 
-**** *book_ *id_body-2-56-10 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MELANCHOLIA
 
@@ -5970,7 +5860,7 @@ Et dans sa gloire au ciel comme Christ remonté.
 
 1834.
 
-**** *book_ *id_body-2-56-11 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 NIOBÉ
 
@@ -5994,7 +5884,7 @@ Niobé sans enfants, mère des sept douleurs,
 Assise sur l'Athos ou bien sur le Calvaire,
 Quel fleuve d'Amérique est plus grand que tes pleurs ?
 
-**** *book_ *id_body-2-56-12 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CARIATIDES
 
@@ -6018,7 +5908,7 @@ Ils portent ta pensée, ô maître, sur leurs dos ;
 Sous un entablement, jamais Cariatide
 Ne tendit son épaule à de plus lourds fardeaux.
 
-**** *book_ *id_body-2-56-13 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA CHIMÈRE
 
@@ -6044,7 +5934,7 @@ Car je veux voir mon rêve en sa réalité.
 
 1837.
 
-**** *book_ *id_body-2-56-14 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA DIVA
 
@@ -6161,7 +6051,7 @@ A Mosé, dans ta loge, ô Julia Grisi !
 
 1838.
 
-**** *book_ *id_body-2-56-15 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 APRÈS LE BAL
 
@@ -6277,7 +6167,7 @@ Et je brise l'autel d'Apollo dieu du jour.
 
 1834.
 
-**** *book_ *id_body-2-56-16 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 TOMBÉE DU JOUR
 
@@ -6303,7 +6193,7 @@ Je n'y compris qu'un seul mot : c'était Dieu.
 
 1834.
 
-**** *book_ *id_body-2-56-17 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA DERNIERE FEUILLE
 
@@ -6324,7 +6214,7 @@ Chanter, quand l'arbre sera vert !
 
 1837.
 
-**** *book_ *id_body-2-56-18 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE TROU DU SERPENT
 
@@ -6350,7 +6240,7 @@ Je me retire aussi froid qu'un serpent.
 
 1834.
 
-**** *book_ *id_body-2-56-19 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES VENDEURS DU TEMPLE
 
@@ -6629,7 +6519,7 @@ Et, si tu profanais les cadavres des rois,
 C'était pour te venger et non pas pour leur prendre
 Les anneaux de leurs doigts ni pour les aller vendre !
 
-**** *book_ *id_body-2-56-20 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A UN JEUNE TRIBUN
 
@@ -6834,7 +6724,7 @@ Et le corps du rêveur et du poëte oisif.
 Entre la fleur qui s'ouvre et le cerveau qui pense,
 Entre néant et rien quelle est la différence ?
 
-**** *book_ *id_body-2-56-21 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CHOC DE CAVALIERS
 
@@ -6858,7 +6748,7 @@ Qui cherchiez à forcer le passage du pont,
 Et vos corps tout meurtris sous leurs armes faussées,
 Dorment ensevelis dans le gouffre profond.
 
-**** *book_ *id_body-2-56-22 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE POT DE FLEURS
 
@@ -6882,7 +6772,7 @@ Je croyais ne semer qu'une fleur de printemps :
 C'est un grand aloès dont la racine brise
 Le pot de porcelaine aux dessins éclatants.
 
-**** *book_ *id_body-2-56-23 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE SPHINX
 
@@ -6903,7 +6793,7 @@ La face en est charmante et le revers bien laid.
 Nous leur prenons le sein, mais ces mauvaises mères
 N'ont pas pour notre lèvre une goutte de lait.
 
-**** *book_ *id_body-2-56-24 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PENSÉE DE MINUIT
 
@@ -7075,7 +6965,7 @@ Mais c'est en vain, hélas ! que votre voix m'exhorte ;
 Je rêve, et mon baiser à votre front avorte,
 Et je me sens le cœur amer.
 
-**** *book_ *id_body-2-56-25 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA CHANSON DE MIGNON
 
@@ -7218,7 +7108,7 @@ Qui viennent de bonne heure et ne s'en vont que tard. »
 
 1833.
 
-**** *book_ *id_body-2-56-26 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ROMANCE
 
@@ -7261,7 +7151,7 @@ Voici que l'aurore se lève,
 Et moi, toute seule en ma tour,
 J'attends encore son retour.
 
-**** *book_ *id_body-2-56-27 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE SPECTRE DE LA ROSE
 
@@ -7294,7 +7184,7 @@ Que tous les rois vont jalouser.
 
 1837.
 
-**** *book_ *id_body-2-56-28 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LAMENTO LA CHANSON DU PÊCHEUR
 
@@ -7331,7 +7221,7 @@ Une femme autant qu'elle.
 Que mon sort est amer !
 Ah ! sans amour, s'en aller sur la mer !
 
-**** *book_ *id_body-2-56-29 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DÉDAIN
 
@@ -7407,7 +7297,7 @@ Comme si tout cela valait un mot d'amour !
 
 1833.
 
-**** *book_ *id_body-2-56-30 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CE MONDE-CI ET L'AUTRE
 
@@ -7508,7 +7398,7 @@ De quoi vous faire aimer et regretter dans l'autre.
 
 1833.
 
-**** *book_ *id_body-2-56-31 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 VERSAILLES SONNET
 
@@ -7532,7 +7422,7 @@ Et tu n'auras bientôt qu'un peuple de statues.
 
 1837.
 
-**** *book_ *id_body-2-56-32 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA CARAVANE SONNET
 
@@ -7554,7 +7444,7 @@ Dieu, pour vous reposer, dans le désert du temps,
 Comme des oasis, a mis les cimetières :
 Couchez-vous et dormez, voyageurs haletants.
 
-**** *book_ *id_body-2-56-33 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DESTINÉE SONNET
 
@@ -7576,7 +7466,7 @@ Et l'autre, qui n'a vu du ciel que ce qui brille
 Par le trou du volet, était le voyageur.
 Ils ont passé tous deux à côté du bonheur.
 
-**** *book_ *id_body-2-56-34 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 NOTRE-DAME
 
@@ -7777,7 +7667,7 @@ Une matrone chaste au milieu de catins !
 
 1831.
 
-**** *book_ *id_body-2-56-35 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MAGDALENA
 
@@ -8020,7 +7910,7 @@ A vos yeux, un moment, soulèvera le voile,
 Et dans un long soupir l'orgue murmurera
 L'ineffable secret que ma bouche taira.
 
-**** *book_ *id_body-2-56-36 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CHANT DU GRILLON
 
@@ -8185,7 +8075,7 @@ Moi seul je m'ennuie ;
 Un mur, noir de suie,
 Est mon horizon.
 
-**** *book_ *id_body-2-56-37 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ABSENCE
 
@@ -8229,7 +8119,7 @@ Et dis, mon âme, à cette belle :
 O ma colombe ! à tire d'aile,
 Retourne au nid de nos amours. »
 
-**** *book_ *id_body-2-56-38 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 AU SOMMEIL HYMNE ANTIQUE
 
@@ -8286,7 +8176,7 @@ Où les songes légers mènent sans bruit leur ronde,
 Reçois bénignement mon encens et mes vœux,
 Sommeil, dieu triste et doux, consolateur du monde !
 
-**** *book_ *id_body-2-56-39 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 TERZA RIMA
 
@@ -8344,7 +8234,7 @@ Et que le ciel de marbre où leur front touche presque.
 
 Sublime aveuglement ? magnifique défaut !
 
-**** *book_ *id_body-2-56-40 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MONTÉE SUR LE BROCKEN
 
@@ -8377,7 +8267,7 @@ Le ciel est tout rayé de ses pâles sillons,
 Et la mort, dans ses doigts, tordant ce fil qui tombe,
 Vous tisse un blanc linceul pour votre froide tombe.
 
-**** *book_ *id_body-2-56-41 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE PREMIER RAYON DE MAI
 
@@ -8418,7 +8308,7 @@ Et qu'on pouvait encor, les coudes sur la table,
 Auprès de sa maîtresse, ainsi qu'aux premiers jours,
 Célébrer le printemps, le vin et les amours.
 
-**** *book_ *id_body-2-56-42 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE LION DU CIRQUE
 
@@ -8460,7 +8350,7 @@ Silencieusement à l'angle d'une pierre,
 Ou contre les barreaux de ton noir souterrain,
 Aiguise le tranchant de tes ongles d'airain.
 
-**** *book_ *id_body-2-56-43 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LAMENTO
 
@@ -8506,7 +8396,7 @@ Au manteau noir,
 Chanter sur la branche de l'if
 Son chant plaintif !
 
-**** *book_ *id_body-2-56-44 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 BARCAROLLE
 
@@ -8546,7 +8436,7 @@ Où l'on aime toujours.
 On ne la connaît guère
 Au pays des amours.
 
-**** *book_ *id_body-2-56-45 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 TRISTESSE
 
@@ -8586,7 +8476,7 @@ Sous le pâle gazon,
 Une fosse sans nom.
 Hélas ! j'ai dans le cœur une tristesse affreuse.
 
-**** *book_ *id_body-2-56-46 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 QUI SERA ROI ?
 
@@ -8776,7 +8666,7 @@ Sans pouvoir achever la courbe commencée,
 Des sommités du ciel, à mes pieds, sur le roc,
 Tu tomberas tout droit orgueilleux oiseau Rock !
 
-**** *book_ *id_body-2-56-47 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 COMPENSATION
 
@@ -8830,7 +8720,7 @@ Tant de monstres impurs échappés de tes mains,
 
 Nature, tu nous dois encor bien des poëtes !
 
-**** *book_ *id_body-2-56-48 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CHINOISERIE
 
@@ -8854,7 +8744,7 @@ Que l'hirondelle, en volant, vient toucher,
 Et, chaque soir, aussi bien qu'un poëte,
 Chante le saule et la fleur du pêcher.
 
-**** *book_ *id_body-2-56-49 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET
 
@@ -8876,7 +8766,7 @@ Ses mouvements sont pleins d'une grâce chinoise,
 Et près d'elle on respire autour de sa beauté
 Quelque chose de doux comme l'odeur du thé.
 
-**** *book_ *id_body-2-56-50 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A DEUX BEAUX YEUX
 
@@ -8898,7 +8788,7 @@ Ils sont si transparents qu'ils laissent voir votre âme,
 Comme une fleur céleste au calice idéal
 Que l'on apercevrait à travers un cristal.
 
-**** *book_ *id_body-2-56-51 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE THERMODON
 
@@ -9092,7 +8982,7 @@ Laissèrent, tout meurtris, choir leurs glaives sanglants,
 Trop faibles ouvriers pour de si fortes âmes,
 Et dans l'eau, jusqu'au soir, il plut des corps de femmes !
 
-**** *book_ *id_body-2-56-52 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉLÉGIE
 
@@ -9213,7 +9103,7 @@ Comme la gloire est creuse et vous contente peu !
 L'amour seul peut combler les profondeurs de l'ame
 Et toute ambition meurt aux bras d'une femme !
 
-**** *book_ *id_body-2-56-53 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA BONNE JOURNÉE
 
@@ -9244,7 +9134,7 @@ J'ai poursuivi mon œuvre avec religion,
 L'œuvre de mon amour qui, mort, me fera vivre,
 Et ma journée ajoute un feuillet à mon livre.
 
-**** *book_ *id_body-2-56-54 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'HIPPOPOTAME
 
@@ -9268,7 +9158,7 @@ De ma conviction couvert,
 Forte armure que rien n'entame,
 Je vais sans peur par le désert.
 
-**** *book_ *id_body-2-56-55 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 VILLANELLE RHYTHMIQUE
 
@@ -9299,7 +9189,7 @@ En panier enlaçant nos doigts,
 Revenons rapportant des fraises
 Des bois.
 
-**** *book_ *id_body-2-56-56 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE SOMMET DE LA TOUR
 
@@ -9531,7 +9421,7 @@ Et la gloire, la gloire, astre et soleil de l'âme,
 Dans un océan d'or, avec le globe en flamme,
 Majestueusement monter à l'horizon !
 
-**** *book_ *id_body-2-57-1 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PORTAIL
 
@@ -9896,7 +9786,7 @@ Consommait son hymen avec la trépassée,
 Éveillée en sursaut dans sa couche glacée,
 Par cette nuit d'hiver.
 
-**** *book_ *id_body-2-57-2-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA TRÉPASSÉE.
 
@@ -10005,7 +9895,7 @@ Et, me suivant partout, mille cloches fêlées,
 Comme des voix de mort, me jetaient par volées
 Les râlements du glas.
 
-**** *book_ *id_body-2-57-2-4 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 III
 
@@ -10156,7 +10046,7 @@ Et je vis s'envoler, comme on voit quelque orfraie,
 Que sous l'arceau gothique une lueur effraie,
 L'étrange vision !
 
-**** *book_ *id_body-2-57-3-1 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 IV
 
@@ -10307,7 +10197,7 @@ Filez-leur un suaire avec le lin des langes.
 Vos fils, fussent-ils purs et beaux comme les anges,
 Sont condamnés à mort !
 
-**** *book_ *id_body-2-57-3-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 V
 
@@ -10458,7 +10348,7 @@ Ne cherchez pas un mot qui n'est pas dans le livre ;
 Pour savoir comme on vit n'oubliez pas de vivre :
 Aimez, car tout est là !
 
-**** *book_ *id_body-2-57-3-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 VI
 
@@ -10609,7 +10499,7 @@ Il ne me répond rien ; dites, quel est cet homme,
 O Mort, et savez-vous le nom dont on le nomme ?
 — Cet homme, c'est don Juan.
 
-**** *book_ *id_body-2-57-3-4 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 VII
 
@@ -10760,7 +10650,7 @@ Fouillez les noirs écueils qu'on n'a pu reconnaître,
 Et dans son coffre d'or vous trouverez peut-être
 L'anneau de Salomon !
 
-**** *book_ *id_body-2-57-3-5 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 VIII
 
@@ -10911,7 +10801,7 @@ Le seul qui devina cette énigme funeste
 Tua Laïus son père, et commit un inceste :
 Triste prix du vainqueur !
 
-**** *book_ *id_body-2-57-3-6 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 IX
 
@@ -11101,7 +10991,7 @@ Vous le faites, ô reine ! et dans mon cœur surpris
 Je sens germer les vers, et toute réjouie,
 S'ouvrir comme une fleur la rime épanouie !
 
-**** *book_ *id_body-2-58-2 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A LA PRINCESSE BATHILDE
 
@@ -11130,7 +11020,7 @@ Et la réalité fait envoler le rêve ;
 Mais en attraits divins, en chaste volupté,
 Quel rêve peut valoir votre réalité !
 
-**** *book_ *id_body-2-58-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 OUI, FORSTER, J'ADMIRAIS....
 
@@ -11155,7 +11045,7 @@ Dans les contours nacrés de sa conque vermeille,
 Tremblant d'émotion, pâlissant, éperdu,
 Un mot mystérieux, d'elle seule entendu !
 
-**** *book_ *id_body-2-58-4 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PRIÈRE
 
@@ -11179,7 +11069,7 @@ Par pitié, laissez-moi monter sur vos genoux,
 Moi pauvre jeune fille, isolée, orpheline,
 Qui n'ai d'espoir qu'en Dieu, qui n'ai d'espoir qu'en vous !
 
-**** *book_ *id_body-2-58-5 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A UNE JEUNE ITALIENE
 
@@ -11198,7 +11088,7 @@ Ton âme s'est trompée à sa douce chaleur :
 Tes yeux bleus sont encor les seules violettes,
 Et le printemps ne rit que sur ta joue en fleur !
 
-**** *book_ *id_body-2-58-6 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A TROIS PAYSAGISTES SALON DE 1839
 
@@ -11348,7 +11238,7 @@ Les ruisseaux miroitants lancent des reflets ternes,
 Partout des bruits de char, des chants, des voix, des cris.
 Blonde Italie, adieu ! — Nous sommes à Paris !
 
-**** *book_ *id_body-2-58-7 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 FATUITÉ
 
@@ -11372,7 +11262,7 @@ J'ai plusieurs ennemis et quelques envieux ;
 Mais l'amitié chez moi toujours trouve un asile.
 Et le bonheur d'autrui n'offense pas mes yeux.
 
-**** *book_ *id_body-2-58-8 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES MATELOTS
 
@@ -11416,7 +11306,7 @@ Des flots rasant la cime,
 Dans le grand désert bleu
 Nous marchons avec Dieu !
 
-**** *book_ *id_body-2-58-9 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA FUITE
 
@@ -11465,7 +11355,7 @@ Si l'eau manque aux stations,
 Bois les larmes de ma joie.
 Fuyons ! fuyons !
 
-**** *book_ *id_body-2-58-10 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 GAZHEL
 
@@ -11508,7 +11398,7 @@ Le trésor que préfère
 Mon cœur jeune et sincère.
 C'est amour pour amour !
 
-**** *book_ *id_body-2-58-11 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DANS UN BAISER, L'ONDE.....
 
@@ -11539,7 +11429,7 @@ Ne me répond,
 Rien que ta voix morne et profonde,
 Sombre Hellespont !
 
-**** *book_ *id_body-2-58-12 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SULTAN MAHMOUD
 
@@ -11585,7 +11475,7 @@ Plaisent un jour...
 Hélas ! j'ai six cents femmes,
 Et pas d'amour !
 
-**** *book_ *id_body-2-58-13 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE PUITS MYSTÉRIEUX
 
@@ -11609,7 +11499,7 @@ Pour faire monter l'eau du divin sentiment,
 Jeté l'or de son cœur au puits sans fond d'une âme,
 Sur l'abîme muet penché stupidement !
 
-**** *book_ *id_body-2-58-14 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ESCLAVE
 
@@ -11634,7 +11524,7 @@ Et, pour endormir ma souffrance,
 Suspends mon âme sur son cœur
 Comme une fleur !
 
-**** *book_ *id_body-2-58-15 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES TACHES JAUNES
 
@@ -11683,7 +11573,7 @@ De ce ciel où je te crois,
 Reviendrais-tu pour me rendre
 Les baisers que tu me dois ?
 
-**** *book_ *id_body-2-58-16 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ONDINE ET LE PÊCHEUR
 
@@ -11736,7 +11626,7 @@ D'un baiser
 M'apaiser,
 T'épuiser !... »
 
-**** *book_ *id_body-2-58-17 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 J'AI TOUT DONNÉ POUR RIEN
 
@@ -11810,7 +11700,7 @@ J'engagerais mon bien...
 Reprenez votre somme,
 J'ai tout donné pour rien.
 
-**** *book_ *id_body-2-58-18 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A DES AMIS QUI PARTAIENT SONNET
 
@@ -11832,7 +11722,7 @@ Horace fit une ode au vaisseau de Virgile :
 Moi, j'implore pour vous, dans ces quatorze vers,
 Les faveurs de Thétis, la déesse aux yeux verts.
 
-**** *book_ *id_body-2-58-19 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 AMBITION SONNET
 
@@ -11854,7 +11744,7 @@ Mais qui donc comblera l'abîme de ton cœur ?
 Que veux-tu qu'on y jette, ô poëte ! ô vainqueur ?
 — Un mot d'amour tombé d'une bouche de femme !
 
-**** *book_ *id_body-3-1 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 DÉPART
 
@@ -11983,7 +11873,7 @@ Semble n'avoir plus d'âme et pleurer votre perte,
 Et le chien qui s'ennuie et voudrait vous revoir
 Au détour du chemin va hurler chaque soir.
 
-**** *book_ *id_body-3-2 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE PIN DES LANDES
 
@@ -12007,7 +11897,7 @@ Lorsqu'il est sans blessure, il garde son trésor.
 Il faut qu'il ait au cœur une entaille profonde
 Pour épancher ses vers, divines larmes d'or !
 
-**** *book_ *id_body-3-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'HORLOGE
 
@@ -12063,7 +11953,7 @@ Vous porte dans le flanc la suprême blessure,
 Et remonte à cheval, après avoir jeté
 Le cadavre au néant, l'âme à l'éternité !
 
-**** *book_ *id_body-3-4 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A LA BIDASSOA.....
 
@@ -12088,7 +11978,7 @@ Qui répand de sa corne une meilleure graine,
 Fait taire les canons à ses pieds accroupis,
 Et presse sur son cœur une gerbe d'épis.
 
-**** *book_ *id_body-3-5 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SAINTE CASILDA SONNET
 
@@ -12110,7 +12000,7 @@ Mais la sainte en extase, oubliant sa douleur,
 Comme aux bras d'un amant, de volupté se pâme,
 Car aux lèvres du Christ elle suspend son âme !
 
-**** *book_ *id_body-3-6 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 EN ALLANT A LA CHARTREUSE DE MIRAFLORES
 
@@ -12129,7 +12019,7 @@ Mais, quand on est en haut, coup d'œil inespéré !
 L'on aperçoit là-bas, dans le bleu de la plaine,
 L'église où dort le Cid près de doña Chimène !
 
-**** *book_ *id_body-3-7 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA FONTAINE DU CIMETIÈRE
 
@@ -12161,7 +12051,7 @@ Dans le cristal glacé quand je trempai ma lèvre,
 Je me sentis saisi par un frisson de fièvre :
 Cette eau de diamant avait un goût de mort !
 
-**** *book_ *id_body-3-8 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE CID ET LE JUIF IMITÉ DE SEPULVEDA
 
@@ -12222,7 +12112,7 @@ Puis de religion il change,
 Et sous le nom de Diego Gil
 Entre au couvent. — Ainsi soit-il.
 
-**** *book_ *id_body-3-9 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 EN PASSANT A VERGARA
 
@@ -12307,7 +12197,7 @@ Ta figure est déjà bleue et décomposée,
 Tes parfums sont changés en fétides odeurs,
 Et tu n'es qu'un ramas d'effroyables laideurs !
 
-**** *book_ *id_body-3-10 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES YEUX BLEUS DE LA MONTAGNE
 
@@ -12325,7 +12215,7 @@ Par lesquels la montagne en extase contemple,
 Forgeant quelque soleil dans le fond de son temple,
 Dieu, l'ouvrier jaloux !
 
-**** *book_ *id_body-3-11 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA PETITE FLEUR ROSE
 
@@ -12379,7 +12269,7 @@ J'aime, au cœur du rocher,
 La petite fleur rose,
 La fleur qu'il faut chercher !
 
-**** *book_ *id_body-3-12 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A MADRID
 
@@ -12410,7 +12300,7 @@ Sur l'atroce sculpture elle passait son pouce,
 Coquette, souriant d'un sourire charmant,
 L'œil humide et lustré comme pour un amant.
 
-**** *book_ *id_body-3-13 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SÉGUIDILLE
 
@@ -12438,7 +12328,7 @@ Alza ! olà !
 Voilà
 La véritable Manola.
 
-**** *book_ *id_body-3-14 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SUR LE PROMÉTHÉE DU MUSÉE DE MADRID SONNET
 
@@ -12460,7 +12350,7 @@ Et tu chasses le chœur des filles de la mer ;
 Et tu laisses hurler, seul dans l'ombre profonde,
 Le sublime voleur de la flamme féconde !
 
-**** *book_ *id_body-3-15 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 RIBEIRA
 
@@ -12550,7 +12440,7 @@ Sur le front de tes saints l'ange de Dieu descend,
 
 En détournant les yeux, il la pose et s'envole !
 
-**** *book_ *id_body-3-16 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ESCURIAL
 
@@ -12575,7 +12465,7 @@ Il ne s'envolait pas des essaims d'hirondelles,
 Qui, pour le réveiller, agacent à coups d'ailes
 Le géant assoupi qui rêve éternité !...
 
-**** *book_ *id_body-3-17 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE ROI SOLITAIRE
 
@@ -12616,7 +12506,7 @@ Les plus hauts monts sont aussi les plus froids ;
 Et nul été ne peut fondre la neige
 Sur les sierras et dans le cœur des rois !
 
-**** *book_ *id_body-3-18 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA VIERGE DE TOLÈDE
 
@@ -12662,7 +12552,7 @@ Sur les autels païens de notre âge frivole
 Descendait et venait visiter son portrait,
 Croyez-vous, ô sculpteurs, qu'elle s'embrasserait ?
 
-**** *book_ *id_body-3-19 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 IN DESERTO
 
@@ -12711,7 +12601,7 @@ Pour se coucher à l'ombre et prendre le repos ;
 Où, comme en un vivier, les cigognes fidèles
 Plongeraient leurs grands becs et laveraient leurs ailes.
 
-**** *book_ *id_body-3-20 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 STANCES
 
@@ -12755,7 +12645,7 @@ J'allai m'asseoir, le cœur plein de rêves charmants,
 S'entr'ouvrira le gouffre où je dois disparaître,
 Pour descendre au séjour des épouvantements !
 
-**** *book_ *id_body-3-21 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 EN PASSANT PRÈS D'UN CIMETIÈRE
 
@@ -12764,7 +12654,7 @@ Au sortir du théâtre et son rôle joué,
 Dépose ses habits d'enfant, d'homme ou de femme,
 Comme un masque qui rend un costume loué !
 
-**** *book_ *id_body-3-22 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES TROIS GRACES DE GRENADE
 
@@ -12830,7 +12720,7 @@ Et bien que Gracia soit le nom qu'on te donne,
 Et que jamais objet n'ait été mieux nommé,
 Tu devrais t'appeler Zoraïde ou Fatmé !
 
-**** *book_ *id_body-3-23 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 J'ÉTAIS MONTÉ PLUS HAUT.....
 
@@ -12855,7 +12745,7 @@ Chaque mont de la chaîne, immense cimetière,
 Cache un corps monstrueux dans son ventre de pierre,
 Et ses blocs de granit sont des os de Titan !
 
-**** *book_ *id_body-3-24 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CONSOLATION
 
@@ -12874,7 +12764,7 @@ Pour que Dieu, dans son œuvre allant et voyageant,
 Comprenne que toujours on fréquente les cimes
 Et qu'on monte au sommet des poëmes sublimes.
 
-**** *book_ *id_body-3-25 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DANS LA SIERRA
 
@@ -12893,7 +12783,7 @@ Ils n'ont que leur beauté, je le sais, c'est bien peu ;
 Mais, moi, je les préfère aux champs gras et fertiles,
 Qui sont si loin du ciel qu'on n'y voit jamais Dieu !
 
-**** *book_ *id_body-3-26 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE POËTE ET LA FOULE
 
@@ -12917,7 +12807,7 @@ Le poëte, à son tour, répondit à la foule :
 N'ai-je pas de mon flanc, d'où mon âme s'écoule,
 Fait jaillir une source où boit le genre humain ?
 
-**** *book_ *id_body-3-27 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE CHASSEUR
 
@@ -12948,7 +12838,7 @@ De son linceul me couvrira,
 Et sur mon corps la neige blanche,
 Tombeau d'argent, s'élèvera.
 
-**** *book_ *id_body-3-28 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ÉCHELLE D'AMOUR SÉRÉNADE
 
@@ -12972,7 +12862,7 @@ Légèrement je gravirai,
 Et jusqu'au ciel, sans être un ange,
 Dans les parfums je monterai !
 
-**** *book_ *id_body-3-29 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 J'AI DANS MON CŒUR ....
 
@@ -12991,7 +12881,7 @@ Et qui pourtant n'est peuplé que de toi,
 Et tu verras, mon amour, que tu règnes
 Sur un pays dont nul homme n'est roi !
 
-**** *book_ *id_body-3-30 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE LAURIER DU GÉNÉRALIFE
 
@@ -13013,7 +12903,7 @@ A l'une de ses fleurs, bouche humide et vermeille,
 Je suspendais ma lèvre, et parfois, ô merveille !
 J'ai cru sentir la fleur me rendre mon baiser...
 
-**** *book_ *id_body-3-31 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA LUNE ET LE SOLEIL
 
@@ -13047,7 +12937,7 @@ Sur la terre et dans les cieux,
 Monsieur mon frère ; et vous êtes
 Un astre bien curieux !
 
-**** *book_ *id_body-3-32 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LETRILLA
 
@@ -13066,7 +12956,7 @@ Pour moi pas de jasmin en fleur ;
 Car une peine m'accompagne,
 Car un chagrin me tient au cœur.
 
-**** *book_ *id_body-3-33 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 J'ALLAIS PARTIR.....
 
@@ -13091,7 +12981,7 @@ A ton lit qu'un cheveu m'enchaîne,
 Se brisât-il, sois-en certaine,
 Je resterai !
 
-**** *book_ *id_body-3-34 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 J'AI LAISSÉ DE MON SEIN DE NEIGE.....
 
@@ -13104,7 +12994,7 @@ Bel œillet aux vives couleurs,
 Pourquoi tomber dans la fontaine ?
 Pour t'arroser j'avais mes pleurs !
 
-**** *book_ *id_body-3-35 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE SOUPIR DU MORE
 
@@ -13149,7 +13039,7 @@ Frais jardins remplis de merveilles,
 Dans mes rêves et dans mes veilles,
 Absent, je vous verrai toujours ! »
 
-**** *book_ *id_body-3-36 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 DEUX TABLEAUX DE VALDÈS LÉAL
 
@@ -13298,7 +13188,7 @@ Voilà donc votre sens, mystérieux emblèmes !
 Et vous nous promettez, pour consolation,
 La triste égalité de la corruption !
 
-**** *book_ *id_body-3-37 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A ZURBARAN
 
@@ -13396,7 +13286,7 @@ Entre ces murs étroits, sous ces voûtes glacées ?
 
 Ce que vous avez fait, le feriez-vous toujours ?...
 
-**** *book_ *id_body-3-38 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PERSPECTIVE SONNET
 
@@ -13418,7 +13308,7 @@ Grands hommes, obstrués et masqués par les sots,
 Comme les hautes tours par les toits de la ville,
 De loin vos fronts grandis montent dans l'air tranquille !
 
-**** *book_ *id_body-3-39 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 AU BORD DE LA MER
 
@@ -13437,7 +13327,7 @@ Lune, j'irais bien me jeter,
 Si tu voulais du ciel descendre,
 Au ciel si je pouvais monter !
 
-**** *book_ *id_body-3-40 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SAINT CHRISTOPHE D'ECIJA
 
@@ -13475,7 +13365,7 @@ L'enfant prédestiné, le rédempteur du monde ;
 C'est l'esprit triomphant, le Verbe souverain :
 Un tel poids fait plier même un géant d'airain !
 
-**** *book_ *id_body-3-41 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PENDANT LA TEMPÊTE
 
@@ -13499,7 +13389,7 @@ Une belle robe en papier d'argent,
 Un cierge à festons pesant quatre livres,
 Et, pour ton Jésus, un petit saint Jean.
 
-**** *book_ *id_body-3-42 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES AFFRES DE LA MORT (SUR LES MURS D'UNE CHARTREUSE)
 
@@ -13583,7 +13473,7 @@ De trépasser en bon chrétien,
 Et te fasse miséricorde ;
 Ici-bas, nul ne peut plus rien !
 
-**** *book_ *id_body-3-43 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ADIEUX A LA POÉSIE SONNET
 
@@ -13753,7 +13643,7 @@ C'est un intérieur de Rembrandt dont on voile
 La dalle lumineuse et la mystique étoile ;
 C'est une nuit profonde où se perd tout contour !
 
-**** *book_ *id_body-4-1-5 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 V
 
@@ -13792,7 +13682,7 @@ Car nous n'étions pas faits pour cette époque immonde
 Et nous avons manqué notre entrée en ce monde,
 Où nos rôles étaient joués...
 
-**** *book_ *id_body-4-2 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉPIGRAPHE PLACÉE EN TÊTE DE :SOUS LA TABLE (Dans les Jeunes-France)
 
@@ -13830,7 +13720,7 @@ Et, nous amadouant de sa voix douce et fausse,
 Nous fasse aller cuver notre vin dans la fosse.
 (La Farce du Monde, Moralité.)
 
-**** *book_ *id_body-4-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉPIGRAPHES PLACÉES EN TÊTE DE DANIEL JOVARD (Dans les Jeunes-France)
 
@@ -13854,7 +13744,7 @@ Avec quelque lambeau de sa peau bleue et verte,
 Son cœur demi-pourri dans sa poitrine ouverte.
 Le mêmeDaniel Jovard, après sa conversion.
 
-**** *book_ *id_body-4-4 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 WLADISLAS III SURNOMMÉ LE VARNÉNIEN (1424-1444) CHANT HISTORIQUE (Traduit littéralement du polonais)
 
@@ -13954,7 +13844,7 @@ Qui ne fit que briller sur le monde et mourut,
 Notre Varnénien, dans l'avril de sa vie,
 Brilla, puis disparut.
 
-**** *book_ *id_body-4-5 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PERPLEXITÉ
 
@@ -14066,7 +13956,7 @@ Et les jurons du temps, et la couleur locale,
 Je vous épargne tout ; — ô faveur sans égale. —
 Sur ce je vous salue, et suis votre valet.
 
-**** *book_ *id_body-4-6 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PROPOS DU CHANT DU CYGNE DERNIERS VERS DE NOURRIT
 
@@ -14080,7 +13970,7 @@ Lasse de trop souffrir,
 S'exhalait en doux chants et déplorait sa peine
 Au moment de mourir !
 
-**** *book_ *id_body-4-7 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA TULIPE SONNET
 
@@ -14102,7 +13992,7 @@ Nulle fleur du jardin n'égale ma splendeur,
 Mais la nature, hélas ! n'a pas versé d'odeur
 Dans mon calice fait comme un vase de Chine.
 
-**** *book_ *id_body-4-8-1 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 I
 
@@ -14148,7 +14038,7 @@ Contre le fait brutal, contre la force injuste,
 Nous soutenions les droits de la pensée auguste,
 Soldats de l'avenir combattant le passé ! »
 
-**** *book_ *id_body-4-8-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 II
 
@@ -14207,7 +14097,7 @@ Pour qui meurt en donnant l'exemple,
 Le sépulcre devient un temple,
 Et le cercueil est un autel !
 
-**** *book_ *id_body-4-8-3 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 III
 
@@ -14274,7 +14164,7 @@ Dont les plaintes en vain ne sont pas étouffées,
 Et qui dote les rois de tous les dons des fées
 La sage Liberté, fille du saint devoir !
 
-**** *book_ *id_body-4-8-4 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 IV
 
@@ -14344,7 +14234,7 @@ Ne pouvant pas encor comprendre,
 Oh ! pur bonheur de l'âge tendre,
 Qu'il est marqué pour être roi !
 
-**** *book_ *id_body-4-9 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA PÉRI
 
@@ -14362,7 +14252,7 @@ Elle eût voulu goûter nos plaisirs, nos amours,
 L'éternité, c'est long ! — Qu'en faire, à moins d'aimer ?
 Elle s'éprit d'Achmet : qui pourrait l'en blâmer ?
 
-**** *book_ *id_body-4-10 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE LION DE L'ATLAS
 
@@ -14394,7 +14284,7 @@ Et vingt crocs dans les chairs enfoncent leurs poignards.
 De voir tes grands lions, jadis si magnanimes,
 Descendre maintenant à des tours de renards ?
 
-**** *book_ *id_body-4-11 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE BÉDOUIN ET LA MER
 
@@ -14427,7 +14317,7 @@ Dans le cristal salé de la coupe des mers :
 « C'était trop beau, dit-il ; d'un tel bien Dieu nous sèvre,
 Et ces flots sont trop purs pour n'être pas amers ! »
 
-**** *book_ *id_body-4-12 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ÉBAUCHE DE PIERROT POSTHUME EN VERS LIBRES
 
@@ -14516,7 +14406,7 @@ Car la femme de Pierrot
 Ne doit pas être soupçonnée !
 . . . . . . . . . . .
 
-**** *book_ *id_body-4-13 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE GLAS INTÉRIEUR
 
@@ -14547,7 +14437,7 @@ Ma peine mêle son hélas !
 Et toujours sonne comme un glas
 Cette phrase : Ta mère est morte !
 
-**** *book_ *id_body-4-14 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA NEIGE FANTAISIE D'HIVER
 
@@ -14616,7 +14506,7 @@ Et qui chez lui fait du feu,
 Ne peut jamais faire attendre
 Une fillette à l'œil bleu !
 
-**** *book_ *id_body-4-15 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET
 
@@ -14638,7 +14528,7 @@ Mais toi, le même soir, sur ton lit parfumé,
 Tu m'as fait voir Vénus, Zoraïde et Diane,
 Corps de déesse grecque, à tête de sultane !
 
-**** *book_ *id_body-4-16 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 MODES ET CHIFFONS SONNET
 
@@ -14660,7 +14550,7 @@ Sur le Chantilly bordant vos mantilles,
 Sur vos peppermints et sur vos manilles ;
 Mais je n'en fais qu'un — pour te l'envoyer.
 
-**** *book_ *id_body-4-17 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES LIONS DE L'ARSENAL, A VENISE (IMITÉ DE GŒTHE)
 
@@ -14679,7 +14569,7 @@ Tristes, sans gloire ; et l'on entend ici
 Miauler partout le chat ailé moderne,
 Que pour patron Venise s'est choisi !
 
-**** *book_ *id_body-4-18 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 FRAGMENTS Intercalés dans l'opéra : Maître Wolfram.
 
@@ -14717,7 +14607,7 @@ Tour à tour,
 Un songe éblouit ma veille,
 Ah ! c'est mon cœur qui s'éveille !
 
-**** *book_ *id_body-4-19 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 NATIVITÉ
 
@@ -14841,7 +14731,7 @@ Et vogue, fort du souvenir,
 Dans ton berceau devenu barque
 Sur l'océan de l'avenir !
 
-**** *book_ *id_body-4-20 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES JOYEUSETÉS DU TRÉPAS
 
@@ -14880,7 +14770,7 @@ Il prend le Pape au Vatican,
 Et, railleur, au ballet bizarre
 Il lui fait danser le cancan !
 
-**** *book_ *id_body-4-21 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CHANSON A BOIRE
 
@@ -14902,7 +14792,7 @@ Devant les brocs qu'il s'agenouille !
 Ou soit mué d'homme en grenouille
 Et barbotte dans les marais !
 
-**** *book_ *id_body-4-22 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LES RODEURS DE NUIT
 
@@ -14926,7 +14816,7 @@ Rhythmant son pas sur le pavé.
 Le noir essaim fuit dans l'espace....
 Le matin honnête est levé !
 
-**** *book_ *id_body-4-23 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE PROFIL PERDU STANCES SUR UNE AQUARELLE DE LA PRINCESSE M⁎⁎⁎
 
@@ -14950,7 +14840,7 @@ Le Sphynx coquet irrite le désir,
 Mais il dit tout en paraissant se taire ;
 S'il se tournait, nous mourrions de plaisir !
 
-**** *book_ *id_body-4-24 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A ERNEST HÉBERT SUR SON TABLEAU LE BANC DE PIERRE
 
@@ -14981,7 +14871,7 @@ La mousse est jaune et la fleur sans parfum ;
 La pierre grise a l'aspect de la tombe
 Qui recouvre l'amour défunt !....
 
-**** *book_ *id_body-4-25 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 TRADUCTION LITTÉRALE Des fragments en vers qui se trouvent dans L'ÉPICURIEN
 
@@ -15165,7 +15055,7 @@ Inondant à présent la vallée et la plaine,
 Comme un géant qui sort de son lit brusquement,
 S'étale et couvre tout de son flot écumant.
 
-**** *book_ *id_body-4-26 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A MARGUERITE A MADAME MARGUERITE DARDENNE DE LA GRANGERIE
 
@@ -15189,7 +15079,7 @@ Et pour la Marguerite, un mandarin morose,
 Vieux rimeur abruti par l'abus de la prose,
 Trouve encore un bouquet de vers épanouis.
 
-**** *book_ *id_body-4-27 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A MARGUERITE A MADAME MARGUERITE DARDENNE DE LA GRANGERIE
 
@@ -15213,7 +15103,7 @@ Ne cherchez pas le mot de l'énigme à côté :
 Martyre, fleur, joyau, vertu, parfum, beauté,
 Tout cela simplement veut dire : Marguerite !
 
-**** *book_ *id_body-4-28 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'IMPASSIBLE SONNET
 
@@ -15235,7 +15125,7 @@ Vous, cependant, avec un calme olympien,
 Comme la Mnémosyne, à son socle accoudée,
 Vous poursuivez, rêveuse, une impossible idée.
 
-**** *book_ *id_body-4-29 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A L. SEXTIUS ODE IV : TRADUITE D'HORACE
 
@@ -15260,7 +15150,7 @@ Les dés ne font plus de monarque,
 Et l'on n'admire plus le tendre Lycidas,
 Que la vierge déjà remarque.
 
-**** *book_ *id_body-4-30 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A L'IMPÉRATRICE
 
@@ -15420,7 +15310,7 @@ Est recueilli pieusement,
 Et de l'enfant l'Impératrice
 Exécute le testament.
 
-**** *book_ *id_body-4-31 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A CLAUDIUS POPELIN SONNET
 
@@ -15442,7 +15332,7 @@ Des reflets de l'iris ton œuvre est nuancée,
 L'ardente transparence y luit sur le paillon,
 Et chez toi l'Idéal a toujours son rayon.
 
-**** *book_ *id_body-4-32 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A INGRES SONNET (En réponse à l'envoi d'un fragment de l'Apothéose d'Homère)
 
@@ -15464,7 +15354,7 @@ Et mon humble logis, devenu, grâce à toi,
 Riche comme un palais et sacré comme un temple,
 Pour ces hôtes divins est à peine assez ample !
 
-**** *book_ *id_body-4-33 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE ROSE SONNET
 
@@ -15486,7 +15376,7 @@ Mais le rose qui monte à votre front nacré
 Au moindre madrigal qu'on vous force d'entendre
 De la fraîche palette est le ton le plus tendre.
 
-**** *book_ *id_body-4-34 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'HIRONDELLE SONNET
 
@@ -15508,7 +15398,7 @@ Mon amour est constant, si mon aile est légère,
 Et sans craindre l'oubli, la folle passagère
 D'un bout du monde à l'autre au même cœur revient.
 
-**** *book_ *id_body-4-35 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ODALISQUE A PARIS A MADAME RIMSKI KORSAKOW
 
@@ -15532,7 +15422,7 @@ Qu'Oshman cherche une autre houri !
 Il est ennuyeux d'être belle,
 Incognito, pour son mari !
 
-**** *book_ *id_body-4-36 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A CHARLES GARNIER (Réponse à une invitation à dîner) ÉPITRE MONORIME
 
@@ -15609,7 +15499,7 @@ Je m'endors et je signe : Ton
 
 amiThéophile Gautier.
 
-**** *book_ *id_body-4-37 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA FUMÉE SONNET
 
@@ -15631,7 +15521,7 @@ J'allume un cigare et ma bien-aimée
 Un papelito roulé par ses doigts,
 Et l'Amour, pour voile, a cette fumée.
 
-**** *book_ *id_body-4-38 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 PROMENADE HORS DES MURS SONNET (D'après une eau-forte de Leys)
 
@@ -15673,7 +15563,7 @@ Par vos perfections mes défauts sont couverts,
 Et sur votre portrait, s'enchâssant en camée,
 Rayonne la beauté qui manque dans mes vers !
 
-**** *book_ *id_body-4-39-2 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET I MILLE CHEMINS, UN SEUL BUT
 
@@ -15695,7 +15585,7 @@ Ainsi fait mon esprit, trompé dans ses détours ;
 Il croit poursuivre un rêve interrompu sans cesse,
 Et devant votre image il se trouve toujours !
 
-**** *book_ *id_body-4-39-3 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET II NE TOUCHEZ PAS AUX MARBRES
 
@@ -15717,7 +15607,7 @@ Le marbre a tressailli, la foudre gronde aux cieux !.....
 Vénus est indulgente, elle comprend, en somme,
 Que le désir d'un Dieu s'allume au cœur d'un homme !
 
-**** *book_ *id_body-4-39-4 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET III BAISER ROSE, BAISER BLEU
 
@@ -15739,7 +15629,7 @@ A ce charmant tableau, je me disais, rêveur,
 Jaloux du reflet rose et du reflet bleuâtre :
 « O trop heureux reflets, s'ils savaient leur bonheur ! »
 
-**** *book_ *id_body-4-39-5 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET IV LA VRAIE ESTHÉTIQUE
 
@@ -15761,7 +15651,7 @@ Tels les pieds de Vénus au rebord de sa conque,
 Une écume de plis caressait leur contour,
 Et semblait murmurer : Le vrai beau, c'est l'amour !
 
-**** *book_ *id_body-4-39-6 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET V BONBONS ET POMMES VERTES
 
@@ -15783,7 +15673,7 @@ Par où vous attaquer ? je ne sais, je l'avoue ;
 Et laissant retomber mes flèches au carquois,
 Je vous désobéis pour la première fois !
 
-**** *book_ *id_body-4-39-7 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET VI LE PIED D'ATALANTE
 
@@ -15805,7 +15695,7 @@ Et mes vers germeront sous ce poids caressant,
 Comme on voit, dans un pré que foule une déesse,
 Naître et s'ouvrir les fleurs sous le pied qui les presse !
 
-**** *book_ *id_body-4-39-8 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET VII L'ETRENNE DU POÈTE
 
@@ -15827,7 +15717,7 @@ Et vous respirerez, indulgente princesse,
 Ce pauvre grain de nard, mon unique trésor,
 Que font brûler mes vers, comme un encensoir d'or.
 
-**** *book_ *id_body-4-39-9 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET VIII LES DÉESSES POSENT
 
@@ -15849,7 +15739,7 @@ Mais si le collier vous manquait,
 Vous seriez dans une chaumière
 Reine encore avec un bouquet !
 
-**** *book_ *id_body-4-39-10 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET IX D'APRÈS VANUTELLI
 
@@ -15871,7 +15761,7 @@ Seigneurs, dames, pigeons, par vous sont copiés
 D'une touche à la fois si libre et naturelle,
 Qu'on dirait le tableau fait d'après l'aquarelle !
 
-**** *book_ *id_body-4-39-11 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET X L'ÉGRATIGNURE
 
@@ -15893,7 +15783,7 @@ Il vous visait au cœur ; la pointe maladroite,
 (Car le dieu tremblait fort devant tant de beauté).
 N'atteignit pas le but et glissa de côté !
 
-**** *book_ *id_body-4-39-12 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET XI LA MÉLODIE ET L'ACCOMPAGNEMENT
 
@@ -15915,7 +15805,7 @@ Mais de tous ces atours, ajustés ou bouffants,
 Orchestre accompagnant votre grâce suprême,
 Le cœur, comme d'un air, ne relient que le thème !
 
-**** *book_ *id_body-4-39-13 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET XII LA ROBE PAILLETÉE
 
@@ -15937,7 +15827,7 @@ Reste d'un deuil de cour, un trait noir circulait
 Sous ce scintillement, pareil à ce filet
 Qui tourne dans le pied des verres de Venise !
 
-**** *book_ *id_body-4-40 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ESCLAVE NOIR STANCES Sur une aquarelle de la princesse M⁎⁎⁎
 
@@ -15961,7 +15851,7 @@ Mais voudra-t-il servir chez nous,
 Ce glorieux nègre que signe
 Une main qu'on baise à genoux ?
 
-**** *book_ *id_body-4-41 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A CLAUDIUS POPELIN SONNET II Écrit sur un exemplaire de la Mode.
 
@@ -15983,7 +15873,7 @@ Elle aurait guipures, malines,
 Une traîne à son cotillon,
 Et pour ceste un tatafouillon !
 
-**** *book_ *id_body-4-42 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET
 
@@ -16005,7 +15895,7 @@ Trop vif était l'amour, trop brûlant le baiser,
 Et, comme la Daphné des Fables de la Grèce,
 La mortelle, du Dieu repoussait la caresse.
 
-**** *book_ *id_body-4-43 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE SONNET A maître Claudius Popelin, émailleur et poëte. SONNET III
 
@@ -16027,7 +15917,7 @@ Là, relevant son voile, apparaît triomphante
 La Belle, la Diva, digne qu'avec amour
 Claudius, sur l'émail, en trace le contour.
 
-**** *book_ *id_body-4-44 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET
 
@@ -16049,7 +15939,7 @@ Et mon rêve grec dans l'or d'un cartel,
 Ressemble aux portraits de rose et de plâtre
 Où la Rosalba met sa fleur bleuâtre.
 
-**** *book_ *id_body-4-45 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE VINGT-SEPT MAI POUR L'ANNIVERSAIRE DE NAISSANCE DE LA PRINCESSE M...
 
@@ -16071,7 +15961,7 @@ Mais mon humble jardin, dont croulent les murailles,
 N'a rien à vous offrir, tout criblé de mitrailles,
 Dans un éclat d'obus que cette pauvre fleur.
 
-**** *book_ *id_body-4-46 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET
 
@@ -16093,7 +15983,7 @@ Et quand le plaisir a brisé nos forces,
 Nonchalant entr'acte à la volupté,
 Nous fumons tous deux en prenant le thé.
 
-**** *book_ *id_body-4-47 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 APRÈS LA BATAILLE SONNET — BOUT-RIMÉ
 
@@ -16115,7 +16005,7 @@ Sur les monts, dont les os changent la plaine en — butte,
 La nature éternelle et que rien ne — rebute,
 Étend un vert linceul fait de mousse et de — jonc !
 
-**** *book_ *id_body-4-48 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A MAXIME DU CAMP SONNET
 
@@ -16137,7 +16027,7 @@ Et sceller les vers qu'écrit le poëte
 Sur le champ d'azur du papier cream laid,
 Avec la devise empruntée à Gœthe !
 
-**** *book_ *id_body-4-49 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 ALLITÉRATIONS MITÉES DE CELLES DU ROMANCERO
 
@@ -16165,7 +16055,7 @@ Pose la tienne chaque soir,
 Et je te promets, sans pārjūre,
 De t'adorer jusqu'au matin !
 
-**** *book_ *id_body-4-50 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 A UNE JEUNE AMIE
 
@@ -16189,7 +16079,7 @@ Et voici qu'au foyer nous nous trouvons encore,
 Vous, bel arbuste en fleur qu'un frais bourgeon décore
 Vous, toujours jeune fille, et moi déjà bien vieux.
 
-**** *book_ *id_body-4-51 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 SONNET
 
@@ -16211,7 +16101,7 @@ Votre main sur mon front, vous me dites des mots
 Que personne ne sait, pour endormir mes maux ;
 — L'heure devient minute et fuit à tire d'ailes !
 
-**** *book_ *id_body-4-52 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 JETTATURA FRAGMENT DE POËME
 
@@ -16314,7 +16204,7 @@ Agite éperdument ses mains désespérées !...
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**** *book_ *id_body-4-53 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 AU BOIS DE BOULOGNE
 
@@ -16348,7 +16238,7 @@ Mettait quelque fraîcheur sur ses tempes veinées,
 Et sa lèvre riait à ses anciens printemps,
 A ses beaux amoureux, défunts depuis trente ans.
 
-**** *book_ *id_body-4-54 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LE RUISSEAU
 
@@ -16382,7 +16272,7 @@ Pour trouver au bord du Ruisseau
 Le cyclamen que Sand préfère
 Et la pervenche de Rousseau.
 
-**** *book_ *id_body-4-55 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 CHEZ LES ÉTOILES FRAGMENT
 
@@ -16554,7 +16444,7 @@ Pour reprendre mon rang dans le céleste chœur,
 Il tombe, hélas, frappé d'une étincelle au cœur !
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**** *book_ *id_body-4-56 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 L'ORESTIE TRAGÉDIE ANTIQUE FRAGMENT LYNCÉE (LE VEILLEUR), sur la tour.
 
@@ -16590,7 +16480,7 @@ Ah ! par pitié pour moi, ne descends pas, Lyncée !
 Le feu peut luire encor, l'heure n'est point passée !
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**** *book_ *id_body-4-57 *date_1885 *creator_gautier 
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885 
 
 LA PERLE DU RIALTO PREMIER ACTE
 
@@ -16989,7 +16879,7 @@ Et le vin trop frappé se morfond dans la glace ;
 Je m'en vais. — Bonne chance ! au sortir du festin
 Je reviendrai tantôt pour savoir ton destin.
 
-**** *book_ *id_body-5-1 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 PRÉFACE
 
@@ -17011,7 +16901,7 @@ Sans prendre garde à l'ouragan
 Qui fouettait mes vitres fermées,
 Moi, j'ai fait Émaux et Camées.
 
-**** *book_ *id_body-5-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 AFFINITÉS SECRÈTES MADRIGAL PANTHÉISTE
 
@@ -17095,7 +16985,7 @@ Quel flot, quel fronton, quel rosier,
 Quel dôme nous connut ensemble,
 Perle ou marbre, fleur ou ramier ?
 
-**** *book_ *id_body-5-3 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LE POËME DE LA FEMME MARBRE DE PAROS
 
@@ -17246,7 +17136,7 @@ De cette paume, livre blanc
 Où Vénus a tracé des signes
 Que l'amour ne lit qu'en tremblant.
 
-**** *book_ *id_body-5-4-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 II LACENAIRE
 
@@ -17342,7 +17232,7 @@ Que l'oripeau rougit encor,
 Fait sur la phrase dédaignée
 Courir ses arabesques d'or.
 
-**** *book_ *id_body-5-5-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 II SUR LES LAGUNES
 
@@ -17386,7 +17276,7 @@ Refait sur un pizzicato,
 Comme autrefois joyeuse et libre,
 La ville de Canaletto !
 
-**** *book_ *id_body-5-5-3 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 III CARNAVAL
 
@@ -17430,7 +17320,7 @@ Sous l'affreux profil de carton,
 Sa lèvre au fin duvet de pêche,
 Et la mouche de son menton.
 
-**** *book_ *id_body-5-5-4 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 IV CLAIR DE LUNE SENTIMENTAL
 
@@ -17474,7 +17364,7 @@ Ah ! vieux thème du carnaval,
 Où le rire aux larmes réplique,
 Que ton charme m'a fait de mal !
 
-**** *book_ *id_body-5-6 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 SYMPHONIE EN BLANC MAJEUR
 
@@ -17568,7 +17458,7 @@ Oh ! qui pourra fondre ce cœur !
 Oh ! qui pourra mettre un ton rose
 Dans cette implacable blancheur !
 
-**** *book_ *id_body-5-7 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 COQUETTERIE POSTHUME
 
@@ -17612,7 +17502,7 @@ D'où nul encor ne s'est levé ;
 Sa bouche en a dit sur ma bouche
 Chaque Pater et chaque Ave.
 
-**** *book_ *id_body-5-8 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 DIAMANT DU CŒUR
 
@@ -17666,7 +17556,7 @@ Roula, trésor inespéré,
 Sur un de mes vers qu'elle noie,
 D'un œil qui n'a jamais pleuré !
 
-**** *book_ *id_body-5-9 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 PREMIER SOURIRE DU PRINTEMPS
 
@@ -17710,7 +17600,7 @@ Et que son règne va finir,
 Au seuil d'avril tournant la tête,
 Il dit : « Printemps, tu peux venir ! »
 
-**** *book_ *id_body-5-10 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 CONTRALTO
 
@@ -17814,7 +17704,7 @@ Réveillant le cœur endormi,
 Mêle aux soupirs de la maîtresse
 L'accent plus mâle de l'ami !
 
-**** *book_ *id_body-5-11 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 CÆRULEI OCULI
 
@@ -17888,7 +17778,7 @@ De ce regard céruléen,
 Et mon cœur, sous l'onde perfide,
 Se noie et consomme l'hymen.
 
-**** *book_ *id_body-5-12 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 RONDALLA
 
@@ -18044,7 +17934,7 @@ Où l'épervier couve son nid,
 Je te pleure, ô ma vieille Égypte,
 Avec des larmes de granit !
 
-**** *book_ *id_body-5-13-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 II L'OBÉLISQUE DE LUXOR
 
@@ -18138,7 +18028,7 @@ Comme moi cependant il sort,
 Mais je reste à ma place ancienne ;
 II est vivant et je suis mort !
 
-**** *book_ *id_body-5-14 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 VIEUX DE LA VIEILLE 15 DÉCEMBRE
 
@@ -18267,7 +18157,7 @@ Dans le ciel qu'emplit son essor,
 Du fond d'une gloire enflammée,
 Étend sur eux ses ailes d'or !
 
-**** *book_ *id_body-5-15 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 TRISTESSE EN MER
 
@@ -18341,7 +18231,7 @@ Et les blancs coursiers de la mer,
 Cabrés sur les vagues, secouent
 Leurs crins échevelés dans l'air.
 
-**** *book_ *id_body-5-16 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 A UNE ROBE ROSE
 
@@ -18385,7 +18275,7 @@ De mes désirs inapaisés,
 Mettant au corps dont tu les sèvres
 Une tunique de baisers.
 
-**** *book_ *id_body-5-17 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LE MONDE EST MÉCHANT
 
@@ -18424,7 +18314,7 @@ Et que tu hais tous ces gens-là.
 Quitte-moi ; — comme ils diront vite :
 Quel cœur et quel esprit elle a !
 
-**** *book_ *id_body-5-18 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 INÈS DE LAS SIERRAS A LA PETRA CAMARA
 
@@ -18533,7 +18423,7 @@ Fermant ses yeux morts de langueur,
 Et comme Inès l'assassinée
 Dansant, un poignard dans le cœur !
 
-**** *book_ *id_body-5-19 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 ODELETTE ANACRÉONTIQUE
 
@@ -18562,7 +18452,7 @@ Sur ton épaule s'abattra,
 Et son bec à pointe rosée
 De ton baiser s'enivrera.
 
-**** *book_ *id_body-5-20 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 FUMÉE
 
@@ -18581,7 +18471,7 @@ Tournant son mince filet bleu,
 De l'âme en ce bouge enfermée
 Porte des nouvelles à Dieu.
 
-**** *book_ *id_body-5-21 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 APOLLONIE
 
@@ -18605,7 +18495,7 @@ Elle s'assoit au trépied d'or,
 Et dans sa pose fatidique
 Attend le dieu qui tarde encor.
 
-**** *book_ *id_body-5-22 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 L'AVEUGLE
 
@@ -18639,7 +18529,7 @@ Quand la mort souffle le flambeau,
 L'âme habituée aux ténèbres
 Y verra clair dans le tombeau !
 
-**** *book_ *id_body-5-23 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LIED
 
@@ -18680,7 +18570,7 @@ Perdait sa farine en tremblant,
 Il fait envoler de sa nuque
 La neige qui la poudre à blanc.
 
-**** *book_ *id_body-5-24-2 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 II
 
@@ -18699,7 +18589,7 @@ Vénus coudoyait Phocion,
 L'Hiver a posé pour statue
 La Frileuse de Clodion.
 
-**** *book_ *id_body-5-24-3 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 III
 
@@ -18718,7 +18608,7 @@ De Coysevox et de Coustou,
 Trouvant leurs écharpes légères,
 Ont des boas autour du cou.
 
-**** *book_ *id_body-5-24-4 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 IV
 
@@ -18737,7 +18627,7 @@ Quand, au milieu des Amours nus,
 Des poils roux d'une bête fauve
 Sort le torse blanc de Vénus.
 
-**** *book_ *id_body-5-24-5 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 V
 
@@ -18756,7 +18646,7 @@ Peut parvenir au nid caché
 Où, de froid la joue encor rose,
 A l'Amour s'enlace Psyché.
 
-**** *book_ *id_body-5-25 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA SOURCE
 
@@ -18795,7 +18685,7 @@ Le géant futur meurt petit ;
 Née à peine, la source tombe
 Dans le grand lac qui l'engloutit !
 
-**** *book_ *id_body-5-26 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 BÛCHERS ET TOMBEAUX
 
@@ -18934,7 +18824,7 @@ Dans la flamme aux sources du beau,
 Sans que ton argile ait la honte
 Et les misères du tombeau !
 
-**** *book_ *id_body-5-27 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LE SOUPER DES ARMURES
 
@@ -19108,7 +18998,7 @@ Et, reprenant un air hautain,
 Sur l'oreiller de marbre appuient
 Leurs têtes lourdes du festin !
 
-**** *book_ *id_body-5-28 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA MONTRE
 
@@ -19162,7 +19052,7 @@ Toujours palpite à mon côté.
 — Celui que rien ne peut distraire,
 Quand je dormais, l'a remonté !
 
-**** *book_ *id_body-5-29 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LES NÉRÉIDES
 
@@ -19231,7 +19121,7 @@ Le paquebot passe et, de loin,
 Croit voir sur la vague élargie
 Une culbute de marsouin.
 
-**** *book_ *id_body-5-30 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LES ACCROCHE-CŒURS
 
@@ -19255,7 +19145,7 @@ Je n'ai qu'un cœur, alors pourquoi,
 Coquette, un accroche-cœur double ?
 Qui donc y pends-tu près de moi ?
 
-**** *book_ *id_body-5-31 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA ROSE-THÉ
 
@@ -19294,7 +19184,7 @@ Et le sang pur d'un noble cœur
 Qui sur la jeunesse s'étale,
 De tous les roses est vainqueur !
 
-**** *book_ *id_body-5-32 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 CARMEN
 
@@ -19328,7 +19218,7 @@ Un grain de sel de cette mer
 D'où jaillit, nue et provocante,
 L'âcre Vénus du gouffre amer.
 
-**** *book_ *id_body-5-33 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 CE QUE DISENT LES HIRONDELLES CHANSON D'AUTOMNE
 
@@ -19412,7 +19302,7 @@ Comme dans le chant de Ruckert,
 Pour voler, là-bas avec elles
 Au soleil d'or, au printemps vert !
 
-**** *book_ *id_body-5-34 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 NOËL
 
@@ -19436,7 +19326,7 @@ Mais sur le toit s'ouvre le ciel
 Et, tout en blanc, le chœur des anges
 Chante aux bergers : « Noël ! Noël ! »
 
-**** *book_ *id_body-5-35 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LES JOUJOUX DE LA MORTE
 
@@ -19480,7 +19370,7 @@ Puérilement douloureux,
 Joujoux d'enfant laissés par l'ange,
 Berceau que la tombe a fait creux !
 
-**** *book_ *id_body-5-36 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 APRÈS LE FEUILLETON
 
@@ -19514,7 +19404,7 @@ Vierge de toute autre liqueur,
 Et que, par la vie écrasée,
 Répand la grappe de mon cœur !
 
-**** *book_ *id_body-5-37 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LE CHÂTEAU DU SOUVENIR
 
@@ -19808,7 +19698,7 @@ Va retourner le sablier.
 Le présent entre dans ma chambre
 Et me dit en vain d'oublier.
 
-**** *book_ *id_body-5-38 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 CAMÉLIA ET PAQUERETTE
 
@@ -19857,7 +19747,7 @@ Camélias si cher payés,
 Pour la petite fleur sous l'herbe,
 En un instant, sont oubliés !
 
-**** *book_ *id_body-5-39 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA FELLAH SUR UNE AQUARELLE DE LA PRINCESSE M…
 
@@ -19881,7 +19771,7 @@ De langueur et de volupté
 Disent, résolvant le problème,
 « Sois l'amour, je suis la beauté. »
 
-**** *book_ *id_body-5-40 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA MANSARDE
 
@@ -19945,7 +19835,7 @@ Qu'une vieille au maigre profil,
 Devant Minet, qu'elle chapitre,
 Tirant sans cesse un bout de fil.
 
-**** *book_ *id_body-5-41 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA NUE
 
@@ -19994,7 +19884,7 @@ Mets dans ton cœur beaucoup de ciel,
 Aime une nue, aime une femme,
 Mais aime ! — C'est l'essentiel ! »
 
-**** *book_ *id_body-5-42 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LE MERLE
 
@@ -20038,7 +19928,7 @@ Car son instinct pressent la loi.
 Qui rit de ta philosophie,
 Beau merle, est moins sage que toi !
 
-**** *book_ *id_body-5-43 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA FLEUR QUI FAIT LE PRINTEMPS
 
@@ -20117,7 +20007,7 @@ Par la chaude ou froide saison,
 Elle sourit, charme et parfume,
 Violette de la maison !
 
-**** *book_ *id_body-5-44 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 DERNIER VŒU
 
@@ -20141,7 +20031,7 @@ Sur ma lèvre un tardif baiser,
 Pour que je puisse dans ma tombe,
 Le cœur tranquille, reposer !
 
-**** *book_ *id_body-5-45 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 PLAINTIVE TOURTERELLE
 
@@ -20175,7 +20065,7 @@ Qui ne peut s'apaiser,
 Reviens, avec son âme,
 Reviens te reposer.
 
-**** *book_ *id_body-5-46 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 LA BONNE SOIRÉE
 
@@ -20263,7 +20153,7 @@ Le temps, jusqu'à l'heure où s'achève
 Sur l'oreiller l'idée en rêve,
     Me sera court.
 
-**** *book_ *id_body-5-47 *date_1885 *creator_gautier
+**** *creator_gautier *book_gautier_poesies *style_verse *date_1885
 
 L'ART
 

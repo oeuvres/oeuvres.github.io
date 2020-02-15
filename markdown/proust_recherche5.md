@@ -1,6 +1,6 @@
 ---
 identifier: proust_recherche5  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date:   
 title: La Prisonnière — À la recherche du temps perdu  
 ---

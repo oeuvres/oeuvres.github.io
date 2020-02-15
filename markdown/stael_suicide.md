@@ -1,6 +1,6 @@
 ---
 identifier: stael_suicide  
-creator: Staël-Holstein, Germaine de  
+creator: Staël-Holstein, Germaine de.  
 date: 1813  
 title: Réflexions sur le suicide  
 ---

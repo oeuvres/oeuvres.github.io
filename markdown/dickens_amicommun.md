@@ -1,6 +1,6 @@
 ---
 identifier: dickens_amicommun  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1865  
 title: L’ami commun  
 ---

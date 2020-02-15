@@ -1,6 +1,6 @@
 ---
 identifier: verne_terrelune  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1865  
 title: De la Terre à la Lune  
 ---

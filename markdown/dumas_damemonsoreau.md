@@ -1,6 +1,6 @@
 ---
 identifier: dumas_damemonsoreau  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1846  
 title: La Dame de Monsoreau  
 ---

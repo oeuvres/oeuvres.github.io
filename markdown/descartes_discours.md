@@ -1,6 +1,6 @@
 ---
 identifier: descartes_discours  
-creator: Descartes, René  
+creator: Descartes, René.  
 date: 1637  
 title: Discours de la méthode  
 ---

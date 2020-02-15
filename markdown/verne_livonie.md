@@ -1,6 +1,6 @@
 ---
 identifier: verne_livonie  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1904  
 title: Un drame en Livonie  
 ---

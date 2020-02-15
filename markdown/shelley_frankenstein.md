@@ -1,6 +1,6 @@
 ---
 identifier: shelley_frankenstein  
-creator: Shelley, Mary  
+creator: Shelley, Mary.  
 date: 1818  
 title: Frankenstein ou le Prométhée moderne  
 ---

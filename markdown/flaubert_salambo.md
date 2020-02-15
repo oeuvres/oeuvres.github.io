@@ -1,6 +1,6 @@
 ---
 identifier: flaubert_salambo  
-creator: Flaubert  
+creator: Flaubert.  
 date: 1862  
 title: Salammbô  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verne_rayonvert  
-creator:   Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1882  
 title: Le rayon vert  
 ---

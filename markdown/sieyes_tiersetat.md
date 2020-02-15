@@ -1,6 +1,6 @@
 ---
 identifier: sieyes_tiersetat  
-creator: Siéyès, Emmanuel Joseph (1748-1836)  
+creator: Siéyès, Emmanuel Joseph.  
 date:   
 title: Qu’est-ce que le Tiers-État ?  
 ---

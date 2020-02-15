@@ -1,6 +1,6 @@
 ---
 identifier: hugo_miserables  
-creator: Hugo, Victor  
+creator: Hugo, Victor.  
 date:   
 title: Les Misérables  
 ---

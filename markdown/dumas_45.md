@@ -1,6 +1,6 @@
 ---
 identifier: dumas_45  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1847  
 title: Les Quarante-cinq  
 ---

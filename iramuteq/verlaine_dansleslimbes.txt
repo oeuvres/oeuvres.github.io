@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p13 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p13 *date_1894 
 
 I
 
@@ -26,7 +26,7 @@ Tout extasié,
 
 Décembre 1892.
 
-**** *book_ *id_p14 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p14 *date_1894 
 
 II
 
@@ -57,7 +57,7 @@ Et pleurant mes désirs brisés.
 
 Décembre 1892.
 
-**** *book_ *id_p15 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p15 *date_1894 
 
 III
 
@@ -94,7 +94,7 @@ C'est peut-être après tout ce qu'il est de meilleur,
 Et j'oublie en ces jeux la volupté brutale,
 Bonne certes, mais moins, qui sait ? que l'idéale.
 
-**** *book_ *id_p16 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p16 *date_1894 
 
 IV
 Bonjour.
@@ -157,7 +157,7 @@ Il dit du mal de moi...
 Mais assez — t'es mignon — de mines furieuses.
 Embrasse... Et causons de choses plus sérieuses.
 
-**** *book_ *id_p17 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p17 *date_1894 
 
 V
 
@@ -191,7 +191,7 @@ Toutes ces mes infractions
 Loin de toi, sauf en laps pressés,
 Par de telles privations !
 
-**** *book_ *id_p18 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p18 *date_1894 
 
 VI
 
@@ -220,7 +220,7 @@ Et de la gentiment taquine intention,
 Me balançaient dans une fausse inquiétude,
 Jusqu'au lendemain, tendre amie au verbe rude.
 
-**** *book_ *id_p19 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p19 *date_1894 
 
 VII
 
@@ -261,7 +261,7 @@ Je les aime encor mieux que des coups de bâtons.
 
 Décembre 1892.
 
-**** *book_ *id_p20 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p20 *date_1894 
 
 VIII
 
@@ -290,7 +290,7 @@ La voix s'envole, mais le souvenir demeure.
 
 1er janvier 1893.
 
-**** *book_ *id_p21 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p21 *date_1894 
 
 IX
 
@@ -316,7 +316,7 @@ Femme bonne qui me défends comme un enfant,
 Femme douce qui me souris, femme sublime,
 O ma femme, qui recevras mon souffle ultime !
 
-**** *book_ *id_p22 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p22 *date_1894 
 
 X
 
@@ -340,7 +340,7 @@ En paix loin du monde imbécile :
 « La vie est là, simple et tranquille ».
 Viens, bien-aimée, et, va, vivons !
 
-**** *book_ *id_p23 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p23 *date_1894 
 
 XI
 
@@ -374,7 +374,7 @@ Pas les vers que je te soupire,
 Soit ! et cette fois je me rends !
 Tu les inspires, c'est bien pire.
 
-**** *book_ *id_p24 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p24 *date_1894 
 
 XII
 
@@ -404,7 +404,7 @@ O muse mienne, ô femme mienne, tu délies
 Et ma langue et mon âme.
       O plus, dis, plus d'absence !
 
-**** *book_ *id_p25 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p25 *date_1894 
 
 XIII
 
@@ -440,7 +440,7 @@ Accours en ce limbe blême :
 Moi qui déjà t'aime et t'aime,
 O que je t'adorerai !
 
-**** *book_ *id_p26 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p26 *date_1894 
 
 XIV
 
@@ -489,7 +489,7 @@ Toi qui, comme le Créateur géant,
 M'as, plus puissante et meilleure encore,
 Tiré de toutes pièces du néant.
 
-**** *book_ *id_p27 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p27 *date_1894 
 
 XV
 
@@ -513,7 +513,7 @@ Soins d'être heureux seuls et nous imite... à distance
 
 Vive, oui, n'est-ce pas, vienne cette existence !
 
-**** *book_ *id_p28 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p28 *date_1894 
 
 XVI
 
@@ -577,7 +577,7 @@ Et, comme elle est toute bonté,
 La voici dans sa majesté
 De reine mienne ramenée.
 
-**** *book_ *id_p29 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dansleslimbes *style_verse *genre_verse *dist1_verlaine_verse_verse_dansleslimbes *dist2_verlaine_verse_verse *id_p29 *date_1894 
 
 XVII
 

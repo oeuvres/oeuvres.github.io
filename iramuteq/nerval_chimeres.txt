@@ -1,6 +1,6 @@
 
 
-**** *book_nerval_chimeres *id_body-1 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 El Desdichado
 
@@ -22,7 +22,7 @@ Et j'ai deux fois vainqueur traversé l'Achéron :
 Modulant tour à tour sur la lyre d'Orphée
 Les soupirs de la sainte et les cris de la fée.
 
-**** *book_nerval_chimeres *id_body-2 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Myrtho
 
@@ -44,7 +44,7 @@ Depuis qu'un duc normand brisa tes dieux d'argile,
 Toujours, sous les rameaux du laurier de Virgile,
 Le pâle Hortensia s'unit au Myrthe vert !
 
-**** *book_nerval_chimeres *id_body-3 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Horus
 
@@ -66,7 +66,7 @@ La Déesse avait fui sur sa conque dorée,
 La mer nous renvoyait son image adorée,
 Et les cieux rayonnaient sous l'écharpe d'Iris.
 
-**** *book_nerval_chimeres *id_body-4 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Antéros
 
@@ -88,7 +88,7 @@ Ils m'ont plongé trois fois dans les eaux du Cocyte,
 Et protégeant tout seul ma mère Amalécyte,
 Je ressème à ses pieds les dents du vieux dragon.
 
-**** *book_nerval_chimeres *id_body-5 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Delfica
 
@@ -110,7 +110,7 @@ Cependant la sibylle au visage latin
 Est endormie encor sous l'arc de Constantin :
 — Et rien n'a dérangé le sévère portique.
 
-**** *book_nerval_chimeres *id_body-6 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Artémis
 
@@ -132,7 +132,7 @@ Roses blanches, tombez ! vous insultez nos dieux :
 Tombez fantômes blancs de votre ciel qui brûle :
 — La sainte de l'abîme est plus sainte à mes yeux !
 
-**** *book_nerval_chimeres *id_body-7 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Le Christ aux oliviers
 Dieu est mort ! le ciel est vide…
@@ -240,7 +240,7 @@ Mais l'oracle invoqué pour jamais dut se taire ;
 Un seul pouvait au monde expliquer ce mystère :
 — Celui qui donna l'âme aux enfants du limon.
 
-**** *book_nerval_chimeres *id_body-8 *date_1854 *creator_nerval
+**** *creator_nerval *book_nerval_chimeres *style_verse *date_1854
 
 Vers dorés
 Eh quoi ! tout est sensible !

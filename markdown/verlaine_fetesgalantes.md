@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_fetesgalantes  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1869  
 title: Fêtes galantes  
 ---

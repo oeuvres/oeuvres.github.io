@@ -1,63 +1,38 @@
 
 
-**** *book_ *id_body-16 *date_1904 *creator_verne
+**** *creator_verne *book_verne_maitredumonde *style_prose *date_1904
 
 Le nid de l'aigle
 
-Le lendemain, lorsque je me réveillai après un assez lourd sommeil, l'appareil ne faisait plus aucun mouvement.
-Je m'en rendis compte aussitôt: il ne roulait pas sur terre, il ne naviguait ni sur ni sous les eaux, il ne volait pas au milieu des airs.
-Devais-je en conclure que son inventeur avait regagné la mystérieuse retraite où jamais être humain n'avait mis le pied avant lui?...
+Le lendemain, lorsque je me réveillai après un assez lourd sommeil, l'appareil ne faisait plus aucun mouvement. Je m'en rendis compte aussitôt: il ne roulait pas sur terre, il ne naviguait ni sur ni sous les eaux, il ne volait pas au milieu des airs. Devais-je en conclure que son inventeur avait regagné la mystérieuse retraite où jamais être humain n'avait mis le pied avant lui?...
 
 Et alors, puisqu'il ne s'était pas débarrassé de ma personne, son secret allait-il enfin m'être révélé?...
 
-Peut-être s'étonnera-t-on que j'eusse si profondément dormi pendant ce voyage aérien.
-Je m'en suis étonné moi-même, et je me demandai si ce sommeil ne fut pas provoqué par une substance soporifique mêlée à mon dernier repas... le capitaine de l'Épouvante voulant me mettre ainsi dans l'impossibilité de connaître le lieu de son atterrissement?...
-Tout ce que je puis affirmer, c'est qu'elle avait été terrible, l'impression que je ressentis au moment où l'appareil, au lieu d'être entraîné dans les tourbillons de la cataracte, s'enleva sous l'action de son moteur, comme un oiseau dont les larges ailes battaient avec une extraordinaire puissance!...
+Peut-être s'étonnera-t-on que j'eusse si profondément dormi pendant ce voyage aérien. Je m'en suis étonné moi-même, et je me demandai si ce sommeil ne fut pas provoqué par une substance soporifique mêlée à mon dernier repas... le capitaine de l'Épouvante voulant me mettre ainsi dans l'impossibilité de connaître le lieu de son atterrissement?... Tout ce que je puis affirmer, c'est qu'elle avait été terrible, l'impression que je ressentis au moment où l'appareil, au lieu d'être entraîné dans les tourbillons de la cataracte, s'enleva sous l'action de son moteur, comme un oiseau dont les larges ailes battaient avec une extraordinaire puissance!...
 
-Ainsi, donc, cet appareil du Maître du Monde répondait à ce quadruple fonctionnement: il était à la fois automobile, bateau, submersible, engin d'aviation.
-Terre, eau, air, à travers ces trois éléments, il pouvait se mouvoir, et avec quelle force, avec quelle rapidité!...
-Quelques instants lui suffisaient à opérer ces merveilleuses transformations!...
-La même machine présidait à ces locomotions diverses!...
-J'avais été le témoin de ces métamorphoses!...
-Mais, ce que j'ignorais encore, ce que je découvrirais peut-être, c'était à quelle source d'énergie puisait cet appareil, et enfin quel était l'inventeur de génie qui, après l'avoir créé de toutes pièces, le dirigeait avec autant d'habileté que d'audace!
+Ainsi, donc, cet appareil du Maître du Monde répondait à ce quadruple fonctionnement: il était à la fois automobile, bateau, submersible, engin d'aviation. Terre, eau, air, à travers ces trois éléments, il pouvait se mouvoir, et avec quelle force, avec quelle rapidité!... Quelques instants lui suffisaient à opérer ces merveilleuses transformations!... La même machine présidait à ces locomotions diverses!... J'avais été le témoin de ces métamorphoses!... Mais, ce que j'ignorais encore, ce que je découvrirais peut-être, c'était à quelle source d'énergie puisait cet appareil, et enfin quel était l'inventeur de génie qui, après l'avoir créé de toutes pièces, le dirigeait avec autant d'habileté que d'audace!
 
-Au moment où l'Épouvante dominait la chute canadienne, j'étais accoté contre le panneau de ma cabine.
-Cette claire soirée me permettait d'observer la direction que suivait l'aviateur.
-Il filait au-dessus de la rivière et dépassa Suspension-bridge, à trois milles en aval du Horse-Shoe-Fall.
-C'est à cet endroit que commencent les infranchissables rapides du Niagara, qui se coude alors pour descendre vers l'Ontario.
+Au moment où l'Épouvante dominait la chute canadienne, j'étais accoté contre le panneau de ma cabine. Cette claire soirée me permettait d'observer la direction que suivait l'aviateur. Il filait au-dessus de la rivière et dépassa Suspension-bridge, à trois milles en aval du Horse-Shoe-Fall. C'est à cet endroit que commencent les infranchissables rapides du Niagara, qui se coude alors pour descendre vers l'Ontario.
 
 À partir de ce point, il me sembla bien que l'appareil obliquait vers l'est...
 
-Le capitaine se tenait toujours à l'arrière.
-Je ne lui avais pas adressé la parole...
-À quoi bon?...
-Il ne m'eût pas répondu.
+Le capitaine se tenait toujours à l'arrière. Je ne lui avais pas adressé la parole... À quoi bon?... Il ne m'eût pas répondu.
 
-Ce que je remarquai, c'est que l'Épouvante gouvernait avec une surprenante facilité.
-Assurément, les routes atmosphériques lui étaient aussi familières que les routes maritimes et les routes terrestres.
+Ce que je remarquai, c'est que l'Épouvante gouvernait avec une surprenante facilité. Assurément, les routes atmosphériques lui étaient aussi familières que les routes maritimes et les routes terrestres.
 
-Et, en présence de pareils résultats, ne comprend-on pas l'immense orgueil de celui qui s'était proclamé Maître du Monde?...
-Ne disposait-il pas d'un engin supérieur à tous autres sortis de la main des hommes et contre lequel les hommes ne pouvaient rien?...
-Et, en vérité, pourquoi l'eût-il vendu, pourquoi eût-il accepté ces millions qui lui furent offerts?...
-Oui! cela m'expliquait bien l'absolue confiance en lui-même qui se dégageait de toute sa personne!...
-Et jusqu'où son ambition le porterait-elle, si, par son excès même, elle dégénérait quelque jour en folie?...
+Et, en présence de pareils résultats, ne comprend-on pas l'immense orgueil de celui qui s'était proclamé Maître du Monde?... Ne disposait-il pas d'un engin supérieur à tous autres sortis de la main des hommes et contre lequel les hommes ne pouvaient rien?... Et, en vérité, pourquoi l'eût-il vendu, pourquoi eût-il accepté ces millions qui lui furent offerts?... Oui! cela m'expliquait bien l'absolue confiance en lui-même qui se dégageait de toute sa personne!... Et jusqu'où son ambition le porterait-elle, si, par son excès même, elle dégénérait quelque jour en folie?...
 
-Une demi-heure après l'envolée de l'Épouvante, j'étais tombé, sans m'en rendre compte, dans un complet anéantissement.
-Je le répète, cet état avait dû être provoqué par quelque soporifique.
-Sans doute, le capitaine ne voulait pas me laisser reconnaître quelle direction il suivait.
+Une demi-heure après l'envolée de l'Épouvante, j'étais tombé, sans m'en rendre compte, dans un complet anéantissement. Je le répète, cet état avait dû être provoqué par quelque soporifique. Sans doute, le capitaine ne voulait pas me laisser reconnaître quelle direction il suivait.
 
-Donc, l'aviateur a-t-il continué son vol à travers l'espace, a-t-il navigué à la surface d'une mer ou d'un lac, s'est-il lancé sur les routes du territoire américain, je ne saurais le dire.
-Aucun souvenir ne m'est resté de ce qui s'est passé pendant cette nuit du 31 juillet au 1er août.
+Donc, l'aviateur a-t-il continué son vol à travers l'espace, a-t-il navigué à la surface d'une mer ou d'un lac, s'est-il lancé sur les routes du territoire américain, je ne saurais le dire. Aucun souvenir ne m'est resté de ce qui s'est passé pendant cette nuit du 31 juillet au 1er août.
 
 Maintenant qu'allait être la suite de cette aventure, et principalement, en ce qui me concernait, quelle en serait la conclusion?...
 
-J'ai dit qu'au moment où mon étrange sommeil avait pris fin, l'Épouvante paraissait être dans une complète immobilité.
-Pas d'erreur à ce sujet: sous quelque forme qu'il se fût produit, j'aurais ressenti ce mouvement, même à travers les airs.
+J'ai dit qu'au moment où mon étrange sommeil avait pris fin, l'Épouvante paraissait être dans une complète immobilité. Pas d'erreur à ce sujet: sous quelque forme qu'il se fût produit, j'aurais ressenti ce mouvement, même à travers les airs.
 
 Lorsque je me réveillai, j'étais dans ma cabine, où j'avais été renfermé sans m'en être aperçu, ainsi que cela s'était fait pendant la première nuit passée à bord de l'Épouvante sur le lac Érié.
 
-Toute la question était de savoir s'il me serait permis de monter sur le pont, puisque l'appareil avait atterri.
-J'essayai de relever le panneau qui résista à la poussée.
+Toute la question était de savoir s'il me serait permis de monter sur le pont, puisque l'appareil avait atterri. J'essayai de relever le panneau qui résista à la poussée.
 
 «Eh! me disais-je, est-ce que la liberté ne me sera pas rendue avant que l'Épouvante n'ait repris sa navigation ou son vol?...»
 
@@ -65,148 +40,77 @@ N'étaient-ce pas, en effet, les deux seules circonstances dans lesquelles toute
 
 On comprend mon impatience, mon inquiétude, ignorant combien de temps durerait cette halte terrestre.
 
-Je n'eus pas plus d'un demi-quart d'heure à attendre.
-Un bruit de barres déplacées parvint à mon oreille.
-Le panneau fut relevé du dehors.
-La lumière et l'air pénétrèrent à flots dans ma cabine.
+Je n'eus pas plus d'un demi-quart d'heure à attendre. Un bruit de barres déplacées parvint à mon oreille. Le panneau fut relevé du dehors. La lumière et l'air pénétrèrent à flots dans ma cabine.
 
 D'un bond, je me retrouvai sur le pont à ma place habituelle.
 
 Mes yeux, en un instant, eurent parcouru tout l'horizon.
 
-L'Épouvante, ainsi que je l'avais pensé, reposait sur le sol, au fond d'un cirque mesurant de quinze à dix-huit cents pieds à sa circonférence.
-Un tapis de gravier jaunâtre le recouvrait sur toute son étendue, où ne poussait pas une seule touffe d'herbe.
+L'Épouvante, ainsi que je l'avais pensé, reposait sur le sol, au fond d'un cirque mesurant de quinze à dix-huit cents pieds à sa circonférence. Un tapis de gravier jaunâtre le recouvrait sur toute son étendue, où ne poussait pas une seule touffe d'herbe.
 
-Ce cirque affectait la forme d'un ovale presque régulier, dont le grand diamètre se tendait du sud au nord.
-Quant à son cadre de roches, quelle était sa hauteur, la disposition de son arête supérieure?...
-Je ne pus en juger.
-Au-dessus de nous s'amassaient des brumes très denses que les rayons du soleil n'avaient pas encore fondues.
-Quelques larges traînées de vapeurs pendaient jusqu'au fond sablonneux.
-Sans doute, le jour était à ses premières heures, et ce brouillard ne tarderait pas à se dissiper.
+Ce cirque affectait la forme d'un ovale presque régulier, dont le grand diamètre se tendait du sud au nord. Quant à son cadre de roches, quelle était sa hauteur, la disposition de son arête supérieure?... Je ne pus en juger. Au-dessus de nous s'amassaient des brumes très denses que les rayons du soleil n'avaient pas encore fondues. Quelques larges traînées de vapeurs pendaient jusqu'au fond sablonneux. Sans doute, le jour était à ses premières heures, et ce brouillard ne tarderait pas à se dissiper.
 
-Il est vrai, j'eus l'impression qu'une température assez froide régnait à l'intérieur de ce cirque, bien que ce fût le premier jour du mois d'août.
-J'en concluais qu'il devait être situé dans une région élevée du Nouveau Continent...
-Laquelle?...
-Impossible de former aucune hypothèse à cet égard.
-En tout cas, si rapide que pût être son vol, l'aviateur n'avait pas eu le temps de traverser l'Atlantique ou le Pacifique, et, depuis notre départ du Niagara, il ne s'était pas écoulé plus d'une douzaine d'heures.
+Il est vrai, j'eus l'impression qu'une température assez froide régnait à l'intérieur de ce cirque, bien que ce fût le premier jour du mois d'août. J'en concluais qu'il devait être situé dans une région élevée du Nouveau Continent... Laquelle?... Impossible de former aucune hypothèse à cet égard. En tout cas, si rapide que pût être son vol, l'aviateur n'avait pas eu le temps de traverser l'Atlantique ou le Pacifique, et, depuis notre départ du Niagara, il ne s'était pas écoulé plus d'une douzaine d'heures.
 
 En ce moment, le capitaine sortait d'une anfractuosité, probablement quelque grotte creusée dans la base de cette enceinte, baignée de brumailles.
 
-Parfois, à travers le brouillard, apparaissaient les silhouettes de grands oiseaux dont le cri rauque troublait le profond silence.
-Et qui sait s'ils ne s'étaient pas effrayés de l'arrivée de ce monstre aux formidables ailes, avec lequel ils n'auraient pu lutter ni en force ni en vitesse!
+Parfois, à travers le brouillard, apparaissaient les silhouettes de grands oiseaux dont le cri rauque troublait le profond silence. Et qui sait s'ils ne s'étaient pas effrayés de l'arrivée de ce monstre aux formidables ailes, avec lequel ils n'auraient pu lutter ni en force ni en vitesse!
 
-Ainsi, tout me portait à le croire, c'était ici que le Maître du Monde se retirait, lorsque ses prodigieux voyages prenaient fin...
-C'était ici la remise de son automobile, le port de son bateau, le nid de son engin d'aviation!
-Et, maintenant, l'Épouvante reposait immobile au fond de ce cirque.
+Ainsi, tout me portait à le croire, c'était ici que le Maître du Monde se retirait, lorsque ses prodigieux voyages prenaient fin... C'était ici la remise de son automobile, le port de son bateau, le nid de son engin d'aviation! Et, maintenant, l'Épouvante reposait immobile au fond de ce cirque.
 
-Enfin, j'allais pouvoir l'examiner, et il ne me semblait pas qu'on songeât à m'en empêcher.
-La vérité est que le capitaine ne paraissait pas plus s'inquiéter de ma présence qu'il ne l'avait fait jusqu'alors.
-Ses deux compagnons venaient de le rejoindre.
-Ils ne tardèrent pas à entrer tous trois dans la grotte dont j'ai parlé.
-Je pouvais donc examiner l'appareil, – à l'extérieur du moins.
-Quant à ses dispositions intérieures, il est probable que j'en serais réduit aux conjectures.
+Enfin, j'allais pouvoir l'examiner, et il ne me semblait pas qu'on songeât à m'en empêcher. La vérité est que le capitaine ne paraissait pas plus s'inquiéter de ma présence qu'il ne l'avait fait jusqu'alors. Ses deux compagnons venaient de le rejoindre. Ils ne tardèrent pas à entrer tous trois dans la grotte dont j'ai parlé. Je pouvais donc examiner l'appareil, – à l'extérieur du moins. Quant à ses dispositions intérieures, il est probable que j'en serais réduit aux conjectures.
 
-En effet, sauf celui de ma cabine, les autres panneaux étaient fermés, et c'est en vain que j'essayai de les ouvrir.
-Après tout, peut-être était-il plus intéressant de reconnaître quel moteur employait l'Épouvante dans ses multiples transformations.
+En effet, sauf celui de ma cabine, les autres panneaux étaient fermés, et c'est en vain que j'essayai de les ouvrir. Après tout, peut-être était-il plus intéressant de reconnaître quel moteur employait l'Épouvante dans ses multiples transformations.
 
 Je sautai à terre, et j'eus tout le loisir de procéder à ce premier examen.
 
-L'appareil était de structure fusiforme, l'avant plus aigu que l'arrière, la coque en aluminium, les ailes en une substance dont je ne pus déterminer la nature.
-Il reposait sur quatre roues d'un diamètre de deux pieds, garnies à la jante de pneus très épais qui assuraient la douceur du roulement à toute vitesse.
-Leurs rayons s'élargissaient comme des palettes, et, alors que l'Épouvante se mouvait sur ou sous les eaux, elles devaient accélérer sa marche.
+L'appareil était de structure fusiforme, l'avant plus aigu que l'arrière, la coque en aluminium, les ailes en une substance dont je ne pus déterminer la nature. Il reposait sur quatre roues d'un diamètre de deux pieds, garnies à la jante de pneus très épais qui assuraient la douceur du roulement à toute vitesse. Leurs rayons s'élargissaient comme des palettes, et, alors que l'Épouvante se mouvait sur ou sous les eaux, elles devaient accélérer sa marche.
 
-Mais ces roues ne formaient pas le principal moteur.
-Celui-ci comprenait deux turbines Parson's, placées longitudinalement de chaque côté de la quille.
-Mues avec une extrême rapidité par la machine, elles provoquaient le déplacement en se vissant dans l'eau, et je me demandai même si elles ne s'employaient pas à la propulsion à travers les milieux atmosphériques.
+Mais ces roues ne formaient pas le principal moteur. Celui-ci comprenait deux turbines Parson's, placées longitudinalement de chaque côté de la quille. Mues avec une extrême rapidité par la machine, elles provoquaient le déplacement en se vissant dans l'eau, et je me demandai même si elles ne s'employaient pas à la propulsion à travers les milieux atmosphériques.
 
-En tout cas, si l'appareil se soutenait et se mouvait en l'air, c'était grâce à ces grandes ailes rabattues, à l'état de repos, sur ses flancs, comme des dérives.
-C'était donc le système du «plus lourd que l'air», appliqué par l'inventeur, – système qui lui permettait de se transporter dans l'espace avec une vitesse supérieure peut-être à celle des plus puissants oiseaux.
+En tout cas, si l'appareil se soutenait et se mouvait en l'air, c'était grâce à ces grandes ailes rabattues, à l'état de repos, sur ses flancs, comme des dérives. C'était donc le système du «plus lourd que l'air», appliqué par l'inventeur, – système qui lui permettait de se transporter dans l'espace avec une vitesse supérieure peut-être à celle des plus puissants oiseaux.
 
-Quant à l'agent qui mettait en action ces divers mécanismes, je le répète, c'était, ce ne pouvait être que l'électricité.
-Mais à quelle source la puisaient les accumulateurs?...
-Existait-il quelque part une fabrique d'énergie électrique où ils s'alimentaient?...
-Est-ce que des dynamos fonctionnaient dans une des cavernes de ce cirque?...
+Quant à l'agent qui mettait en action ces divers mécanismes, je le répète, c'était, ce ne pouvait être que l'électricité. Mais à quelle source la puisaient les accumulateurs?... Existait-il quelque part une fabrique d'énergie électrique où ils s'alimentaient?... Est-ce que des dynamos fonctionnaient dans une des cavernes de ce cirque?...
 
-De mon examen, il résultait donc que si cet appareil faisait usage de roues, de turbines, d'ailes, je ne savais rien ni du mécanisme ni de l'agent qui les mettaient en activité.
-Il est vrai, à quoi m'eût servi la découverte de ce secret?...
-Il aurait fallu être libre, et, après ce que je connaissais – même si peu que ce fût –, le Maître du Monde ne me rendrait pas la liberté!...
+De mon examen, il résultait donc que si cet appareil faisait usage de roues, de turbines, d'ailes, je ne savais rien ni du mécanisme ni de l'agent qui les mettaient en activité. Il est vrai, à quoi m'eût servi la découverte de ce secret?... Il aurait fallu être libre, et, après ce que je connaissais – même si peu que ce fût –, le Maître du Monde ne me rendrait pas la liberté!...
 
-Restait, il est vrai, la possibilité de m'enfuir.
-Or, cette occasion se présenterait-elle jamais?...
-Et si ce n'était au cours des voyages de l'Épouvante, serait-ce lorsqu'elle relâchait dans cette enceinte?...
+Restait, il est vrai, la possibilité de m'enfuir. Or, cette occasion se présenterait-elle jamais?... Et si ce n'était au cours des voyages de l'Épouvante, serait-ce lorsqu'elle relâchait dans cette enceinte?...
 
-Toutefois, première question à résoudre, où était situé ce cirque?...
-En quel endroit l'aviateur venait-il d'atterrir?...
-Quelle communication existait avec la région environnante?...
-Cette enceinte n'offrait-elle aucune issue au-dehors?...
-N'y pouvait-on pénétrer qu'en franchissant ses murailles avec un appareil volant?...
-Et en quelle partie des États-Unis avions-nous pris terre?...
-Assurément, et si rapide qu'eût été son vol, en admettant qu'elle ne fût partie que de la veille, l'Épouvante ne pouvait avoir quitté l'Amérique ni même le Nouveau Monde pour l'Ancien!...
-N'était-il pas raisonnable d'estimer à quelques centaines de lieues seulement le parcours effectué durant la nuit?...
+Toutefois, première question à résoudre, où était situé ce cirque?... En quel endroit l'aviateur venait-il d'atterrir?... Quelle communication existait avec la région environnante?... Cette enceinte n'offrait-elle aucune issue au-dehors?... N'y pouvait-on pénétrer qu'en franchissant ses murailles avec un appareil volant?... Et en quelle partie des États-Unis avions-nous pris terre?... Assurément, et si rapide qu'eût été son vol, en admettant qu'elle ne fût partie que de la veille, l'Épouvante ne pouvait avoir quitté l'Amérique ni même le Nouveau Monde pour l'Ancien!... N'était-il pas raisonnable d'estimer à quelques centaines de lieues seulement le parcours effectué durant la nuit?...
 
-Il se présentait bien une hypothèse qui, me revenant parfois à l'esprit, méritait d'être examinée, sinon d'être admise.
-Pourquoi l'Épouvante n'aurait-elle pas eu pour port d'attache précisément le Great-Eyry?...
-Est-ce que cet appareil volant n'avait pas toute facilité pour y pénétrer?...
-Ce que faisaient les vautours et les aigles, un aviateur n'était-il pas capable de le faire?...
-Cette aire inaccessible n'offrait-elle pas au Maître du Monde une si mystérieuse retraite que notre police n'avait su découvrir, et dans laquelle il devait se croire hors d'atteinte?...
-D'ailleurs, la distance entre Niagara-Falls et cette partie des Montagnes-Bleues ne dépasse pas quatre cent cinquante milles, et, en douze heures, l'Épouvante avait pu la franchir!...
+Il se présentait bien une hypothèse qui, me revenant parfois à l'esprit, méritait d'être examinée, sinon d'être admise. Pourquoi l'Épouvante n'aurait-elle pas eu pour port d'attache précisément le Great-Eyry?... Est-ce que cet appareil volant n'avait pas toute facilité pour y pénétrer?... Ce que faisaient les vautours et les aigles, un aviateur n'était-il pas capable de le faire?... Cette aire inaccessible n'offrait-elle pas au Maître du Monde une si mystérieuse retraite que notre police n'avait su découvrir, et dans laquelle il devait se croire hors d'atteinte?... D'ailleurs, la distance entre Niagara-Falls et cette partie des Montagnes-Bleues ne dépasse pas quatre cent cinquante milles, et, en douze heures, l'Épouvante avait pu la franchir!...
 
-Oui! cette idée prenait peu à peu consistance dans mon cerveau au milieu de tant d'autres!...
-Et les relations dont je ne voyais pas la nature entre le Great-Eyry et l'auteur de la lettre aux initiales ne s'expliquaient-elles pas ainsi?...
-Et les menaces proférées contre moi si je renouvelais ma tentative?...
-Et l'espionnage dont j'avais été l'objet?...
-Et ces phénomènes dont le Great-Eyry fut le théâtre ne devaient-ils pas lui être attribués pour une raison qui m'échappait encore?...
-Oui! le Great-Eyry!... le Great-Eyry!...
-Et, puisqu'il m'avait été impossible d'y pénétrer jusqu'alors, me serait-il possible d'en sortir autrement qu'à bord de l'Épouvante?...
+Oui! cette idée prenait peu à peu consistance dans mon cerveau au milieu de tant d'autres!... Et les relations dont je ne voyais pas la nature entre le Great-Eyry et l'auteur de la lettre aux initiales ne s'expliquaient-elles pas ainsi?... Et les menaces proférées contre moi si je renouvelais ma tentative?... Et l'espionnage dont j'avais été l'objet?... Et ces phénomènes dont le Great-Eyry fut le théâtre ne devaient-ils pas lui être attribués pour une raison qui m'échappait encore?... Oui! le Great-Eyry!... le Great-Eyry!... Et, puisqu'il m'avait été impossible d'y pénétrer jusqu'alors, me serait-il possible d'en sortir autrement qu'à bord de l'Épouvante?...
 
-Ah! si la brume se dissipait, peut-être le reconnaîtrais-je?...
-Peut-être cette hypothèse se changerait-elle en réalité?...
+Ah! si la brume se dissipait, peut-être le reconnaîtrais-je?... Peut-être cette hypothèse se changerait-elle en réalité?...
 
 Cependant, puisque j'avais toute liberté d'aller et de venir, puisque ni le capitaine ni ses compagnons ne s'inquiétaient de moi, je voulus faire le tour de l'enceinte.
 
 En ce moment, tous trois étant dans cette grotte, à l'extrémité nord de l'ovale, c'est par l'extrémité sud que je commençai mon inspection.
 
-Arrivé près de la muraille, j'en longeai la base creusée de nombreuses anfractuosités.
-Au-dessus se dressait la paroi lisse de ces roches de feldspath dont est formée la chaîne des Alleghanys.
-À quelle hauteur montait cette paroi, quelle disposition affectait son arête supérieure, impossibilité de le voir encore, et il fallait attendre que la brume se fût dissipée soit sous la brise, soit sous l'action des rayons solaires.
+Arrivé près de la muraille, j'en longeai la base creusée de nombreuses anfractuosités. Au-dessus se dressait la paroi lisse de ces roches de feldspath dont est formée la chaîne des Alleghanys. À quelle hauteur montait cette paroi, quelle disposition affectait son arête supérieure, impossibilité de le voir encore, et il fallait attendre que la brume se fût dissipée soit sous la brise, soit sous l'action des rayons solaires.
 
-Entre-temps, je continuais à suivre le contour du massif, dont les cavités n'étaient éclairées que par leur orifice.
-Divers débris gisaient à l'intérieur, des morceaux de bois, des amas d'herbes sèches.
-Au-dedans se voyaient encore les empreintes de pas que le capitaine et ses compagnons avaient laissées sur le sable.
+Entre-temps, je continuais à suivre le contour du massif, dont les cavités n'étaient éclairées que par leur orifice. Divers débris gisaient à l'intérieur, des morceaux de bois, des amas d'herbes sèches. Au-dedans se voyaient encore les empreintes de pas que le capitaine et ses compagnons avaient laissées sur le sable.
 
-Du reste, ils ne se montraient pas, très occupés sans doute dans cette grotte, devant laquelle étaient déposés plusieurs ballots.
-Ces ballots, devaient-ils les transporter à bord de l'Épouvante, et procédaient-ils à une sorte de déménagement en vue de définitivement quitter cette retraite?...
+Du reste, ils ne se montraient pas, très occupés sans doute dans cette grotte, devant laquelle étaient déposés plusieurs ballots. Ces ballots, devaient-ils les transporter à bord de l'Épouvante, et procédaient-ils à une sorte de déménagement en vue de définitivement quitter cette retraite?...
 
-Le tour achevé, en une demi-heure, je revins vers le centre.
-Çà et là, s'entassaient de larges couches de cendres refroidies, blanchies par le temps, des restes de poutres et de planches calcinées, des montants auxquels adhéraient encore leurs ferrures, des armatures métalliques tordues au feu, débris d'un mécanisme détruit par incinération.
+Le tour achevé, en une demi-heure, je revins vers le centre. Çà et là, s'entassaient de larges couches de cendres refroidies, blanchies par le temps, des restes de poutres et de planches calcinées, des montants auxquels adhéraient encore leurs ferrures, des armatures métalliques tordues au feu, débris d'un mécanisme détruit par incinération.
 
-Assurément, à une époque plus ou moins récente, ce cirque avait été le théâtre d'un incendie, volontaire ou accidentel...
-Et comment ne pas faire un rapprochement entre cet incendie et les phénomènes observés au Great-Eyry, ces flammes apparaissant au-dessus de l'enceinte, ces bruits qui traversaient les airs, et dont s'étaient tant effrayés les habitants du district, ceux de Pleasant-Garden et ceux de Morganton?...
-Mais quel était donc ce matériel, et quel intérêt le capitaine avait-il eu à le détruire?...
+Assurément, à une époque plus ou moins récente, ce cirque avait été le théâtre d'un incendie, volontaire ou accidentel... Et comment ne pas faire un rapprochement entre cet incendie et les phénomènes observés au Great-Eyry, ces flammes apparaissant au-dessus de l'enceinte, ces bruits qui traversaient les airs, et dont s'étaient tant effrayés les habitants du district, ceux de Pleasant-Garden et ceux de Morganton?... Mais quel était donc ce matériel, et quel intérêt le capitaine avait-il eu à le détruire?...
 
-En ce moment, passa toute une risée de brise qui commençait à s'élever dans l'est.
-Le ciel subitement se dégagea des vapeurs.
-L'enceinte fut inondée de lumière sous les rayons du soleil, à mi-chemin de l'horizon et du zénith.
+En ce moment, passa toute une risée de brise qui commençait à s'élever dans l'est. Le ciel subitement se dégagea des vapeurs. L'enceinte fut inondée de lumière sous les rayons du soleil, à mi-chemin de l'horizon et du zénith.
 
 Un cri m'échappa!...
 
-L'arête du cadre rocheux venait de se découvrir à la hauteur d'une centaine de pieds...
-Et du côté de l'est saillit à mes regards cette silhouette si reconnaissable, ce roc taillé en forme d'aigle...
+L'arête du cadre rocheux venait de se découvrir à la hauteur d'une centaine de pieds... Et du côté de l'est saillit à mes regards cette silhouette si reconnaissable, ce roc taillé en forme d'aigle...
 
 C'était bien celui que nous avions remarqué, M. Elias Smith et moi, lors de notre ascension au Great-Eyry!...
 
-Ainsi, plus de doute!
-Pendant la nuit dernière, dans son vol, l'aviateur avait franchi la distance comprise entre le lac Érié et la Caroline du Nord!...
-C'était au fond de cette aire que se remisait l'appareil!...
-C'était ce nid digne du puissant et gigantesque oiseau créé par le génie de son inventeur, duquel il était impossible à tout autre que lui de franchir les infranchissables murailles?...
-Et qui sait même s'il n'avait pas découvert, en quelque profonde anfractuosité, une communication souterraine avec le dehors, et qui lui permettait de quitter le Great-Eyry, en y laissant l'Épouvante?...
+Ainsi, plus de doute! Pendant la nuit dernière, dans son vol, l'aviateur avait franchi la distance comprise entre le lac Érié et la Caroline du Nord!... C'était au fond de cette aire que se remisait l'appareil!... C'était ce nid digne du puissant et gigantesque oiseau créé par le génie de son inventeur, duquel il était impossible à tout autre que lui de franchir les infranchissables murailles?... Et qui sait même s'il n'avait pas découvert, en quelque profonde anfractuosité, une communication souterraine avec le dehors, et qui lui permettait de quitter le Great-Eyry, en y laissant l'Épouvante?...
 
-Ainsi se fit toute complète révélation dans mon esprit!...
-Ainsi s'expliquait la première lettre venue du Great-Eyry, qui me menaçait de mort!...
-Et, si nous avions pu pénétrer dans ce cirque, qui sait si les secrets du Maître du Monde n'eussent pas été découverts avant qu'il eût pu se mettre hors d'atteinte?...
+Ainsi se fit toute complète révélation dans mon esprit!... Ainsi s'expliquait la première lettre venue du Great-Eyry, qui me menaçait de mort!... Et, si nous avions pu pénétrer dans ce cirque, qui sait si les secrets du Maître du Monde n'eussent pas été découverts avant qu'il eût pu se mettre hors d'atteinte?...
 
-J'étais là, immobile, les yeux fixés sur l'aigle de pierre, en proie à une émotion violente!...
-Et, quoi qu'il pût en arriver, je me demandais si, cet appareil, je ne devrais pas tenter de le détruire avant qu'il ne reprît son vol à travers le monde!...
+J'étais là, immobile, les yeux fixés sur l'aigle de pierre, en proie à une émotion violente!... Et, quoi qu'il pût en arriver, je me demandais si, cet appareil, je ne devrais pas tenter de le détruire avant qu'il ne reprît son vol à travers le monde!...
 
 Des pas se firent entendre.
 
@@ -214,11 +118,9 @@ Je me retournai...
 
 Le capitaine s'avançait vers moi, et, s'arrêtant, il me regarda en face.
 
-Alors je ne pus me contenir, et ces mots m'échappèrent: «Le Great-Eyry!...
-Le Great-Eyry!...
+Alors je ne pus me contenir, et ces mots m'échappèrent: «Le Great-Eyry!... Le Great-Eyry!...
 
-–Oui!...
-Inspecteur Strock!...
+–Oui!... Inspecteur Strock!...
 
 –Et vous... le Maître du Monde?...
 
@@ -226,61 +128,39 @@ Inspecteur Strock!...
 
 –Vous?... m'écriai-je au comble de la stupéfaction.
 
-–Moi... répondit-il, en se redressant dans tout son orgueil, moi...
-Robur...
-Robur-le-Conquérant!»
+–Moi... répondit-il, en se redressant dans tout son orgueil, moi... Robur... Robur-le-Conquérant!»
 
 Chapitre XVI.
 
-**** *book_ *id_body-17 *date_1904 *creator_verne
+**** *creator_verne *book_verne_maitredumonde *style_prose *date_1904
 
 Robur-le-Conquérant
 
-Une taille moyenne, avec carrure géométrique – ce que serait un trapèze régulier dont le plus grand côté est formé par la ligne des épaules.
-Sur cette ligne, rattachée par un cou robuste, une énorme tête sphéroïdale.
-Des yeux que la moindre émotion devait porter à l'incandescence, et au-dessus, en permanente contraction, le muscle sourcilier, signe d'extrême énergie.
-Des cheveux courts, un peu crépus, à reflets métalliques, comme eût été un toupet de paille de fer, large poitrine qui s'élevait et s'abaissait avec des mouvements de soufflet de forge, des bras, des mains, des jambes dignes du tronc, pas de moustaches, pas de favoris, une large barbiche à l'américaine, qui laissait voir les attaches de la mâchoire, dont les masséters devaient posséder une puissance formidable.
+Une taille moyenne, avec carrure géométrique – ce que serait un trapèze régulier dont le plus grand côté est formé par la ligne des épaules. Sur cette ligne, rattachée par un cou robuste, une énorme tête sphéroïdale. Des yeux que la moindre émotion devait porter à l'incandescence, et au-dessus, en permanente contraction, le muscle sourcilier, signe d'extrême énergie. Des cheveux courts, un peu crépus, à reflets métalliques, comme eût été un toupet de paille de fer, large poitrine qui s'élevait et s'abaissait avec des mouvements de soufflet de forge, des bras, des mains, des jambes dignes du tronc, pas de moustaches, pas de favoris, une large barbiche à l'américaine, qui laissait voir les attaches de la mâchoire, dont les masséters devaient posséder une puissance formidable.
 
 Tel était le portrait de l'homme extraordinaire que reproduisirent tous les journaux de l'Union, à la date du 13 juin 18..., le lendemain du jour où ce personnage fit son apparition sensationnelle à la séance du Weldon-Institut de Philadelphie.
 
 Et c'était ce Robur-le-Conquérant qui venait de se révéler à moi, en me jetant son nom retentissant comme une menace, et dans l'enceinte même du Great-Eyry!...
 
-Il est nécessaire de rappeler succinctement les faits qui attirèrent sur ledit Robur l'attention de tout le pays.
-D'eux découlent les conséquences de cette prodigieuse aventure dont le dénouement était en dehors des prévisions humaines.
+Il est nécessaire de rappeler succinctement les faits qui attirèrent sur ledit Robur l'attention de tout le pays. D'eux découlent les conséquences de cette prodigieuse aventure dont le dénouement était en dehors des prévisions humaines.
 
-Dans la soirée du 12 juin, à Philadelphie, se tenait une assemblée du Weldon-Institut, président Uncle Prudent, l'un des personnages les plus importants de ce chef-lieu de l'État de Pennsylvanie; secrétaire, Phil Evans, non moins important personnage de la même ville.
-On discutait la grande question des ballons dirigeables.
-Par les soins du conseil d'administration, un aérostat cubant quarante mille mètres cubes, le Go a head, venait d'être construit.
-Son déplacement horizontal devait s'effectuer sous l'action d'une dynamo, à la fois légère et puissante, dont on attendait les meilleurs résultats, et qui actionnerait une hélice.
-Mais où serait établie cette hélice, à l'arrière de la nacelle, suivant les uns, ou à l'avant, suivant les autres!...
+Dans la soirée du 12 juin, à Philadelphie, se tenait une assemblée du Weldon-Institut, président Uncle Prudent, l'un des personnages les plus importants de ce chef-lieu de l'État de Pennsylvanie; secrétaire, Phil Evans, non moins important personnage de la même ville. On discutait la grande question des ballons dirigeables. Par les soins du conseil d'administration, un aérostat cubant quarante mille mètres cubes, le Go a head, venait d'être construit. Son déplacement horizontal devait s'effectuer sous l'action d'une dynamo, à la fois légère et puissante, dont on attendait les meilleurs résultats, et qui actionnerait une hélice. Mais où serait établie cette hélice, à l'arrière de la nacelle, suivant les uns, ou à l'avant, suivant les autres!...
 
-Cette question ne se trouvait pas encore réglée, et, ce jour-là, elle mettait aux prises les «Avantistes» et les «Arriéristes».
-La discussion devint même si vive que certains membres du Weldon-Institut allaient en venir aux mains lorsque, au plus fort de la mêlée, un étranger demanda à être introduit dans la salle des séances.
+Cette question ne se trouvait pas encore réglée, et, ce jour-là, elle mettait aux prises les «Avantistes» et les «Arriéristes». La discussion devint même si vive que certains membres du Weldon-Institut allaient en venir aux mains lorsque, au plus fort de la mêlée, un étranger demanda à être introduit dans la salle des séances.
 
-Il le fut sous le nom de Robur.
-Après avoir réclamé la parole, il l'obtint au milieu d'un silence général.
-Prenant alors franchement position dans le débat relatif aux ballons dirigeables, il déclara que, puisque l'homme était devenu le maître des mers avec le navire mû par la voile, par la roue ou par l'hélice, il ne deviendrait le maître des espaces atmosphériques que par l'emploi d'appareils plus lourds que l'air, attendu qu'il faut être plus lourd pour s'y mouvoir en toute liberté.
+Il le fut sous le nom de Robur. Après avoir réclamé la parole, il l'obtint au milieu d'un silence général. Prenant alors franchement position dans le débat relatif aux ballons dirigeables, il déclara que, puisque l'homme était devenu le maître des mers avec le navire mû par la voile, par la roue ou par l'hélice, il ne deviendrait le maître des espaces atmosphériques que par l'emploi d'appareils plus lourds que l'air, attendu qu'il faut être plus lourd pour s'y mouvoir en toute liberté.
 
-C'était l'éternelle lutte entre l'aérostation et l'aviation.
-Dans cette séance où dominaient les partisans du plus léger que l'air, elle reprit avec une telle intensité que Robur, auquel d'ironiques rivaux donnèrent le nom de Conquérant, dut quitter la salle.
+C'était l'éternelle lutte entre l'aérostation et l'aviation. Dans cette séance où dominaient les partisans du plus léger que l'air, elle reprit avec une telle intensité que Robur, auquel d'ironiques rivaux donnèrent le nom de Conquérant, dut quitter la salle.
 
-Mais, après la disparition de ce singulier personnage, quelques heures plus tard, le président et le secrétaire du Weldon-Institut furent l'objet d'un audacieux enlèvement.
-Au moment où ils traversaient Fairmont-Park, accompagnés du valet Frycolin, plusieurs hommes se jetèrent sur eux, les bâillonnèrent, les ligotèrent; puis, malgré leur résistance, ils les emportèrent à travers les allées désertes et les introduisirent dans un appareil, placé au milieu d'une clairière.
-Le jour venu, prisonniers dans l'aviateur de Robur, ils planaient au milieu des airs au-dessus d'un pays qu'ils cherchaient vainement à reconnaître.
+Mais, après la disparition de ce singulier personnage, quelques heures plus tard, le président et le secrétaire du Weldon-Institut furent l'objet d'un audacieux enlèvement. Au moment où ils traversaient Fairmont-Park, accompagnés du valet Frycolin, plusieurs hommes se jetèrent sur eux, les bâillonnèrent, les ligotèrent; puis, malgré leur résistance, ils les emportèrent à travers les allées désertes et les introduisirent dans un appareil, placé au milieu d'une clairière. Le jour venu, prisonniers dans l'aviateur de Robur, ils planaient au milieu des airs au-dessus d'un pays qu'ils cherchaient vainement à reconnaître.
 
 Uncle Prudent et Phil Evans allaient constater par eux-mêmes que l'orateur de la veille ne les avait pas trompés, qu'il possédait une machine aérienne fondée sur le principe du plus lourd que l'air, laquelle, par bonne ou mauvaise chance – ils le verraient bien –, leur réservait un extraordinaire voyage.
 
-Cet appareil, imaginé et construit par l'ingénieur Robur, reposait sur le double fonctionnement de l'hélice qui, en tournant, progresse dans la direction de son axe.
-Si cet axe est vertical, elle se déplace verticalement; s'il est horizontal, elle se déplace horizontalement.
-Tel l'hélicoptère, qui s'élève parce qu'il frappe obliquement l'air comme s'il se mouvait sur un plan incliné.
+Cet appareil, imaginé et construit par l'ingénieur Robur, reposait sur le double fonctionnement de l'hélice qui, en tournant, progresse dans la direction de son axe. Si cet axe est vertical, elle se déplace verticalement; s'il est horizontal, elle se déplace horizontalement. Tel l'hélicoptère, qui s'élève parce qu'il frappe obliquement l'air comme s'il se mouvait sur un plan incliné.
 
-Cet aviateur, l'Albatros, se composait d'un bâti long de trente mètres, muni de deux propulseurs, l'un à l'avant, l'autre à l'arrière, et d'un jeu de trente-sept hélices suspensives d'axe vertical, soit quinze de chaque côté du bâti, et sept plus élevées au milieu de l'appareil.
-Cela constituait un ensemble de trente-sept mâts, gréés de branches au lieu de voiles, et auxquelles les machines, installées dans les roufs de la plate-forme, imprimaient une rotation prodigieuse.
+Cet aviateur, l'Albatros, se composait d'un bâti long de trente mètres, muni de deux propulseurs, l'un à l'avant, l'autre à l'arrière, et d'un jeu de trente-sept hélices suspensives d'axe vertical, soit quinze de chaque côté du bâti, et sept plus élevées au milieu de l'appareil. Cela constituait un ensemble de trente-sept mâts, gréés de branches au lieu de voiles, et auxquelles les machines, installées dans les roufs de la plate-forme, imprimaient une rotation prodigieuse.
 
-Quant à la force employée pour soutenir et mouvoir cet aviateur, elle n'était fournie ni par la vapeur d'eau ou tout autre liquide, ni par l'air comprimé ou autre gaz élastique.
-Ce n'était pas non plus aux mélanges explosifs que Robur l'avait demandée, mais bien à cet agent qui se prête à tant d'usages, à l'électricité.
-Maintenant, comment et où l'inventeur puisait-il cette électricité dont il chargeait ses piles et ses accumulateurs?...
-Très probablement – on n'a jamais connu son secret –, il la tirait de l'air ambiant, toujours plus ou moins chargé de fluide, ainsi, d'ailleurs, que la tirait de l'eau ambiante ce célèbre capitaine Nemo, lorsqu'il lançait son Nautilus travers les profondeurs de l'Océan.
+Quant à la force employée pour soutenir et mouvoir cet aviateur, elle n'était fournie ni par la vapeur d'eau ou tout autre liquide, ni par l'air comprimé ou autre gaz élastique. Ce n'était pas non plus aux mélanges explosifs que Robur l'avait demandée, mais bien à cet agent qui se prête à tant d'usages, à l'électricité. Maintenant, comment et où l'inventeur puisait-il cette électricité dont il chargeait ses piles et ses accumulateurs?... Très probablement – on n'a jamais connu son secret –, il la tirait de l'air ambiant, toujours plus ou moins chargé de fluide, ainsi, d'ailleurs, que la tirait de l'eau ambiante ce célèbre capitaine Nemo, lorsqu'il lançait son Nautilus travers les profondeurs de l'Océan.
 
 Et ce secret, il faut le dire, ni Oncle Prudent ni Phil Evans ne devaient le découvrir pendant toute la durée d'un voyage aérien qui allait promener l'Albatros au-dessus du sphéroïde terrestre.
 
@@ -288,90 +168,49 @@ Le personnel, aux ordres de l'ingénieur Robur, comprenait un contremaître, nom
 
 Et, ainsi que le dit Robur aux deux passagers – ses compagnons malgré eux –, «Avec mon aviateur, je suis le maître de cette septième partie du monde, plus vaste que l'Australie, l'Océanie, l'Asie, l'Amérique, l'Europe, cette Icarie aérienne, cet immense domaine de l'atmosphère, que des milliers d'Icariens parcourront dans un prochain avenir!»
 
-Alors commença cette aventureuse campagne à bord de l'Albatros et, pour son début, au-dessus des vastes territoires du Nord-Amérique.
-En vain Uncle Prudent et Phil Evans firent-ils entendre des réclamations bien justifiées, elles furent repoussées par Robur, en vertu du droit du plus fort.
-Ils durent se résigner, ou plutôt céder devant ce droit.
+Alors commença cette aventureuse campagne à bord de l'Albatros et, pour son début, au-dessus des vastes territoires du Nord-Amérique. En vain Uncle Prudent et Phil Evans firent-ils entendre des réclamations bien justifiées, elles furent repoussées par Robur, en vertu du droit du plus fort. Ils durent se résigner, ou plutôt céder devant ce droit.
 
-L'Albatros, courant vers l'ouest, dépassa l'énorme chaîne des montagnes Rocheuses, les plaines californiennes; puis, laissant en arrière San Francisco, il traversa la zone septentrionale du Pacifique jusqu'à la presqu'île du Kamtchatka.
-Sous les yeux des passagers de l'aviateur s'étendirent alors les régions du Céleste Empire, et Pékin, la capitale chinoise, fut aperçue dans sa quadruple enceinte.
-Enlevé par ses hélices suspensives l'aviateur monta à de plus hautes altitudes, dépassant les cimes de l'Himalaya, ses sommets blancs de neige et ses glaciers étincelants.
-Cette route vers l'ouest, il n'en dévia pas.
-Après avoir battu l'air au-dessus de la Perse et de la mer Caspienne, il franchit la frontière européenne, puis les steppes moscovites, en suivant la vallée de la Volga, aperçu de Moscou, aperçu de Pétersbourg, signalé par les habitants de la Finlande, par des pêcheurs de la Baltique.
-Abordant la Suède au parallèle de Stockholm et la Norvège à la latitude de Christiania, il redescendit vers le sud, plana à mille mètres au-dessus de la France, et s'abaissant sur Paris, il domina la grande capitale d'une centaine de pieds, tandis que ses fanaux projetaient d'éblouissantes gerbes de lumière.
-Enfin défilèrent l'Italie, avec Florence, Rome et Naples, la Méditerranée qui fut traversée d'un vol oblique.
-L'aéronef avait atteint les côtes de l'immense Afrique qu'il parcourut depuis le cap Spartel du Maroc jusqu'à l'Égypte, au-dessus de l'Algérie, de la Tunisie, de la Tripolitaine.
-Revenant vers Tombouctou, la Reine du Soudan, il s'aventura à la surface de l'Atlantique.
+L'Albatros, courant vers l'ouest, dépassa l'énorme chaîne des montagnes Rocheuses, les plaines californiennes; puis, laissant en arrière San Francisco, il traversa la zone septentrionale du Pacifique jusqu'à la presqu'île du Kamtchatka. Sous les yeux des passagers de l'aviateur s'étendirent alors les régions du Céleste Empire, et Pékin, la capitale chinoise, fut aperçue dans sa quadruple enceinte. Enlevé par ses hélices suspensives l'aviateur monta à de plus hautes altitudes, dépassant les cimes de l'Himalaya, ses sommets blancs de neige et ses glaciers étincelants. Cette route vers l'ouest, il n'en dévia pas. Après avoir battu l'air au-dessus de la Perse et de la mer Caspienne, il franchit la frontière européenne, puis les steppes moscovites, en suivant la vallée de la Volga, aperçu de Moscou, aperçu de Pétersbourg, signalé par les habitants de la Finlande, par des pêcheurs de la Baltique. Abordant la Suède au parallèle de Stockholm et la Norvège à la latitude de Christiania, il redescendit vers le sud, plana à mille mètres au-dessus de la France, et s'abaissant sur Paris, il domina la grande capitale d'une centaine de pieds, tandis que ses fanaux projetaient d'éblouissantes gerbes de lumière. Enfin défilèrent l'Italie, avec Florence, Rome et Naples, la Méditerranée qui fut traversée d'un vol oblique. L'aéronef avait atteint les côtes de l'immense Afrique qu'il parcourut depuis le cap Spartel du Maroc jusqu'à l'Égypte, au-dessus de l'Algérie, de la Tunisie, de la Tripolitaine. Revenant vers Tombouctou, la Reine du Soudan, il s'aventura à la surface de l'Atlantique.
 
 Et, toujours, il marchait en direction du sud-ouest, et rien ne put l'arrêter au-dessus de cette immense plaine liquide, rien, pas même les orages qui éclataient avec une extrême violence, pas même une de ces formidables trombes qui l'enveloppa de tourbillons et d'où, grâce au sang-froid et à l'adresse de son pilote, il put se dégager en la brisant à coups de canon.
 
-Lorsque la terre réapparut, ce fut à l'entrée du détroit de Magellan.
-L'Albatros le traversa du nord au sud pour l'abandonner à l'extrémité du cap Horn et s'élancer au-dessus des parages méridionaux de l'océan Pacifique.
+Lorsque la terre réapparut, ce fut à l'entrée du détroit de Magellan. L'Albatros le traversa du nord au sud pour l'abandonner à l'extrémité du cap Horn et s'élancer au-dessus des parages méridionaux de l'océan Pacifique.
 
-Alors, bravant les régions désolées de la mer Antarctique, après avoir lutté contre un cyclone dont il parvint à gagner le centre relativement calme, Robur se promena sur ces contrées, presque inconnues, de la terre de Graham; au milieu des magnificences d'une aurore australe, il se balança pendant quelques heures au-dessus du pôle.
-Repris par l'ouragan, entraîné vers l'Erebus, qui vomissait ses flammes volcaniques, ce fut miracle s'il put leur échapper.
+Alors, bravant les régions désolées de la mer Antarctique, après avoir lutté contre un cyclone dont il parvint à gagner le centre relativement calme, Robur se promena sur ces contrées, presque inconnues, de la terre de Graham; au milieu des magnificences d'une aurore australe, il se balança pendant quelques heures au-dessus du pôle. Repris par l'ouragan, entraîné vers l'Erebus, qui vomissait ses flammes volcaniques, ce fut miracle s'il put leur échapper.
 
-Enfin, dès la fin de ce mois de juillet, après être remonté vers le Pacifique, il s'arrêta à portée d'une île de l'océan Indien.
-L'ancre, lancée au-dehors, mordit aux rochers du littoral, et l'Albatros, pour la première fois depuis son départ, demeura immobile à cent cinquante pieds du sol, maintenu par ses hélices suspensives.
+Enfin, dès la fin de ce mois de juillet, après être remonté vers le Pacifique, il s'arrêta à portée d'une île de l'océan Indien. L'ancre, lancée au-dehors, mordit aux rochers du littoral, et l'Albatros, pour la première fois depuis son départ, demeura immobile à cent cinquante pieds du sol, maintenu par ses hélices suspensives.
 
-Cette île, ainsi que Uncle Prudent et son compagnon allaient l'apprendre, était l'île Chatam, à 15° dans l'est de la Nouvelle-Zélande.
-Si l'aéronef venait d'y prendre contact, c'est que ses propulseurs, avariés dans le dernier ouragan, exigeaient des réparations sans lesquelles il n'aurait pu regagner l'île X, distante encore de deux mille huit cents milles, – île inconnue de l'océan Pacifique, où avait été construit l'Albatros.
+Cette île, ainsi que Uncle Prudent et son compagnon allaient l'apprendre, était l'île Chatam, à 15° dans l'est de la Nouvelle-Zélande. Si l'aéronef venait d'y prendre contact, c'est que ses propulseurs, avariés dans le dernier ouragan, exigeaient des réparations sans lesquelles il n'aurait pu regagner l'île X, distante encore de deux mille huit cents milles, – île inconnue de l'océan Pacifique, où avait été construit l'Albatros.
 
-Uncle Prudent et Phil Evans comprenaient bien que, réparations faites, l'aviateur reprendrait ses interminables voyages.
-Aussi, alors qu'il était attaché au sol, l'occasion leur parut-elle favorable pour tenter une évasion.
+Uncle Prudent et Phil Evans comprenaient bien que, réparations faites, l'aviateur reprendrait ses interminables voyages. Aussi, alors qu'il était attaché au sol, l'occasion leur parut-elle favorable pour tenter une évasion.
 
-Le câble de l'ancre qui retenait l'Albatros mesurait au plus cent cinquante pieds.
-En s'y laissant glisser, les deux passagers et leur valet Frycollin atteindraient la terre sans trop de peine, et, si l'évasion s'effectuait de nuit, ils ne risquaient point d'être aperçus.
-Il est vrai, au retour de l'aube, la fuite serait découverte, les fugitifs ne pourraient s'échapper de l'île Chatam, et ils seraient repris.
+Le câble de l'ancre qui retenait l'Albatros mesurait au plus cent cinquante pieds. En s'y laissant glisser, les deux passagers et leur valet Frycollin atteindraient la terre sans trop de peine, et, si l'évasion s'effectuait de nuit, ils ne risquaient point d'être aperçus. Il est vrai, au retour de l'aube, la fuite serait découverte, les fugitifs ne pourraient s'échapper de l'île Chatam, et ils seraient repris.
 
-Voici alors l'audacieux parti auquel ils s'arrêtèrent: faire sauter l'appareil au moyen d'une cartouche de dynamite, prise aux munitions du bord, casser les ailes au puissant aviateur, le détruire avec son inventeur et son équipage.
-Avant que cette cartouche eût fait explosion, ils auraient le temps de fuir par le câble et assisteraient à la chute de l'Albatros dont il ne resterait plus pièce.
+Voici alors l'audacieux parti auquel ils s'arrêtèrent: faire sauter l'appareil au moyen d'une cartouche de dynamite, prise aux munitions du bord, casser les ailes au puissant aviateur, le détruire avec son inventeur et son équipage. Avant que cette cartouche eût fait explosion, ils auraient le temps de fuir par le câble et assisteraient à la chute de l'Albatros dont il ne resterait plus pièce.
 
-Ce qu'ils avaient décidé de faire, ils le firent.
-La cartouche allumée, dès le soir venu, tous trois, sans avoir été vus, glissèrent jusqu'au sol.
-Mais, à ce moment, leur évasion fut découverte.
-Des coups de fusil, partis de la plate-forme, furent tirés sans les atteindre.
-Alors Uncle Prudent, se jetant sur le câble de l'ancre, le trancha, et l'Albatros, ne disposant plus de ses hélices propulsives, fut emporté par le vent, et, bientôt brisé par l'explosion, il s'abîmait dans les flots de l'océan Pacifique.
+Ce qu'ils avaient décidé de faire, ils le firent. La cartouche allumée, dès le soir venu, tous trois, sans avoir été vus, glissèrent jusqu'au sol. Mais, à ce moment, leur évasion fut découverte. Des coups de fusil, partis de la plate-forme, furent tirés sans les atteindre. Alors Uncle Prudent, se jetant sur le câble de l'ancre, le trancha, et l'Albatros, ne disposant plus de ses hélices propulsives, fut emporté par le vent, et, bientôt brisé par l'explosion, il s'abîmait dans les flots de l'océan Pacifique.
 
-On ne l'a point oublié, c'était dans la nuit du 12 au 13 juin, que Uncle Prudent, Phil Evans, Frycollin, au sortir du Weldon-Institut avaient disparu.
-Depuis lors, aucune nouvelle d'eux.
-Impossible de former une hypothèse à ce sujet.
-Existait-il une corrélation quelconque entre cette extraordinaire disparition et l'incident Robur pendant la mémorable séance?...
-Cette pensée ne vint et n'aurait pu venir à personne.
+On ne l'a point oublié, c'était dans la nuit du 12 au 13 juin, que Uncle Prudent, Phil Evans, Frycollin, au sortir du Weldon-Institut avaient disparu. Depuis lors, aucune nouvelle d'eux. Impossible de former une hypothèse à ce sujet. Existait-il une corrélation quelconque entre cette extraordinaire disparition et l'incident Robur pendant la mémorable séance?... Cette pensée ne vint et n'aurait pu venir à personne.
 
-Mais les collègues des deux honorables s'inquiétèrent de ne plus les revoir.
-On fit des recherches, la police s'en mêla, des télégrammes furent lancés dans toutes les directions, à travers le nouveau comme l'ancien continent.
-Résultats absolument nuls.
-Même une prime de cinq mille dollars, promise à tout citoyen qui apporterait quelque information relative aux disparus, resta dans la caisse du Weldon-Institut.
+Mais les collègues des deux honorables s'inquiétèrent de ne plus les revoir. On fit des recherches, la police s'en mêla, des télégrammes furent lancés dans toutes les directions, à travers le nouveau comme l'ancien continent. Résultats absolument nuls. Même une prime de cinq mille dollars, promise à tout citoyen qui apporterait quelque information relative aux disparus, resta dans la caisse du Weldon-Institut.
 
-Telle était la situation.
-L'émotion, particulièrement aux États-Unis, fut extrême, et j'en ai conservé un vif souvenir.
+Telle était la situation. L'émotion, particulièrement aux États-Unis, fut extrême, et j'en ai conservé un vif souvenir.
 
 Or, le 20 septembre, une nouvelle, qui courut d'abord à Philadelphie, se propagea immédiatement au-dehors.
 
 Uncle Prudent et Phil Evans avaient réintégré dans l'après-midi le domicile du président du Weldon-Institut.
 
-Le soir même, convoqués en séance, les membres reçurent avec enthousiasme leurs deux collègues.
-Aux questions qui leur furent posées, ceux-ci répondirent avec la plus grande réserve ou, pour mieux dire, ils ne répondirent pas.
-Or, voici ce qui fut révélé plus tard.
+Le soir même, convoqués en séance, les membres reçurent avec enthousiasme leurs deux collègues. Aux questions qui leur furent posées, ceux-ci répondirent avec la plus grande réserve ou, pour mieux dire, ils ne répondirent pas. Or, voici ce qui fut révélé plus tard.
 
-Après l'évasion et la disparition de l'Albatros, Uncle Prudent et Phil Evans s'occupèrent d'assurer leur existence, en attendant l'occasion de quitter l'île Chatam, dès qu'elle se présenterait.
-Sur la côte occidentale, ils rencontrèrent une tribu d'indigènes, qui ne leur fit point mauvais accueil.
-Mais cette île est peu fréquentée, les navires y relâchent rarement.
-Il fallut donc s'armer de patience, et ce fut seulement cinq semaines après, que ces naufragés de l'air purent s'embarquer pour l'Amérique.
+Après l'évasion et la disparition de l'Albatros, Uncle Prudent et Phil Evans s'occupèrent d'assurer leur existence, en attendant l'occasion de quitter l'île Chatam, dès qu'elle se présenterait. Sur la côte occidentale, ils rencontrèrent une tribu d'indigènes, qui ne leur fit point mauvais accueil. Mais cette île est peu fréquentée, les navires y relâchent rarement. Il fallut donc s'armer de patience, et ce fut seulement cinq semaines après, que ces naufragés de l'air purent s'embarquer pour l'Amérique.
 
-Or, dès leur retour, sait-on quelle fut l'unique préoccupation d'Uncle Prudent et de Phil Evans?...
-Tout simplement de reprendre le travail interrompu, d'achever la construction du ballon Go a head, et de s'élancer de nouveau à travers les hautes zones de l'atmosphère qu'ils venaient de parcourir, et dans quelles conditions, à bord de l'aéronef!
-S'ils ne l'eussent pas fait, ils n'auraient pas été de vrais Américains.
+Or, dès leur retour, sait-on quelle fut l'unique préoccupation d'Uncle Prudent et de Phil Evans?... Tout simplement de reprendre le travail interrompu, d'achever la construction du ballon Go a head, et de s'élancer de nouveau à travers les hautes zones de l'atmosphère qu'ils venaient de parcourir, et dans quelles conditions, à bord de l'aéronef! S'ils ne l'eussent pas fait, ils n'auraient pas été de vrais Américains.
 
 Le 20 avril de l'année suivante, l'aérostat était prêt à partir sous la direction de Harry W. Tinder, le célèbre aéronaute, que devaient accompagner le président et le secrétaire du Weldon-Institut.
 
-Je dois ajouter que, depuis leur retour, personne n'avait entendu parler de Robur, pas plus que s'il n'eût jamais existé.
-Et, d'ailleurs, n'y avait-il pas toute raison de croire que son aventureuse carrière s'était terminée après l'explosion de l'Albatros, englouti dans les profondeurs du Pacifique?...
+Je dois ajouter que, depuis leur retour, personne n'avait entendu parler de Robur, pas plus que s'il n'eût jamais existé. Et, d'ailleurs, n'y avait-il pas toute raison de croire que son aventureuse carrière s'était terminée après l'explosion de l'Albatros, englouti dans les profondeurs du Pacifique?...
 
-Le jour de l'ascension arriva.
-J'étais là, avec des milliers de spectateurs, dans le parc de Fairmont.
-Le Go a head allait s'élever aux dernières hauteurs, grâce à son énorme volume.
-Il va sans dire que la question des avantistes et des arriéristes avait été résolue d'une façon aussi simple que logique: une hélice à l'avant de la nacelle, une hélice à l'arrière, que l'électricité devait actionner avec une puissance supérieure à tout ce qui s'était fait jusqu'à ce jour.
+Le jour de l'ascension arriva. J'étais là, avec des milliers de spectateurs, dans le parc de Fairmont. Le Go a head allait s'élever aux dernières hauteurs, grâce à son énorme volume. Il va sans dire que la question des avantistes et des arriéristes avait été résolue d'une façon aussi simple que logique: une hélice à l'avant de la nacelle, une hélice à l'arrière, que l'électricité devait actionner avec une puissance supérieure à tout ce qui s'était fait jusqu'à ce jour.
 
 Du reste, temps propice, s'il en fut, ciel sans nuages et sans un souffle de vent.
 
@@ -379,9 +218,7 @@ Du reste, temps propice, s'il en fut, ciel sans nuages et sans un souffle de ven
 
 «Lâchez tout!»
 
-Ce cri sacramentel fut jeté d'une voix forte par Uncle Prudent lui-même.
-L'aérostat s'éleva majestueusement et lentement dans les airs.
-Puis commencèrent les épreuves de déplacement suivant l'horizontale, – opération qui fut couronnée du plus éclatant succès.
+Ce cri sacramentel fut jeté d'une voix forte par Uncle Prudent lui-même. L'aérostat s'éleva majestueusement et lentement dans les airs. Puis commencèrent les épreuves de déplacement suivant l'horizontale, – opération qui fut couronnée du plus éclatant succès.
 
 Tout à coup un cri retentit, – un cri que cent mille bouches répétèrent!...
 
@@ -393,43 +230,27 @@ C'était le même appareil, qui, l'année précédente, après avoir enlevé les
 
 Oui... c'était lui, et nul doute que son inventeur Robur ne fût à bord, Robur-le-Conquérant!
 
-Et quelle dut être la stupéfaction d'Uncle Prudent et de Phil Evans à revoir cet Albatros qu'ils croyaient détruit!...
-Il l'avait été, en effet, par l'explosion, et ses débris étaient tombés dans le Pacifique, avec l'ingénieur et tout son personnel!
-Mais, presque aussitôt recueillis par un navire, ils furent conduits en Australie, d'où ils ne tardèrent pas à regagner l'île X.
+Et quelle dut être la stupéfaction d'Uncle Prudent et de Phil Evans à revoir cet Albatros qu'ils croyaient détruit!... Il l'avait été, en effet, par l'explosion, et ses débris étaient tombés dans le Pacifique, avec l'ingénieur et tout son personnel! Mais, presque aussitôt recueillis par un navire, ils furent conduits en Australie, d'où ils ne tardèrent pas à regagner l'île X.
 
-Robur n'eut plus qu'une pensée: se venger.
-Aussi, pour assurer sa vengeance, construisit-il un second aéronef, plus perfectionné peut-être.
-Puis, ayant appris que le président et le secrétaire du Weldon-Institut, ses anciens passagers, s'apprêtaient à reprendre les expériences du Go a head, il avait fait route vers les États-Unis et il était là au jour dit, à l'heure dite.
+Robur n'eut plus qu'une pensée: se venger. Aussi, pour assurer sa vengeance, construisit-il un second aéronef, plus perfectionné peut-être. Puis, ayant appris que le président et le secrétaire du Weldon-Institut, ses anciens passagers, s'apprêtaient à reprendre les expériences du Go a head, il avait fait route vers les États-Unis et il était là au jour dit, à l'heure dite.
 
-Est-ce donc que, gigantesque oiseau de proie, il va fondre sur le Go a head?...
-En même temps qu'il se vengera, est-ce que Robur veut démontrer publiquement la supériorité de l'aéronef sur les aérostats et autres appareils plus légers que l'air?...
+Est-ce donc que, gigantesque oiseau de proie, il va fondre sur le Go a head?... En même temps qu'il se vengera, est-ce que Robur veut démontrer publiquement la supériorité de l'aéronef sur les aérostats et autres appareils plus légers que l'air?...
 
-Dans leur nacelle, Uncle Prudent et Phil Evans se rendirent compte du danger qui les menaçait, du sort qui les attendait.
-Il fallait fuir, non pas d'une fuite horizontale, dans laquelle le Go a head serait facilement devancé, mais en gagnant les hautes zones où il avait chance, peut-être, d'échapper à son terrible adversaire.
+Dans leur nacelle, Uncle Prudent et Phil Evans se rendirent compte du danger qui les menaçait, du sort qui les attendait. Il fallait fuir, non pas d'une fuite horizontale, dans laquelle le Go a head serait facilement devancé, mais en gagnant les hautes zones où il avait chance, peut-être, d'échapper à son terrible adversaire.
 
-Le Go a head s'éleva donc jusqu'à une hauteur de cinq mille mètres.
-L'Albatros le suivit dans son mouvement ascensionnel, et, ainsi que le dirent les journaux, dont ma mémoire garde l'exact récit, il évoluait sur ses flancs, il l'enserrait de cercles dont le rayon diminuait à chaque tour.
-Allait-il l'anéantir d'un bond en crevant sa fragile enveloppe?...
+Le Go a head s'éleva donc jusqu'à une hauteur de cinq mille mètres. L'Albatros le suivit dans son mouvement ascensionnel, et, ainsi que le dirent les journaux, dont ma mémoire garde l'exact récit, il évoluait sur ses flancs, il l'enserrait de cercles dont le rayon diminuait à chaque tour. Allait-il l'anéantir d'un bond en crevant sa fragile enveloppe?...
 
-Le Go a head, se débarrassant d'une partie de son lest, monta de mille mètres encore...
-L'Albatros, imprimant à ses hélices leur maximum de rotation, le suivit jusque-là.
+Le Go a head, se débarrassant d'une partie de son lest, monta de mille mètres encore... L'Albatros, imprimant à ses hélices leur maximum de rotation, le suivit jusque-là.
 
-Soudain, une explosion se produisit.
-L'enveloppe du ballon venait de se déchirer sous la pression du gaz trop dilaté à cette altitude, et, à demi dégonflé, il tombait rapidement.
+Soudain, une explosion se produisit. L'enveloppe du ballon venait de se déchirer sous la pression du gaz trop dilaté à cette altitude, et, à demi dégonflé, il tombait rapidement.
 
-Et, alors, voici que l'Albatros se précipite vers lui, non pour l'achever, mais pour lui porter secours.
-Oui!
-Robur, oubliant sa vengeance, a rejoint le Go a head et ses hommes, enlevant Uncle Prudent, Phil Evans, l'aéronaute, les firent passer sur la plate-forme de l'aéronef.
-Puis le ballon, presque entièrement vide, retomba, énorme loque, sur les arbres de Fairmont-Park.
+Et, alors, voici que l'Albatros se précipite vers lui, non pour l'achever, mais pour lui porter secours. Oui! Robur, oubliant sa vengeance, a rejoint le Go a head et ses hommes, enlevant Uncle Prudent, Phil Evans, l'aéronaute, les firent passer sur la plate-forme de l'aéronef. Puis le ballon, presque entièrement vide, retomba, énorme loque, sur les arbres de Fairmont-Park.
 
 Le public haletait d'émotion, de frayeur!...
 
-Et maintenant que le président et le secrétaire du Weldon-Institut étaient redevenus les prisonniers de l'ingénieur Robur, que se passerait-il?...
-Robur voulait-il les entraîner avec lui dans l'espace, et pour jamais, cette fois?...
+Et maintenant que le président et le secrétaire du Weldon-Institut étaient redevenus les prisonniers de l'ingénieur Robur, que se passerait-il?... Robur voulait-il les entraîner avec lui dans l'espace, et pour jamais, cette fois?...
 
-On fut presque aussitôt fixé à ce sujet.
-Après avoir stationné quelques minutes à la hauteur de cinq à six cents mètres, l'Albatros commença à redescendre, comme pour atterrir sur la clairière de Fairmont-Park.
-Et, pourtant, s'il venait à portée, la foule, affolée, se retiendrait-elle assez pour ne pas se jeter sur l'aéronef, et laisserait-elle s'échapper cette occasion de s'emparer de Robur-le-Conquérant?...
+On fut presque aussitôt fixé à ce sujet. Après avoir stationné quelques minutes à la hauteur de cinq à six cents mètres, l'Albatros commença à redescendre, comme pour atterrir sur la clairière de Fairmont-Park. Et, pourtant, s'il venait à portée, la foule, affolée, se retiendrait-elle assez pour ne pas se jeter sur l'aéronef, et laisserait-elle s'échapper cette occasion de s'emparer de Robur-le-Conquérant?...
 
 L'Albatros descendait toujours, et, lorsqu'il ne fut plus qu'à cinq ou six pieds du sol, ses hélices suspensives fonctionnant toujours, il s'arrêta:
 
@@ -437,42 +258,25 @@ Il y eut comme un mouvement général pour envahir la clairière.
 
 Alors la voix de Robur se fit entendre, et voici textuellement les paroles qu'il prononça:
 
-«Citoyens des États-Unis, le président et le secrétaire du Weldon-Institut sont de nouveau en mon pouvoir.
-En les gardant, je ne ferais qu'user de mon droit de représailles.
-Mais, à la passion qu'excitent les succès de l'Albatros, j'ai compris que l'état des esprits n'était pas prêt pour l'importante révolution que la conquête de l'air doit amener un jour!
-Uncle Prudent, Phil Evans, vous êtes libres.»
+«Citoyens des États-Unis, le président et le secrétaire du Weldon-Institut sont de nouveau en mon pouvoir. En les gardant, je ne ferais qu'user de mon droit de représailles. Mais, à la passion qu'excitent les succès de l'Albatros, j'ai compris que l'état des esprits n'était pas prêt pour l'importante révolution que la conquête de l'air doit amener un jour! Uncle Prudent, Phil Evans, vous êtes libres.»
 
 Le président, le secrétaire du Weldon-Institut, l'aéronaute Tinder eurent en un instant sauté à terre, et l'aéronef remonta d'une trentaine de pieds au-dessus du sol, hors de toute atteinte.
 
 Robur continua en ces termes:
 
-«Citoyens des États-Unis, mon expérience est faite, mais il ne faut arriver qu'à son heure...
-C'est trop tôt encore pour avoir raison des intérêts contradictoires et divisés.
-Je pars donc, et j'emporte mon secret avec moi.
-Il ne sera pas perdu pour l'humanité, et lui appartiendra le jour où elle sera assez instruite pour n'en jamais abuser.
-Salut, citoyens des États-Unis!»
+«Citoyens des États-Unis, mon expérience est faite, mais il ne faut arriver qu'à son heure... C'est trop tôt encore pour avoir raison des intérêts contradictoires et divisés. Je pars donc, et j'emporte mon secret avec moi. Il ne sera pas perdu pour l'humanité, et lui appartiendra le jour où elle sera assez instruite pour n'en jamais abuser. Salut, citoyens des États-Unis!»
 
 Puis, l'Albatros, enlevé par ses hélices, poussé par ses propulseurs, disparut dans la direction de l'est au milieu des hourras de la foule.
 
-J'ai tenu à rapporter cette dernière scène en détail, et pour la raison qu'elle fait connaître l'état d'esprit de cet étrange personnage.
-Il ne paraissait pas qu'il fût alors animé de sentiments hostiles contre l'humanité.
-Il se contentait de réserver l'avenir.
-Mais, assurément, on sentait dans son attitude l'inébranlable confiance qu'il avait en son génie, l'immense orgueil que lui inspirait sa surhumaine puissance.
+J'ai tenu à rapporter cette dernière scène en détail, et pour la raison qu'elle fait connaître l'état d'esprit de cet étrange personnage. Il ne paraissait pas qu'il fût alors animé de sentiments hostiles contre l'humanité. Il se contentait de réserver l'avenir. Mais, assurément, on sentait dans son attitude l'inébranlable confiance qu'il avait en son génie, l'immense orgueil que lui inspirait sa surhumaine puissance.
 
-On ne s'étonnera donc pas que ces sentiments se fussent peu à peu aggravés au point qu'il prétendait s'asservir le monde entier, ainsi que le marquaient sa dernière lettre, et ses menaces très significatives.
-Fallait-il donc admettre que, avec le temps, sa surexcitation mentale s'était accrue dans une mesure effrayante, qu'elle risquait de l'entraîner aux pires excès?...
+On ne s'étonnera donc pas que ces sentiments se fussent peu à peu aggravés au point qu'il prétendait s'asservir le monde entier, ainsi que le marquaient sa dernière lettre, et ses menaces très significatives. Fallait-il donc admettre que, avec le temps, sa surexcitation mentale s'était accrue dans une mesure effrayante, qu'elle risquait de l'entraîner aux pires excès?...
 
-Quant à ce qui s'était passé depuis le départ de l'Albatros, ce que je savais me permettait de le reconstituer aisément.
-Il n'avait pas suffi à ce prodigieux inventeur de créer une machine volante, si perfectionnée qu'elle fût.
-La pensée lui était venue de construire un appareil apte à se mouvoir sur terre, sur et sous les eaux comme à travers l'espace.
-Et, probablement, dans le chantier de l'île X, un personnel de choix, qui garda le secret, parvint à établir de toutes pièces l'appareil à triple transformation.
-Puis, le second Albatros fut détruit, et, sans doute, dans cette enceinte du Great-Eyry, infranchissable à tout autre.
-L'Épouvante fit alors son apparition sur les routes des États-Unis, dans les mers voisines, à travers les zones aériennes de l'Amérique.
-Et l'on sait en quelles conditions, après avoir été vainement poursuivie à la surface du lac Érié, elle s'échappa par la voie des airs, tandis que j'étais prisonnier à bord!
+Quant à ce qui s'était passé depuis le départ de l'Albatros, ce que je savais me permettait de le reconstituer aisément. Il n'avait pas suffi à ce prodigieux inventeur de créer une machine volante, si perfectionnée qu'elle fût. La pensée lui était venue de construire un appareil apte à se mouvoir sur terre, sur et sous les eaux comme à travers l'espace. Et, probablement, dans le chantier de l'île X, un personnel de choix, qui garda le secret, parvint à établir de toutes pièces l'appareil à triple transformation. Puis, le second Albatros fut détruit, et, sans doute, dans cette enceinte du Great-Eyry, infranchissable à tout autre. L'Épouvante fit alors son apparition sur les routes des États-Unis, dans les mers voisines, à travers les zones aériennes de l'Amérique. Et l'on sait en quelles conditions, après avoir été vainement poursuivie à la surface du lac Érié, elle s'échappa par la voie des airs, tandis que j'étais prisonnier à bord!
 
 Chapitre XVII.
 
-**** *book_ *id_body-19 *date_1904 *creator_verne
+**** *creator_verne *book_verne_maitredumonde *style_prose *date_1904
 
 Le dernier mot à la vieille Grad
 
@@ -482,11 +286,9 @@ Lorsque je revins à moi, après être resté sans connaissance – combien d'he
 
 Je dis tout, oui!... tout, et, assurément, ceux qui m'entendirent durent croire qu'ils avaient affaire à un malheureux dont la raison n'était pas revenue avec la vie!
 
-J'étais à bord du steamer Ottawa, en cours de navigation dans le golfe du Mexique, et faisant route vers La Nouvelle-Orléans.
-Alors qu'il fuyait devant l'orage, l'équipage, rencontrant l'épave à laquelle j'étais accroché, m'avait recueilli à bord.
+J'étais à bord du steamer Ottawa, en cours de navigation dans le golfe du Mexique, et faisant route vers La Nouvelle-Orléans. Alors qu'il fuyait devant l'orage, l'équipage, rencontrant l'épave à laquelle j'étais accroché, m'avait recueilli à bord.
 
-J'étais sauvé, mais Robur-le-Conquérant et ses deux compagnons avaient terminé dans les eaux du golfe leur aventureuse existence.
-À jamais disparu le Maître du Monde, frappé de cette foudre qu'il osait braver en plein espace, emportant dans le néant le secret de son extraordinaire appareil!
+J'étais sauvé, mais Robur-le-Conquérant et ses deux compagnons avaient terminé dans les eaux du golfe leur aventureuse existence. À jamais disparu le Maître du Monde, frappé de cette foudre qu'il osait braver en plein espace, emportant dans le néant le secret de son extraordinaire appareil!
 
 Cinq jours après, l'Ottawa arrivait en vue des côtes de la Louisiane, et, le matin du 10 août, il mouillait au fond du port.
 
@@ -494,42 +296,31 @@ Après avoir pris congé des officiers du steamer, je montai dans un train en pa
 
 Tout d'abord, je me rendis à l'hôtel de la police, voulant que ma première visite fût pour M. Ward.
 
-Quelles furent la surprise, la stupéfaction et aussi la joie de mon chef, quand la porte du cabinet s'ouvrit devant moi!...
-N'avait-il pas toutes raisons de croire, d'après le rapport de mes compagnons, que j'eusse péri dans les eaux du lac Érié?...
+Quelles furent la surprise, la stupéfaction et aussi la joie de mon chef, quand la porte du cabinet s'ouvrit devant moi!... N'avait-il pas toutes raisons de croire, d'après le rapport de mes compagnons, que j'eusse péri dans les eaux du lac Érié?...
 
-Je le mis au courant de ce qui s'était passé depuis ma disparition, – la poursuite des destroyers sur le lac, l'envolement de l'Épouvante au-dessus des chutes du Niagara, la halte dans l'enceinte du Great-Eyry, la catastrophe pendant l'orage à la surface du golfe du Mexique.
-Il apprit alors que l'appareil créé par le génie de ce Robur pouvait se transporter à travers l'espace, comme il le faisait sur terre et sur mer...
+Je le mis au courant de ce qui s'était passé depuis ma disparition, – la poursuite des destroyers sur le lac, l'envolement de l'Épouvante au-dessus des chutes du Niagara, la halte dans l'enceinte du Great-Eyry, la catastrophe pendant l'orage à la surface du golfe du Mexique. Il apprit alors que l'appareil créé par le génie de ce Robur pouvait se transporter à travers l'espace, comme il le faisait sur terre et sur mer...
 
-Et, au vrai, est-ce que la possession d'un tel engin ne justifiait pas ce nom de «Maître du Monde» que s'était donné son créateur?...
-Assurément, et ce qui est certain, c'est que la sécurité publique aurait été menacée à jamais, car les moyens défensifs lui eussent toujours manqué.
+Et, au vrai, est-ce que la possession d'un tel engin ne justifiait pas ce nom de «Maître du Monde» que s'était donné son créateur?... Assurément, et ce qui est certain, c'est que la sécurité publique aurait été menacée à jamais, car les moyens défensifs lui eussent toujours manqué.
 
 Mais l'orgueil que j'avais vu s'accroître peu à peu chez cet homme prodigieux l'avait poussé à lutter, au milieu des airs, contre le plus terrible des éléments, et c'était miracle que je fusse sorti sain et sauf de cette effroyable catastrophe.
 
 C'est à peine si M. Ward put croire à mon récit.
 
-«Enfin, mon cher Strock, me dit-il, vous êtes de retour, et c'est le principal!...
-Après ce fameux Robur, vous voici l'homme du jour!...
-J'espère que cette situation ne vous fera pas perdre la tête, par vanité, comme à ce fou d'inventeur...
+«Enfin, mon cher Strock, me dit-il, vous êtes de retour, et c'est le principal!... Après ce fameux Robur, vous voici l'homme du jour!... J'espère que cette situation ne vous fera pas perdre la tête, par vanité, comme à ce fou d'inventeur...
 
-–Non, monsieur Ward, répondis-je.
-Vous conviendrez toutefois que jamais curieux, avide de satisfaire sa curiosité n'aura été mis à de telles épreuves...
+–Non, monsieur Ward, répondis-je. Vous conviendrez toutefois que jamais curieux, avide de satisfaire sa curiosité n'aura été mis à de telles épreuves...
 
-–J'en conviens, Strock!...
-Les mystères du Great-Eyry, les transformations de l'Épouvante, vous les avez découverts!...
-Par malheur, les secrets de ce Maître du Monde sont morts avec lui...»
+–J'en conviens, Strock!... Les mystères du Great-Eyry, les transformations de l'Épouvante, vous les avez découverts!... Par malheur, les secrets de ce Maître du Monde sont morts avec lui...»
 
 Le soir même, les journaux de l'Union publièrent le récit de mes aventures, dont la véracité ne pouvait être mise en doute, et, comme l'avait dit M. Ward, je fus l'homme du jour.
 
 L'un d'eux disait:
 
-«Grâce à l'inspecteur Strock, l'Amérique détient le record de la police.
-Tandis qu'ailleurs, on agit avec plus ou moins de succès sur terre et sur mer, la police américaine s'est lancée à la poursuite des criminels dans les profondeurs des lacs et des océans et jusqu'à travers l'espace...»
+«Grâce à l'inspecteur Strock, l'Amérique détient le record de la police. Tandis qu'ailleurs, on agit avec plus ou moins de succès sur terre et sur mer, la police américaine s'est lancée à la poursuite des criminels dans les profondeurs des lacs et des océans et jusqu'à travers l'espace...»
 
 En agissant comme je l'ai raconté, ai-je fait autre chose que ce qui sera peut-être à la fin de ce siècle le rôle de nos futurs collègues?
 
-On imagine aussi quel accueil me fit ma vieille servante, lorsque je rentrai dans la maison de Long-Street!
-À mon apparition – n'est-ce pas le mot juste? – je crus qu'elle allait trépasser, la brave femme!...
-Puis, après m'avoir entendu, les yeux mouillés de larmes, elle remercia la Providence de m'avoir sauvé de tant de périls!
+On imagine aussi quel accueil me fit ma vieille servante, lorsque je rentrai dans la maison de Long-Street! À mon apparition – n'est-ce pas le mot juste? – je crus qu'elle allait trépasser, la brave femme!... Puis, après m'avoir entendu, les yeux mouillés de larmes, elle remercia la Providence de m'avoir sauvé de tant de périls!
 
 «Eh bien... monsieur, dit-elle, eh bien... avais-je tort?...
 

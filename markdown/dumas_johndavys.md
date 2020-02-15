@@ -1,6 +1,6 @@
 ---
 identifier: dumas_johndavys  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1839  
 title: Les aventures de John Davys  
 ---

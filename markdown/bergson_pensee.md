@@ -1,6 +1,6 @@
 ---
 identifier: bergson_pensee  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1903  
 title: La pensée et le mouvant  
 ---

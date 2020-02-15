@@ -1,6 +1,6 @@
 ---
 identifier: proust_recherche6  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date:   
 title: Albertine disparue — À la recherche du temps perdu  
 ---

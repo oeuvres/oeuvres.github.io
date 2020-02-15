@@ -1,6 +1,6 @@
 ---
 identifier: durkheim_empirisme-rationaliste-de-taine  
-creator: Durkheim, Émile  
+creator: Durkheim, Émile.  
 date: 1897  
 title: L’empirisme rationaliste de Taine et les sciences morales  
 ---

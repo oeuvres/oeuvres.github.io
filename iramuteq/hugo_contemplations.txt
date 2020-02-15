@@ -1,50 +1,28 @@
 
 
-**** *book_ *id_body-1 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse
 
 Préface
 
 Si un auteur pouvait avoir quelque droit d'influer sur la disposition d'esprit des lecteurs qui ouvrent son livre, l'auteur des Contemplations se bornerait à dire ceci : Ce livre doit être lu comme on lirait le livre d'un mort.
 
-Vingt-cinq années sont dans ces deux volumes.
-Grande mortalis ævi spatium.
-L'auteur a laissé, pour ainsi dire, ce livre se faire en lui.
-La vie, en filtrant goutte à goutte à travers les événements et les souffrances, l'a déposé dans son cœur.
-Ceux qui s'y pencheront retrouveront leur propre image dans cette eau profonde et triste, qui s'est lentement amassée là, au fond d'une âme.
+Vingt-cinq années sont dans ces deux volumes. Grande mortalis ævi spatium. L'auteur a laissé, pour ainsi dire, ce livre se faire en lui. La vie, en filtrant goutte à goutte à travers les événements et les souffrances, l'a déposé dans son cœur. Ceux qui s'y pencheront retrouveront leur propre image dans cette eau profonde et triste, qui s'est lentement amassée là, au fond d'une âme.
 
-Qu'est-ce que les Contemplations ?
-C'est ce qu'on pourrait appeler, si le mot n'avait quelque prétention, les Mémoires d'une âme.
+Qu'est-ce que les Contemplations ? C'est ce qu'on pourrait appeler, si le mot n'avait quelque prétention, les Mémoires d'une âme.
 
-Ce sont, en effet, toutes les impressions, tous les souvenirs, toutes les réalités, tous les fantômes vagues, riants ou funèbres, que peut contenir une conscience, revenus et rappelés, rayon à rayon, soupir à soupir, et mêlés dans la même nuée sombre.
-C'est l'existence humaine sortant de l'énigme du berceau et aboutissant à l'énigme du cercueil ; c'est un esprit qui marche de lueur en lueur en laissant derrière lui la jeunesse, l'amour, l'illusion, le combat, le désespoir, et qui s'arrête éperdu « au bord de l'infini ».
-Cela commence par un sourire, continue par un sanglot, et finit par un bruit du clairon de l'abîme.
+Ce sont, en effet, toutes les impressions, tous les souvenirs, toutes les réalités, tous les fantômes vagues, riants ou funèbres, que peut contenir une conscience, revenus et rappelés, rayon à rayon, soupir à soupir, et mêlés dans la même nuée sombre. C'est l'existence humaine sortant de l'énigme du berceau et aboutissant à l'énigme du cercueil ; c'est un esprit qui marche de lueur en lueur en laissant derrière lui la jeunesse, l'amour, l'illusion, le combat, le désespoir, et qui s'arrête éperdu « au bord de l'infini ». Cela commence par un sourire, continue par un sanglot, et finit par un bruit du clairon de l'abîme.
 
 Une destinée est écrite là jour à jour.
 
-Est-ce donc la vie d'un homme ?
-Oui, et la vie des autres hommes aussi.
-Nul de nous n'a l'honneur d'avoir une vie qui soit à lui.
-Ma vie est la vôtre, votre vie est la mienne, vous vivez ce que je vis ; la destinée est une.
-Prenez donc ce miroir, et regardez-vous-y.
-On se plaint quelquefois des écrivains qui disent moi.
-Parlez-nous de nous, leur crie-t-on.
-Hélas ! quand je vous parle de moi, je vous parle de vous.
-Comment ne le sentez-vous pas ?
-Ah ! insensé, qui crois que je ne suis pas toi !
+Est-ce donc la vie d'un homme ? Oui, et la vie des autres hommes aussi. Nul de nous n'a l'honneur d'avoir une vie qui soit à lui. Ma vie est la vôtre, votre vie est la mienne, vous vivez ce que je vis ; la destinée est une. Prenez donc ce miroir, et regardez-vous-y. On se plaint quelquefois des écrivains qui disent moi. Parlez-nous de nous, leur crie-t-on. Hélas ! quand je vous parle de moi, je vous parle de vous. Comment ne le sentez-vous pas ? Ah ! insensé, qui crois que je ne suis pas toi !
 
-Ce livre contient, nous le répétons, autant l'individualité du lecteur que celle de l'auteur.
-Homo sum.
-Traverser le tumulte, la rumeur, le rêve, la lutte, le plaisir, le travail, la douleur, le silence ; se reposer dans le sacrifice, et, là, contempler Dieu ; commencer à Foule et finir à Solitude, n'est-ce pas, les proportions individuelles réservées, l'histoire de tous ?
+Ce livre contient, nous le répétons, autant l'individualité du lecteur que celle de l'auteur. Homo sum. Traverser le tumulte, la rumeur, le rêve, la lutte, le plaisir, le travail, la douleur, le silence ; se reposer dans le sacrifice, et, là, contempler Dieu ; commencer à Foule et finir à Solitude, n'est-ce pas, les proportions individuelles réservées, l'histoire de tous ?
 
-On ne s'étonnera donc pas de voir, nuance à nuance, ces deux volumes s'assombrir pour arriver, cependant, à l'azur d'une vie meilleure.
-La joie, cette fleur rapide de la jeunesse, s'effeuille page à page dans le tome premier, qui est l'espérance, et disparaît dans le tome second, qui est le deuil.
-Quel deuil ?
-Le vrai, l'unique : la mort ; la perte des êtres chers.
+On ne s'étonnera donc pas de voir, nuance à nuance, ces deux volumes s'assombrir pour arriver, cependant, à l'azur d'une vie meilleure. La joie, cette fleur rapide de la jeunesse, s'effeuille page à page dans le tome premier, qui est l'espérance, et disparaît dans le tome second, qui est le deuil. Quel deuil ? Le vrai, l'unique : la mort ; la perte des êtres chers.
 
-Nous venons de le dire, c'est une âme qui se raconte dans ces deux volumes : Autrefois, Aujourd'hui.
-Un abîme les sépare, le tombeau.
+Nous venons de le dire, c'est une âme qui se raconte dans ces deux volumes : Autrefois, Aujourd'hui. Un abîme les sépare, le tombeau.
 
-**** *book_ *id_dedicace *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_dedicace
 
 Dédicace
 
@@ -65,7 +43,7 @@ Tout destin montre et nomme ;
 Le vent, c'est le Seigneur ; l'astre, c'est le Seigneur ;
 Le navire, c'est l'homme. »
 
-**** *book_ *id_l1-01 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-01
 
 I. À ma fille
 
@@ -124,7 +102,7 @@ Et la voici, toute âme y peut atteindre :
 Ne rien haïr, mon enfant ; tout aimer,
 Ou tout plaindre !
 
-**** *book_ *id_l1-02 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-02
 
 II.
 
@@ -149,7 +127,7 @@ Leurs têtes de feuillée et leurs barbes de lierre,
 Contemplent de son front la sereine lueur,
 Et murmurent tout bas : C'est lui ! c'est le rêveur !
 
-**** *book_ *id_l1-03 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-03
 
 III. Mes deux filles
 
@@ -164,7 +142,7 @@ Se penche, et les regarde, immobile et vivant,
 Et frissonne dans l'ombre, et semble, au bord du vase,
 Un vol de papillons arrêté dans l'extase.
 
-**** *book_ *id_l1-04 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-04
 
 IV.
 
@@ -209,7 +187,7 @@ Et toute l'ombre avec tout le rayonnement !
 L'infini tout entier d'extase se soulève.
 Et, pendant ce temps-là, Satan, l'envieux, rêve.
 
-**** *book_ *id_l1-05 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-05
 
 V. À André Chénier
 
@@ -238,7 +216,7 @@ Accouplant Rabelais à Dante plein d'ennuis,
 Et l'Ugolin sinistre au Grandgousier difforme,
 Près de l'immense deuil montre le rire énorme. »
 
-**** *book_ *id_l1-06 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-06
 
 VI. La vie aux champs
 
@@ -342,7 +320,7 @@ Le voyageur de nuit, qui passe à côté d'eux,
 S'épouvante, et croit voir, aux lueurs des étoiles,
 Des géants enchaînés et muets sous des voiles.
 
-**** *book_ *id_l1-07 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-07
 
 VII. Réponse à un acte d'accusation
 
@@ -588,7 +566,7 @@ De ses fiertés le peuple, effacé le vieux pli
 Des fronts, et relevé la foule dégradée,
 Et s'être faite droit, elle se fait idée !
 
-**** *book_ *id_l1-08 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-08
 
 VIII. Suite
 
@@ -713,7 +691,7 @@ Il s'incorpore au peuple, étant lui-même foule.
 Il est vie, esprit, germe, ouragan, vertu, feu ;
 Car le mot, c'est le Verbe, et le Verbe, c'est Dieu.
 
-**** *book_ *id_l1-09 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-09
 
 IX.
 
@@ -756,7 +734,7 @@ Eschyle ! Oreste marche et rugit dans ton sein,
 Et c'est, ô noir poëte à la lèvre irritée,
 Sur ton crâne géant qu'est cloué Prométhée.
 
-**** *book_ *id_l1-10 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-10
 
 X. À Madame D. G. de G.
 
@@ -789,7 +767,7 @@ T'épouvante et te plaît ; car la sainte nature,
 La nature éternelle, et les champs, et les bois,
 Parlent à ta grande âme avec leur grande voix !
 
-**** *book_ *id_l1-11 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-11
 
 XI. Lise
 
@@ -842,7 +820,7 @@ Et, quand le soir vient avec la douleur,
 Charmez encor nos âmes éblouies,
 Jeunes amours, si vite évanouies !
 
-**** *book_ *id_l1-12 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-12
 
 XII. Vere novo
 
@@ -865,7 +843,7 @@ Et courir à la fleur en sortant de la femme,
 Les petits morceaux blancs, chassés en tourbillons
 De tous les billets doux, devenus papillons.
 
-**** *book_ *id_l1-13 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-13
 
 XIII. À propos d'Horace
 
@@ -1095,7 +1073,7 @@ Tu laisseras passer dans tes jambages noirs
 Une pure lueur, de jour en jour moins sombre,
 O nature, alphabet des grandes lettres d'ombre !
 
-**** *book_ *id_l1-14 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-14
 
 XIV. À Granville, en 1836
 
@@ -1199,7 +1177,7 @@ Qu'il contient et qu'il bénit,
 Dire sa messe sublime
 Sous sa mitre de granit.
 
-**** *book_ *id_l1-15 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-15
 
 XV. La coccinelle
 
@@ -1228,7 +1206,7 @@ Dit l'insecte du ciel bleu ;
 « Les bêtes sont au bon Dieu,
 Mais la bêtise est à l'homme. »
 
-**** *book_ *id_l1-16 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-16
 
 XVI. Vers 1820
 
@@ -1250,7 +1228,7 @@ L'étudiant en classe et le docteur dans l'antre,
 Venir à toi, montant ensemble l'escalier,
 L'ennui, maître d'école, et l'amour, écolier.
 
-**** *book_ *id_l1-17 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-17
 
 XVII. À M. Froment Meurice
 
@@ -1294,7 +1272,7 @@ Tout feu qui brille est une âme.
 L'étoile vaut le soleil ;
 L'étincelle vaut la flamme.
 
-**** *book_ *id_l1-18 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-18
 
 XVIII. Les oiseaux
 
@@ -1361,7 +1339,7 @@ Je trouve juste, ami, qu'en lisant à voix haute
 L'épitaphe où le mort est toujours bon et beau,
 Ils fassent éclater de rire le tombeau.
 
-**** *book_ *id_l1-19 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-19
 
 XIX. Vieille chanson du jeune temps
 
@@ -1410,7 +1388,7 @@ Qu'en sortant des grands bois sourds.
 « Soit ; n'y pensons plus !» dit-elle.
 Depuis, j'y pense toujours.
 
-**** *book_ *id_l1-20 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-20
 
 XX. À un poëte aveugle
 
@@ -1424,7 +1402,7 @@ Le poëte des sens perce la triste brume ;
 L'aveugle voit dans l'ombre un monde de clarté.
 Quand l'œil du corps s'éteint, l'œil de l'esprit s'allume.
 
-**** *book_ *id_l1-21 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-21
 
 XXI.
 
@@ -1448,7 +1426,7 @@ Je vis venir à moi, dans les grands roseaux verts,
 La belle fille heureuse, effarée et sauvage,
 Ses cheveux dans ses yeux, et riant au travers.
 
-**** *book_ *id_l1-22 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-22
 
 XXII. La fête chez Thérèse
 
@@ -1547,7 +1525,7 @@ A leurs discours secrets, à leurs regards de flamme,
 A leur cœur, à leurs sens, à leur molle raison,
 Le clair de lune bleu qui baignait l'horizon.
 
-**** *book_ *id_l1-23 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-23
 
 XXIII. L'enfance
 
@@ -1566,7 +1544,7 @@ Et le petit enfant se remit à chanter... — 
 La douleur est un fruit : Dieu ne le fait pas croître
 Sur la branche trop faible encor pour le porter.
 
-**** *book_ *id_l1-24 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-24
 
 XXIV.
 
@@ -1583,7 +1561,7 @@ Et, cependant, fermant leur bouche de leur doigt,
 Derrière lui, tandis que l'extase l'enivre,
 Les anges souriants se penchent sur son livre.
 
-**** *book_ *id_l1-25 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-25
 
 XXV. Unité
 
@@ -1598,7 +1576,7 @@ Regardait fixement, dans l'éternel azur,
 Le grand astre épanchant sa lumière immortelle.
 « Et, moi, j'ai des rayons aussi !» lui disait-elle.
 
-**** *book_ *id_l1-26 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-26
 
 XXVI. Quelques mots à un autre
 
@@ -1778,7 +1756,7 @@ Et même, allant plus loin, vaillant, vous nous criez :
 
 Balayez.
 
-**** *book_ *id_l1-27 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-27
 
 XXVII.
 
@@ -1827,7 +1805,7 @@ Si je viens à passer dans l'ombre, continue,
 Et, si la fleur se veut cacher dans le gazon,
 Il lui dit : « Es-tu bête ! Il est de la maison. »
 
-**** *book_ *id_l1-28 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-28
 
 XXVIII.
 
@@ -1854,7 +1832,7 @@ Soit comme ces forêts vertes, fraîches, profondes,
 Pleines de chants, amour du vent et du rayon,
 Charmantes, où, soudain, l'on rencontre un lion.
 
-**** *book_ *id_l1-29 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l1-29
 
 XXIX. Halte en marchant
 
@@ -1935,7 +1913,7 @@ L'homme marchait ; soudain, il s'arrêta dans l'ombre,
 Stupéfait, pâle, et comme en proie aux visions,
 Frémissant ! — Il avait dans la main des rayons.
 
-**** *book_ *id_l2-01 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-01
 
 I. Premier mai
 
@@ -1973,7 +1951,7 @@ La haie en fleur, le lierre et la source sonore,
 Les monts, les champs, les lacs et les chênes mouvants
 Répètent un quatrain fait par les quatre vents.
 
-**** *book_ *id_l2-02 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-02
 
 II.
 
@@ -1992,7 +1970,7 @@ Ils accourraient nuit et jour,
 Si mes vers avaient des ailes,
 Des ailes comme l'amour.
 
-**** *book_ *id_l2-03 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-03
 
 III. Le rouet d'Omphale
 
@@ -2024,7 +2002,7 @@ Et tous, sans approcher, rôdant d'un air terrible
 Sur le rouet, où pend un fil souple et lié,
 Fixent de loin, dans l'ombre, un œil humilié.
 
-**** *book_ *id_l2-04 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-04
 
 IV. Chanson
 
@@ -2049,7 +2027,7 @@ C'est ma joie et c'est mon souci.
 Si vous voulez que je m'en aille,
 Pourquoi passez-vous par ici ?
 
-**** *book_ *id_l2-05 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-05
 
 V. Hier au soir
 
@@ -2065,7 +2043,7 @@ Voyant la nuit si pure, et vous voyant si belle,
 J'ai dit aux astres d'or : Versez le ciel sur elle !
 Et j'ai dit à vos yeux : Versez l'amour sur nous !
 
-**** *book_ *id_l2-06 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-06
 
 VI. Lettre
 
@@ -2114,7 +2092,7 @@ Ni les pleurs des parents, ni l'effroi des épouses,
 Ni le sombre reflet des écueils dans les eaux,
 Ni l'importunité des sinistres oiseaux.
 
-**** *book_ *id_l2-07 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-07
 
 VII.
 
@@ -2133,7 +2111,7 @@ Penchée, elle m'offrait la cerise à sa bouche ;
 Et ma bouche riait, et venait s'y poser.
 Et laissait la cerise et prenait le baiser.
 
-**** *book_ *id_l2-08 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-08
 
 VIII.
 
@@ -2174,7 +2152,7 @@ Assombrit chaque trait de mon visage amer,
 Et m'y creuse une ride avec sa main pesante.
 Joyeux, j'ai vingt-cinq ans ; triste, j'en ai soixante.
 
-**** *book_ *id_l2-09 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-09
 
 IX. En écoutant les oiseaux
 
@@ -2215,7 +2193,7 @@ Se penchent, les laissant piller le chènevis,
 Et ne distinguent plus, dans leurs rêves étranges,
 La langue des oiseaux de la langue des anges.
 
-**** *book_ *id_l2-10 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-10
 
 X
 
@@ -2234,7 +2212,7 @@ Tu me regardais, dans ma nuit,
 Avec ton beau regard d'étoile,
 Qui m'éblouit.
 
-**** *book_ *id_l2-11 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-11
 
 XI.
 
@@ -2273,7 +2251,7 @@ A mon amour qui te fuit,
 N'est plus que la maladie
 D'une bête dans la nuit.
 
-**** *book_ *id_l2-12 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-12
 
 XII. Églogue
 
@@ -2305,7 +2283,7 @@ Car les dieux envieux qui l'ont fait disparaître,
 Et qui furent jaloux de sa grandeur, peut-être
 Seraient jaloux de notre amour !»
 
-**** *book_ *id_l2-13 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-13
 
 XIII.
 
@@ -2324,7 +2302,7 @@ Aimons-nous ! aimons toujours ! — 
 La chanson la plus charmante
 Est la chanson des amours.
 
-**** *book_ *id_l2-14 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-14
 
 XIV. Billet du matin
 
@@ -2357,7 +2335,7 @@ C'est nous ; l'astre est le nid où notre aile se pose ;
 Nous avons l'infini pour sphère et pour milieu,
 L'éternité pour l'âge ; et, notre amour, c'est Dieu.
 
-**** *book_ *id_l2-15 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-15
 
 XV. Paroles dans l'ombre
 
@@ -2386,7 +2364,7 @@ Une ombre reste au fond de mon cœur qui vous aime ;
 Et, pour que je vous voie entièrement, il faut
 Me regarder un peu, de temps en temps, vous-même.
 
-**** *book_ *id_l2-16 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-16
 
 XVI.
 
@@ -2405,7 +2383,7 @@ Dans les bois, la clairière inconnue et muette
 Où le silence éteint les bruits lointains et sourds.
 L'oiseau cache son nid, nous cachons nos amours.
 
-**** *book_ *id_l2-17 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-17
 
 XVII. Sous les arbres
 
@@ -2439,7 +2417,7 @@ Il s'adossait pensif ; elle disait : « Voyez
 Ma prière toujours dans vos cieux comme un astre,
 Et mon amour toujours comme un chien à tes pieds. »
 
-**** *book_ *id_l2-18 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-18
 
 XVIII.
 
@@ -2523,7 +2501,7 @@ A l'homme, qui vit un jour,
 Si Dieu nous ôtait les roses,
 Si Dieu nous ôtait l'amour !
 
-**** *book_ *id_l2-19 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-19
 
 XIX. N'envions rien
 
@@ -2577,7 +2555,7 @@ Et les roses sont moins belles
 Et les oiseaux ont moins d'ailes
     Que les esprits !
 
-**** *book_ *id_l2-20 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-20
 
 XX. Il fait froid
 
@@ -2636,7 +2614,7 @@ L'hiver, l'astre éteint-il sa flamme ?
 Dieu ne retire rien du ciel,
 Ne retire rien de ton âme !
 
-**** *book_ *id_l2-21 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-21
 
 XXI.
 
@@ -2653,7 +2631,7 @@ De solitude, un peu de silence, un ciel bleu,
 La chanson d'un oiseau qui sur le toit se pose,
 De l'ombre ; — et quel besoin avons-nous d'autre chose ?»
 
-**** *book_ *id_l2-22 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-22
 
 XXII.
 
@@ -2737,7 +2715,7 @@ Dusses-tu pleurer et souffrir,
 La flamme qui ne peut s'éteindre
 Et la fleur qui ne peut mourir !
 
-**** *book_ *id_l2-23 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-23
 
 XXIII. Après l'hiver
 
@@ -2816,7 +2794,7 @@ Aux fleurs où nous appuyons
 Nos bouches, et notre lèvre
 Sent le baiser des rayons.
 
-**** *book_ *id_l2-24 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-24
 
 XXIV.
 
@@ -2838,7 +2816,7 @@ L'aube, fille des nuits, l'amour, fils des douleurs,
 Tout ce qui luit dans les ténèbres,
 Tout ce qui sourit dans les pleurs !
 
-**** *book_ *id_l2-25 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-25
 
 XXV.
 
@@ -2932,7 +2910,7 @@ Sans toi, du jour et des cieux,
 De mes baisers sans ta bouche,
 Et de mes pleurs sans tes yeux !
 
-**** *book_ *id_l2-26 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-26
 
 XXVI. Crépuscule
 
@@ -2971,7 +2949,7 @@ L'ange du soir rêveur, qui flotte dans les vents,
 Mêle, en les emportant sur ses ailes obscures,
 Les prières des morts aux baisers des vivants.
 
-**** *book_ *id_l2-27 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-27
 
 XXVII. La nichée sous le portail
 
@@ -3015,7 +2993,7 @@ Et hautes sous le ciel bleu ;
 Mais le nid des hirondelles
 Est l'édifice de Dieu.
 
-**** *book_ *id_l2-28 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l2-28
 
 XXVIII. Un soir que je regardais le ciel
 
@@ -3096,7 +3074,7 @@ Laissons tomber la coupe au fond des mers.
 L'oubli ! l'oubli ! c'est l'onde où tout se noie ;
 C'est la mer sombre où l'on jette sa joie.
 
-**** *book_ *id_l3-01 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-01
 
 I. Écrit sur un exemplaire de la Divina Commedia
 
@@ -3115,7 +3093,7 @@ Puis je fus un lion rêvant dans les déserts,
 Parlant à la nuit sombre avec sa voix grondante ;
 Maintenant, je suis homme, et je m'appelle Dante. »
 
-**** *book_ *id_l3-02 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-02
 
 II. Melancholia
 
@@ -3466,7 +3444,7 @@ Qui sortent lentement du noir pavé des villes... — 
 
 O forêts ! bois profonds ! solitudes ! asiles !
 
-**** *book_ *id_l3-03 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-03
 
 III. Saturne
 
@@ -3595,7 +3573,7 @@ Et que les grands lions, de moments en moments,
 Vaguement apparus au sommet des collines,
 Poussaient dans le désert de longs rugissements !
 
-**** *book_ *id_l3-04 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-04
 
 IV. Écrit au bas d'un crucifix
 
@@ -3604,7 +3582,7 @@ Vous qui souffrez, venez à lui, car il guérit.
 Vous qui tremblez, venez à lui, car il sourit.
 Vous qui passez, venez à lui, car il demeure.
 
-**** *book_ *id_l3-05 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-05
 
 V. Quia pulvis es
 
@@ -3629,7 +3607,7 @@ Dieu donne aux morts les biens réels, les vrais royaumes.
 Vivants !vous êtes des fantômes ;
 C'est nous qui sommes les vivants ! — 
 
-**** *book_ *id_l3-06 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-06
 
 VI. La source
 
@@ -3663,7 +3641,7 @@ Rois dans les mêmes lieux ;
 Je lui laisse le bois, la montagne et la plaine,
 Et je garde les cieux.
 
-**** *book_ *id_l3-07 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-07
 
 VII. La statue
 
@@ -3702,7 +3680,7 @@ Pas un arbre à ses pieds ; pas d'herbe et de rameaux
 Et dans son œil sinistre on lit ces sombres mots :
     Pour avoir regardé Sodôme.
 
-**** *book_ *id_l3-08 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-08
 
 VIII.
 
@@ -3771,7 +3749,7 @@ Mon âme ne sera blanche que dans la tombe ;
 Car l'homme, quoi qu'il fasse, est aveugle ou méchant.
 Et je continuai la lecture du champ.
 
-**** *book_ *id_l3-09 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-09
 
 IX.
 
@@ -3794,7 +3772,7 @@ Sois belle. Tu te sens par l'ombre caressée,
 Un ange vient baiser ton pied quand il est nu,
 Et c'est ce qui te fait ton sourire ingénu.
 
-**** *book_ *id_l3-10 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-10
 
 X. Amour
 
@@ -3853,7 +3831,7 @@ Déclarant la magie impie et criminelle,
 Lui dressait un bûcher par arrêt de la cour,
 Et le dernier sorcier qu'on brûle, c'est l'Amour !
 
-**** *book_ *id_l3-11 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-11
 
 XI
 
@@ -3881,7 +3859,7 @@ Où se heurtent sanglants les peuples furieux ; — 
 
 Et que tout cela fasse un astre dans les cieux !
 
-**** *book_ *id_l3-12 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-12
 
 XII. Explication
 
@@ -3927,7 +3905,7 @@ Autour du paradis ils tournent envieux ;
 Et, du soleil, parmi les brumes et les ombres,
 On voit passer au loin toutes ces faces sombres.
 
-**** *book_ *id_l3-13 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-13
 
 XIII. La chouette
 
@@ -4033,7 +4011,7 @@ Vous clouez de vos mains mal sûres
 Les hiboux au seuil des masures,
 Et Christ sur la porte des cieux !»
 
-**** *book_ *id_l3-14 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-14
 
 XIV. À la mère de l'enfant mort
 
@@ -4077,7 +4055,7 @@ Le doux être s'en est allé !... — 
 Hélas ! vous avez donc laissé la cage ouverte,
 Que votre oiseau s'est envolé !
 
-**** *book_ *id_l3-15 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-15
 
 XV. Épitaphe
 
@@ -4095,7 +4073,7 @@ Ce cœur où toute joie engendre une torture,
 Cet abîme aussi grand que toi-même, ô nature,
 Est vide et désolé pour cet enfant de moins !
 
-**** *book_ *id_l3-16 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-16
 
 XVI. Le maître d'études
 
@@ -4231,7 +4209,7 @@ Sur ce sillon humain qu'on appelle l'enfant,
 De tous ces livres pleins de hautes harmonies,
 La bénédiction sereine des génies !
 
-**** *book_ *id_l3-17 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-17
 
 XVII. Chose vue un jour de printemps
 
@@ -4301,7 +4279,7 @@ Dieu ! pourquoi l'orphelin, dans ses langes funèbres,
 Dit-il : « J'ai faim !» L'enfant, n'est-ce pas un oiseau ?
 Pourquoi le nid a-t-il ce qui manque au berceau ?
 
-**** *book_ *id_l3-18 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-18
 
 XVIII. Intérieur
 
@@ -4334,7 +4312,7 @@ Et leur vitre, où pendait un vieux haillon de toile,
 Qui, dans ce même instant, vive et pure lueur,
 Éblouissait au loin quelque passant rêveur !
 
-**** *book_ *id_l3-19 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-19
 
 XIX. Baraques de la foire
 
@@ -4369,7 +4347,7 @@ Et le mystère obscur des bois silencieux,
 Et porte en son œil calme, où l'infini commence,
 Le regard éternel de la nature immense.
 
-**** *book_ *id_l3-20 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-20
 
 XX. Insomnie
 
@@ -4450,7 +4428,7 @@ Le champ plein de tombeaux, les eaux, les herbes vertes,
 Et franchir la forêt, le torrent, le hallier,
 Noir cheval galopant sous le noir cavalier.
 
-**** *book_ *id_l3-21 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-21
 
 XXI. Écrit sur la plinthe d'un bas-relief antique a Mademoiselle Louise B.
 
@@ -4481,7 +4459,7 @@ La nature nous dit : Chante ! et c'est pour cela
 Qu'un statuaire ancien sculpta sur cette pierre
 Un pâtre sur sa flûte abaissant sa paupière.
 
-**** *book_ *id_l3-22 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-22
 
 XXII.
 
@@ -4520,7 +4498,7 @@ A l'ombre de quelque arbre où le lierre s'attache ;
 On y lira : — Passant, cette pierre te cache
 La ruine d'une prison.
 
-**** *book_ *id_l3-23 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-23
 
 XXIII. Le revenant
 
@@ -4639,7 +4617,7 @@ Elle entendit, avec une voix bien connue,
 Le nouveau-né parler dans l'ombre entre ses bras,
 Et tout bas murmurer : — C'est moi. Ne le dis pas.
 
-**** *book_ *id_l3-24 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-24
 
 XXIV. Aux arbres
 
@@ -4686,7 +4664,7 @@ C'est sous votre branchage auguste et solitaire,
 Que je veux abriter mon sépulcre ignoré,
 Et que je veux dormir quand je m'endormirai.
 
-**** *book_ *id_l3-25 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-25
 
 XXV.
 
@@ -4699,7 +4677,7 @@ Puis s'enfuit triomphante, emportant avec joie
 La belle laine d'or que le safran jaunit,
 Autant qu'en pourrait prendre un oiseau pour son nid.
 
-**** *book_ *id_l3-26 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-26
 
 XXVI. Joies du soir
 
@@ -4759,7 +4737,7 @@ Sur ton vide pour lui quand ta pierre se lève,
 Il s'y penche ; il y voit, ainsi que dans un rêve,
 La face vague et sombre et l'œil fixe de Dieu.
 
-**** *book_ *id_l3-27 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-27
 
 XXVII.
 
@@ -4798,7 +4776,7 @@ Tout bas, loin du jour,
 La vilaine bête et la mauvaise herbe
 Murmurent :Amour !
 
-**** *book_ *id_l3-28 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-28
 
 XXVIII. Le poëte
 
@@ -4835,7 +4813,7 @@ Dans son œuvre, du drame effrayant alphabet,
 Il se repose ; ainsi le noir lion des jongles
 S'endort dans l'antre immense avec du sang aux ongles.
 
-**** *book_ *id_l3-29 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-29
 
 XXIX. La nature
 
@@ -4888,7 +4866,7 @@ Soit. Vivez et tuez. Tuez, entre deux fêtes,
 Le malheureux, chargé de fautes et de maux ;
 Moi, je ne mêle pas de spectre à mes rameaux !
 
-**** *book_ *id_l3-30 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l3-30
 
 XXX. Magnitudo parvi
 
@@ -5866,7 +5844,7 @@ Et sa main, sous qui l'âme, aigle de flamme, éclôt,
 Fait du rayon d'en bas et du rayon d'en haut
 Les deux ailes de la prière.
 
-**** *book_ *id_l4-01 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-01
 
 I.
 
@@ -5915,7 +5893,7 @@ Ce pied blanc, ce pied fait de jour,
 Ce pied rose, hélas ! car il saigne,
 Ce pied nu, c'est le tien, amour !
 
-**** *book_ *id_l4-02 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-02
 
 II. 15 février 1843
 
@@ -5929,7 +5907,7 @@ Fille, épouse, ange, enfant, fais ton double devoir.
 Donne-nous un regret, donne-leur un espoir,
 Sors avec une larme ! entre avec un sourire !
 
-**** *book_ *id_l4-03 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-03
 
 III. Trois ans après
 
@@ -6093,7 +6071,7 @@ Je rentre ardent parmi les forts,
 Les yeux à la voûte étoilée... — 
 Oh ! l'herbe épaisse où sont les morts !
 
-**** *book_ *id_l4-04 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-04
 
 IV.
 
@@ -6119,7 +6097,7 @@ Tenez ! voici le bruit de sa main sur la clé !
 Attendez ! elle vient ! laissez-moi, que j'écoute !
 Car elle est quelque part dans la maison sans doute !
 
-**** *book_ *id_l4-05 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-05
 
 V.
 
@@ -6150,7 +6128,7 @@ Je n'étais jamais gai quand je la sentais triste ;
 J'étais morne au milieu du bal le plus joyeux
 Si j'avais, en partant, vu quelque ombre en ses yeux.
 
-**** *book_ *id_l4-06 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-06
 
 VI.
 
@@ -6219,7 +6197,7 @@ Elle était gaie en arrivant... — 
 Toutes ces choses sont passées
 Comme l'ombre et comme le vent !
 
-**** *book_ *id_l4-07 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-07
 
 VII.
 
@@ -6273,7 +6251,7 @@ Autour de nous, comme au saint lieu,
 Et voir sous les doigts de ces anges
 Tressaillir le livre de Dieu !
 
-**** *book_ *id_l4-08 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-08
 
 VIII.
 
@@ -6305,7 +6283,7 @@ Cet affreux rêve pèse à nos yeux qui sommeillent,
 Noirs vivants ! heureux ceux qui tout à coup s'éveillent
 Et meurent en sursaut !
 
-**** *book_ *id_l4-09 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-09
 
 IX.
 
@@ -6374,7 +6352,7 @@ Sur eux parfois levait les yeux,
 Et, moi, par la fenêtre sombre
 J'entrevoyais un coin des cieux !
 
-**** *book_ *id_l4-10 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-10
 
 X.
 
@@ -6390,7 +6368,7 @@ Mais que ce saphir sombre est un abîme obscur !
 On ne peut distinguer, la nuit, les robes bleues
 Des anges frissonnants qui glissent dans l'azur.
 
-**** *book_ *id_l4-11 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-11
 
 XI.
 
@@ -6416,7 +6394,7 @@ Tout vient et passe ; on est en deuil, on est en fête ;
 On arrive, on recule, on lutte avec effort... — 
 Puis, le vaste et profond silence de la mort !
 
-**** *book_ *id_l4-12 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-12
 
 XII. À quoi songeaient les deux cavaliers dans la forêt
 
@@ -6462,7 +6440,7 @@ C'est ton ange expiré ! c'est ton père et ta mère !
 Ne les attristons point par l'ironie amère.
 Comme à travers un rêve ils entendent nos voix. »
 
-**** *book_ *id_l4-13 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-13
 
 XIII. Veni, vidi, vixi
 
@@ -6506,7 +6484,7 @@ Répondre à l'envieux dont la bouche me nuit.
 O Seigneur ! ouvrez-moi les portes de la nuit
 Afin que je m'en aille et que je disparaisse !
 
-**** *book_ *id_l4-14 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-14
 
 XIV.
 
@@ -6525,7 +6503,7 @@ Ni les voiles au loin descendant vers Harfleur,
 Et, quand j'arriverai, je mettrai sur ta tombe
 Un bouquet de houx vert et de bruyère en fleur.
 
-**** *book_ *id_l4-15 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-15
 
 XV. À Villequier
 
@@ -6729,7 +6707,7 @@ De tout ce qu'on rêva,
 Considérez que c'est une chose bien triste
 De le voir qui s'en va !
 
-**** *book_ *id_l4-16 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-16
 
 XVI. Mors
 
@@ -6755,7 +6733,7 @@ Tout était sous ses pieds deuil, épouvante et nuit.
 Derrière elle, le front baigné de douces flammes,
 Un ange souriant portait la gerbe d'âmes.
 
-**** *book_ *id_l4-17 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l4-17
 
 XVII. Charles Vacquerie
 
@@ -6906,7 +6884,7 @@ Ce qu'il entre d'extase, et d'ombre, et de ciel bleu,
 Dans l'éternel baiser de deux âmes que Dieu
 Tout à coup change en deux étoiles !
 
-**** *book_ *id_l5-01 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-01
 
 I. À Aug. V.
 
@@ -6945,7 +6923,7 @@ Accepté notre sort dans ce qu'il a de sombre,
 Et suivi, dédaignant l'abîme et le péril,
 Lui, la fille au tombeau, toi, le père à l'exil !
 
-**** *book_ *id_l5-02 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-02
 
 II. Au fils d'un poëte
 
@@ -6989,7 +6967,7 @@ Traversait l'orage et le bruit.
 D'où sortait-il ? De la nuée.
 Où s'enfonçait-il ? Dans la nuit.
 
-**** *book_ *id_l5-03 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-03
 
 III. Écrit en 1846
 « … Je vous ai vu enfant, monsieur, chez votre
@@ -7494,7 +7472,7 @@ Près des flots, j'ai marqué la place de ma tombe ;
 Ici, le bruit du gouffre est tout ce qu'on entend ;
 Tout est horreur et nuit. — Après ? — Je suis content.
 
-**** *book_ *id_l5-04 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-04
 
 IV.
 
@@ -7513,7 +7491,7 @@ La source dit au gouffre amer :
 Ce qui te manque, ô vaste mer !
 Une goutte d'eau qu'on peut boire. »
 
-**** *book_ *id_l5-05 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-05
 
 V. À mademoiselle Louise B.
 
@@ -7622,7 +7600,7 @@ Chaque flot est une âme ; et tout fuit. Rien ne brille.
 Un sanglot dit : Mon père ! un sanglot dit : Ma fille !
 Un sanglot dit :Hélas !
 
-**** *book_ *id_l5-06 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-06
 
 VI. À vous qui êtes là
 
@@ -7695,7 +7673,7 @@ Car le proscrit est seul ; la foule aux pas confus
 Ne comprend que plus tard, d'un rayon éclairée,
 Cet habitant du gouffre et de l'ombre sacrée.
 
-**** *book_ *id_l5-07 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-07
 
 VII.
 
@@ -7718,7 +7696,7 @@ Sans reculer devant n'importe quel martyre,
 Et qu'on se répandît, et qu'on se prodiguât,
 Pour être au fond du gouffre appelé renégat !
 
-**** *book_ *id_l5-08 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-08
 
 VIII. À Jules J.
 
@@ -7799,7 +7777,7 @@ Croit voir se dessiner le pur profil d'Horace,
 Comme si, se mirant au livre où je te voi,
 Ce doux songeur ravi lisait derrière moi !
 
-**** *book_ *id_l5-09 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-09
 
 IX. Le mendiant
 
@@ -7830,7 +7808,7 @@ Je songeais que cet homme était plein de prières,
 Et je regardais, sourd à ce que nous disions,
 Sa bure où je voyais des constellations.
 
-**** *book_ *id_l5-10 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-10
 
 X. Aux feuillantines
 
@@ -7866,7 +7844,7 @@ Tels des enfants, s'ils ont pris un oiseau des cieux,
 S'appellent en riant et s'étonnent, joyeux,
 De sentir dans leur main la douceur de ses plumes.
 
-**** *book_ *id_l5-11 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-11
 
 XI. Ponto
 
@@ -7899,7 +7877,7 @@ Mon chien Ponto me suit. Le chien, c'est la vertu
 Qui, ne pouvant se faire homme, s'est faite bête.
 Et Ponto me regarde avec son œil honnête.
 
-**** *book_ *id_l5-12 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-12
 
 XII. Dolorosæ
 
@@ -7932,7 +7910,7 @@ Aux êtres chers enfuis ou morts, à notre fille,
 Aux vieux parents repris par un monde meilleur,
 Nos pleurs, et le sourire à toute autre douleur.
 
-**** *book_ *id_l5-13 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-13
 
 XIII. Paroles sur la dune
 
@@ -8001,7 +7979,7 @@ Et l'onde aux plis infranchissables ;
 L'été rit, et l'on voit sur le bord de la mer
 Fleurir le chardon bleu des sables.
 
-**** *book_ *id_l5-14 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-14
 
 XIV. Claire P.
 
@@ -8080,7 +8058,7 @@ Puisque, lorsque je crie à ma fille : « Ma fille,
 Je suis là. Lève-toi !» quelqu'un le lui défend ;
 Et que je ne puis pas réveiller mon enfant ! — 
 
-**** *book_ *id_l5-15 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-15
 
 XV. À Alexandre D. (Réponse à la dédicace de son drame La Conscience)
 
@@ -8110,7 +8088,7 @@ Tu rentras dans ton œuvre éclatante, innombrable,
 Multiple, éblouissante, heureuse, où le jour luit :
 Et, moi, dans l'unité sinistre de la nuit.
 
-**** *book_ *id_l5-16 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-16
 
 XVI. Lueur au couchant
 
@@ -8167,7 +8145,7 @@ J'entendais près de moi rire les jeunes hommes
 Et les graves vieillards dire : « Je me souviens. »
 Ô patrie ! ô concorde entre les citoyens !
 
-**** *book_ *id_l5-17 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-17
 
 XVII. Mugitusque boum
 
@@ -8211,7 +8189,7 @@ Voyait passer le cygne auguste, et le bouleau
 Le vent, et le rocher l'écume, et le ciel sombre
 L'homme… Ô nature ! abîme ! immensité de l'ombre !
 
-**** *book_ *id_l5-18 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-18
 
 XVIII. Apparition
 
@@ -8234,7 +8212,7 @@ Mais son front sombre était plus charmant que le jour,
 Et je voyais, dans l'ombre où brillaient ses prunelles,
 Les astres à travers les plumes de ses ailes.
 
-**** *book_ *id_l5-19 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-19
 
 XIX. Au poëte qui m'envoie une plume d'aigle
 
@@ -8258,7 +8236,7 @@ Plume ! strophe ! envoi glorieux !
 Vous avez erré dans les nues,
 Vous avez plané dans les cieux !
 
-**** *book_ *id_l5-20 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-20
 
 XX. Cérigo
 
@@ -8340,7 +8318,7 @@ A ce qui disparaît et s'efface, Cythère,
 Le jardin qui se change en rocher aux flancs nus ;
 La terre a Cérigo ; mais le ciel a Vénus.
 
-**** *book_ *id_l5-21 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-21
 
 XXI. À Paul M. auteur du drame Paris
 
@@ -8367,7 +8345,7 @@ Dont tu viens nous bercer, nous sacrer, nous bénir,
 Que dans ma plaie, où dort la douleur, ô poëte !
 Je sens de la charpie avec un drapeau faite.
 
-**** *book_ *id_l5-22 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-22
 
 XXII.
 
@@ -8390,7 +8368,7 @@ Afin qu'il allât dire à l'océan qui gronde,
 Et qui sert au soleil de vase baptismal,
 Que l'homme rend le bien au monstre pour le mal.
 
-**** *book_ *id_l5-23 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-23
 
 XXIII. Pasteurs et troupeaux. À Madame Louise C.
 
@@ -8441,7 +8419,7 @@ Pendant que l'ombre tremble, et que l'âpre rafale
 Disperse à tous les vents avec son souffle amer
 La laine des moulons sinistres de la mer.
 
-**** *book_ *id_l5-24 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-24
 
 XXIV.
 
@@ -8474,7 +8452,7 @@ Oh ! comme j'étais triste au fond de ma pensée
 Tandis que je songeais, et que le gouffre noir
 M'entrait dans l'âme avec tous les frissons du soir !
 
-**** *book_ *id_l5-25 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-25
 
 XXV.
 
@@ -8511,7 +8489,7 @@ Tandis que, près de toi, les drames, groupe noir,
 Des sombres passions feuillettent le registre,
 Tu rêves dans sa nuit, Proserpine sinistre.
 
-**** *book_ *id_l5-26 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l5-26
 
 XXVI. Les malheureux. À mes enfants
 
@@ -8911,7 +8889,7 @@ Toute la nuit, dans l'ombre, ils pleuraient en silence ;
 Ils pleuraient tous les deux, aïeux du genre humain,
 Le père sur Abel, la mère sur Caïn.
 
-**** *book_ *id_l6-01 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-01
 
 I. Le pont
 
@@ -8938,7 +8916,7 @@ Et me dit : — Si tu veux je bâtirai le pont.
 Vers ce pâle inconnu je levai ma paupière.
 — Quel est ton nom ? lui dis-je. Il me dit : — La prière.
 
-**** *book_ *id_l6-02 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-02
 
 II. Ibo
 
@@ -9107,7 +9085,7 @@ Du ciel sacré ;
 Et, si vous aboyez, tonnerres,
 Je rugirai.
 
-**** *book_ *id_l6-03 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-03
 
 III.
 
@@ -9141,7 +9119,7 @@ Les morts ne marchant plus, dressent leurs pieds funèbres ;
 Les feuilles sèches vont et roulent sous les cieux.
 Ne sens-tu pas souffler le vent mystérieux ?
 
-**** *book_ *id_l6-04 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-04
 
 IV.
 
@@ -9166,7 +9144,7 @@ Considérez la terre et regardez les hommes.
 Ils brisent tous les nœuds qui devaient les unir. »
 Et Dieu m'a répondu : « Certes, je vais venir !»
 
-**** *book_ *id_l6-05 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-05
 
 V. Croire ; mais pas en nous
 
@@ -9241,7 +9219,7 @@ Meilleurs que Dieu, qui met les astres sur vos têtes,
 Et qui vous éblouit, à l'heure du réveil,
 De ce prodigieux sourire, le soleil !
 
-**** *book_ *id_l6-06 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-06
 
 VI. Pleurs dans la nuit
 
@@ -10063,7 +10041,7 @@ L'araignée, immobile au centre de ses toiles,
 Médite ; et le lion, songeant sous les étoiles,
 Rugit :Pardon, Seigneur !
 
-**** *book_ *id_l6-07 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-07
 
 VII.
 
@@ -10082,7 +10060,7 @@ Traverser le milieu,
 Et ce lieu redoutable était plein d'ombre, à cause
 De la grandeur de Dieu.
 
-**** *book_ *id_l6-08 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-08
 
 VIII. Claire
 
@@ -10296,7 +10274,7 @@ Quand nous reprendrez-vous à ce monde charnel,
 Pour nous bercer ensemble aux profondeurs de l'ombre,
 Sous l'éblouissement du regard éternel ?
 
-**** *book_ *id_l6-09 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-09
 
 IX. À la fenêtre pendant la nuit
 
@@ -10426,7 +10404,7 @@ Le muet Infini, sombre mer ignorée,
 Roule vers notre ciel une grande marée
 De constellations !
 
-**** *book_ *id_l6-10 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-10
 
 X. Éclaircie
 
@@ -10469,7 +10447,7 @@ Le jour plonge au plus noir du gouffre, et va chercher
 L'ombre, et la baise au front sous l'eau sombre et hagarde.
 Tout est doux, calme, heureux, apaisé ; Dieu regarde.
 
-**** *book_ *id_l6-11 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-11
 
 XI.
 
@@ -10486,7 +10464,7 @@ De ce qu'on croit l'amour, de ce qu'on prend pour l'âme,
 Sang du cœur, vin des sens âcre et délicieux,
 On fait rougir là-haut quelque passant des cieux !
 
-**** *book_ *id_l6-12 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-12
 
 XII. Aux anges qui nous voient
 
@@ -10505,7 +10483,7 @@ Celle à qui tu disais : « Je t'aime !»
 — Et toi ? — Je suis ton âme même. — 
 Oh ! cachez-moi, profondes nuits !
 
-**** *book_ *id_l6-13 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-13
 
 XIII. Cadaver
 
@@ -10565,7 +10543,7 @@ L'air, la terre, le feu, l'eau, tout, même le ciel,
 Se mêle à cette chair qui devient solennelle.
 Un commencement d'astre éclôt dans la prunelle.
 
-**** *book_ *id_l6-14 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-14
 
 XIV.
 
@@ -10590,7 +10568,7 @@ Et, par moment, perdus dans les nuits insondables,
 Nous voyons s'éclairer de lueurs formidables
 La vitre de l'éternité.
 
-**** *book_ *id_l6-15 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-15
 
 XV. À celle qui est voilée
 
@@ -10739,7 +10717,7 @@ C'est d'être plein, moi, fils du jour,
 De la terre du cimetière,
 Même quand je m'écrie : Amour !
 
-**** *book_ *id_l6-16 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-16
 
 XVI. Horror
 
@@ -10904,7 +10882,7 @@ La création flotte et fuit, des vents battue ;
 Nous distinguons dans l'ombre une immense statue
 Et nous lui disons :Jéhovah !
 
-**** *book_ *id_l6-17 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-17
 
 XVII. Dolor
 
@@ -11048,7 +11026,7 @@ Les morts se dressent froids au fond du caveau sombre,
 Et de leur doigt de spectre écrivent — DIEU — dans l'ombre,
 Sous la pierre de leur tombeau.
 
-**** *book_ *id_l6-18 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-18
 
 XVIII.
 
@@ -11080,7 +11058,7 @@ Connais-tu ces frissons, cette horreur, ce vertige,
 Toi, l'autre aigle de l'autre azur ? — Je suis, lui dis-je,
 L'autre ver de l'autre tombeau.
 
-**** *book_ *id_l6-19 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-19
 
 XIX. Voyage de nuit
 
@@ -11137,7 +11115,7 @@ A l'effrayant roulis mêle un frisson d'aurore,
 De moment en moment le sort est moins obscur,
 Et l'on sent bien qu'on est emporté vers l'azur.
 
-**** *book_ *id_l6-20 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-20
 
 XX. Relligio
 
@@ -11169,7 +11147,7 @@ Lui montrant l'astre d'or sur la terre obscurcie,
 Je lui dis : — Courbe-toi. Dieu lui-même officie,
 Et voici l'élévation.
 
-**** *book_ *id_l6-21 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-21
 
 XXI. Spes
 
@@ -11201,7 +11179,7 @@ Parmi tous ces fronts noirs que d'être le front blême,
 Dit en montrant ce point vague et lointain qui luit :
 Cette blancheur est plus que toute cette nuit !
 
-**** *book_ *id_l6-22 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-22
 
 XXII. Ce que c'est que la mort
 
@@ -11230,7 +11208,7 @@ Fondre et vivre ; et, d'extase et d'azur s'emplissant,
 Tout notre être frémit de la défaite étrange
 Du monstre qui devient dans la lumière un ange.
 
-**** *book_ *id_l6-23 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-23
 
 XXIII. Les mages
 
@@ -12016,7 +11994,7 @@ Loin des lois que nous établîmes,
 Allez goûter, vivants sublimes,
 L'évanouissement des cieux !
 
-**** *book_ *id_l6-24 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-24
 
 XXIV. En frappant à une porte
 
@@ -12055,7 +12033,7 @@ Des trous à ma robe en lambeau ;
 Je n'ai rien à la conscience ;
 Ouvre, tombeau.
 
-**** *book_ *id_l6-25 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-25
 
 XXV. Nomen, numen, lumen
 
@@ -12070,7 +12048,7 @@ Et ce sont, dans les cieux que nos yeux réverbèrent,
 Au-dessus de nos fronts tremblants sous leur rayon,
 Les sept astres géants du noir septentrion.
 
-**** *book_ *id_l6-26 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-26
 
 XXVI. Ce que dit la bouche d'ombre
 
@@ -12942,7 +12920,7 @@ Cessera d'être sourd, et bégaiera : Qu'entends-je ?
 Les douleurs finiront dans toute l'ombre : un ange
 Criera :Commencement !
 
-**** *book_ *id_l6-27 *creator_hugo
+**** *creator_hugo *book_hugo_contemplations *style_verse *id_l6-27
 
 À celle qui est restée en France
 

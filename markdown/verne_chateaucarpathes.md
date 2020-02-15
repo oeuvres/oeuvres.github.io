@@ -1,6 +1,6 @@
 ---
 identifier: verne_chateaucarpathes  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1892  
 title: Le Chateau des Carpathes  
 ---

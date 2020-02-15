@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 Préface
 
@@ -54,7 +54,7 @@ Il rêve d'échafauds en fumant son houka.
 Tu le connais, lecteur, ce monstre délicat,
 — Hypocrite lecteur, — mon semblable, — mon frère !
 
-**** *book_ *id_body-2 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 Spleen et idéal
 
@@ -3319,7 +3319,7 @@ Où l'auguste Vertu, ton épouse encor vierge,
 Où le Repentir même (oh ! la dernière auberge !),
 Où tout te dira : Meurs, vieux lâche ! il est trop tard ! »
 
-**** *book_ *id_body-3 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 Tableaux parisiens
 
@@ -4184,7 +4184,7 @@ S'avançait lentement sur la Seine déserte,
 Et le sombre Paris, en se frottant les yeux,
 Empoignait ses outils, vieillard laborieux.
 
-**** *book_ *id_body-4 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 Le vin
 
@@ -4369,7 +4369,7 @@ Ma sœur, côte à côte nageant,
 Nous fuirons sans repos ni trêves
 Vers le paradis de mes rêves !
 
-**** *book_ *id_body-5 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 Fleurs du mal
 
@@ -4733,7 +4733,7 @@ Car ce que ta bouche cruelle
 Monstre assassin, c'est ma cervelle,
         Mon sang et ma chair ! »
 
-**** *book_ *id_body-6 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 Révolte
 
@@ -4919,7 +4919,7 @@ Fais que mon âme un jour, sous l'Arbre de Science,
 Près de toi se repose, à l'heure où sur ton front
 Comme un Temple nouveau ses rameaux s'épandront !
 
-**** *book_ *id_body-7 *date_1868 *creator_baudelaire
+**** *creator_baudelaire *book_baudelaire_fleurs *style_verse *date_1868
 
 La mort
 

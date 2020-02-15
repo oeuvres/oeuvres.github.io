@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Salut
 
@@ -22,7 +22,7 @@ Solitude, récif, étoile
 À n'importe ce qui valut
 Le blanc souci de notre toile.
 
-**** *book_ *id_body-2
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Le Guignon
 
@@ -112,7 +112,7 @@ Ces héros excédés de malaises badins
 
 Vont ridiculement se pendre au réverbère.
 
-**** *book_ *id_body-3
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Apparition
 
@@ -133,7 +133,7 @@ Qui jadis sur mes beaux sommeils d'enfant gâté
 Passait, laissant toujours de ses mains mal fermées
 Neiger de blancs bouquets d'étoiles parfumées.
 
-**** *book_ *id_body-4
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Placet futile
 
@@ -155,7 +155,7 @@ Nommez-nous… pour qu'Amour ailé d'un éventail
 M'y peigne flûte aux doigts endormant ce bercail,
 Princesse, nommez-nous berger de vos sourires.
 
-**** *book_ *id_body-5
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Le Pitre châtié
 
@@ -177,7 +177,7 @@ Rance nuit de la peau quand sur moi vous passiez,
 Ne sachant pas, ingrat. que c'était tout mon sacre,
 Ce fard noyé dans l'eau perfide des glaciers.
 
-**** *book_ *id_body-6
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Une négresse par le démon secouée…
 
@@ -201,7 +201,7 @@ Levant une peau noire ouverte sous le crin,
 Avance le palais de cette étrange bouche
 Pâle et rose comme un coquillage marin.
 
-**** *book_ *id_body-7
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Soupir
 
@@ -216,7 +216,7 @@ Et laisse, sur l'eau morte où la fauve agonie
 Des feuilles erre au vent et creuse un froid sillon,
 Se traîner le soleil jaune d'un long rayon.
 
-**** *book_ *id_body-8
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Les Fenêtres
 
@@ -269,7 +269,7 @@ D'enfoncer le cristal par le monstre insulté
 Et de m'enfuir, avec mes deux ailes sans plume
 — Au risque de tomber pendant l'éternité.
 
-**** *book_ *id_body-9
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Les Fleurs
 
@@ -303,7 +303,7 @@ Calice balançant la future fiole,
 De grandes fleurs avec la balsamique Mort
 Pour le poëte las que la vie étiole.
 
-**** *book_ *id_body-10
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Renouveau
 
@@ -325,7 +325,7 @@ J'attends, en m'abîmant que mon ennui s'élève…
 - Cependant l'Azur rit sur la haie et l'éveil
 De tant d'oiseaux en fleur gazouillant au soleil.
 
-**** *book_ *id_body-11
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Angoisse
 
@@ -347,7 +347,7 @@ Par un coeur que la dent d'aucun crime ne blesse,
 Je fuis, pâle, défait, hanté par mon linceul,
 Ayant peur de mourir lorsque je couche seul.
 
-**** *book_ *id_body-12
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Las de l'amer repos où ma paresse offense…
 
@@ -380,7 +380,7 @@ Un clair croissant perdu par une blanche nue
 Trempe sa corne calme en la glace des eaux,
 Non loin de trois grand cils d'émeraude, roseaux.
 
-**** *book_ *id_body-13
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Le Sonneur
 
@@ -402,7 +402,7 @@ Et la voix ne me vient que par bribes et creuse.
 Mais, un jour, fatigué d'avoir en vain tiré,
 Ô Satan, j'ôterai la pierre et me pendrai.
 
-**** *book_ *id_body-14
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Tristesse d'été
 
@@ -424,7 +424,7 @@ Je goûterai le fard pleuré par tes paupières,
 Pour voir s'il sait donner au coeur que tu frappas
 L'insensibilité de l'azur et des pierres.
 
-**** *book_ *id_body-15
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 L'Azur
 
@@ -472,7 +472,7 @@ Ta native agonie ainsi qu'un glaive sûr ;
 Où fuir dans la révolte inutile et perverse.
 Je suis hanté. L'Azur.l'Azur.l'Azur.l'Azur.
 
-**** *book_ *id_body-16
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Brise marine
 
@@ -493,7 +493,7 @@ Sont-ils de ceux qu'un vent penche sur les naufrages
 Perdus, sans mâts, sans mâts, ni fertiles îlots…
 Mais, ô mon coeur, entends le chant des matelots.
 
-**** *book_ *id_body-17
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Aumône
 
@@ -531,7 +531,7 @@ Je hais une autre aumône et veux que tu m'oublies.
 
 Et surtout ne va pas, frère, acheter du pain.
 
-**** *book_ *id_body-18
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Sonnet, 2 novembre 1877
 
@@ -555,7 +555,7 @@ Soulève avec l'ennui d'une force défunte.
 Pour revivre il suffit qu'à tes lèvres j'emprunte
 Le souffle de mon nom murmuré tout un soir.
 
-**** *book_ *id_body-19
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Don du poème
 
@@ -574,7 +574,7 @@ Avec le doigt fané presseras-tu le sein
 Par qui coule en blancheur sibylline la femme
 Pour les lèvres que l'air du vierge azur affame.
 
-**** *book_ *id_body-20
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 Hérodiade
 
 II Scène. La Nourrice — Hérodiade
@@ -827,7 +827,7 @@ Illuminée au même
 Principe qui m'élut
 Penche un salut.
 
-**** *book_ *id_body-21
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 L'Après-midi d'un faune, églogue
 
@@ -957,7 +957,7 @@ Ouvrir ma bouche à l'astre efficace des vins.
 
 Couple, adieu ; je vais voir l'ombre que tu devins.
 
-**** *book_ *id_body-22
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Sainte
 
@@ -981,7 +981,7 @@ Ni le vieux livre, elle balance
 Sur le plumage instrumental,
 Musicienne du silence.
 
-**** *book_ *id_body-23
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Toast funèbre
 
@@ -1045,7 +1045,7 @@ Surgisse, de l'allée ornement tributaire,
 Le sépulcre solide où gît tout ce qui nuit,
 Et l'avare silence et la massive nuit.
 
-**** *book_ *id_body-24
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Prose pour des Esseintes
 
@@ -1119,7 +1119,7 @@ Sous aucun climat, son aïeul,
 De porter ce nom : Pulchérie.
 Caché par le trop grand glaïeul.
 
-**** *book_ *id_body-25
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Éventail de madame Mallarmé
 
@@ -1141,7 +1141,7 @@ Seule à me rendre chagrin)
 Toujours tel il apparaisse
 Entre tes mains sans paresse.
 
-**** *book_ *id_body-26
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Autre éventail de mademoiselle Mallarmé
 
@@ -1170,7 +1170,7 @@ Stagnants sur les soirs d'or, ce l'est,
 Ce blanc vol fermé que tu poses
 Contre le feu d'un bracelet.
 
-**** *book_ *id_body-27
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Feuillet d'album
 
@@ -1192,7 +1192,7 @@ Manque de moyens s'il imite
 Votre très naturel et clair
 Rire d'enfant qui charme l'air.
 
-**** *book_ *id_body-28
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Dame sans trop d'ardeur à la fois enflammant…
 
@@ -1215,7 +1215,7 @@ Comme un éventail frais dans la chambre s'étonne
 À raviver du peu qu'il faut ici d'émoi
 Toute notre native amitié monotone.
 
-**** *book_ *id_body-29
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Ô si chère de loin et proche et blanche, si…
 
@@ -1237,7 +1237,7 @@ N'étant, très grand trésor et tête si petite,
 Que tu m'enseignes bien toute une autre douceur
 Tout bas par le baiser seul dans tes cheveux dite.
 
-**** *book_ *id_body-30
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Remémoration d'amis belges
 
@@ -1259,7 +1259,7 @@ Quand solennellement cette cité m'apprit
 Lesquels entre ses fils un autre vol désigne
 À prompte irradier ainsi qu'aile l'esprit.
 
-**** *book_ *id_body-31
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 Chanson Bas
 
 I. Le Savetier
@@ -1344,7 +1344,7 @@ Jusques à leur contenu
 Me sépare de mes hardes
 Et comme un dieu je vais nu.
 
-**** *book_ *id_body-32
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Billet à Whistler
 
@@ -1366,7 +1366,7 @@ sans se faire autrement de bile
 Sinon rieur que puisse l'air
 De sa jupe éventer Whistler.
 
-**** *book_ *id_body-33
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 Rondels
 
 I. Rien au réveil que vous n'ayez…
@@ -1405,7 +1405,7 @@ Un baiser flambant se déchire
 Jusqu'aux pointes des ailerons
 Si tu veux nous nous aimerons
 
-**** *book_ *id_body-34
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Petit Air I
 
@@ -1427,7 +1427,7 @@ Exultatrice à côté
 Dans l'onde toi devenue
 Ta jubilation nue.
 
-**** *book_ *id_body-35
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Petit Air II
 
@@ -1449,7 +1449,7 @@ A jailli le sanglot pire
 Déchiré va-t-il entier
 Rester sur quelque sentier.
 
-**** *book_ *id_body-36
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Petit Air (guerrier)
 
@@ -1471,7 +1471,7 @@ Mais comme une autre menace
 De trancher ras cette ortie
 Folle de la sympathie.
 
-**** *book_ *id_body-37
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 Plusieurs Sonnets
 
 Quand l'Ombre menaça de la fatale loi…
@@ -1574,7 +1574,7 @@ Accomplit par son chef fulgurante l'exploit
 De semer de rubis le doute qu'elle écorche
 Ainsi qu'une joyeuse et tutélaire torche.
 
-**** *book_ *id_body-38
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Le Tombeau d'Edgar Poe
 
@@ -1596,7 +1596,7 @@ Calme bloc ici-bas chu d'un désastre obscur,
 Que ce granit du moins montre à jamais sa borne
 Aux noirs vols du Blasphème épars dans le futur.
 
-**** *book_ *id_body-39
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Le Tombeau de Charles Baudelaire
 
@@ -1618,7 +1618,7 @@ Au voile qui la ceint absente avec frissons
 Celle son Ombre même un poison tutélaire
 Toujours à respirer si nous en périssons.
 
-**** *book_ *id_body-40
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Tombeau Anniversaire - Janvier 1897
 
@@ -1640,7 +1640,7 @@ Verlaine. Il est caché parmi l'herbe, Verlaine
 La lèvre sans y boire ou tarir son haleine
 Un peu profond ruisseau calomnié la mort.
 
-**** *book_ *id_body-41
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 Hommage
 
 Le silence déjà funèbre d'une moire…
@@ -1724,7 +1724,7 @@ Nuit, désespoir et pierrerie
 Par son chant reflété jusqu'au
 Sourire du pâle Vasco.
 
-**** *book_ *id_body-42
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 Tryptique
 
 I. Tout Orgueil fume-t-il du soir…
@@ -1787,7 +1787,7 @@ Telle que vers quelque fenêtre
 Selon nul ventre que le sein,
 Filial on aurait pu naître.
 
-**** *book_ *id_body-43
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Quelle soie aux baumes de temps…
 
@@ -1809,7 +1809,7 @@ Dans la considérable touffe
 Expirer, comme un diamant,
 Le cri des Gloires qu'il étouffe.
 
-**** *book_ *id_body-44
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 M'introduire dans ton histoire…
 
@@ -1831,7 +1831,7 @@ Avec des royaumes épars
 Comme mourir pourpre la roue
 Du seul vespéral de mes chars.
 
-**** *book_ *id_body-45
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 À la nue accablante tu…
 
@@ -1853,7 +1853,7 @@ Dans le si blanc cheveu qui traîne
 Avarement aura noyé
 Le flanc enfant d'une sirène.
 
-**** *book_ *id_body-46
+**** *creator_mallarme *book_mallarme_poesies *style_verse
 
 Mes bouquins refermés sur le nom de Paphos…
 

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p0 *date_1866 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_poemessaturniens *style_verse *genre_verse *dist1_verlaine_verse_verse_poemessaturniens *dist2_verlaine_verse_verse *id_p0 *date_1866 
 
 Les Sages d'autrefois…
 
@@ -27,7 +27,7 @@ Par la logique d'une Influence maligne.
 P. V.
 
 
-**** *book_ *id_p1 *date_1866 *creator_verlaine
+**** *creator_verlaine *book_verlaine_poemessaturniens *style_verse *genre_verse *dist1_verlaine_verse_verse_poemessaturniens *dist2_verlaine_verse_verse *id_p1 *date_1866
 
 Autres poèmes 
 
@@ -1372,7 +1372,7 @@ Sur le corps froid les vers se mêlèrent aux poux.
 
 — Philippe Deux était à la droite du Père.
 
-**** *book_ *id_p18 *date_1866 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_poemessaturniens *style_verse *genre_verse *dist1_verlaine_verse_verse_poemessaturniens *dist2_verlaine_verse_verse *id_p18 *date_1866 
 
 ÉPILOGUE
 

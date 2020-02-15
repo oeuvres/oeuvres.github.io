@@ -1,6 +1,6 @@
 ---
 identifier: proust_recherche2  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date:   
 title: À l’ombre des jeunes filles en fleurs — À la recherche du temps perdu  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: andersen_contes  
-creator: Andersen, Hans Christian  
+creator: Andersen, Hans Christian.  
 date: 1943  
 title: Contes  
 ---

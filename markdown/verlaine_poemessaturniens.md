@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_poemessaturniens  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1866  
 title: Poèmes saturniens  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: sieyes_essaiprivileges  
-creator: Siéyès, Emmanuel Joseph (1748-1836)  
+creator: Siéyès, Emmanuel Joseph.  
 date: 1788  
 title: Essai sur les privilèges  
 ---

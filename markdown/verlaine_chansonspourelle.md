@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_chansonspourelle  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1891  
 title: Chansons pour elle  
 ---

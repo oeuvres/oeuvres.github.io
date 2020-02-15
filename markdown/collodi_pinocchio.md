@@ -1,6 +1,6 @@
 ---
 identifier: collodi_pinocchio  
-creator: Collodi, Carlo  
+creator: Collodi, Carlo.  
 date: 1883  
 title: Les aventures de Pinocchio  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dumas_angepitou  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1851  
 title: Ange Pitou  
 ---

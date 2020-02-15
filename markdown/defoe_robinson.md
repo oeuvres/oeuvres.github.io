@@ -1,6 +1,6 @@
 ---
 identifier: defoe_robinson  
-creator: Defoe, Daniel  
+creator: Defoe, Daniel.  
 date: 1836  
 title: Robinson Crusoé  
 ---

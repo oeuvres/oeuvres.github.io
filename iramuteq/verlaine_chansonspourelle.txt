@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p123 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p123 *date_1891 
 
 I
 
@@ -39,7 +39,7 @@ C'est encor, c'est toujours mon tour.
 
 Vivent nous et vive l'amour !
 
-**** *book_ *id_p124 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p124 *date_1891 
 
 II
 
@@ -95,7 +95,7 @@ Et zut au monde qui jasait !
    Rien ne puis,
    Rien ne suis.
 
-**** *book_ *id_p125 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p125 *date_1891 
 
 III
 
@@ -126,7 +126,7 @@ Malgré mon caractère affreux,
 Affreux, restons toujours heureux :
   Fois première et dernière.
 
-**** *book_ *id_p126 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p126 *date_1891 
 
 IV
 
@@ -158,7 +158,7 @@ Dont, bête, je me prévaux,
 
 Aime ma simplicité.
 
-**** *book_ *id_p127 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p127 *date_1891 
 
 V
 Zon, flûte et basse
@@ -191,7 +191,7 @@ Ah ! dis donc, Chère : Flûte et zon !
 
 Et si je fais l'âne, eh bien, donne-moi du son !
 
-**** *book_ *id_p128 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p128 *date_1891 
 
 VI
 
@@ -216,7 +216,7 @@ Tous les deux, corps et âme,
 Soyons pires que flamme,
 Soyons pires que chair !
 
-**** *book_ *id_p129 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p129 *date_1891 
 
 VII
 
@@ -247,7 +247,7 @@ Que me fait, puisque je ne vis
 Et que tu tiens mes sens ravis
    Sous ta puissance ?
 
-**** *book_ *id_p130 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p130 *date_1891 
 
 VIII
 
@@ -279,7 +279,7 @@ Aimons, ma petite méchante,
 Telle l'eau va, tel l'oiseau chante,
 Et tels, nous ne devons qu'aimer.
 
-**** *book_ *id_p131 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p131 *date_1891 
 
 IX
 
@@ -318,7 +318,7 @@ Promets-le-moi sans biaiser.
 C'est convenu ? Oui ? Puis-je oser ?
 Allons, plus de ta grise mine !
 
-**** *book_ *id_p132 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p132 *date_1891 
 
 X
 
@@ -343,7 +343,7 @@ De tes durs yeux de sorcière,
 Durs et doux à ta manière...
 Vrai Dieu ! la terrible nuit !
 
-**** *book_ *id_p133 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p133 *date_1891 
 
 XI
 
@@ -374,7 +374,7 @@ Soyons bons tout bêtement,
 Aimons-nous aimablement
    M'amante !
 
-**** *book_ *id_p134 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p134 *date_1891 
 
 XII
 
@@ -409,7 +409,7 @@ Ma bouche est un trou, la tienne est un crible.
 Dieu saura bien reconnaître les siens.
 Morale : surtout baisons-nous — et viens !
 
-**** *book_ *id_p135 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p135 *date_1891 
 
 XIII
 
@@ -431,7 +431,7 @@ D'avoir fait de ton cœur mon maître et mon vainqueur.
 Puisque, toujours disposé à couronner mon zèle
 Ta beauté sert de gage à mon plus cher souhait.
 
-**** *book_ *id_p136 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p136 *date_1891 
 
 XIV
 
@@ -456,7 +456,7 @@ Nappe d'autel pour l'alme messe,
 Drapeau mignard vaincu sans cesse
 Matin et soir, soir et matin.
 
-**** *book_ *id_p137 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p137 *date_1891 
 
 XV
 
@@ -500,7 +500,7 @@ A bousculer le linge et l'honneur !
   C'est toi seul que j'aime
   De tous ses atours.
 
-**** *book_ *id_p138 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p138 *date_1891 
 
 XVI
 
@@ -525,7 +525,7 @@ S'il fait soleil en moi, chez toi,
   Et que le plaisir rie
   A notre gueuserie ?
 
-**** *book_ *id_p139 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p139 *date_1891 
 
 XVII
 
@@ -559,7 +559,7 @@ Tête en l'air, sens au clair, vos « pudeurs » endormies,
   Aimons dûment
   Et verdement
 
-**** *book_ *id_p140 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p140 *date_1891 
 
 XVIII
 
@@ -591,7 +591,7 @@ Conscience unique, unique lumière.
 
 Jouir et dormir, m'amante, veux-tu ?
 
-**** *book_ *id_p141 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p141 *date_1891 
 
 XIX
 
@@ -623,7 +623,7 @@ Si j'y reste, en ton lit mangeur !
 
 Ta gorge, tes hanches ! ton geste !
 
-**** *book_ *id_p142 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p142 *date_1891 
 
 XX
 
@@ -647,7 +647,7 @@ Et si profonde est ma foi
 Envers tout ce que je croi
 Que je ne vis plus que pour toi.
 
-**** *book_ *id_p143 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p143 *date_1891 
 
 XXI
 
@@ -678,7 +678,7 @@ Qu'une chasse infructueuse
 Tu seras victorieuse...
   Si je ne prévaux !
 
-**** *book_ *id_p144 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p144 *date_1891 
 
 XXII
 
@@ -702,7 +702,7 @@ Au réveil ce fut, dans tes bras,
 Mais plus aiguë et plus parfaite,
 Exactement la même fête !
 
-**** *book_ *id_p145 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p145 *date_1891 
 
 XXIII
 
@@ -733,7 +733,7 @@ Amants fervents, puisqu'en somme
 Toi, bonne fille et moi, brave homme,
 Tu m'aimes, dis, et que je t'aime.
 
-**** *book_ *id_p146 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p146 *date_1891 
 
 XXIV
 
@@ -765,7 +765,7 @@ Trompons-les bien. Nuls remords mesquins !
 
  Soyons bien coquins !
 
-**** *book_ *id_p147 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chansonspourelle *style_verse *genre_verse *dist1_verlaine_verse_verse_chansonspourelle *dist2_verlaine_verse_verse *id_p147 *date_1891 
 
 XXV
 

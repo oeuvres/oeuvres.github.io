@@ -1,6 +1,6 @@
 ---
 identifier: verne_mathiassandorf  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1885  
 title: Mathias Sandorf  
 ---

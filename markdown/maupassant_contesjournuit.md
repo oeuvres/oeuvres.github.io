@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_contesjournuit  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1885  
 title: Contes du jour et de la nuit  
 ---

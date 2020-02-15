@@ -1,6 +1,6 @@
 ---
 identifier: bergson_duree  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1922  
 title: Durée et simultanéité : à propos de la théorie d’Einstein  
 ---

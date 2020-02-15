@@ -1,6 +1,6 @@
 ---
 identifier: lamartine_meditations  
-creator: Lamartine, Alphonse de  
+creator: Lamartine, Alphonse de.  
 date: 1823  
 title: Méditations, la Mort de Socrate, et nouvelles Méditations  
 ---

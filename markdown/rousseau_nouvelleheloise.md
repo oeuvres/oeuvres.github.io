@@ -1,6 +1,6 @@
 ---
 identifier: rousseau_nouvelleheloise  
-creator: Rousseau, Jean-Jacques  
+creator: Rousseau, Jean-Jacques.  
 date: 1830  
 title: Julie ou la Nouvelle Héloïse  
 ---

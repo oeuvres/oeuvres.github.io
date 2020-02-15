@@ -1,6 +1,6 @@
 ---
 identifier: durkheim_regles-methode-sociologique  
-creator: Durkheim, Émile  
+creator: Durkheim, Émile.  
 date: 1895  
 title: Les règles de la méthode sociologique  
 ---

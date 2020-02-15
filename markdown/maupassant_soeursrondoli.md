@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_soeursrondoli  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1884  
 title: Les sœurs Rondoli  
 ---

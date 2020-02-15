@@ -1,6 +1,6 @@
 ---
 identifier: flaubert_education  
-creator: Flaubert  
+creator: Flaubert.  
 date: 1869  
 title: L’Éducation sentimentale  
 ---

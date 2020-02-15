@@ -1,6 +1,6 @@
 ---
 identifier: galland_1001nuits  
-creator: Galland, Antoine  
+creator: Galland, Antoine.  
 date: 1717  
 title: Les mille et une nuits  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_romances  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1874  
 title: Romances sans paroles  
 ---

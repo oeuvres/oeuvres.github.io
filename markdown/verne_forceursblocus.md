@@ -1,6 +1,6 @@
 ---
 identifier: verne_forceursblocus  
-creator:   Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1865  
 title: Les Forceurs de blocus  
 ---

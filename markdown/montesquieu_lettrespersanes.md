@@ -1,6 +1,6 @@
 ---
 identifier: montesquieu_lettrespersanes  
-creator: Montesquieu, Charles-Louis de Secondat (1689-1755 ; baron de La Brède et de)   
+creator: Montesquieu, Charles-Louis de Secondat.  
 date:   
 title: Lettres persanes  
 ---

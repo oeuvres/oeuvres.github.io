@@ -1,6 +1,6 @@
 ---
 identifier: dickens_magasinantiquites  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1840  
 title: Le magasin d’antiquités  
 ---

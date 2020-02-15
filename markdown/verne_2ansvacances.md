@@ -1,6 +1,6 @@
 ---
 identifier: verne_2ansvacances  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1888  
 title: Deux ans de vacances  
 ---

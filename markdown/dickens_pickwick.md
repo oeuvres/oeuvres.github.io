@@ -1,6 +1,6 @@
 ---
 identifier: dickens_pickwick  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1837  
 title: Les aventures de monsieur Pickwick  
 ---

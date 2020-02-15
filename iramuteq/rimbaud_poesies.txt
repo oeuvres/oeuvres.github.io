@@ -1,6 +1,6 @@
 
 
-**** *book_rimbaud_poesies *id_rimbaud_01 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_01 *date_1872
 
 Les étrennes des orphelins
 
@@ -123,7 +123,7 @@ De la nacre et du jais aux reflets scintillants ;
 Des petits cadres noirs, des couronnes de verre,
 Ayant trois mots gravés en or : «  A NOTRE MÈRE ! »
 
-**** *book_rimbaud_poesies *id_rimbaud_02 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_02 *date_1870
 
 Sensation
 
@@ -137,7 +137,7 @@ Mais l'amour infini me montera dans l'âme,
 Et j'irai loin, bien loin, comme un bohémien,
 Par la Nature, — heureux comme avec une femme.
 
-**** *book_rimbaud_poesies *id_rimbaud_03 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_03 *date_1870
 
 Soleil et chair
 
@@ -323,7 +323,7 @@ Majestueusement debout, les sombres Marbres,
 Les Dieux, au front desquels le Bouvreuil fait son nid,
 — Les Dieux écoutent l'homme et le Monde infini !
 
-**** *book_rimbaud_poesies *id_rimbaud_04 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_04 *date_1870
 
 Ophélie
 
@@ -376,7 +376,7 @@ Tu viens chercher, la nuit, les fleurs que tu cueillis ;
 Et qu'il a vu sur l'eau, couchée en ses longs voiles,
 La blanche Ophélia flotter, comme un grand lys.
 
-**** *book_rimbaud_poesies *id_rimbaud_05 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_05 *date_1872
 
 Le bal des pendus
 
@@ -435,7 +435,7 @@ Dansent, dansent les paladins,
 Les maigres paladins du diable,
 Les squelettes de Saladins.
 
-**** *book_rimbaud_poesies *id_rimbaud_06 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_06 *date_1872
 
 Le châtiment de Tartufe
 
@@ -457,7 +457,7 @@ Donc, il se confessait, priait, avec un râle !
 L'homme se contenta d'emporter ses rabats…
 — Peuh ! Tartufe était nu du haut jusques en bas !
 
-**** *book_rimbaud_poesies *id_rimbaud_07 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_07 *date_1872
 
 Le forgeron
 
@@ -655,12 +655,11 @@ Alors, de sa main large et superbe de crasse,
 Bien que le roi ventru suât, le Forgeron,
 Terrible, lui jeta le bonnet rouge au front !
 
-**** *book_rimbaud_poesies *id_rimbaud_08 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_08 *date_1870
 
 Morts de Quatre-vingt-douze...
 
-...
-Français de soixante-dix, bonapartistes, républicains, souvenez-vous de vos pères en 92, etc.
+... Français de soixante-dix, bonapartistes, républicains, souvenez-vous de vos pères en 92, etc.
 
 Morts de Quatre-vingt-douze et de Quatre-vingt-treize,
 Qui, pâles du baiser fort de la liberté,
@@ -680,7 +679,7 @@ Nous vous laissions dormir avec la République,
 Nous, courbés sous les rois comme sous une trique.
 — Messieurs de Cassagnac nous reparlent de vous !
 
-**** *book_rimbaud_poesies *id_rimbaud_09 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_09 *date_1872
 
 A la musique Place de la Gare, à Charleville.
 
@@ -729,7 +728,7 @@ J'ai bientôt déniché la bottine, le bas…
 Elles me trouvent drôle et se parlent tout bas…
 — Et mes désirs brutaux s'accrochent à leurs lèvres…
 
-**** *book_rimbaud_poesies *id_rimbaud_10 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_10 *date_1870
 
 Vénus Anadyomède
 
@@ -751,7 +750,7 @@ Les reins portent deux mots gravés : Clara Venus ;
 — Et tout ce corps remue et tend sa large croupe
 Belle hideusement d'un ulcère à l'anus.
 
-**** *book_rimbaud_poesies *id_rimbaud_11 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_11 *date_1872
 
 Première soirée
 
@@ -795,7 +794,7 @@ Et de grands arbres indiscrets
 Aux vitres jetaient leur feuillée
 Malinement, tout près, tout près.
 
-**** *book_rimbaud_poesies *id_rimbaud_12 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_12 *date_1870
 
 Les réparties de Nina
 
@@ -950,7 +949,7 @@ Tu viendras, n'est-ce pas, et même…
 
 ELLE — Et mon bureau ?
 
-**** *book_rimbaud_poesies *id_rimbaud_13 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_13 *date_1870
 
 Les effarés
 
@@ -1002,7 +1001,7 @@ Du ciel rouvert,
 — Et que leur lange blanc tremblote
 Au vent d'hiver…
 
-**** *book_rimbaud_poesies *id_rimbaud_14 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_14 *date_1870
 
 Roman
 
@@ -1054,7 +1053,7 @@ Vous demandez des bocks ou de la limonade…
 — On n'est pas sérieux, quand on a dix-sept ans
 Et qu'on a des tilleuls verts sur la promenade.
 
-**** *book_rimbaud_poesies *id_rimbaud_15 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_15 *date_1872
 
 Le mal
 
@@ -1076,7 +1075,7 @@ Et se réveille, quand des mères, ramassées
 Dans l'angoisse, et pleurant sous leur vieux bonnet noir,
 Lui donnent un gros sou lié dans leur mouchoir !
 
-**** *book_rimbaud_poesies *id_rimbaud_16 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_16 *date_1872
 
 Rages des Césars
 
@@ -1098,7 +1097,7 @@ Il repense peut-être au Compère en lunettes…
 — Et regarde filer de son cigare en feu,
 Comme aux soirs de Saint-Cloud, un fin nuage bleu.
 
-**** *book_rimbaud_poesies *id_rimbaud_17 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_17 *date_1870
 
 Rêvé pour l'hiver
 
@@ -1120,7 +1119,7 @@ Et tu me diras :"Cherche !"en inclinant la tête,
 — Et nous prendrons du temps à trouver cette bête
 — Qui voyage beaucoup…
 
-**** *book_rimbaud_poesies *id_rimbaud_18 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_18 *date_1870
 
 Le dormeur du val
 
@@ -1142,7 +1141,7 @@ Les parfums ne font pas frissonner sa narine ;
 Il dort dans le soleil, la main sur sa poitrine
 Tranquille. Il a deux trous rouge au côté droit.
 
-**** *book_rimbaud_poesies *id_rimbaud_19 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_19 *date_1870
 
 Au cabaret vert, cinq heures du soir
 
@@ -1164,7 +1163,7 @@ Du jambon rose et blanc parfumé d'une gousse
 D'ail, — et m'emplit la chope immense, avec sa mousse
 Que dorait un rayon de soleil arriéré.
 
-**** *book_rimbaud_poesies *id_rimbaud_20 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_20 *date_1870
 
 La maline
 
@@ -1186,7 +1185,7 @@ Elle arrangeait les plats, près de moi, pour m'aiser ;
 — Puis, comme ça, — bien sûr, pour avoir un baiser, —
 Tout bas :"Sens donc, j'ai pris une froid sur la joue…"
 
-**** *book_rimbaud_poesies *id_rimbaud_21 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_21 *date_1870
 
 L'éclatante victoire de Sarrebrück, REMPORTEE AUX CRIS DE VIVE L'EMPEREUR ! Gravure belge brillamment colorée, se vend à Charleroi, 35 centimes.
 
@@ -1208,7 +1207,7 @@ Un schako surgit, comme un soleil noir… — Au centre,
 Boquillon rouge et bleu, très naïf, sur son ventre
 Se dresse, et, — présentant ses derrières — :"De quoi ?…"
 
-**** *book_rimbaud_poesies *id_rimbaud_22 *date_1870 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_22 *date_1870
 
 Le buffet
 
@@ -1230,7 +1229,7 @@ Dont le parfum se mêle à des parfums de fruits.
 Et tu voudrais conter tes contes, et tu bruis
 Quand s'ouvrent lentement tes grandes portes noires.
 
-**** *book_rimbaud_poesies *id_rimbaud_23 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_23 *date_1872
 
 Ma bohème ( Fantaisie )
 
@@ -1252,7 +1251,7 @@ Où, rimant au milieu des ombres fantastiques,
 Comme des lyres, je tirais les élastiques
 De mes souliers blessés, un pied près de mon coeur !
 
-**** *book_rimbaud_poesies *id_rimbaud_24 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_24 *date_1872
 
 Les corbeaux
 
@@ -1284,7 +1283,7 @@ Pour ceux qu'au fond du bois enchaîne,
 Dans l'herbe d'où l'on ne peut fuir,
 La défaite sans avenir.
 
-**** *book_rimbaud_poesies *id_rimbaud_25 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_25 *date_1872
 
 Les assis
 
@@ -1343,7 +1342,7 @@ Les bercent, le long des calices accroupis
 Tels qu'au fil des glaïeuls le vol des libellules
 — Et leur membre s'agace à des barbes d'épis.
 
-**** *book_rimbaud_poesies *id_rimbaud_26 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_26 *date_1872
 
 Tête de faune
 
@@ -1362,7 +1361,7 @@ Son rire tremble encore à chaque feuille
 Et l'on voit épeuré par un bouvreuil
 Le Baiser d'or du Bois, qui se recueille.
 
-**** *book_rimbaud_poesies *id_rimbaud_27 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_27 *date_1872
 
 Les douaniers
 
@@ -1384,7 +1383,7 @@ Quand sa sérénité s'approche des jeunesses,
 Le Douanier se tient aux appas contrôlés !
 Enfer aux Délinquants que sa paume a frôlés !
 
-**** *book_rimbaud_poesies *id_rimbaud_28 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_28 *date_1872
 
 Oraison du soir
 
@@ -1403,7 +1402,7 @@ Doux comme le Seigneur du cèdre et des hysopes,
 Je pisse vers les cieux bruns, très haut et très loin,
 Avec l'assentiment des grands héliotropes.
 
-**** *book_rimbaud_poesies *id_rimbaud_29 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_29 *date_1872
 
 Chant de guerre parisien
 
@@ -1447,7 +1446,7 @@ Dans de longs accroupissements,
 Entendront des rameaux qui cassent
 Parmi les rouges froissements !
 
-**** *book_rimbaud_poesies *id_rimbaud_30 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_30 *date_1872
 
 Mes petites amoureuses
 
@@ -1511,7 +1510,7 @@ Aux pialats ronds,
 Entrechoquez vos genouillères,
 Mes laiderons !
 
-**** *book_rimbaud_poesies *id_rimbaud_31 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_31 *date_1872
 
 Accroupissements
 
@@ -1559,7 +1558,7 @@ Une ombre avec détails s'accroupit, sur un fond
 De neige rose ainsi qu'une rose trémière…
 Fantasque, un nez poursuit Vénus au ciel profond.
 
-**** *book_rimbaud_poesies *id_rimbaud_32 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_32 *date_1871
 
 Les poètes de sept ans
 
@@ -1631,7 +1630,7 @@ Vertige, écroulements, déroutes et pitié !
 En bas, — seul, et couché sur des pièces de toile
 Écrue, et pressentant violemment la voile !
 
-**** *book_rimbaud_poesies *id_rimbaud_33 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_33 *date_1871
 
 Les pauvres à l'église
 
@@ -1680,7 +1679,7 @@ Banals, sourires verts, les Dames des quartiers
 Distingués, — ô Jésus ! — les malades du foie
 Font baiser leur longs doigts jaunes aux bénitiers.
 
-**** *book_rimbaud_poesies *id_rimbaud_34 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_34 *date_1871
 
 Le coeur volé
 
@@ -1711,7 +1710,7 @@ Moi, si mon coeur est ravalé :
 Quand ils auront tari leurs chiques
 Comment agir, ô coeur volé ?
 
-**** *book_rimbaud_poesies *id_rimbaud_35 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_35 *date_1871
 
 L'orgie parisienne ou Paris se repeuple
 
@@ -1810,7 +1809,7 @@ Pleurent leur ancien râle aux anciens lupanars :
 Et les gaz en délire, aux murailles rougies,
 Flambent sinistrement vers les azurs blafards !
 
-**** *book_rimbaud_poesies *id_rimbaud_36 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_36 *date_1872
 
 Les mains de Jeanne-Marie
 
@@ -1894,7 +1893,7 @@ Dans nos êtres, quand, quelquefois,
 On veut vous déhâler, Mains d'ange,
 En vous faisant saigner les doigts !
 
-**** *book_rimbaud_poesies *id_rimbaud_37 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_37 *date_1871
 
 Les soeurs de charité
 
@@ -1948,7 +1947,7 @@ Immenses, à travers les nuits de Vérité,
 Et t'appelle en son âme et ses membres malades,
 Ô Mort mystérieuse, ô soeur de charité.
 
-**** *book_rimbaud_poesies *id_rimbaud_38 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_38 *date_1872
 
 Voyelles
 
@@ -1970,7 +1969,7 @@ Que l'alchimie imprime aux grands fronts studieux ;
 Silences traversés des Mondes et des Anges :
 — Ô l'Oméga, rayon violet de Ses Yeux !
 
-**** *book_rimbaud_poesies *id_rimbaud_39 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_39 *date_1872
 
 L'étoile a pleuré...
 
@@ -1979,7 +1978,7 @@ L'infini roulé blanc de ta nuque à tes reins
 La mer a perlé rousse à tes mammes vermeilles
 Et l'Homme saigné noir à ton flanc souverain.
 
-**** *book_rimbaud_poesies *id_rimbaud_40 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_40 *date_1871
 
 L'homme juste
 
@@ -2049,7 +2048,7 @@ Mais qui chante : nana, comme un tas d'enfants près
 De mourir, idiots doux aux chansons soudaines :
 Ô Justes, nous chierons dans vos ventres de grès !
 
-**** *book_rimbaud_poesies *id_rimbaud_41 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_41 *date_1871
 
 Ce qu'on dit au poète à propos de fleurs
 
@@ -2263,7 +2262,7 @@ A Paramaribo, rachète
 Des Tomes de Monsieur Figuier,
 — Illustrés ! — chez Monsieur Hachette !
 
-**** *book_rimbaud_poesies *id_rimbaud_42 *date_1871 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_42 *date_1871
 
 Les premières communions
 
@@ -2451,7 +2450,7 @@ Dieu qui pour deux mille ans vouas à ta pâleur,
 Cloués au sol, de honte et de céphalalgies,
 Ou renversés, les fronts des femmes de douleur.
 
-**** *book_rimbaud_poesies *id_rimbaud_43 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_43 *date_1872
 
 Les chercheuses de poux
 
@@ -2480,7 +2479,7 @@ Soupir d'harmonica qui pourrait délirer ;
 L'enfant se sent, selon la lenteur des caresses,
 Sourdre et mourir sans cesse un désir de pleurer.
 
-**** *book_rimbaud_poesies *id_rimbaud_44 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_44 *date_1872
 
 Le bateau ivre
 
@@ -2609,7 +2608,7 @@ Enlever leur sillage aux porteurs de cotons,
 Ni traverser l'orgueil des drapeaux et des flammes,
 Ni nager sous les yeux horribles des pontons.
 
-**** *book_rimbaud_poesies *id_rimbaud_45 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_45 *date_1872
 
 Larme
 
@@ -2633,7 +2632,7 @@ Le vent, du ciel, jetait des glaçons aux mares…
 Or ! tel qu'un pêcheur d'or ou de coquillages,
 Dire que je n'ai pas eu souci de boire !
 
-**** *book_rimbaud_poesies *id_rimbaud_46 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_46 *date_1872
 
 La rivière de Cassis
 
@@ -2658,7 +2657,7 @@ Chers corbeaux délicieux !
 Faites fuir d'ici le paysan matois
 Qui trinque d'un moignon vieux.
 
-**** *book_rimbaud_poesies *id_rimbaud_47 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_47 *date_1872
 
 Comédie de la soif
 
@@ -2764,7 +2763,7 @@ Mais fondre où fond ce nuage sans guide,
 Expirer en ces violettes humides
 Dont les aurores chargent ces forêts ?
 
-**** *book_rimbaud_poesies *id_rimbaud_48 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_48 *date_1872
 
 Bonne pensée du matin
 
@@ -2793,7 +2792,7 @@ Porte aux travailleurs l'eau-de-vie,
 Pour que leurs forces soient en paix
 En attendant le bain dans la mer, à midi.
 
-**** *book_rimbaud_poesies *id_rimbaud_49 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_49 *date_1872
 
 FÊTES DE LA PATIENCE
 
@@ -2828,7 +2827,7 @@ C'est rire aux parents, qu'au soleil,
 Mais moi je ne veux rire à rien ;
 Et libre soit cette infortune.
 
-**** *book_rimbaud_poesies *id_rimbaud_50 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_50 *date_1872
 
 Chanson de la plus haute tour
 
@@ -2874,7 +2873,7 @@ J'ai perdu ma vie.
 Ah ! Que le temps vienne
 Où les coeurs s'éprennent !
 
-**** *book_rimbaud_poesies *id_rimbaud_51 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_51 *date_1872
 
 L'éternité
 
@@ -2908,7 +2907,7 @@ Quoi ? — L'Éternité.
 C'est la mer allée
 Avec le soleil.
 
-**** *book_rimbaud_poesies *id_rimbaud_52 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_52 *date_1872
 
 Âge d'or
 
@@ -2964,7 +2963,7 @@ Pas du tout publiques !
 Environnez-moi
 De gloire pudique… etc…
 
-**** *book_rimbaud_poesies *id_rimbaud_53 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_53 *date_1872
 
 Jeune ménage
 
@@ -2998,7 +2997,7 @@ Comme un coup de fusil, après des vêpres.
 — Ô spectres saints et blancs de Bethléem,
 Charmez plutôt le bleu de leur fenêtre !
 
-**** *book_rimbaud_poesies *id_rimbaud_54 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_54 *date_1872
 
 Bruxelles Juillet, Boulevard du Régent.
 
@@ -3051,7 +3050,7 @@ C'est trop beau ! c'est trop beau ! mais c'est nécessaire
 Et aussi puisque les derniers masques crurent
 Encore aux fêtes de nuit sur la mer pure !
 
-**** *book_rimbaud_poesies *id_rimbaud_55 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_55 *date_1872
 
 Fêtes de la faim
 
@@ -3086,7 +3085,7 @@ La doucette et la violette.
 Ma faim, Anne, Anne !
 Fuis sur ton âne.
 
-**** *book_rimbaud_poesies *id_rimbaud_56 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_56 *date_1872
 
 Qu'est-ce pour nous...
 
@@ -3122,7 +3121,7 @@ Sur moi de plus en plus à vous ! la terre fond.
 
 Ce n'est rien ! j'y suis ! j'y suis toujours.
 
-**** *book_rimbaud_poesies *id_rimbaud_57 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_57 *date_1872
 
 Entends comme brame...
 
@@ -3151,7 +3150,7 @@ Néanmoins ils restent,
 dans ce brouillard triste
 et blêmi, justement !
 
-**** *book_rimbaud_poesies *id_rimbaud_58 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_58 *date_1872
 
 Michel et Christine
 
@@ -3190,7 +3189,7 @@ L'Épouse aux yeux bleus, l'homme au front rouge, ô Gaule,
 Et le blanc Agneau Pascal, à leurs pieds chers,
 — Michel et Christine, — et Christ ! fin de l'Idylle.
 
-**** *book_rimbaud_poesies *id_rimbaud_59 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_59 *date_1872
 
 Honte
 
@@ -3219,7 +3218,7 @@ D'empuantir toutes sphères !
 Qu'à sa mort pourtant, ô mon Dieu !
 S'élève quelque prière !
 
-**** *book_rimbaud_poesies *id_rimbaud_60 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_60 *date_1872
 
 Mémoire
 
@@ -3283,7 +3282,7 @@ Les roses des roseaux dès longtemps dévorées !
 Mon canot, toujours fixe ; et sa chaîne tirée
 Au fond de cet oeil d'eau sans bords, — à quelle boue ?
 
-**** *book_rimbaud_poesies *id_rimbaud_61 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_61 *date_1872
 
 O saisons, ô châteaux...
 
@@ -3317,7 +3316,7 @@ Me livre au plus prompt trépas !
 
 — Ô Saisons, ô Châteaux !
 
-**** *book_rimbaud_poesies *id_rimbaud_62 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_62 *date_1872
 
 Le loup criait...
 
@@ -3336,7 +3335,7 @@ Aux autels de Salomon.
 Le bouillon court sur la rouille,
 Et se mêle au Cédron.
 
-**** *book_rimbaud_poesies *id_rimbaud_63 *date_1872 *creator_rimbaud
+**** *creator_rimbaud *book_rimbaud_poesies *style_verse *id_rimbaud_63 *date_1872
 
 Rêve
 

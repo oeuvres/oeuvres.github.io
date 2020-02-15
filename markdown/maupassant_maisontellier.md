@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_maisontellier  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1881  
 title: La maison Tellier  
 ---

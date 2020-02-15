@@ -1,6 +1,6 @@
 ---
 identifier: bronte_hautsdehurlevent  
-creator: Emily Brontë  
+creator: Emily Brontë.  
 date:   
 title: Les hauts de hurlevent  
 ---

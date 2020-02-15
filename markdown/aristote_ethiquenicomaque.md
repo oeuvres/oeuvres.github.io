@@ -1,6 +1,6 @@
 ---
 identifier: aristote_ethiquenicomaque  
-creator: Aristote (0384-0322 av. J.-C.)  
+creator: Aristote.  
 date:   
 title: Éthique à Nicomaque  
 ---

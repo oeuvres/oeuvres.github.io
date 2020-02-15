@@ -1,6 +1,6 @@
 ---
 identifier: verne_chanteleine  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1864  
 title: Le comte de Chanteleine   
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verne_sphinxglaces  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1897  
 title: Le Sphinx des Glaces  
 ---

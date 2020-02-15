@@ -1,6 +1,6 @@
 ---
 identifier: dumas_montecristo  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1845  
 title: Le Comte de Monte-Cristo  
 ---

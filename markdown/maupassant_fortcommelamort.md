@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_fortcommelamort  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1889  
 title: Fort comme la mort  
 ---

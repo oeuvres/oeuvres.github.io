@@ -1,6 +1,6 @@
 ---
 identifier: melville_mobydick  
-creator: Melville, Hermann  
+creator: Melville, Hermann.  
 date:   
 title: Moby Dick  
 ---

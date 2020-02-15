@@ -1,6 +1,6 @@
 ---
 identifier: grimm_contes  
-creator: Jakob et Wilhelm Grimm  
+creator: Jakob et Wilhelm Grimm.  
 date:   
 title: Contes merveilleux Tome I  
 ---

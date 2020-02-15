@@ -1,6 +1,6 @@
 ---
 identifier: fenelon_explicationsaints  
-creator: Fénelon, François de (1651-1715)  
+creator: Fénelon, François de.  
 date:   
 title: Explication des Maximes des saints sur la Vie intérieure (édition Chérel)  
 ---

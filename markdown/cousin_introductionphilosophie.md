@@ -1,6 +1,6 @@
 ---
 identifier: cousin_introductionphilosophie  
-creator: Cousin, Victor (1792-1867)  
+creator: Cousin, Victor.  
 date: 1828  
 title: Introduction à l’histoire de la philosophie  
 ---

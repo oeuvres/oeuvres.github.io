@@ -1,6 +1,6 @@
 ---
 identifier: dumas_compagnonsdejehu  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1857  
 title: Les Compagnons de Jéhu  
 ---

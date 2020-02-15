@@ -1,6 +1,6 @@
 ---
 identifier: baudelaire_curiosites-esthetiques  
-creator: Baudelaire, Charles  
+creator: Baudelaire, Charles.  
 date: 1868  
 title: Curiosités esthétiques  
 ---

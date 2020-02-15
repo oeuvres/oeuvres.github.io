@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p01 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p01 *date_1885 
 
 A PAUL BOURGET
 
@@ -25,7 +25,7 @@ En rentrant, se r'intoxiquer
 De vosaveux, ô pur poète !
 C'est la grâce que je m'souhaite.
 
-**** *book_ *id_p02 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p02 *date_1885 
 
 PRÉLUDES AUTOBIOGRAPHIQUES⁎
 ⁎ ⁎
@@ -170,7 +170,7 @@ Lors quoi l'usage veut qu'on nous cache sous terre.
 Maintenant, tu n'as pas cru devoir rester coi ;
 Eh bien, un cri humain ! s'il en reste un pour toi.
 
-**** *book_ *id_p03 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p03 *date_1885 
 
 COMPLAINTE PROPITIATOIRE
 
@@ -217,7 +217,7 @@ Lèpre originelle, ivresse insensée,
 Radeau du Mal et de l'Exil ;
 Ainsi soit-il.
 
-**** *book_ *id_p04 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p04 *date_1885 
 
 COMPLAINTE-PLACET
 
@@ -244,7 +244,7 @@ Dont Je puis être le ferment !
 Tu ferais de moi ton Sosie,
 Tout simplement.
 
-**** *book_ *id_p05 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p05 *date_1885 
 
 COMPLAINTE
 
@@ -291,7 +291,7 @@ O Lune sur La Mecque !
 Notre-Dame, Notre-Dame des Soirs,
 De vrais yeux m'ont dit : au revoir !
 
-**** *book_ *id_p06 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p06 *date_1885 
 
 COMPLAINTE DES VOIX
 
@@ -389,7 +389,7 @@ On revient geindre au crépuscule,
 Roulant son front dans les genoux
 Des Saintes boudhiques Nounous.
 
-**** *book_ *id_p07 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p07 *date_1885 
 
 COMPLAINTE
 
@@ -443,7 +443,7 @@ Sous l'plafond
 Sans fond,
 On y danse tous en rond.
 
-**** *book_ *id_p08 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p08 *date_1885 
 
 COMPLAINTE DES PIANOS
 
@@ -530,7 +530,7 @@ Tu nous laiss's et tu t'en vas,
 Que ne suis-je morte à la messe !
 O mois, ô linges, ô repas !
 
-**** *book_ *id_p09 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p09 *date_1885 
 
 COMPLAINTE
 
@@ -559,7 +559,7 @@ Sans toi, défunte devenue.
 
 Vrai, je ne l'ai jamais connue.
 
-**** *book_ *id_p10 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p10 *date_1885 
 
 COMPLAINTE
 
@@ -629,7 +629,7 @@ Scie autant que Souffre-Douleur,
 Vidasse, vidasse ton cœur,
 Ma pauvre rosse endolorie.
 
-**** *book_ *id_p11 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p11 *date_1885 
 
 COMPLAINTE
 
@@ -682,7 +682,7 @@ O mes humains, consolons-nous les uns les autres.
 Et jusqu'à ce que la nature soit bien bonne,
 Tâchons de vivre monotone.
 
-**** *book_ *id_p12 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p12 *date_1885 
 
 COMPLAINTE
 
@@ -715,7 +715,7 @@ Seras-tu donc toujours un qui garde la chambre ?
 
 Ce fut un bien au vent d'octobre paysage....
 
-**** *book_ *id_p13 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p13 *date_1885 
 
 COMPLAINTE
 
@@ -760,7 +760,7 @@ Ah ! maman....
 Vous, Madame, allaitez le plus longtemps possible
 Et du plus Seul de vous ce pauvre enfant-terrible.
 
-**** *book_ *id_p14 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p14 *date_1885 
 
 COMPLAINTE
 
@@ -798,7 +798,7 @@ Où montait la gaîté des enfants de son âge,
 Seul au balcon, disait, les yeux brûlés de rages :
 « J'ai du génie, enfin : nulle ne veut m'aimer ! »
 
-**** *book_ *id_p15 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p15 *date_1885 
 
 COMPLAINTE
 
@@ -845,7 +845,7 @@ Vomitoire
 De la Foire,
 C'est la mort.
 
-**** *book_ *id_p16 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p16 *date_1885 
 
 COMPLAINTE DE LA VIGIE
 
@@ -880,7 +880,7 @@ Et de l'aurore au soir,
 Se meurt, de ne pouvoir
 Saigner, ah ! saigner plus encore !
 
-**** *book_ *id_p17 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p17 *date_1885 
 
 COMPLAINTE DE LA LUNE
 
@@ -932,7 +932,7 @@ La province dans le cœur !
 Et la lune a, bonne vieille,
 Du coton dans les oreilles.
 
-**** *book_ *id_p18 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p18 *date_1885 
 
 COMPLAINTE DES PRINTEMPS⁎
 ⁎ ⁎
@@ -985,7 +985,7 @@ Neiges des pâles mois,
 Vous serez mon missel !
 — Jusqu'au jour de dégel.
 
-**** *book_ *id_p19 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p19 *date_1885 
 
 COMPLAINTE
 
@@ -1050,7 +1050,7 @@ En feuilletant un de ces si veux almanachs,
 En rêvant de la petite qui unirait
 Aux charmes de l'œillet ceux du chardonneret.
 
-**** *book_ *id_p20 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p20 *date_1885 
 
 COMPLAINTE
 
@@ -1114,7 +1114,7 @@ A jamais !
 — Tant il est vrai que la saison dite d'automne
 N'est aux cœurs mal fichus rien moins que folichonne.
 
-**** *book_ *id_p21 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p21 *date_1885 
 
 COMPLAINTE
 
@@ -1163,7 +1163,7 @@ D'un frac deuil, avec art dîner,
 Puis, parmi des vierges débiles,
 Prendre un air imbécile.
 
-**** *book_ *id_p22 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p22 *date_1885 
 
 AUTRE COMPLAINTE
 
@@ -1230,7 +1230,7 @@ Que tu finisses ?
 — Bien sûr. C'est ce que je veux.
 Ah ! Je suis-t-il malhûreux !
 
-**** *book_ *id_p23 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p23 *date_1885 
 
 COMPLAINTE
 
@@ -1300,7 +1300,7 @@ Au Bon Chevalier-Errant,
 Restaurant,
 Hôtel meublé, Cabinets de lecture, prix courants.
 
-**** *book_ *id_p24 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p24 *date_1885 
 
 COMPLAINTE
 
@@ -1402,7 +1402,7 @@ De Maïa !
 
 Alléluia !
 
-**** *book_ *id_p25 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p25 *date_1885 
 
 COMPLAINTE
 
@@ -1459,7 +1459,7 @@ Cœur rose, pour
 Avoir un jour
 Craché sur l'Art ! l'Art pur ! sans compter le poète.
 
-**** *book_ *id_p26 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p26 *date_1885 
 
 COMPLAINTE
 
@@ -1498,7 +1498,7 @@ Trop chose. Comment donc ! mais ma seule présence
 Ici-bas, vraie à s'y mirer, est l'air de Tout :
 De la Femme au Silence !
 
-**** *book_ *id_p27 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p27 *date_1885 
 
 COMPLAINTE
 
@@ -1525,7 +1525,7 @@ On peut ne pas l'avoir constamment sur les bras !
 Eh bien, ménage au vent ! Soyons Lui, Elle et l'Autre.
 Et puis, n'insistons pas.
 
-**** *book_ *id_p28 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p28 *date_1885 
 
 COMPLAINTE
 
@@ -1607,7 +1607,7 @@ Bah ! j'irai passer la nuit dans le premier train ;
 Sûr d'aller, ma vie entière,
 Malheureux comme les pierres. (Bis.)
 
-**** *book_ *id_p29 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p29 *date_1885 
 
 AUTRE COMPLAINTE
 
@@ -1639,7 +1639,7 @@ Douce ; feignant de n'en pas croire encor mes yeux,
 J'aurai un : « Ah ! ça, mais, nous avions De Quoi vivre !
 « C'était donc sérieux ? »
 
-**** *book_ *id_p30 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p30 *date_1885 
 
 COMPLAINTE
 
@@ -1673,7 +1673,7 @@ Un souvenir d'amour, dit-elle !
 
 Ces êtres-là sont adorables !
 
-**** *book_ *id_p31 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p31 *date_1885 
 
 COMPLAINTE
 
@@ -1737,7 +1737,7 @@ Où parfois j'expose
 Le Saint-Sacrement
 De mon humeur du moment.
 
-**** *book_ *id_p32 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p32 *date_1885 
 
 COMPLAINTE
 
@@ -1795,7 +1795,7 @@ Je rentre au piège,
 Peut-être y vais-je,
 Tuer l'Amour !
 
-**** *book_ *id_p33 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p33 *date_1885 
 
 COMPLAINTE
 
@@ -1856,7 +1856,7 @@ Ces fols germes de conscience.
 Nature est sans pitié
 Pour son petit dernier.
 
-**** *book_ *id_p34 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p34 *date_1885 
 
 COMPLAINTE DU ROI DE THULÉ⁎
 ⁎ ⁎
@@ -1912,7 +1912,7 @@ Viendrait vous gémir cette scie :
 « Il était un roi de Thulé
 Immaculé... »
 
-**** *book_ *id_p35 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p35 *date_1885 
 
 COMPLAINTE
 
@@ -1961,7 +1961,7 @@ Sur ce monde enfantin dans l'Inconnu lancé !
 O Terre, ô terre, ô race humaine,
 Vous me faites bien de la peine.
 
-**** *book_ *id_p36 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p36 *date_1885 
 
 COMPLAINTE DES CLOCHES⁎
 ⁎ ⁎
@@ -2022,7 +2022,7 @@ Chansons en l'air, pauvres reproches !
 Bin bam, bin bam,
 Les cloches en Brabant !
 
-**** *book_ *id_p37 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p37 *date_1885 
 
 COMPLAINTE DES GRANDS PINS
 
@@ -2089,7 +2089,7 @@ A Montmartre, en cinquième classe,
 Loin de père et mère, enterrés
 En Alsace.
 
-**** *book_ *id_p38 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p38 *date_1885 
 
 COMPLAINTE
 
@@ -2136,7 +2136,7 @@ L'obélisque quadrangulaire,
 De mon spleen monte ; j'y digère,
 En stylite, ce gros Mystère.
 
-**** *book_ *id_p39 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p39 *date_1885 
 
 COMPLAINTE
 
@@ -2178,7 +2178,7 @@ Ta Police, ô Soleil, malgré tes grands Levers,
 Et tes couchants des beaux Sept-Glaives abreuvés,
 Rosaces en sang d'une aveugle Cathédrale !
 
-**** *book_ *id_p40 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p40 *date_1885 
 
 COMPLAINTE
 
@@ -2240,7 +2240,7 @@ Vent qui rage !
 Les défunts ?
 Ça voyage....
 
-**** *book_ *id_p41 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p41 *date_1885 
 
 COMPLAINTE
 
@@ -2322,7 +2322,7 @@ Digue dondaine, digue dondaine,
 Quand on est mort c'est pour de bon,
 Digue dondaine, digue dondon !
 
-**** *book_ *id_p42 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p42 *date_1885 
 
 COMPLAINTE
 
@@ -2389,7 +2389,7 @@ Lui, il aura mon âme immortelle,
 Mon Dieu, mon ami,
 Lui, il aura mon âme immortelle !
 
-**** *book_ *id_p43 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p43 *date_1885 
 
 COMPLAINTE
 
@@ -2460,7 +2460,7 @@ Sur les beaux lacs de l'Idéal
 Des ronds dans l'eau !
 Falot, falot !
 
-**** *book_ *id_p44 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p44 *date_1885 
 
 COMPLAINTE DU TEMPS
 
@@ -2521,7 +2521,7 @@ Des Élus, nous restons les deux miroirs d'éther
 Réfléchissant, jusqu'à la mort de ces Mystères,
 Leurs Nuits que l'Amour distrait de fleurs éphémères.
 
-**** *book_ *id_p45 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p45 *date_1885 
 
 GRANDE COMPLAINTE
 
@@ -2529,66 +2529,19 @@ de la ville de paris
 
 PROSE BLANCHE
 
-Bonne gens qui m'écoute, c'est Paris, Charenton compris.
-Maison fondée en... à louer.
-Médailles à toutes les expositions et des mentions.
-Bail immortel.
-Chantiers en gros et en détail de bonheurs sur mesure.
-Fournisseurs breveté d'un tas de majestés.
-Maison recommandé.
-Prévient la chute des cheveux.
-En loteries !
-Envoie en province.
-Pas de morte-saison.
-Abonnements.
-Dépôt, sans garantie de l'humanité, des ennuis les plus comme il faut et d'occasion.
-Facilités de paiement, mais de l'argent.
-De l'argent, bonne gens ! 
+Bonne gens qui m'écoute, c'est Paris, Charenton compris. Maison fondée en... à louer. Médailles à toutes les expositions et des mentions. Bail immortel. Chantiers en gros et en détail de bonheurs sur mesure. Fournisseurs breveté d'un tas de majestés. Maison recommandé. Prévient la chute des cheveux. En loteries ! Envoie en province. Pas de morte-saison. Abonnements. Dépôt, sans garantie de l'humanité, des ennuis les plus comme il faut et d'occasion. Facilités de paiement, mais de l'argent. De l'argent, bonne gens ! 
 
-Et ça se ravitaille, import et export, par vingt gares et douanes.
-Que tristes, sous la pluie, les trains de marchandise !
-A vous, dieux, chasublerie, ameublements d'église, dragées pour baptêmes, le culte est au troisième, clientèle ineffable !
-Amour, à toi, des maisons d'or aux hospices dont les langes et loques feront le papier des billets doux à monogrammes, trousseaux et layettes, seules eaux alcalines reconstituantes, ô chlorose ! bijoux de sérail, falbalas, tramways, miroirs de poches, romances !
-Et à l'antipode, qu'y fait-on ?
-Ça travaille, pour que Paris se ravitaille....
+Et ça se ravitaille, import et export, par vingt gares et douanes. Que tristes, sous la pluie, les trains de marchandise ! A vous, dieux, chasublerie, ameublements d'église, dragées pour baptêmes, le culte est au troisième, clientèle ineffable ! Amour, à toi, des maisons d'or aux hospices dont les langes et loques feront le papier des billets doux à monogrammes, trousseaux et layettes, seules eaux alcalines reconstituantes, ô chlorose ! bijoux de sérail, falbalas, tramways, miroirs de poches, romances ! Et à l'antipode, qu'y fait-on ? Ça travaille, pour que Paris se ravitaille....
 
-D'ailleurs, des moindres pavés, monte le Lotus Tact.
-En bataille rangée, les deux sexes, toilettés à la mode des passants, mangeant dans le ruolz !
-Aux commis, des Niobisruoldes ; des faunesses aux Christs.
-Et sous les futaies seigneuriales des jardins très-publics, martyrs niaisant et vestales minaudières faisant d'un clin d'œil l'article pour l'Idéal et Cie (Maison vague, là haut), mais d'elles-mêmes absentes, pour sûr.
-Ah ! l'Homme est un singulier monsieur ; et elle, sa voix de quel front désert !
-D'ailleurs avec du tact...
+D'ailleurs, des moindres pavés, monte le Lotus Tact. En bataille rangée, les deux sexes, toilettés à la mode des passants, mangeant dans le ruolz ! Aux commis, des Niobisruoldes ; des faunesses aux Christs. Et sous les futaies seigneuriales des jardins très-publics, martyrs niaisant et vestales minaudières faisant d'un clin d'œil l'article pour l'Idéal et Cie (Maison vague, là haut), mais d'elles-mêmes absentes, pour sûr. Ah ! l'Homme est un singulier monsieur ; et elle, sa voix de quel front désert ! D'ailleurs avec du tact...
 
-Mais l'inextirpable élite, d'où ? pour où ?
-Maisons de blanc : pompes voluptiales ; maisons de deuil : spleenuosités, rancœurs à la carte.
-Et les banlieues adoptives, humus teigneux, haridelles paissant bris de vaisselles, tessons, semelles, de profil sur l'horizon des remparts.
-Et la pluie ! trois torchons à une claire-voie de mansarde.
-Un chien aboie à un ballon là haut.
-Et des coins claustrals, cloches exilescentes des dies irœmissibles.
-Couchants d'aquarelliste distinguée, ou de lapidaire en liquidation.
-Génie au prix de fabrique, et ces jeunes gens s'entraînent en auto-litanies et formules vaines, par vaines cigarettes.
-Que les vingt-quatre heures vont vite à la discrète élite !...
+Mais l'inextirpable élite, d'où ? pour où ? Maisons de blanc : pompes voluptiales ; maisons de deuil : spleenuosités, rancœurs à la carte. Et les banlieues adoptives, humus teigneux, haridelles paissant bris de vaisselles, tessons, semelles, de profil sur l'horizon des remparts. Et la pluie ! trois torchons à une claire-voie de mansarde. Un chien aboie à un ballon là haut. Et des coins claustrals, cloches exilescentes des dies irœmissibles. Couchants d'aquarelliste distinguée, ou de lapidaire en liquidation. Génie au prix de fabrique, et ces jeunes gens s'entraînent en auto-litanies et formules vaines, par vaines cigarettes. Que les vingt-quatre heures vont vite à la discrète élite !...
 
-Mais les cris publics reprennent.
-Avis important ! l'Amortissable a fléchi, ferme le Panama.
-Enchères, experts.
-Avances sur titres cotés ou non cotés, achats de nu-propriétés, de viagers, d'usufruit ; avances sur successions ouvertes et autres ; indicateurs, annuaires, étrennes.
-Voyages circulaires à prix réduits.
-Madame Ludovic prédit l'avenir de 2 à 4.
-Jouets Au Paradis des enfants et accessoires pour cotillons aux grandes personnes.
-Grand choix de principes à l'épreuve.
-Encore des cris !
-Seul dépôt ! soupers de centième !
-Machines cylindriques Marinoni !
-Tout garanti, tout pour rien !
-Ah ! la rapidité de la vie aussi seul dépôt....
+Mais les cris publics reprennent. Avis important ! l'Amortissable a fléchi, ferme le Panama. Enchères, experts. Avances sur titres cotés ou non cotés, achats de nu-propriétés, de viagers, d'usufruit ; avances sur successions ouvertes et autres ; indicateurs, annuaires, étrennes. Voyages circulaires à prix réduits. Madame Ludovic prédit l'avenir de 2 à 4. Jouets Au Paradis des enfants et accessoires pour cotillons aux grandes personnes. Grand choix de principes à l'épreuve. Encore des cris ! Seul dépôt ! soupers de centième ! Machines cylindriques Marinoni ! Tout garanti, tout pour rien ! Ah ! la rapidité de la vie aussi seul dépôt....
 
-Des mois, les ans, calendriers d'occasion.
-Et l'automne s'engrandeuille au bois de Boulogne, l'hiver gèle les fricots des pauvres aux assiettes sans fleurs peintes, Mai purge, la canicule aux brises frivoles des plages fane les toilettes coûteuses.
-Puis, comme nous existons dans l'existence où l'on paie comptant, s'amènent ces messieurs courtois des Pompes Funèbres, autopsies et convois salués sous la vieille Monotopaze du soleil.
-Et l'histoire va toujours dressant, raturant ses Tables criblées de piteux idem, — ô Bilan, va quelconque ! ô Bilan, va quelconque...
+Des mois, les ans, calendriers d'occasion. Et l'automne s'engrandeuille au bois de Boulogne, l'hiver gèle les fricots des pauvres aux assiettes sans fleurs peintes, Mai purge, la canicule aux brises frivoles des plages fane les toilettes coûteuses. Puis, comme nous existons dans l'existence où l'on paie comptant, s'amènent ces messieurs courtois des Pompes Funèbres, autopsies et convois salués sous la vieille Monotopaze du soleil. Et l'histoire va toujours dressant, raturant ses Tables criblées de piteux idem, — ô Bilan, va quelconque ! ô Bilan, va quelconque...
 
-**** *book_ *id_p46 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p46 *date_1885 
 
 COMPLAINTE DES MOUNIS
 
@@ -2663,7 +2616,7 @@ Grince, musique,
 Hypertrophique
 Des remontoirs !
 
-**** *book_ *id_p47 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p47 *date_1885 
 
 COMPLAINTE-LITANIES
 
@@ -2706,7 +2659,7 @@ Présente à tout baiser une armure de vide.
 Et toujours, mon Cœur, ayant ainsi déclamé,
 En revient à sa complainte : Aimer, être aimé !
 
-**** *book_ *id_p48 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p48 *date_1885 
 
 COMPLAINTE
 
@@ -2768,7 +2721,7 @@ En m'inquiétant de ta santé.
 
 Tandis que, d'un autre côté....
 
-**** *book_ *id_p49 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p49 *date_1885 
 
 COMPLAINTE
 
@@ -2837,7 +2790,7 @@ Que j'en ai des comptoirs, des hamacs de rechange !
 — Voici l'œuf à la coque et la lampe du soir.
 Convalescence bien folle, comme on peut voir.
 
-**** *book_ *id_p50 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p50 *date_1885 
 
 COMPLAINTE
 
@@ -2973,7 +2926,7 @@ Qui saura te choser, va, sans que tu t'en doutes.
 Allons, tu m'as compris. Va, que ta seule étude
 Soit de vivre sans but, fou de mansuétude.
 
-**** *book_ *id_p51 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p51 *date_1885 
 
 COMPLAINTE DES COMPLAINTES⁎
 ⁎ ⁎
@@ -3005,7 +2958,7 @@ Flûtant des christ les vaines fables,
 Au cabestan de l'incurable
 Pourquoi ! — Pourquoi ?
 
-**** *book_ *id_p52 *date_1885 *creator_laforgue 
+**** *creator_laforgue *book_laforgue_complaintes *style_verse *id_p52 *date_1885 
 
 COMPLAINTE-ÉPITAPHE⁎
 ⁎ ⁎

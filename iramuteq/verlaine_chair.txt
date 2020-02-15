@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p172 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p172 *date_1896 
 
 PROLOGUE
 
@@ -28,7 +28,7 @@ Et, pour finir, moulte chose
 Blanche et noire, effet et cause ;
 Le lis droit, la rose éclose...
 
-**** *book_ *id_p173 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p173 *date_1896 
 
 CHANSON POUR ELLES
 
@@ -54,7 +54,7 @@ De la chevelure, fontaine
 D'ébène ou d'or (et dis, ô pose-
 Les sur mon cœur) tes pieds de reine.
 
-**** *book_ *id_p174 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p174 *date_1896 
 
 AUTRE
 
@@ -83,7 +83,7 @@ Et ce moi que tu multiplies
 T'aime en toute Elle et tu rallies
 En toi seule tout l'amour : Moi !
 
-**** *book_ *id_p175 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p175 *date_1896 
 
 ET DERNIÈRE
 
@@ -102,7 +102,7 @@ Perçoit aux ventres des nuages
 Noirs et rosâtres et volages
 Comme tels désirs en flocon.
 
-**** *book_ *id_p176 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p176 *date_1896 
 
 LOGIQUE
 
@@ -127,7 +127,7 @@ Alors que me ferait
 Un malheur qui serait
 Conforme à mon caprice ?
 
-**** *book_ *id_p177 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p177 *date_1896 
 
 ASSONANCES GALANTES
 
@@ -207,7 +207,7 @@ Mets, dans son cadre de peluche,
 
 Sur mon cœur, ta photographie.
 
-**** *book_ *id_p178 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p178 *date_1896 
 
 LES MÉFAITS DE LA LUNE
 
@@ -226,7 +226,7 @@ Qu'ont de commun la lune et la terre ?
 Bah, vite reviens, assez de mystère ?
 Toi, c'est le soleil, luis clair sur moi !
 
-**** *book_ *id_p179 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p179 *date_1896 
 
 MONEY !
 
@@ -265,7 +265,7 @@ Ni l'honneur de mourir d'amour
 Et de verser tout leur sang pour
 L'amour seul de toi, blonde ou brune !
 
-**** *book_ *id_p180 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p180 *date_1896 
 
 LA BONNE CRAINTE
 
@@ -323,7 +323,7 @@ Jamais en fraude,
 
 N'y reste un jour, tant vaut le lieu !
 
-**** *book_ *id_p181 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p181 *date_1896 
 
 MINUIT
 
@@ -344,7 +344,7 @@ Vers midi à mes goûts sans freins.
 
 Janvier 1895.
 
-**** *book_ *id_p182 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p182 *date_1896 
 
 VERS EN ASSONANCES
 
@@ -373,7 +373,7 @@ Et qu'au fait, glorifier,
 Plutôt, en outre, hic et nunc,
 L'esprit altier et l'âme fière !
 
-**** *book_ *id_p183 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p183 *date_1896 
 
 VERS SANS RIMES
 
@@ -392,7 +392,7 @@ Si l'on doit, ô mon Dieu, se revoir à jamais ?
 Qu'importe la pendule et notre vie, ô Mort,
 Ce n'est plus nous que l'ennui de tant vivre effraye !
 
-**** *book_ *id_p184 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p184 *date_1896 
 
 « LA CLASSE »
 
@@ -425,7 +425,7 @@ Allez, — et tâchez donc de sauver la Patrie.
 
 Paris, 17 novembre 1894.
 
-**** *book_ *id_p185 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p185 *date_1896 
 
 FOG !
 
@@ -446,7 +446,7 @@ Ce qu'il faut retenir quand même
 C'est, en dépit de tout hasard,
 Que je l'adore et qu'elle m'aime.
 
-**** *book_ *id_p186 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p186 *date_1896 
 
 A MADAME⁎⁎⁎
 
@@ -468,7 +468,7 @@ D'un tambourin, bruyant sans doute mais gentil
 D'être, grâce à votre talent de femme exquise-
 Ment amusant, décoré d'un doigt subtil.
 
-**** *book_ *id_p187 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_chair *style_verse *genre_verse *dist1_verlaine_verse_verse_chair *dist2_verlaine_verse_verse *id_p187 *date_1896 
 
 A Mme JEANNE
 

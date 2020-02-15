@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_quinzejoursenhollande  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1893  
 title: Quinze jours en Hollande  
 ---

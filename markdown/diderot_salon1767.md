@@ -1,6 +1,6 @@
 ---
 identifier: diderot_salon1767  
-creator: Diderot, Denis  
+creator: Diderot, Denis.  
 date: 1767  
 title: Salon de 1767  
 ---

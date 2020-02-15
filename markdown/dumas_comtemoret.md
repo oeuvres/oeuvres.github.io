@@ -1,6 +1,6 @@
 ---
 identifier: dumas_comtemoret  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1865  
 title: Le Comte de Moret  
 ---

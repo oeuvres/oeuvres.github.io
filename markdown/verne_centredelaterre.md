@@ -1,6 +1,6 @@
 ---
 identifier: verne_centredelaterre  
-creator:   Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1864  
 title: Voyage au centre de la Terre  
 ---

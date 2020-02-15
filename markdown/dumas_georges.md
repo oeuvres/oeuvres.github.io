@@ -1,6 +1,6 @@
 ---
 identifier: dumas_georges  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1843  
 title: Georges  
 ---

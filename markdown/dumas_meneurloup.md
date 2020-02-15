@@ -1,6 +1,6 @@
 ---
 identifier: dumas_meneurloup  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1857  
 title: Le meneur de loups  
 ---

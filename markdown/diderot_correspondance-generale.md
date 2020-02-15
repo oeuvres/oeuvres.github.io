@@ -1,6 +1,6 @@
 ---
 identifier: diderot_correspondance-generale  
-creator: Diderot, Denis  
+creator: Diderot, Denis.  
 date: 1774  
 title: Correspondance générale  
 ---

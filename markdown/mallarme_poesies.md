@@ -1,6 +1,6 @@
 ---
 identifier: mallarme_poesies  
-creator: Mallarmé  
+creator: Mallarmé.  
 date:   
 title: Poésies  
 ---

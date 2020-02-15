@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_epigrammes  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1894  
 title: Épigrammes  
 ---

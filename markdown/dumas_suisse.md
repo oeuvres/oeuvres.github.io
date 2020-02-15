@@ -1,6 +1,6 @@
 ---
 identifier: dumas_suisse  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1833  
 title: Impressions de voyage en Suisse  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: voltaire_encyclopedie  
-creator: Voltaire  
+creator: Voltaire.  
 date: 1765  
 title: Articles de l’Encyclopédie  
 ---

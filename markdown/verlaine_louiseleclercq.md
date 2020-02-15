@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_louiseleclercq  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1886  
 title: Louise Leclercq  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_dansleslimbes  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1894  
 title: Dans les limbes  
 ---

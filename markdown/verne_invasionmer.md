@@ -1,6 +1,6 @@
 ---
 identifier: verne_invasionmer  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1905  
 title: L'invasion de la mer  
 ---

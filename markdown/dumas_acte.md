@@ -1,6 +1,6 @@
 ---
 identifier: dumas_acte  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1839  
 title: Acté  
 ---

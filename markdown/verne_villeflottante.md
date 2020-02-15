@@ -1,6 +1,6 @@
 ---
 identifier: verne_villeflottante  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1871  
 title: Une Ville flottante  
 ---

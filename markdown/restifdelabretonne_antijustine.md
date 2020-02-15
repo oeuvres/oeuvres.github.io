@@ -1,6 +1,6 @@
 ---
 identifier: restifdelabretonne_antijustine  
-creator: Restif de la Bretonne  
+creator: Restif de la Bretonne.  
 date: 1798  
 title: L’Anti-Justine  
 ---

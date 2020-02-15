@@ -1,6 +1,6 @@
 ---
 identifier: augustin_confessions  
-creator: Augustin (saint ; 0354-0430)  
+creator: Augustin.  
 date:   
 title: Confessions  
 ---

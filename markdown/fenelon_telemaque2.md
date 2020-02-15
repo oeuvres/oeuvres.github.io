@@ -1,6 +1,6 @@
 ---
 identifier: fenelon_telemaque2  
-creator: Fénelon, François de (1651-1715)  
+creator: Fénelon, François de.  
 date:   
 title: Les Aventures de Télémaque  
 ---

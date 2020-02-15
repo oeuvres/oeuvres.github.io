@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_sagesse  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1880  
 title: Sagesse  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: rodenbach_viesencloses  
-creator: Rodenbach, Georges  
+creator: Rodenbach, Georges.  
 date: 1896  
 title: Les vies encloses  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: vigny_poesies  
-creator: Vigny, Alfred de  
+creator: Vigny, Alfred de.  
 date: 1885  
 title: Poésies  
 ---

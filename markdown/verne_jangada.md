@@ -1,6 +1,6 @@
 ---
 identifier: verne_jangada  
-creator: Verne, Jules(1828-1905)  
+creator: Verne, Jules.  
 date: 1881  
 title: [La Jangada  huit cent lieues sur l’Amazone]  
 ---

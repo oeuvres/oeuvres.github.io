@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_rosier  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1888  
 title: Le Rosier de Mme Husson  
 ---

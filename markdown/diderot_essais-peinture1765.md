@@ -1,6 +1,6 @@
 ---
 identifier: diderot_essais-peinture1765  
-creator: Diderot, Denis  
+creator: Diderot, Denis.  
 date: 1765  
 title: Essais sur la peinture pour faire suite au salon de 1765  
 ---

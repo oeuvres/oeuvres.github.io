@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p74 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p74 *date_1889 
 
 DÉDICACE
 
@@ -39,7 +39,7 @@ C'est bien fâcheux : me voici, lamentable
 Vous voici, toi, coquine détestable,
 Et ceci fallait que je l'écrivisse !
 
-**** *book_ *id_p75 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p75 *date_1889 
 
 ALLÉGORIE
 
@@ -61,7 +61,7 @@ Tapisserie usée et surannée,
 Banale comme un décor d'opéra,
 Factice, hélas ! comme ma destinée ?
 
-**** *book_ *id_p76 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p76 *date_1889 
 
 LES AMIES
 
@@ -185,7 +185,7 @@ Et saute dans la mer où l'appelle la Moire, —
 Tandis qu'au ciel éclate, incendiant l'eau noire,
 La pâle Séléné qui venge les Amies.
 
-**** *book_ *id_p83 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p83 *date_1889 
 
 FILLES
 
@@ -420,7 +420,7 @@ Que je ne sais pourquoi mon âme
 Par ces froids pense à vous, Madame
 De qui je ne sais plus le nom.
 
-**** *book_ *id_p90 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p90 *date_1889 
 
 RÉVÉRENCE PARLER
 
@@ -616,7 +616,7 @@ Dans les cases en fin cristal de ma pensée.
 Mais, ô Belgique, assez de ce huis clos têtu !
 Ouvre enfin, car c'est bon pour une fois, sais-tu !
 
-**** *book_ *id_p98 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p98 *date_1889 
 
 LUNES
 
@@ -763,7 +763,7 @@ Et ces dames, — scrutez l'armorial de France, —
 S'efforcaient d'entamer l'orgueil de mon désir
 Et n'en revenaient pas de mon indifférence.
 
-**** *book_ *id_p105 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p105 *date_1889 
 
 LA DERNIÈRE FÊTE GALANTE
 
@@ -787,7 +787,7 @@ O que nos cœurs qui furent trop bêlants,
 Dès ce jourd'hui réclament trop hurlants
 L'embarquement pour Sodome et Gomorrhe !
 
-**** *book_ *id_p106 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p106 *date_1889 
 
 POÈME SATURNIN
 
@@ -821,7 +821,7 @@ Un pas fantôme. Aucun ou personne ?
 On m'a frôlé. — La nuit sans pareille !
 Ah ! l'heure d'un réveil drôle sonne.
 
-**** *book_ *id_p107 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p107 *date_1889 
 
 L'IMPRUDENT
 
@@ -843,7 +843,7 @@ Beautés passant, au lieu de sous,
 Faites à ce mauvais garçon
 L'aumône seulement... de vous.
 
-**** *book_ *id_p108 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p108 *date_1889 
 
 L'IMPÉNITENT
 
@@ -933,7 +933,7 @@ Mais qui n'est pas d'un marmiteux :
 
 Si nous sommes cet amiteux ? »
 
-**** *book_ *id_p109 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p109 *date_1889 
 
 SUR UNE STATUE DE GANYMÈDE
 
@@ -957,7 +957,7 @@ Notre ennui, viens donc le distraire
 Un peu de la bonne façon.
 N'es-tu pas notre petit frère ?
 
-**** *book_ *id_p110 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p110 *date_1889 
 
 PROLOGUE SUPPRIMÉ A UN LIVRE « D'INVECTIVES »
 
@@ -1036,7 +1036,7 @@ Comme la gale et comme un hallier de vermine.
 Et comme tout... Et sus aux griefs vrais ou faux
 Qui m'agacent... Muses, or, sus à la vermine !
 
-**** *book_ *id_p111 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p111 *date_1889 
 
 LE SONNET DE L'HOMME AU SABLE
 
@@ -1058,7 +1058,7 @@ Si, par malheur, puisse d'ailleurs l'augure aller au diable !
 Quelqu'un de vous devait s'emberlificoter aussi,
 Qu'il réclame un conseil de révision préalable.
 
-**** *book_ *id_p112 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p112 *date_1889 
 
 GUITARE
 
@@ -1088,7 +1088,7 @@ Faut-il la tuer ou prier pour elle ? »
 Et le pauvre sait très bien qu'il priera,
 Mais le diable parierait qu'il tuera.
 
-**** *book_ *id_p113 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p113 *date_1889 
 
 BALLADE DE LA VIE EN ROUGE
 
@@ -1124,7 +1124,7 @@ En triomphe par la route où je
 Trime d'ornières en talus.
 Mais moi je vois la vie en rouge.
 
-**** *book_ *id_p114 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p114 *date_1889 
 
 MAINS
 
@@ -1188,7 +1188,7 @@ Le soir descend insidieux...
 Ah ! si ce sont des mains de rêve,
 Tant mieux, — ou tant pis, — ou tant mieux !
 
-**** *book_ *id_p115 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p115 *date_1889 
 
 LES MORTS QUE...
 
@@ -1216,7 +1216,7 @@ Tiens ton âme prête à ce jour ultime
 Qui surprendra l'assassin comme un crime
 Et fondra sur le sol comme un voleur.
 
-**** *book_ *id_p116 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p116 *date_1889 
 
 NOUVELLES VARIATIONS SUR LE POINT DU JOUR
 
@@ -1240,7 +1240,7 @@ Et la rivière obscène et molle, avec
 Des gens trop beaux, leur cigare à leur bec :
 Épatants ces metteurs-au-vent de tripes !
 
-**** *book_ *id_p117 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p117 *date_1889 
 
 PIERROT GAMIN
 
@@ -1286,7 +1286,7 @@ Caricature, auréole,
 La grimace et le symbole
 De notre simplicité !
 
-**** *book_ *id_p118 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p118 *date_1889 
 
 CES PASSIONS...
 
@@ -1340,7 +1340,7 @@ De fiers damnés d'un plus magnifique sabbat ?
 Et salut, témoins purs de l'âme en ce combat
 Pour l'affranchissement de la lourde nature !
 
-**** *book_ *id_p119 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p119 *date_1889 
 
 LŒTI ET ERRABUNDI
 
@@ -1469,7 +1469,7 @@ Et la toute-philosophie,
 Et ma patrie et ma bohème
 Morts ? Allons donc ! tu vis ma vie !
 
-**** *book_ *id_p120 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p120 *date_1889 
 
 BALLADE DE LA MAUVAISE RÉPUTATION
 
@@ -1505,7 +1505,7 @@ Un souris pour votre scion
 Fier derrière sa palissade.
 Lucullus ? Non. Trimalcion.
 
-**** *book_ *id_p121 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p121 *date_1889 
 
 CAPRICE
 
@@ -1537,7 +1537,7 @@ Petits sacrés-cœurs de Jésus plus lamentables !
 Va, poète, le seul des hommes véritables,
 Meurs sauvé, meurs de faim pourtant le moins possible.
 
-**** *book_ *id_p122 *date_1889 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_parallelement *style_verse *genre_verse *dist1_verlaine_verse_verse_parallelement *dist2_verlaine_verse_verse *id_p122 *date_1889 
 
 BALLADE SAPPHO
 

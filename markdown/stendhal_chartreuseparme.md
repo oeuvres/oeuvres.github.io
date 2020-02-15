@@ -1,6 +1,6 @@
 ---
 identifier: stendhal_chartreuseparme  
-creator: Stendhal  
+creator: Stendhal.  
 date: 1839  
 title: La Chartreuse de Parme  
 ---

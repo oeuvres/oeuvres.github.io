@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_invectives  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1896  
 title: Invectives  
 ---

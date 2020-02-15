@@ -1,6 +1,6 @@
 ---
 identifier: dumas_3mousquetaires  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1844  
 title: Les Trois Mousquetaires  
 ---

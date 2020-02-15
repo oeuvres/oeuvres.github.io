@@ -1,6 +1,6 @@
 ---
 identifier: dumarsais_encyclopedie  
-creator: Du Marsais, César Chesneau  
+creator: Du Marsais, César Chesneau.  
 date: 1765  
 title: Articles de l’Encyclopédie  
 ---

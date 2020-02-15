@@ -1,6 +1,6 @@
 ---
 identifier: verne_clovisdardentor  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1896  
 title: Clovis Dardentor  
 ---

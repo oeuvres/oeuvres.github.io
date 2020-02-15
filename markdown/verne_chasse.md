@@ -1,6 +1,6 @@
 ---
 identifier: verne_chasse  
-creator:   Verne, Jules (1828-1905)   
+creator: Verne, Jules.  
 date: 1881  
 title: Dix heures de chasse   
 ---

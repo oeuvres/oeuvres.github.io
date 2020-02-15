@@ -1,6 +1,6 @@
 ---
 identifier: renan_monarchieconstitutionnelle  
-creator: Renan, Ernest (1823-1892)  
+creator: Renan, Ernest.  
 date: 1870  
 title: Monarchie constitutionnelle  
 ---

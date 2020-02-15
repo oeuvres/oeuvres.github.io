@@ -1,6 +1,6 @@
 ---
 identifier: dumas_catherineblum  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1854  
 title: Catherine Blum  
 ---

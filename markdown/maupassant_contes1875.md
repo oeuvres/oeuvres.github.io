@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_contes1875  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1875  
 title: Contes divers (1875-1880)  
 ---

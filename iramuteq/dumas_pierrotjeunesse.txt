@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 Mes chers enfants,
 
@@ -14,7 +14,7 @@ Si, enfin, vous nous demandez pour qui Aramis a écrit ce conte, nous vous répo
 
 Maintenant, chers enfants, puisse Aramis vous amuser autant quand il écrit, qu'il a amusé vos pères et vos mères quand il conspirait, aimait et combattait, en société de ses trois amis, Athos, Porthos et d'Artagnan.
 
-**** *book_ *id_body-2 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 1. Le souper des bûcherons
 
@@ -28,8 +28,7 @@ Quand la nuit était venue, il ramassait sa moisson du jour, et s'en retournait,
 
 Il y avait déjà de longs jours qu'ils vivaient ainsi, lorsqu'il advint qu'un soir le bûcheron ne rentra pas à l'heure accoutumée.
 
-On était alors au mois de décembre ; la terre et la forêt étaient couvertes de neige, et la bise, qui soufflait avec violence, emportait avec elle de longues traînées blanches qu'elle détachait des arbres, et qui étincelaient en fuyant dans la nuit.
-On eût dit, mes enfants, que c'étaient, comme dans vos contes favoris, de grands fantômes blancs qui couraient, à travers les airs, à leur rendez-vous de minuit.
+On était alors au mois de décembre ; la terre et la forêt étaient couvertes de neige, et la bise, qui soufflait avec violence, emportait avec elle de longues traînées blanches qu'elle détachait des arbres, et qui étincelaient en fuyant dans la nuit. On eût dit, mes enfants, que c'étaient, comme dans vos contes favoris, de grands fantômes blancs qui couraient, à travers les airs, à leur rendez-vous de minuit.
 
 La vieille Marguerite – c'était le nom de la femme du bûcheron – était, comme vous pensez bien, fort inquiète.
 
@@ -45,9 +44,7 @@ Deux grandes heures s'étaient écoulées, lorsque tout à coup le refrain d'une
 
 Et, ce disant, il déposa sur la table, aux yeux de la vieille femme qui en resta tout ébahie, un joli berceau d'osier, dans lequel reposait un petit enfant d'allure si gentille et de forme si mignonne, que l'âme en était toute chatouillée, rien que de le voir.
 
-Il était vêtu d'une longue tunique blanche, dont les manches pendantes ressemblaient aux ailes repliées d'une colombe.
-Un haut-de-chausse d'étoffe blanche comme la tunique laissait à découvert deux petits pieds de gazelle, chaussés de bottines à rosettes et à talons rouges.
-Autour de son cou s'épanouissait une fraise de batiste finement plissée, et sur la tête il portait un joli chapeau de feutre blanc coquettement incliné sur l'oreille.
+Il était vêtu d'une longue tunique blanche, dont les manches pendantes ressemblaient aux ailes repliées d'une colombe. Un haut-de-chausse d'étoffe blanche comme la tunique laissait à découvert deux petits pieds de gazelle, chaussés de bottines à rosettes et à talons rouges. Autour de son cou s'épanouissait une fraise de batiste finement plissée, et sur la tête il portait un joli chapeau de feutre blanc coquettement incliné sur l'oreille.
 
 De mémoire de bûcheron on n'avait vu de plus gracieuse miniature ; mais ce qui émerveillait fort dame Marguerite, c'était le teint du petit enfant, qui était si blanc, qu'on eût dit que sa tête mignonne avait été sculptée dans l'albâtre.
 
@@ -55,8 +52,7 @@ De mémoire de bûcheron on n'avait vu de plus gracieuse miniature ; mais ce qu
 
 – Ce n'est pas étonnant, dit le bûcheron, il était depuis plus de huit jours sous la neige quand je l'ai trouvé.
 
-– Sainte Vierge ! huit jours sous la neige, et tu ne me dis pas cela tout de suite.
-Le pauvre petit est gelé !
+– Sainte Vierge ! huit jours sous la neige, et tu ne me dis pas cela tout de suite. Le pauvre petit est gelé !
 
 Et sans plus dire, la vieille femme prit le berceau, le déposa près de la cheminée et jeta un fagot tout entier dans le feu.
 
@@ -82,7 +78,7 @@ Quand ils se relevèrent, un quart d'heure après, la marmite était vide, et le
 
 Et les bonnes gens, qui étaient à jeun depuis le matin, allèrent se coucher.
 
-**** *book_ *id_body-3 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 2. Ce que peut amener la découverte d'un petit enfant
 
@@ -118,19 +114,15 @@ Donc le roi, accompagné d'un nombreux cortège, était sorti de son palais et s
 
 À sa gauche, montée sur un cheval isabelle, était Fleur-d'Amandier, l'héritière du royaume et la plus belle princesse qui se pût voir au monde.
 
-Sur la seconde file, venait un haut personnage, richement costumé à l'orientale, mais laid à faire peur ; il était bossu, cagneux, et avait la barbe, les sourcils et les cheveux d'un roux si ardent, qu'il était impossible de le regarder en face sans cligner les yeux.
-C'était le prince Azor, un grand batailleur, toujours en guerre avec ses voisins, et que, par politique, le roi de Bohême avait fiancé la veille à Fleur-d'Amandier.
-Ce vilain homme avait voulu assister à la cérémonie, afin d'arracher, par la terreur qu'il inspirait, un vote d'urgence sur la dotation de sa fiancée.
+Sur la seconde file, venait un haut personnage, richement costumé à l'orientale, mais laid à faire peur ; il était bossu, cagneux, et avait la barbe, les sourcils et les cheveux d'un roux si ardent, qu'il était impossible de le regarder en face sans cligner les yeux. C'était le prince Azor, un grand batailleur, toujours en guerre avec ses voisins, et que, par politique, le roi de Bohême avait fiancé la veille à Fleur-d'Amandier. Ce vilain homme avait voulu assister à la cérémonie, afin d'arracher, par la terreur qu'il inspirait, un vote d'urgence sur la dotation de sa fiancée.
 
 À côté de lui marchait le seigneur Renardino, qui riait sournoisement dans sa barbe en songeant aux impôts énormes dont, grâce à lui, le bon peuple de Bohême allait être écrasé.
 
-Le cortège n'avait pas fait cent pas, que la surprise se peignit sur tous les visages.
-Les boutiques étaient fermées et les rues complètement désertes.
+Le cortège n'avait pas fait cent pas, que la surprise se peignit sur tous les visages. Les boutiques étaient fermées et les rues complètement désertes.
 
 L'étonnement redoubla lorsqu'un héraut vint annoncer au roi que la salle du parlement était vide.
 
-– Par ma bosse ! qu'est-ce que cela veut dire ? s'écria le prince Azor, qui avait vu le beau visage de Fleur-d'Amandier rayonner de joie à cette nouvelle.
-Aurait-on voulu, par hasard, me mystifier ?
+– Par ma bosse ! qu'est-ce que cela veut dire ? s'écria le prince Azor, qui avait vu le beau visage de Fleur-d'Amandier rayonner de joie à cette nouvelle. Aurait-on voulu, par hasard, me mystifier ?
 
 – Au fait, qu'est-ce que cela signifie, seigneur Renardino, demanda le roi, et pourquoi mon peuple n'est-il pas ici, sur mon passage, à crier comme d'habitude : Vive le roi !
 
@@ -142,8 +134,7 @@ Le méchant homme avait vu pour la seconde fois Fleur-d'Amandier sourire sous so
 
 À ces paroles, qui renfermaient une menace de guerre, tous les visages devinrent fort pâles, à l'exception de la joue du seigneur Renardino, qui était devenue fort rouge.
 
-Ce fut bientôt un désarroi général.
-Le roi et tous les gens de sa suite s'enfuirent vers le palais en criant aux armes, et les trente-deux esclaves noirs, pour courir plus vite, laissèrent sur la place le palanquin de la reine.
+Ce fut bientôt un désarroi général. Le roi et tous les gens de sa suite s'enfuirent vers le palais en criant aux armes, et les trente-deux esclaves noirs, pour courir plus vite, laissèrent sur la place le palanquin de la reine.
 
 Mais, fort heureusement, Sa Majesté, qui croyait assister déjà à la séance royale, s'était profondément endormie.
 
@@ -153,7 +144,7 @@ Un vaste royaume en émoi, un mariage rompu, une déclaration de guerre et une g
 
 À quoi tiennent, mes chers enfants, le sort des rois et les destinées, des empires !
 
-**** *book_ *id_body-4 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 3. Baptême de Pierrot
 
@@ -161,8 +152,7 @@ La scène que nous venons de narrer avait fait une telle impression sur l'esprit
 
 Il lui avait passé plus de cent fois son épée au travers du corps, lorsqu'une idée soudaine lui vint à l'esprit ; c'était de faire comparaître par-devant lui le seigneur Bambolino, le maire de la ville, afin de savoir ce que pouvait être devenu son peuple.
 
-Après une visite domiciliaire des plus minutieuses, maître Bambolino fut enfin trouvé sous un amas de bottes de paille, au fond d'un grenier, n'ayant en tout et pour tout sur sa personne qu'une chemise, et si courte que ça faisait peine à voir.
-Dans la crainte d'être dévoré, le pauvre homme s'était mis au cou un large collier de cuir, hérissé de pointes aiguës, comme les chiens de berger sont accoutumés d'en porter dans l'exercice de leurs fonctions pour tenir messires les loups en respect.
+Après une visite domiciliaire des plus minutieuses, maître Bambolino fut enfin trouvé sous un amas de bottes de paille, au fond d'un grenier, n'ayant en tout et pour tout sur sa personne qu'une chemise, et si courte que ça faisait peine à voir. Dans la crainte d'être dévoré, le pauvre homme s'était mis au cou un large collier de cuir, hérissé de pointes aiguës, comme les chiens de berger sont accoutumés d'en porter dans l'exercice de leurs fonctions pour tenir messires les loups en respect.
 
 Amené au pied du trône du roi, ce fut à grande peine, tant il grelottait, qu'il raconta l'histoire du monstre et de ses odieux méfaits.
 
@@ -204,8 +194,7 @@ Il n'y avait que le seigneur Renardino, qui avait beau se fouiller de la tête a
 
 Puis, il se mit à faire au roi la description du petit bonhomme, de la blancheur de son teint, qui était plus blanc que tout ce qu'il y a de plus blanc au monde, tant et si bien que le roi, qui était un grand naturaliste, conçut tout de suite le projet de conserver le petit phénomène dans un bocal d'esprit-de-vin.
 
-– Nous serions curieux, Fleur-d'Amandier et moi, reprit-il adroitement, de voir un être aussi merveilleux.
-Voudrais-tu bien, mon petit ami nous servir de guide ?
+– Nous serions curieux, Fleur-d'Amandier et moi, reprit-il adroitement, de voir un être aussi merveilleux. Voudrais-tu bien, mon petit ami nous servir de guide ?
 
 – Je suis aux ordres de Votre Majesté, répondit le jeune pâtre, qui, au seul nom de Fleur-d'Amandier, était devenu rouge comme une cerise.
 
@@ -219,10 +208,7 @@ Le roi descendit de sa mule et frappa à la porte.
 
 À ces mots magiques, l'huis s'ouvrit de lui-même, comme la fameuse caverne de feu Ali-Baba, et le petit enfant apparut sur le seuil, son feutre blanc à la main.
 
-Vous auriez été bien empêchés, mes chers enfants, de vous trouver ainsi face à face avec l'un des plus grands rois de la terre.
-Plus d'un d'entre vous, j'imagine, se serait bien vite blotti dans un coin et couvert le visage de ses deux mains, sauf à écarter un tantinet les doigts pour voir si les rois sont faits comme les autres hommes ; mais il n'en fut pas de même du petit enfant ; il s'avança avec une grâce exquise au-devant de Sa Majesté, posa le genou en terre et baisa respectueusement le pan de son manteau.
-Je ne sais, en vérité, où il avait appris tout cela.
-Se retournant ensuite vers Fleur-d'Amandier, qu'il salua le plus galamment du monde, il lui offrit sa petite main blanche pour l'aider à descendre de son destrier.
+Vous auriez été bien empêchés, mes chers enfants, de vous trouver ainsi face à face avec l'un des plus grands rois de la terre. Plus d'un d'entre vous, j'imagine, se serait bien vite blotti dans un coin et couvert le visage de ses deux mains, sauf à écarter un tantinet les doigts pour voir si les rois sont faits comme les autres hommes ; mais il n'en fut pas de même du petit enfant ; il s'avança avec une grâce exquise au-devant de Sa Majesté, posa le genou en terre et baisa respectueusement le pan de son manteau. Je ne sais, en vérité, où il avait appris tout cela. Se retournant ensuite vers Fleur-d'Amandier, qu'il salua le plus galamment du monde, il lui offrit sa petite main blanche pour l'aider à descendre de son destrier.
 
 Cela fait, et sans s'inquiéter du seigneur Renardino, qui attendait de lui même office, notre petit garçon fit un geste des plus gracieux au roi et à la princesse pour les inviter à s'asseoir.
 
@@ -232,9 +218,7 @@ Le bûcheron et sa femme, qui s'étaient mis à table pour dîner deux heures pl
 
 Le bûcheron et sa femme étaient si interdits qu'ils ne trouvèrent pas un mot à répondre.
 
-– Sire, dit alors le petit bonhomme, vous pouvez disposer de moi comme il vous plaira, je suis tout à votre service et prêt à vous suivre.
-Que Votre Majesté daigne seulement m'accorder la faveur d'emmener avec moi ces bonnes gens qui m'ont recueilli, et que j'aime tout autant que si j'étais leur propre fils.
-Quant à ce brouet, ne vous en faites faute ; j'ose espérer même que vous me ferez l'honneur, tout petit que je sois, de m'accepter pour votre échanson.
+– Sire, dit alors le petit bonhomme, vous pouvez disposer de moi comme il vous plaira, je suis tout à votre service et prêt à vous suivre. Que Votre Majesté daigne seulement m'accorder la faveur d'emmener avec moi ces bonnes gens qui m'ont recueilli, et que j'aime tout autant que si j'étais leur propre fils. Quant à ce brouet, ne vous en faites faute ; j'ose espérer même que vous me ferez l'honneur, tout petit que je sois, de m'accepter pour votre échanson.
 
 – Accordé, dit le roi en frappant amicalement sur la joue du petit bonhomme ; tu es un garçon de grand sens, et je verrai plus tard ce que je puis faire de toi.
 
@@ -242,36 +226,25 @@ Et sur ce, il prit, ainsi que Fleur-d'Amandier, la place du bûcheron et de sa f
 
 Le repas fut des plus gais ; le roi daigna même, dans sa joyeuseté, risquer quelques bons mots auxquels le petit enfant eut la courtoisie d'applaudir.
 
-Après le souper, on fit les préparatifs du départ, afin de rentrer au palais avant la nuit.
-Le bûcheron et sa femme, à qui le roi voulait faire honneur, furent hissés à grand-peine sur la mule du seigneur Renardino, et s'assirent en croupe derrière lui.
-Le petit enfant sauta lestement sur le dos d'un vieil âne qu'il était allé chercher dans l'écurie, et qui en voyant tant de monde, se mit à braire de toutes ses forces, tant il éprouvait de contentement de se trouver en si brillante compagnie.
-Il n'est pas jusqu'au jeune pâtre qui ne trouvât à s'accommoder tant bien que mal derrière le grand officier des gardes du roi.
+Après le souper, on fit les préparatifs du départ, afin de rentrer au palais avant la nuit. Le bûcheron et sa femme, à qui le roi voulait faire honneur, furent hissés à grand-peine sur la mule du seigneur Renardino, et s'assirent en croupe derrière lui. Le petit enfant sauta lestement sur le dos d'un vieil âne qu'il était allé chercher dans l'écurie, et qui en voyant tant de monde, se mit à braire de toutes ses forces, tant il éprouvait de contentement de se trouver en si brillante compagnie. Il n'est pas jusqu'au jeune pâtre qui ne trouvât à s'accommoder tant bien que mal derrière le grand officier des gardes du roi.
 
-On se mit en route en silence, car on avait remarqué que le roi venait de se plonger dans de profondes méditations.
-Il cherchait, en effet, un nom à donner au petit bonhomme, et, comme d'habitude, il ne trouvait rien.
+On se mit en route en silence, car on avait remarqué que le roi venait de se plonger dans de profondes méditations. Il cherchait, en effet, un nom à donner au petit bonhomme, et, comme d'habitude, il ne trouvait rien.
 
 Mais nous allons laisser la cavalcade continuer son chemin, pour raconter un tout petit événement qui s'était passé au palais pendant l'absence du roi.
 
-Les esclaves noirs, qui s'étaient enfuis lors de l'algarade du prince Azor, réfléchirent bientôt que le seigneur Renardino se ferait un malin plaisir de les faire pendre, s'il apprenait leur désertion.
-Ils revinrent donc vers le palanquin, le soulevèrent avec précaution et le transportèrent au palais.
-Là, ils déposèrent tout doucement la reine sur un lit de brocart d'or, et se retirèrent dans l'antichambre, soulagés d'un grand poids.
+Les esclaves noirs, qui s'étaient enfuis lors de l'algarade du prince Azor, réfléchirent bientôt que le seigneur Renardino se ferait un malin plaisir de les faire pendre, s'il apprenait leur désertion. Ils revinrent donc vers le palanquin, le soulevèrent avec précaution et le transportèrent au palais. Là, ils déposèrent tout doucement la reine sur un lit de brocart d'or, et se retirèrent dans l'antichambre, soulagés d'un grand poids.
 
-Or, il faut que vous sachiez, mes chers enfants, que la reine avait la passion des petits oiseaux ; elle en avait de toutes sortes, de toutes nuances et de tous pays.
-Lorsque les jolis prisonniers s'ébattaient dans leur belle cage à treillis d'or, et croisaient, dans leurs jeux, les mille couleurs de leur plumage, on eût cru voir voltiger un essaim de fleurs et de pierres précieuses ; et c'était un concert de gazouillements joyeux, de roulades, de trilles éblouissants à rendre fou un musicien.
+Or, il faut que vous sachiez, mes chers enfants, que la reine avait la passion des petits oiseaux ; elle en avait de toutes sortes, de toutes nuances et de tous pays. Lorsque les jolis prisonniers s'ébattaient dans leur belle cage à treillis d'or, et croisaient, dans leurs jeux, les mille couleurs de leur plumage, on eût cru voir voltiger un essaim de fleurs et de pierres précieuses ; et c'était un concert de gazouillements joyeux, de roulades, de trilles éblouissants à rendre fou un musicien.
 
-Mais ce qui vous étonnera, comme j'en fus étonné moi-même, c'est que le favori de la reine n'était ni un bengali, ni un oiseau de paradis, ni quelque autre d'aussi gentil corsage ; mais un de ces vilains moineaux francs, grands pillards de grains, qui vivent dans la campagne aux dépens des pauvres gens.
-Bien que la reine fût très bonne pour lui, et lui pardonnât les licences parfois incroyables qu'il se permettait, le petit ingrat n'en regrettait pas moins sa liberté et becquetait souvent avec colère les vitres qui le retenaient prisonnier.
-Dans la précipitation que la reine avait mise à se joindre au cortège du roi, elle avait oublié, le matin, de fermer la fenêtre, et crac… notre moineau, profitant d'une si belle occasion, avait pris son vol dans le ciel.
+Mais ce qui vous étonnera, comme j'en fus étonné moi-même, c'est que le favori de la reine n'était ni un bengali, ni un oiseau de paradis, ni quelque autre d'aussi gentil corsage ; mais un de ces vilains moineaux francs, grands pillards de grains, qui vivent dans la campagne aux dépens des pauvres gens. Bien que la reine fût très bonne pour lui, et lui pardonnât les licences parfois incroyables qu'il se permettait, le petit ingrat n'en regrettait pas moins sa liberté et becquetait souvent avec colère les vitres qui le retenaient prisonnier. Dans la précipitation que la reine avait mise à se joindre au cortège du roi, elle avait oublié, le matin, de fermer la fenêtre, et crac… notre moineau, profitant d'une si belle occasion, avait pris son vol dans le ciel.
 
-Qui fut bien triste ?
-Ce fut la reine à son réveil, quand elle ne trouva plus son petit favori ; elle chercha partout dans sa chambre, et, voyant la fenêtre ouverte, elle devina tout.
+Qui fut bien triste ? Ce fut la reine à son réveil, quand elle ne trouva plus son petit favori ; elle chercha partout dans sa chambre, et, voyant la fenêtre ouverte, elle devina tout.
 
 Elle courut alors à son balcon, et se mit à appeler, par son nom et avec les épithètes les plus tendres, notre fuyard, qui se donna bien garde de lui répondre, je vous assure.
 
 Il y avait au moins une heure qu'elle appelait son cher pierrot, quand les portes de sa chambre s'ouvrirent avec fracas et donnèrent passage au roi.
 
-– Pierrot !
-Pierrot ! s'écria-t-il en bondissant de joie, voilà précisément ce que je cherchais.
+– Pierrot ! Pierrot ! s'écria-t-il en bondissant de joie, voilà précisément ce que je cherchais.
 
 – Hélas ! je l'ai perdu, répondit tristement la reine, qui pensait toujours à son oiseau.
 
@@ -281,35 +254,27 @@ La reine haussa les épaules, et crut que le roi était devenu fou.
 
 Et voilà, mes chers enfants, comment le nom de Pierrot fut donné à notre héros.
 
-**** *book_ *id_body-5 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 4. Au clair de la lune, mon ami Pierrot
 
 Un mois s'était écoulé depuis les derniers événements que nous venons de raconter.
 
-Pierrot, par un prodige qu'il m'est impossible de vous expliquer, grandissait à vue d'œil et si vite que le roi, tout émerveillé d'un phénomène aussi extraordinaire, avait passé régulièrement plusieurs heures par jour, immobile sur son trône, à le regarder pousser.
-Notre héros avait su, d'ailleurs, s'insinuer si adroitement dans les bonnes grâces du roi et de la reine, qu'il avait été nommé grand échanson de la couronne, fonction très délicate à remplir, mais dont il s'acquittait avec un tact parfait et une habileté sans égale.
-Jamais la cour n'avait été plus florissante, ni le visage de Leurs Majestés enluminé de plus riches couleurs, au point que c'était entre elles à ce sujet un échange perpétuel de félicitations tant que le jour durait.
+Pierrot, par un prodige qu'il m'est impossible de vous expliquer, grandissait à vue d'œil et si vite que le roi, tout émerveillé d'un phénomène aussi extraordinaire, avait passé régulièrement plusieurs heures par jour, immobile sur son trône, à le regarder pousser. Notre héros avait su, d'ailleurs, s'insinuer si adroitement dans les bonnes grâces du roi et de la reine, qu'il avait été nommé grand échanson de la couronne, fonction très délicate à remplir, mais dont il s'acquittait avec un tact parfait et une habileté sans égale. Jamais la cour n'avait été plus florissante, ni le visage de Leurs Majestés enluminé de plus riches couleurs, au point que c'était entre elles à ce sujet un échange perpétuel de félicitations tant que le jour durait.
 
 Seule entre toutes, la figure blême du seigneur Renardino avait considérablement jauni : c'était l'effet de la jalousie que lui inspirait l'élévation de notre ami Pierrot, qu'il commençait à haïr du fond du cœur.
 
-Le jeune pâtre que nous avons vu servir de guide au cortège avait été fait grand écuyer, et il n'était bruit partout que de sa belle tenue et de sa bonne mine.
-Chaque fois que Fleur-d'Amandier traversait la grande salle des gardes pour se rendre aux appartements de sa mère, il avait si bon air et paraissait si heureux en lui présentant sa hallebarde, que la jeune princesse, qui ne voulait pas être en reste avec un écuyer si courtois, lui tirait en passant une révérence.
+Le jeune pâtre que nous avons vu servir de guide au cortège avait été fait grand écuyer, et il n'était bruit partout que de sa belle tenue et de sa bonne mine. Chaque fois que Fleur-d'Amandier traversait la grande salle des gardes pour se rendre aux appartements de sa mère, il avait si bon air et paraissait si heureux en lui présentant sa hallebarde, que la jeune princesse, qui ne voulait pas être en reste avec un écuyer si courtois, lui tirait en passant une révérence.
 
 Or, comme le jeune écuyer est appelé à jouer un rôle dans cette histoire, il est bon de vous dire tout de suite, mes chers enfants, qu'il s'appelait Cœur-d'Or.
 
 Le bûcheron et sa femme avaient été nommés surintendants des jardins du palais, et, grâce à Pierrot, recevaient chaque jour, dans la jolie maisonnette qu'ils habitaient, les rogatons de la desserte royale.
 
-Le méchant prince Azor troublait seul tant de bien-être.
-Le roi lui avait envoyé une magnifique ambassade, chargée de riches présents, pour lui offrir de nouveau la main de la princesse sa fille ; mais le prince, qui était toujours en colère, à en juger par l'état de sa barbe, de ses cheveux et de ses sourcils, qui étaient fort hérissés, avait fait déposer les présents dans son trésor et mettre à mort les ambassadeurs.
-Après cet exécrable attentat, il avait écrit de sa propre main un message au roi, dans lequel il lui faisait à savoir qu'il commencerait contre son royaume une guerre d'extermination au printemps prochain, et qu'il ne se tiendrait pour content que lorsqu'il aurait haché lui, toute sa famille et tout son peuple menu comme chair à pâté.
+Le méchant prince Azor troublait seul tant de bien-être. Le roi lui avait envoyé une magnifique ambassade, chargée de riches présents, pour lui offrir de nouveau la main de la princesse sa fille ; mais le prince, qui était toujours en colère, à en juger par l'état de sa barbe, de ses cheveux et de ses sourcils, qui étaient fort hérissés, avait fait déposer les présents dans son trésor et mettre à mort les ambassadeurs. Après cet exécrable attentat, il avait écrit de sa propre main un message au roi, dans lequel il lui faisait à savoir qu'il commencerait contre son royaume une guerre d'extermination au printemps prochain, et qu'il ne se tiendrait pour content que lorsqu'il aurait haché lui, toute sa famille et tout son peuple menu comme chair à pâté.
 
-Lorsque les premières alarmes que cette nouvelle avait fait naître furent dissipées, le roi avisa aux moyens de pourvoir à la défense de ses États.
-Il assembla à l'instant même tous les artistes de son royaume, et fit peindre sur les remparts de la ville les figures de monstres et de bêtes féroces qu'il jugea les plus propres à jeter l'épouvante parmi ses ennemis.
-C'étaient des lions, des ours, des tigres, des panthères qui allongeaient des griffes longues d'une lieue, et qui ouvraient des gueules si larges, qu'on voyait très distinctement et d'outre en outre leurs entrailles ; des crocodiles qui, ne sachant quel prétexte imaginer pour montrer leurs dents, avaient pris le parti de se promener tout bonnement les mâchoires béantes ; des serpents dont les immenses replis faisaient tout le tour des murailles, et qui semblaient encore fort embarrassés de leurs queues ; des éléphants, qui, pour faire parade de leurs forces, se prélassaient gravement avec des montagnes sur le dos ; enfin, c'était une ménagerie comme on n'en avait jamais vu, mais d'un aspect si affreux, que les citoyens n'osaient plus entrer dans la ville, ni en sortir, dans la crainte d'être dévorés.
+Lorsque les premières alarmes que cette nouvelle avait fait naître furent dissipées, le roi avisa aux moyens de pourvoir à la défense de ses États. Il assembla à l'instant même tous les artistes de son royaume, et fit peindre sur les remparts de la ville les figures de monstres et de bêtes féroces qu'il jugea les plus propres à jeter l'épouvante parmi ses ennemis. C'étaient des lions, des ours, des tigres, des panthères qui allongeaient des griffes longues d'une lieue, et qui ouvraient des gueules si larges, qu'on voyait très distinctement et d'outre en outre leurs entrailles ; des crocodiles qui, ne sachant quel prétexte imaginer pour montrer leurs dents, avaient pris le parti de se promener tout bonnement les mâchoires béantes ; des serpents dont les immenses replis faisaient tout le tour des murailles, et qui semblaient encore fort embarrassés de leurs queues ; des éléphants, qui, pour faire parade de leurs forces, se prélassaient gravement avec des montagnes sur le dos ; enfin, c'était une ménagerie comme on n'en avait jamais vu, mais d'un aspect si affreux, que les citoyens n'osaient plus entrer dans la ville, ni en sortir, dans la crainte d'être dévorés.
 
-Cette œuvre de haute stratégie terminée, le roi passa la revue de ses troupes, et ce ne fut pas sans orgueil qu'il se vit à la tête d'une armée composée de deux cents hommes d'infanterie et de cinquante cavaliers.
-Avec une force aussi imposante, il se crut en état de faire la conquête du monde, et attendit de pied ferme le prince Azor.
+Cette œuvre de haute stratégie terminée, le roi passa la revue de ses troupes, et ce ne fut pas sans orgueil qu'il se vit à la tête d'une armée composée de deux cents hommes d'infanterie et de cinquante cavaliers. Avec une force aussi imposante, il se crut en état de faire la conquête du monde, et attendit de pied ferme le prince Azor.
 
 Cependant, Pierrot, qui servait en sa qualité de grand échanson à la table du roi, s'était souvent laissé aller à contempler dans une muette admiration les traits si fins et si purs de Fleur-d'Amandier, et il y avait pris tant de plaisir, qu'un beau soir, il sentit quelque chose remuer tout doucement dans sa poitrine, comme un petit oiseau qui s'éveillerait dans son nid ; tout à coup son cœur avait battu si vite, puis si fort, qu'il avait été obligé de porter la main à son pourpoint pour mettre le holà.
 
@@ -323,17 +288,13 @@ Et, après cette menace, il avait éteint sa perruque et fait semblant de rire c
 
 Quelques jours après, il y eut grand bal à la cour ; le roi, pour intéresser ses sujets à sa querelle contre le prince Azor, avait invité toutes les autorités civiles et militaires du pays.
 
-Jamais on n'avait vu de plus brillante assemblée.
-Le roi et la reine avaient revêtu pour la circonstance leurs grands manteaux d'hermine semés d'abeilles d'or, et portaient enchâssés dans leurs couronnes royales deux gros diamants qui scintillaient comme des étoiles, mais qui étaient si lourds que Leurs Majestés, la tête dans les épaules, ne pouvaient broncher.
+Jamais on n'avait vu de plus brillante assemblée. Le roi et la reine avaient revêtu pour la circonstance leurs grands manteaux d'hermine semés d'abeilles d'or, et portaient enchâssés dans leurs couronnes royales deux gros diamants qui scintillaient comme des étoiles, mais qui étaient si lourds que Leurs Majestés, la tête dans les épaules, ne pouvaient broncher.
 
 Ce fut un spectacle vraiment féerique lorsque, sous le feu croisé des lustres et des candélabres, les danses commencèrent ; danses de cour tout éblouissantes d'or, de fleurs et de diamants ; danses de Bohême tout étincelantes de verve, de grâce et de légèreté.
 
 Pierrot fit des prodiges, et plusieurs fois le roi et la reine, n'y pouvant tenir, déposèrent leurs couronnes sur un fauteuil pour l'applaudir tout à l'aise.
 
-Ce fut bien autre chose encore, lorsqu'il vint à danser avec Fleur-d'Amandier.
-Il fallait voir alors, mes chers enfants, comme il y allait de ses deux bras, de ses deux pieds, de tout son cœur ; comme il franchissait d'une enjambée la grande salle du bal, et revenait ensuite à petits bonds, en sautillant comme un oiseau.
-Il fallait voir les pirouettes qu'il faisait, et comme il tourbillonnait sur lui-même ; son mouvement était si rapide, que toute sa personne se voilait peu à peu d'une gaze légère, et bientôt se changeait en une vapeur blanche, indistincte, et en apparence immobile.
-Ce n'était plus un homme, c'était un nuage ; mais il n'avait qu'à s'arrêter court, le nuage se dissipait, et tout à coup l'homme reparaissait.
+Ce fut bien autre chose encore, lorsqu'il vint à danser avec Fleur-d'Amandier. Il fallait voir alors, mes chers enfants, comme il y allait de ses deux bras, de ses deux pieds, de tout son cœur ; comme il franchissait d'une enjambée la grande salle du bal, et revenait ensuite à petits bonds, en sautillant comme un oiseau. Il fallait voir les pirouettes qu'il faisait, et comme il tourbillonnait sur lui-même ; son mouvement était si rapide, que toute sa personne se voilait peu à peu d'une gaze légère, et bientôt se changeait en une vapeur blanche, indistincte, et en apparence immobile. Ce n'était plus un homme, c'était un nuage ; mais il n'avait qu'à s'arrêter court, le nuage se dissipait, et tout à coup l'homme reparaissait.
 
 Toute l'assemblée prit à ce divertissement le plus grand plaisir, et chaque fois que Pierrot disparaissait ou reparaissait, le roi ne manquait pas de s'écrier d'une voix tour à tour inquiète et joyeuse : – Ah ! il n'y est plus ! – Ah ! le voilà !
 
@@ -359,36 +320,29 @@ Pour s'assurer du fait, Renardino porta brusquement la main à son front.
 
 – Un duel à mort !
 
-– Très bien ; il ne faut pas rouler vos yeux comme vous faites pour me dire une chose aussi simple.
-Le rendez-vous ?
+– Très bien ; il ne faut pas rouler vos yeux comme vous faites pour me dire une chose aussi simple. Le rendez-vous ?
 
 – Le rond-point de la Forêt Verte.
 
-– Charmant !
-Et l'heure ?
+– Charmant ! Et l'heure ?
 
 – Demain matin, huit heures.
 
 – J'y serai, seigneur Renardino.
 
-Et, faisant une pirouette, Pierrot vint se placer auprès de la porte d'entrée, où se tenait Cœur-d'Or.
-Il y était à peine que le jeune écuyer, qui l'avait vu, non sans dépit, danser avec Fleur-d'Amandier, lui laissa tomber sur le pied le bout ferré de sa hallebarde.
+Et, faisant une pirouette, Pierrot vint se placer auprès de la porte d'entrée, où se tenait Cœur-d'Or. Il y était à peine que le jeune écuyer, qui l'avait vu, non sans dépit, danser avec Fleur-d'Amandier, lui laissa tomber sur le pied le bout ferré de sa hallebarde.
 
 – Allons, saute, Pierrot ! lui dit-il en même temps tout bas, et Pierrot de bondir, en poussant un cri de douleur, jusqu'au plafond.
 
-À ce nouveau tour de force, les applaudissements éclatèrent de plus belle.
-Le roi et la reine se renversèrent en riant sur leur trône, et leurs couronnes, perdant l'équilibre, s'en allèrent rouler comme deux cerceaux dans la grande salle du bal.
+À ce nouveau tour de force, les applaudissements éclatèrent de plus belle. Le roi et la reine se renversèrent en riant sur leur trône, et leurs couronnes, perdant l'équilibre, s'en allèrent rouler comme deux cerceaux dans la grande salle du bal.
 
-Par bonheur, les courtisans étaient là ; ils coururent après.
-Laissons-les faire, mes chers enfants, c'est leur métier.
+Par bonheur, les courtisans étaient là ; ils coururent après. Laissons-les faire, mes chers enfants, c'est leur métier.
 
 Après la danse, la musique eut son tour ; on entendit d'abord de grands airs d'opéra exécutés par les virtuoses les plus célèbres de la Bohême, ce qui n'empêcha pas que la reine ne fût obligée plusieurs fois de pincer le roi qui s'oubliait sur son trône.
 
-Lorsqu'on eut payé le juste tribut d'hommage qui est dû aux grands maîtres, Fleur-d'Amandier se leva de son siège et chanta sans se faire prier.
-À la bonne heure ! ce fut merveille d'entendre cette voix fraîche et pure, tour à tour voix de fauvette et de rossignol, qui tantôt modulait des sons tristes à faire pleurer, et tantôt éclatait en mille notes joyeuses qui pétillaient dans l'air comme des fusées.
+Lorsqu'on eut payé le juste tribut d'hommage qui est dû aux grands maîtres, Fleur-d'Amandier se leva de son siège et chanta sans se faire prier. À la bonne heure ! ce fut merveille d'entendre cette voix fraîche et pure, tour à tour voix de fauvette et de rossignol, qui tantôt modulait des sons tristes à faire pleurer, et tantôt éclatait en mille notes joyeuses qui pétillaient dans l'air comme des fusées.
 
-Tout le monde était attendri.
-La reine sanglotait ; Cœur-d'Or, sa hallebarde à la main, pleurait comme un enfant, et le roi, pour dissimuler son émotion, se moucha si fort, qu'il fallut faire le lendemain des réparations aux voûtes du palais.
+Tout le monde était attendri. La reine sanglotait ; Cœur-d'Or, sa hallebarde à la main, pleurait comme un enfant, et le roi, pour dissimuler son émotion, se moucha si fort, qu'il fallut faire le lendemain des réparations aux voûtes du palais.
 
 Lorsque le silence fut rétabli, le roi dit tout bas à la reine :
 
@@ -414,25 +368,21 @@ Le roi commençait à s'impatienter, lorsque Pierrot, écartant la foule, s'avan
 
 À ces mots, Pierrot prit une guitare, et, la tête penchée sur l'épaule, chanta.
 
-Je ne saurais vous décrire, mes chers enfants, l'enthousiasme que cette chanson excita dans la grande salle du bal.
-Le roi en trépigna d'aise sur son trône, et toute la cour battit des mains en faisant chorus.
+Je ne saurais vous décrire, mes chers enfants, l'enthousiasme que cette chanson excita dans la grande salle du bal. Le roi en trépigna d'aise sur son trône, et toute la cour battit des mains en faisant chorus.
 
 Pendant toute la soirée, on ne parla pas d'autre chose que de l'air de Pierrot, et les grands virtuoses de la Bohême s'esquivèrent l'un après l'autre, pour aller composer bien vite sur cet air des variations magnifiques, que vous ne manquerez pas d'apprendre un jour ou l'autre, mes pauvres enfants.
 
 À minuit, le roi et la reine se retirèrent dans leurs appartements et se mirent au lit ; mais, ne pouvant dormir, ils se dressèrent tous deux sur leur séant et chantèrent à gorge déployée le fameux nocturne, jusque bien avant dans la nuit.
 
-**** *book_ *id_body-6 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 5. Le petit poisson rouge
 
-Le lendemain matin, sept heures venaient à peine de sonner à toutes les horloges de la ville, que le seigneur Renardino se promenait déjà de long en large au lieu du rendez-vous, le rond-point de la Forêt Verte.
-Il était accompagné d'un vieux général, tant mutilé par la bataille, qu'il ne lui restait plus qu'un œil, un bras et une jambe, et encore pas au complet ; ce qui ne l'empêchait pas d'être fort jovial, de friser sa moustache et de redresser fièrement sa taille quand une jolie dame passait près de lui.
+Le lendemain matin, sept heures venaient à peine de sonner à toutes les horloges de la ville, que le seigneur Renardino se promenait déjà de long en large au lieu du rendez-vous, le rond-point de la Forêt Verte. Il était accompagné d'un vieux général, tant mutilé par la bataille, qu'il ne lui restait plus qu'un œil, un bras et une jambe, et encore pas au complet ; ce qui ne l'empêchait pas d'être fort jovial, de friser sa moustache et de redresser fièrement sa taille quand une jolie dame passait près de lui.
 
 La promenade des deux amis durait depuis deux heures, lorsque le vieux général s'arrêta pour consulter sa montre.
 
-– Mille millions de hallebardes ! s'écria-t-il, il est neuf heures !
-Est-ce que ton Albinos ne viendrait pas, d'aventure ?
-J'aurais été curieux, cependant, de savoir s'il avait du sang ou de la farine dans les veines.
+– Mille millions de hallebardes ! s'écria-t-il, il est neuf heures ! Est-ce que ton Albinos ne viendrait pas, d'aventure ? J'aurais été curieux, cependant, de savoir s'il avait du sang ou de la farine dans les veines.
 
 – Tu le sauras bientôt, répondit le grand ministre en grinçant des dents, car je le vois là-bas qui arrive…
 
@@ -444,8 +394,7 @@ Lorsque les parties en présence eurent échangé le salut d'usage, les témoins
 
 – Pile ! dit le général, qui jeta en l'air une pièce de monnaie.
 
-– Face ! dit le marmiton.
-J'ai gagné, reprit aussitôt le marmiton, qui empocha par distraction la pièce de monnaie du vieux général ; à nous le choix des armes.
+– Face ! dit le marmiton. J'ai gagné, reprit aussitôt le marmiton, qui empocha par distraction la pièce de monnaie du vieux général ; à nous le choix des armes.
 
 Et, prenant les deux broches, il tendit l'une au seigneur Renardino et l'autre à Pierrot.
 
@@ -463,8 +412,7 @@ Ce fut un bien autre étonnement pour Renardino, qui sauta en l'air en hurlant.
 
 Le pauvre Renardino était tout éclopé ; mais, de son côté, Pierrot courait le plus grand danger ; dans sa marche rétrograde, il avait rencontré un arbre où il se trouvait acculé.
 
-– Je te tiens enfin ! dit le grand ministre, qui, voyant toute retraite fermée à son adversaire, se flattait du malin espoir de le clouer sur l'arbre, comme on fait d'un papillon dans un herbier.
-Attrape ça ! cria-t-il, et, se fendant à fond, il lui porta la botte la plus furieuse qu'il pût faire.
+– Je te tiens enfin ! dit le grand ministre, qui, voyant toute retraite fermée à son adversaire, se flattait du malin espoir de le clouer sur l'arbre, comme on fait d'un papillon dans un herbier. Attrape ça ! cria-t-il, et, se fendant à fond, il lui porta la botte la plus furieuse qu'il pût faire.
 
 Mais Pierrot, qui l'avait vu venir, esquiva le coup en sautant par-dessus sa tête.
 
@@ -476,15 +424,13 @@ Vite, vite, il se mit en posture de la dégager ; mais Pierrot ne lui en laissa
 
 En ennemi généreux, Pierrot cessa de frapper, et tendit la main à son adversaire, qui se releva tout honteux, aux éclats de rire des témoins.
 
-– Mille millions de hallebardes ! criait le vieux général, comme il t'a tambouriné, mon pauvre ami !
-Tu en as au moins pour quinze jours sans pouvoir t'asseoir, et pour un homme de cabinet c'est bien gênant !
+– Mille millions de hallebardes ! criait le vieux général, comme il t'a tambouriné, mon pauvre ami ! Tu en as au moins pour quinze jours sans pouvoir t'asseoir, et pour un homme de cabinet c'est bien gênant !
 
 – Je vais prendre les devants, disait de son côté le marmiton, pour faire préparer les compresses.
 
 Après maints autres quolibets, nos personnages reprirent chacun de son côté le chemin du palais.
 
-Pendant que ceci se passait, toute la cour était en rumeur.
-Le roi, qui s'était mis à table pour déjeuner, avait remarqué que le service de vaisselle plate dont la reine lui avait fait cadeau le jour de sa fête n'était pas à sa place accoutumée et le réclamait à grands cris.
+Pendant que ceci se passait, toute la cour était en rumeur. Le roi, qui s'était mis à table pour déjeuner, avait remarqué que le service de vaisselle plate dont la reine lui avait fait cadeau le jour de sa fête n'était pas à sa place accoutumée et le réclamait à grands cris.
 
 Depuis une heure, écuyers tranchants, cuisiniers, marmitons, cherchaient, fouillaient, mettaient tout sens dessus dessous, mais ne trouvaient rien.
 
@@ -506,9 +452,7 @@ Mettant alors la main sous son pourpoint, il en tira six grands plats d'argent q
 
 – Eh bien, ce matin, je les avais emportées pour les remettre à l'orfèvre de Votre Majesté, et par crainte des voleurs, je les avais placées là sous mon pourpoint, lorsque, chemin faisant, il me revint à l'esprit que le seigneur Renardino, votre grand ministre, m'attendait dans la Forêt Verte pour une affaire d'honneur.
 
-– Une affaire d'honneur ! s'écria le roi.
-Ah ! c'est très bien, seigneur Pierrot… mais non, je me trompe, c'est mal, c'est fort mal, monsieur l'échanson.
-Vous savez qu'un édit royal défend expressément à nos sujets de se battre en duel.
+– Une affaire d'honneur ! s'écria le roi. Ah ! c'est très bien, seigneur Pierrot… mais non, je me trompe, c'est mal, c'est fort mal, monsieur l'échanson. Vous savez qu'un édit royal défend expressément à nos sujets de se battre en duel.
 
 – En vérité, sire, je l'ignorais.
 
@@ -532,13 +476,11 @@ Ce fut bien pis encore, lorsque le roi rendit le décret par lequel il nommait P
 
 Pendant que toute la ville se réjouissait de sa disgrâce, l'ex-grand ministre était plus mort que vif.
 
-À l'aide du vieux général, il s'était mis au lit en rentrant au palais.
-Puis, il avait été pris de la fièvre, puis, à la nouvelle de sa disgrâce, il était tombé de fièvre en chaud mal, puis il avait eu le délire.
+À l'aide du vieux général, il s'était mis au lit en rentrant au palais. Puis, il avait été pris de la fièvre, puis, à la nouvelle de sa disgrâce, il était tombé de fièvre en chaud mal, puis il avait eu le délire.
 
 Tantôt il lui semblait voir se dresser devant lui les spectres de tous les malheureux qu'il avait dépouillés pour s'enrichir, et qui, se penchant sur son chevet, lui disaient tout bas, bien bas à l'oreille :
 
-– Rends-nous ce que tu nous as pris !
-Rends-nous ce que tu nous as pris !
+– Rends-nous ce que tu nous as pris ! Rends-nous ce que tu nous as pris !
 
 Tantôt c'était la vieille mendiante qui lui demandait la charité d'un air moqueur, en lui montrant la bourse pleine d'or, qu'il avait perdue six semaines auparavant.
 
@@ -546,16 +488,13 @@ En vain il se dressait sur son lit, les traits contractés, l'œil hagard pour �
 
 – C'est ainsi que sont punis les hommes méchants et les mauvais cœurs.
 
-Et les mêmes visions lui apparurent toute la nuit, et toute la nuit il entendit les mêmes paroles.
-Tant il est vrai, mes chers enfants, qu'une conscience irritée ne pardonne jamais.
+Et les mêmes visions lui apparurent toute la nuit, et toute la nuit il entendit les mêmes paroles. Tant il est vrai, mes chers enfants, qu'une conscience irritée ne pardonne jamais.
 
 À quelques jours de là, le roi donna dans son palais, en l'honneur de Pierrot, son nouveau ministre, un gala splendide auquel furent conviés les rois des pays voisins, à l'exception du prince Azor, qui continuait toujours, à petit bruit, ses préparatifs de guerre.
 
-Pierrot était au comble de ses vœux ; assis à table auprès de Fleur-d'Amandier, il lui débitait les choses les plus bouffonnes du monde, et ne se sentait pas de joie quand il la voyait sourire à ses saillies.
-Cependant, un observateur eût pu remarquer que la belle princesse devenait tout à coup sérieuse quand, jetant un regard à la dérobée sur Cœur-d'Or, qui était debout derrière son fauteuil, elle le voyait changer de couleur, et ronger de dépit le bois de sa hallebarde qui en était fort endommagé.
+Pierrot était au comble de ses vœux ; assis à table auprès de Fleur-d'Amandier, il lui débitait les choses les plus bouffonnes du monde, et ne se sentait pas de joie quand il la voyait sourire à ses saillies. Cependant, un observateur eût pu remarquer que la belle princesse devenait tout à coup sérieuse quand, jetant un regard à la dérobée sur Cœur-d'Or, qui était debout derrière son fauteuil, elle le voyait changer de couleur, et ronger de dépit le bois de sa hallebarde qui en était fort endommagé.
 
-Après le repas, le roi congédia ses hôtes, et proposa à la reine une promenade sur le lac.
-On ne pouvait choisir une plus belle occasion ; le ciel était pur, l'air tiède, l'eau tranquille ; déjà, de toutes parts, la prairie commençait à verdoyer, et l'arbre à babiller ; c'était une véritable journée de printemps.
+Après le repas, le roi congédia ses hôtes, et proposa à la reine une promenade sur le lac. On ne pouvait choisir une plus belle occasion ; le ciel était pur, l'air tiède, l'eau tranquille ; déjà, de toutes parts, la prairie commençait à verdoyer, et l'arbre à babiller ; c'était une véritable journée de printemps.
 
 La famille royale arriva sur le bord du lac, et s'embarqua sur une yole qui s'y trouvait amarrée.
 
@@ -577,8 +516,7 @@ Et le petit poisson de sauter hors de l'eau et d'agiter gentiment sa queue mordo
 
 À ce moment, le roi dit à voix basse à Pierrot :
 
-– Ami Pierrot, prends le filet, et tiens-toi prêt à le jeter au premier signal que je te donnerai.
-J'ai envie de manger ce soir ce petit poisson à souper.
+– Ami Pierrot, prends le filet, et tiens-toi prêt à le jeter au premier signal que je te donnerai. J'ai envie de manger ce soir ce petit poisson à souper.
 
 Mais le poisson rouge, qui l'avait entendu, se tint prudemment à distance, et, mettant la tête hors de l'eau, il dit, au grand étonnement de ses auditeurs, qui n'avaient jamais entendu de poisson parler :
 
@@ -590,55 +528,45 @@ Contrefaisant alors la voix du roi, le petit poisson cria :
 
 – Pierrot, jette le filet !
 
-Et Pierrot, qui n'attendait que ce signal, lança le filet à l'eau.
-Je ne sais comment il s'y prit, mais tout à coup la barque chavira, et crac ! nos promeneurs firent naufrage.
+Et Pierrot, qui n'attendait que ce signal, lança le filet à l'eau. Je ne sais comment il s'y prit, mais tout à coup la barque chavira, et crac ! nos promeneurs firent naufrage.
 
-Pierrot, qui était excellent nageur, fut le premier qui revint à la surface du lac.
-Son premier mouvement fut de chercher des yeux Fleur-d'Amandier ; il l'aperçut qui se débattait sous l'eau près de lui, la saisit par les cheveux et l'amena au bord ; tout cela en moins de temps qu'il ne m'en faut pour vous le dire.
+Pierrot, qui était excellent nageur, fut le premier qui revint à la surface du lac. Son premier mouvement fut de chercher des yeux Fleur-d'Amandier ; il l'aperçut qui se débattait sous l'eau près de lui, la saisit par les cheveux et l'amena au bord ; tout cela en moins de temps qu'il ne m'en faut pour vous le dire.
 
 – Sauvée ! sauvée ! s'écria-t-il en sautant de joie ; et déjà il faisait en esprit les plus beaux rêves du monde, se voyait pour le moins le gendre du roi, lorsqu'en y regardant de plus près, il reconnut que c'était la reine mère qu'il avait sauvée.
 
 Tout désappointé de cette découverte, il allait se précipiter de nouveau dans le lac, quand il vit Cœur-d'Or qui nageait vers le bord, tenant au-dessus de l'eau, avec des ménagements infinis, la belle tête de Fleur-d'Amandier.
 
-– Cœur-d'Or, Cœur-d'Or ici !
-Est-ce possible ? s'écria-t-il ; et, dans sa surprise, il faillit tomber à la renverse sur la reine, qu'il venait de heurter du pied.
+– Cœur-d'Or, Cœur-d'Or ici ! Est-ce possible ? s'écria-t-il ; et, dans sa surprise, il faillit tomber à la renverse sur la reine, qu'il venait de heurter du pied.
 
 Mais comment notre écuyer se trouvait-il là, allez-vous me demander bien vite, mes chers enfants ?
 
-Il y était parce que… parce que Fleur-d'Amandier y était aussi Quand il vous arrive de vous faire bien mal, ou que vous avez au cœur un gros chagrin, dites, n'est-ce pas votre mère qui est toujours là, la première, pour vous secourir ou vous consoler ?
-Oui, n'est-ce pas ?
-Eh bien ! voilà pourquoi Cœur-d'Or se trouvait sur le bord du lac quand la barque avait chaviré, et pourquoi il avait sauvé la vie à Fleur-d'Amandier.
+Il y était parce que… parce que Fleur-d'Amandier y était aussi Quand il vous arrive de vous faire bien mal, ou que vous avez au cœur un gros chagrin, dites, n'est-ce pas votre mère qui est toujours là, la première, pour vous secourir ou vous consoler ? Oui, n'est-ce pas ? Eh bien ! voilà pourquoi Cœur-d'Or se trouvait sur le bord du lac quand la barque avait chaviré, et pourquoi il avait sauvé la vie à Fleur-d'Amandier.
 
-Quant au roi, il avait été bien puni de sa méchanceté ; il s'était pris dans le filet jeté par Pierrot, et après avoir bu, à son corps défendant, une énorme quantité d'eau, il était parvenu à se mettre à cheval sur la quille du bateau, et là, il soufflait et criait de toutes ses forces, ni plus ni moins qu'un homme qui se noie.
-Il y serait encore si Cœur-d'Or ne fût venu en hâte le débarrasser.
+Quant au roi, il avait été bien puni de sa méchanceté ; il s'était pris dans le filet jeté par Pierrot, et après avoir bu, à son corps défendant, une énorme quantité d'eau, il était parvenu à se mettre à cheval sur la quille du bateau, et là, il soufflait et criait de toutes ses forces, ni plus ni moins qu'un homme qui se noie. Il y serait encore si Cœur-d'Or ne fût venu en hâte le débarrasser.
 
 De retour au palais, les naufragés changèrent de vêtements, et le roi assembla sa cour.
 
 Pierrot, déjà premier ministre, fut nommé grand amiral du royaume, et Cœur-d'Or armé chevalier.
 
-Après la cérémonie, qui dura longtemps, le roi congédia sa cour, prit une chandelle et monta à sa tour.
-Il était soucieux.
+Après la cérémonie, qui dura longtemps, le roi congédia sa cour, prit une chandelle et monta à sa tour. Il était soucieux.
 
 Arrivé au sommet, il braqua sur son œil droit une lorgnette de nuit, et interrogea successivement les quatre points cardinaux de l'horizon.
 
 L'examen fut long.
 
-– J'ai exploré, dit-il enfin, la plaine en tous sens, et je ne vois rien d'inquiétant, absolument rien.
-Décidément, ce petit poisson est un intrigant qui a voulu se moquer de moi.
+– J'ai exploré, dit-il enfin, la plaine en tous sens, et je ne vois rien d'inquiétant, absolument rien. Décidément, ce petit poisson est un intrigant qui a voulu se moquer de moi.
 
 Et il descendit le cœur plus léger, rentra dans son appartement, se coucha auprès de la reine, et, soufflant la chandelle, s'endormit sur ses deux oreilles.
 
-**** *book_ *id_body-7 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 6. Ouvrez-moi la porte, pour l'amour de Dieu
 
-Dès son avènement au ministère, Pierrot s'occupa des réformes à introduire dans l'administration du royaume pour améliorer le sort des sujets du roi, qui jusqu'alors s'étaient ennuyés à périr : il fit construire sur la grande place de la foire un théâtre en plein vent, dont les acteurs étaient de petites marionnettes, qui agissaient, marchaient et parlaient avec une telle perfection, que les bons bourgeois, qui ne voyaient pas les ficelles, juraient leurs grands dieux que c'étaient des personnages vivants.
-Il institua ensuite les fêtes du Carnaval, la promenade du Bœuf gras, les bals masqués, et, pour faire durer le plaisir plus longtemps, relégua le Carême aussi loin qu'il lui fut possible.
+Dès son avènement au ministère, Pierrot s'occupa des réformes à introduire dans l'administration du royaume pour améliorer le sort des sujets du roi, qui jusqu'alors s'étaient ennuyés à périr : il fit construire sur la grande place de la foire un théâtre en plein vent, dont les acteurs étaient de petites marionnettes, qui agissaient, marchaient et parlaient avec une telle perfection, que les bons bourgeois, qui ne voyaient pas les ficelles, juraient leurs grands dieux que c'étaient des personnages vivants. Il institua ensuite les fêtes du Carnaval, la promenade du Bœuf gras, les bals masqués, et, pour faire durer le plaisir plus longtemps, relégua le Carême aussi loin qu'il lui fut possible.
 
 Jamais le royaume n'avait été si heureux ; ce n'était dans toute la Bohême qu'une grande mascarade et qu'un immense éclat de rire ; le nom de Pierrot était dans tous les cœurs et l'air Au clair de la lune dans toutes les bouches.
 
-Tant de popularité commençait à faire ombrage au roi, qui était jaloux, comme tout bon roi doit l'être, de l'amour de ses sujets ; mais la personne qui enrageait le plus dans son cœur était le seigneur Renardino.
-Rétabli de ses blessures, il se promenait de long en large dans sa chambre, en méditant d'un air sinistre quelque horrible machination.
+Tant de popularité commençait à faire ombrage au roi, qui était jaloux, comme tout bon roi doit l'être, de l'amour de ses sujets ; mais la personne qui enrageait le plus dans son cœur était le seigneur Renardino. Rétabli de ses blessures, il se promenait de long en large dans sa chambre, en méditant d'un air sinistre quelque horrible machination.
 
 Tout à coup sa face grimaça un affreux sourire :
 
@@ -660,8 +588,7 @@ Le roi devint pâle, il se rappelait la prédiction du petit poisson rouge, qui 
 
 – M'étrangler ! s'écria le roi, qui porta machinalement la main à son cou.
 
-– Vous étrangler net, répéta Renardino en saccadant ses mots ; mais rassurez-vous, je viens vous sauver.
-Confiez-moi pour aujourd'hui seulement la garde du palais, et quoi qu'il arrive, quelque bruit que vous entendiez ce soir dans l'antichambre de votre cabinet, n'ouvrez la porte pour tout au monde.
+– Vous étrangler net, répéta Renardino en saccadant ses mots ; mais rassurez-vous, je viens vous sauver. Confiez-moi pour aujourd'hui seulement la garde du palais, et quoi qu'il arrive, quelque bruit que vous entendiez ce soir dans l'antichambre de votre cabinet, n'ouvrez la porte pour tout au monde.
 
 – Je m'en garderai bien, répondit le roi.
 
@@ -673,13 +600,11 @@ Une heure après, le seigneur Renardino et le grand officier des gardes du roi s
 
 – C'est bien, seigneur Renardino, j'obéirai.
 
-Caché derrière un massif d'arbustes, un homme, appuyé sur sa bêche, écoutait de toutes ses oreilles.
-C'était l'intendant des jardins notre vieille connaissance, le bûcheron.
+Caché derrière un massif d'arbustes, un homme, appuyé sur sa bêche, écoutait de toutes ses oreilles. C'était l'intendant des jardins notre vieille connaissance, le bûcheron.
 
 Quand les deux interlocuteurs eurent disparu au détour d'une allée :
 
-– Oh ! les scélérats ! s'écria-t-il, les scélérats, qui veulent assassiner ce soir mon pauvre Pierrot !
-Courons l'avertir.
+– Oh ! les scélérats ! s'écria-t-il, les scélérats, qui veulent assassiner ce soir mon pauvre Pierrot ! Courons l'avertir.
 
 Et il fit force de jambes vers le palais.
 
@@ -721,25 +646,21 @@ Ce fut alors un tumulte effroyable de coups, de cris et de jurements.
 
 Les soldats, qui avaient été largement payés, faisaient la chose en conscience.
 
-– Au secours ! on m'assassine ! criait Renardino.
-Sire, ouvrez-moi la porte ; ouvrez-moi la porte, pour l'amour de Dieu !
+– Au secours ! on m'assassine ! criait Renardino. Sire, ouvrez-moi la porte ; ouvrez-moi la porte, pour l'amour de Dieu !
 
 Mais le roi, qui avait sa consigne, tirait tous les verrous, et suait sang et eau pour se fortifier dans son cabinet.
 
-C'en était fait de Renardino, si la reine, attirée par le bruit, ne fût accourue en camisole de nuit et son bougeoir à la main.
-À sa vue, les soldats effrayés s'enfuirent, et le seigneur Alberti, tout éclopé et tout honteux, se sauva dans sa chambre, d'où il put entendre Pierrot, qui chantait en fausset sur l'air que vous savez :
+C'en était fait de Renardino, si la reine, attirée par le bruit, ne fût accourue en camisole de nuit et son bougeoir à la main. À sa vue, les soldats effrayés s'enfuirent, et le seigneur Alberti, tout éclopé et tout honteux, se sauva dans sa chambre, d'où il put entendre Pierrot, qui chantait en fausset sur l'air que vous savez :
 
 Ouvrez-moi la porte,
 
 Pour l'amour de Dieu !
 
-**** *book_ *id_body-8 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 7. Le poisson d'Avril
 
-On était au premier avril.
-Le roi, qui avait passé toute la nuit à regarder à travers le trou de la serrure de son cabinet, avait eu si froid, si froid, que le matin il tremblait comme la feuille et éternuait à tout rompre.
-Il battait la mesure contre l'un des pieds de son trône pour se réchauffer, quand il aperçut dans la glace un personnage à figure sinistre qui imitait tous ses mouvements en le regardant de travers.
+On était au premier avril. Le roi, qui avait passé toute la nuit à regarder à travers le trou de la serrure de son cabinet, avait eu si froid, si froid, que le matin il tremblait comme la feuille et éternuait à tout rompre. Il battait la mesure contre l'un des pieds de son trône pour se réchauffer, quand il aperçut dans la glace un personnage à figure sinistre qui imitait tous ses mouvements en le regardant de travers.
 
 À cette apparition, il poussa un cri de terreur et porta rapidement la main à la garde de son épée.
 
@@ -753,8 +674,7 @@ Hélas ! mes chers enfants, l'infortuné monarque ne reconnaissait plus sa prop
 
 À cet appel, le roi, marchant à reculons, tira la bobinette et ouvrit.
 
-– En garde, seigneur Alberti, lui dit-il tout bas en désignant de la pointe de son épée l'image menaçante de la glace, qui répétait tous ses mouvements.
-Encore un conspirateur ! en garde !
+– En garde, seigneur Alberti, lui dit-il tout bas en désignant de la pointe de son épée l'image menaçante de la glace, qui répétait tous ses mouvements. Encore un conspirateur ! en garde !
 
 Un sourire imperceptible de méchanceté se dessina sur les lèvres minces de Renardino : il crut que le roi était devenu fou.
 
@@ -770,23 +690,19 @@ Un sourire imperceptible de méchanceté se dessina sur les lèvres minces de Re
 
 En effet, l'ouragan faisait rage dans le cerveau du roi ; il n'y avait plus moyen de s'y méprendre.
 
-– Ô mon Dieu ! s'écria le pauvre monarque quand la bourrasque fut passée, c'était donc moi !
-Quelle figure, quels yeux, quel nez !
+– Ô mon Dieu ! s'écria le pauvre monarque quand la bourrasque fut passée, c'était donc moi ! Quelle figure, quels yeux, quel nez !
 
 Et, lâchant son épée, il se couvrit le visage de ses deux mains.
 
 – Seigneur Alberti, reprit-il bientôt d'un ton grave, quoi qu'il arrive désormais, je vous défends expressément de me parler de conspiration.
 
-Il y eut un moment de silence, Renardino semblait embarrassé.
-Il méditait un assaut, et ne savait comment ouvrir la brèche.
+Il y eut un moment de silence, Renardino semblait embarrassé. Il méditait un assaut, et ne savait comment ouvrir la brèche.
 
 – Sire, dit-il enfin de sa voix la plus nonchalante, en époussetant négligemment du bout des doigts le velours de son pourpoint, aimez-vous le turbot ?
 
-– Si j'aime le turbot ! s'écria le roi, dont les yeux brillèrent soudain de plaisir.
-Ah ! seigneur Alberti, pouvez-vous me demander si j'aime le turbot ?
+– Si j'aime le turbot ! s'écria le roi, dont les yeux brillèrent soudain de plaisir. Ah ! seigneur Alberti, pouvez-vous me demander si j'aime le turbot ?
 
-– Je me doutais bien que vous l'aimiez, sire, reprit Renardino, car on doit vous en servir un ce soir à souper.
-Vous vous en réjouissez, sans doute ?
+– Je me doutais bien que vous l'aimiez, sire, reprit Renardino, car on doit vous en servir un ce soir à souper. Vous vous en réjouissez, sans doute ?
 
 Le roi s'en réjouissait si fort qu'il ne put répondre que par un signe de tête à cette question.
 
@@ -820,8 +736,7 @@ Le roi s'en réjouissait si fort qu'il ne put répondre que par un signe de têt
 
 – Le petit poisson rouge ?
 
-– Le petit poisson rouge !
-Mais non, sire, votre grand ministre pierrot.
+– Le petit poisson rouge ! Mais non, sire, votre grand ministre pierrot.
 
 – Pierrot !
 
@@ -829,29 +744,23 @@ Mais non, sire, votre grand ministre pierrot.
 
 – Si fait, si fait, repartit le roi, qui ne voulait pas que Renardino pût mettre en doute sa pénétration, et cependant, après ce qui s'est passé hier dans l'antichambre de mon cabinet, j'aurais pensé…
 
-– Qu'il était mort, n'est-ce pas ?
-Détrompez-vous, la reine en a ordonné autrement, et il vit encore.
+– Qu'il était mort, n'est-ce pas ? Détrompez-vous, la reine en a ordonné autrement, et il vit encore.
 
-– La reine ?
-Et de quel droit la reine se mêle-t-elle maintenant des affaires d'État ?
+– La reine ? Et de quel droit la reine se mêle-t-elle maintenant des affaires d'État ?
 
-– Ah ! ah ! repartit en ricanant Renardino, vous en êtes là !
-Quoi !
-Votre Majesté ignore-t-elle ce qui n'est un secret pour personne d'un bout à l'autre de la Bohême, que la reine aime Pierrot, et veut l'épouser ?
+– Ah ! ah ! repartit en ricanant Renardino, vous en êtes là ! Quoi ! Votre Majesté ignore-t-elle ce qui n'est un secret pour personne d'un bout à l'autre de la Bohême, que la reine aime Pierrot, et veut l'épouser ?
 
 – L'épouser ! s'écria le roi, et moi, et moi donc !
 
 – Vous, sire, on doit vous faire manger du turbot ce soir à souper.
 
-– Par ma barbe ! s'écria le roi, dont le bon sens naturel se révoltait aux calomnies de Renardino, ce que vous dites là est horrible, et je n'y saurais croire.
-Avez-vous des preuves ?
+– Par ma barbe ! s'écria le roi, dont le bon sens naturel se révoltait aux calomnies de Renardino, ce que vous dites là est horrible, et je n'y saurais croire. Avez-vous des preuves ?
 
 – Des preuves ! ah ! vous me demandez des preuves !
 
 – Mais, sans doute.
 
-– Eh bien ! écoutez-moi et répondez.
-Qui a fait chavirer, il y a huit jours, votre barque royale ?
+– Eh bien ! écoutez-moi et répondez. Qui a fait chavirer, il y a huit jours, votre barque royale ?
 
 – Ah ! ça, c'est Pierrot, je ne puis pas dire une chose pour une autre, c'est Pierrot.
 
@@ -877,8 +786,7 @@ Après avoir rempli d'une eau liquide les jolis godets de cristal suspendu çà 
 
 – C'est lui ! s'écria-t-elle toute joyeuse ; et elle courut à son balcon pour appeler le petit oiseau qu'elle avait perdu, et qui, depuis quelque temps, revenait chaque jour, à la même heure, gazouiller sous les fenêtres de sa belle maîtresse.
 
-– Viens ici, lui dit-elle, en froissant dans sa main un gros biscuit qui s'éparpillait en miettes d'or sur le balcon.
-Viens ici, mon petit Pierrot !
+– Viens ici, lui dit-elle, en froissant dans sa main un gros biscuit qui s'éparpillait en miettes d'or sur le balcon. Viens ici, mon petit Pierrot !
 
 À ces tendres paroles, le roi poussa dans sa cachette un sourd gémissement.
 
@@ -886,17 +794,13 @@ La reine eut peur, se détourna brusquement et aperçut le grand ministre Pierro
 
 – J'ai l'honneur d'annoncer à Votre Majesté, dit-il, qu'un pêcheur du lac vient d'apporter au palais un magnifique turbot pesant plus de deux cents livres.
 
-– C'est bien, seigneur Pierrot, repartit la reine ; vous le ferez mettre au bleu, et vous le placerez ce soir sur la table devant le roi.
-Vous savez qu'il en est friand.
+– C'est bien, seigneur Pierrot, repartit la reine ; vous le ferez mettre au bleu, et vous le placerez ce soir sur la table devant le roi. Vous savez qu'il en est friand.
 
-Pierrot salua et sortit.
-La reine se précipita de nouveau sur son balcon, mais le petit oiseau avait disparu.
+Pierrot salua et sortit. La reine se précipita de nouveau sur son balcon, mais le petit oiseau avait disparu.
 
 De son côté, le roi rentrait dans son cabinet, dans un état impossible à décrire.
 
-– Seigneur Alberti, dit-il, je sais tout ; mais, de par ma couronne, ils mourront tous deux !
-Empoisonner une si belle pièce, un turbot qui pèse deux cents livres, quelle horreur !
-Faites venir sur l'heure tous les chimistes de la capitale, de ceux-là qu'on appelle les princes de la science, et qu'on m'apporte le poisson.
+– Seigneur Alberti, dit-il, je sais tout ; mais, de par ma couronne, ils mourront tous deux ! Empoisonner une si belle pièce, un turbot qui pèse deux cents livres, quelle horreur ! Faites venir sur l'heure tous les chimistes de la capitale, de ceux-là qu'on appelle les princes de la science, et qu'on m'apporte le poisson.
 
 Lorsque les chimistes, au nombre de vingt, furent réunis dans le cabinet :
 
@@ -908,15 +812,13 @@ Lorsque les chimistes, au nombre de vingt, furent réunis dans le cabinet :
 
 – Ah ! très bien ! firent-ils, et incontinent ils se mirent à l'œuvre.
 
-Pendant le cours de l'opération, Renardino était fort agité, il tremblait que la ruse qu'il avait imaginée pour perdre Pierrot ne fût découverte.
-Aussi quels ne furent pas son étonnement et sa joie quand, l'analyse terminée, les savants proclamèrent, à l'unanimité, que les organes du turbot soumis à leur examen recelaient vingt sortes de poisons.
+Pendant le cours de l'opération, Renardino était fort agité, il tremblait que la ruse qu'il avait imaginée pour perdre Pierrot ne fût découverte. Aussi quels ne furent pas son étonnement et sa joie quand, l'analyse terminée, les savants proclamèrent, à l'unanimité, que les organes du turbot soumis à leur examen recelaient vingt sortes de poisons.
 
 Les vingt chimistes avaient trouvé chacun un poison différent.
 
 Cela fait, les princes de la science saluèrent et se retirèrent gravement à la queue leu leu.
 
-Deux heures après, Renardino remettait en grand cérémonial à Pierrot des lettres patentes du roi qui lui intimaient l'ordre de préparer immédiatement ses bagages, et de se rendre à la cour du prince Azor pour négocier un traité de paix.
-C'était tout bonnement un arrêt de mort.
+Deux heures après, Renardino remettait en grand cérémonial à Pierrot des lettres patentes du roi qui lui intimaient l'ordre de préparer immédiatement ses bagages, et de se rendre à la cour du prince Azor pour négocier un traité de paix. C'était tout bonnement un arrêt de mort.
 
 Le même jour, la reine fut arrêtée, malgré les larmes de Fleur-d'Amandier, et conduite, sous bonne escorte, dans une vieille tour située à l'extrémité de la ville.
 
@@ -926,7 +828,7 @@ Le turbot empoisonné était une fable de son invention ; mais cette fable est 
 
 Vous voilà avertis, mes chers petits rois de Bohême ; méfiez-vous, ce jour-là, des Renardino.
 
-**** *book_ *id_body-9 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 8. Ma chandelle est morte, je n'ai plus de feu
 
@@ -950,41 +852,29 @@ Pas n'est besoin de vous dire, mes chers enfants, les haltes nombreuses qu'il fi
 
 Le moment était mal choisi ; tout le palais était sens dessus dessous ; le prince Azor avait avalé à souper une arête de poisson, et, dans sa fureur, il venait d'étrangler de ses propres mains un célèbre médecin qui n'avait pu la lui retirer du gosier.
 
-Toutefois, comme la mort violente du médecin ne l'avait pas débarrassé du mal qui le tourmentait, l'idée lui était venue d'employer un moyen plus doux : c'était de faire avaler à son premier ministre une arête en tout point semblable à celle qu'il avait avalée lui-même, et de tenter sur le gosier de Son Excellence toutes les expériences que la science pourrait imaginer.
-Il allait donc faire appeler son premier ministre, lorsque notre voyageur fit son entrée, introduit par l'officier de service.
+Toutefois, comme la mort violente du médecin ne l'avait pas débarrassé du mal qui le tourmentait, l'idée lui était venue d'employer un moyen plus doux : c'était de faire avaler à son premier ministre une arête en tout point semblable à celle qu'il avait avalée lui-même, et de tenter sur le gosier de Son Excellence toutes les expériences que la science pourrait imaginer. Il allait donc faire appeler son premier ministre, lorsque notre voyageur fit son entrée, introduit par l'officier de service.
 
-– Qui es-tu ? lui demanda le prince, que la circonstance de l'arête obligeait de parler du nez.
-Qui es-tu, pour oser te présenter devant moi ?
+– Qui es-tu ? lui demanda le prince, que la circonstance de l'arête obligeait de parler du nez. Qui es-tu, pour oser te présenter devant moi ?
 
 – Je suis Pierrot, répondit notre héros, ambassadeur de Sa Majesté le roi de Bohême, et je viens à cette fin de négocier auprès de Votre Altesse un traité de paix.
 
-– Par ma bosse ! reprit le prince, tu ne pouvais arriver plus à propos.
-Mieux vaut, après tout, que ce soit toi que mon premier ministre.
-Assieds-toi à cette table… très bien… maintenant, mange ce poisson qui est devant toi, et surtout aie soin d'en avaler toutes les arêtes, toutes, entends-tu bien ? ou je te fais tuer comme un chien.
+– Par ma bosse ! reprit le prince, tu ne pouvais arriver plus à propos. Mieux vaut, après tout, que ce soit toi que mon premier ministre. Assieds-toi à cette table… très bien… maintenant, mange ce poisson qui est devant toi, et surtout aie soin d'en avaler toutes les arêtes, toutes, entends-tu bien ? ou je te fais tuer comme un chien.
 
-Pierrot, qui était fort affamé, ne se le fit pas dire deux fois ; il se mit à l'œuvre, et de tel appétit, que l'énorme brochet qui tout à l'heure envahissait la table tout entière, disparut en un clin d'œil, comme par enchantement.
-Il ne restait plus que la grosse arête.
-Pierrot, relevant sa manche, la prit entre le pouce et l'index, l'insinua délicatement dans sa bouche, fit un grand effort, puis une grimace, et l'avala net.
+Pierrot, qui était fort affamé, ne se le fit pas dire deux fois ; il se mit à l'œuvre, et de tel appétit, que l'énorme brochet qui tout à l'heure envahissait la table tout entière, disparut en un clin d'œil, comme par enchantement. Il ne restait plus que la grosse arête. Pierrot, relevant sa manche, la prit entre le pouce et l'index, l'insinua délicatement dans sa bouche, fit un grand effort, puis une grimace, et l'avala net.
 
 – Prince, dit-il alors du ton d'un escamoteur qui vient d'envoyer sa dernière muscade aux grandes Indes, c'est fait !
 
-– Impossible ! dit le prince Azor, qui l'avait regardé faire avec attention.
-Allons, avance ici et ouvre la bouche… C'est prodigieux ! ajouta-t-il quand il eut exploré avec une lumière tous les coins et recoins de la mâchoire de Pierrot… Elle n'y est plus !
-Ma foi ! je me risque.
+– Impossible ! dit le prince Azor, qui l'avait regardé faire avec attention. Allons, avance ici et ouvre la bouche… C'est prodigieux ! ajouta-t-il quand il eut exploré avec une lumière tous les coins et recoins de la mâchoire de Pierrot… Elle n'y est plus ! Ma foi ! je me risque.
 
 Et, sur ce, il aspira une grosse bouffée d'air, fit un effort accompagné d'une affreuse grimace, et l'arête qu'il avait dans le gosier passa.
 
-– Je suis sauvé ! s'écria-t-il, je suis sauvé !
-Ah ! ah ! l'ami, tu viens de me rendre un très grand service.
-Eh bien, pour te récompenser, je te laisse libre de choisir le genre de mort qui te sera le plus agréable ; tu vois que je suis bon prince.
+– Je suis sauvé ! s'écria-t-il, je suis sauvé ! Ah ! ah ! l'ami, tu viens de me rendre un très grand service. Eh bien, pour te récompenser, je te laisse libre de choisir le genre de mort qui te sera le plus agréable ; tu vois que je suis bon prince.
 
 – Sire, reprit Pierrot, je n'attendais pas moins de votre bonté ; mais Votre Altesse fera mieux de choisir elle-même : je m'en rapporte entièrement à elle.
 
-– Ah ! tu veux railler, mon mignon, repartit le prince.
-Eh bien, m'est avis qu'après t'avoir vu manger de si bon appétit tout à l'heure, il serait curieux maintenant de te voir mourir de faim.
+– Ah ! tu veux railler, mon mignon, repartit le prince. Eh bien, m'est avis qu'après t'avoir vu manger de si bon appétit tout à l'heure, il serait curieux maintenant de te voir mourir de faim.
 
-Quelque empire que notre héros conservât sur lui-même, il ne put s'empêcher de tressaillir à ces paroles.
-Mourir de faim, se dit-il à lui-même, je n'y avais pas songé.
+Quelque empire que notre héros conservât sur lui-même, il ne put s'empêcher de tressaillir à ces paroles. Mourir de faim, se dit-il à lui-même, je n'y avais pas songé.
 
 Il allait peut-être se dédire, quand le prince Azor donna l'ordre à ses gardes de l'enfermer dans un des caveaux du château.
 
@@ -998,8 +888,7 @@ Le lendemain matin, au petit jour, il fut réveillé en sursaut par un grincemen
 
 C'était la porte qui roulait sur ses gonds rouillés et le geôlier qui entrait.
 
-– Tenez, camarade, dit celui-ci, voilà de l'eau fraîche que je viens de puiser à la fontaine.
-Je ne vous donne pas de chandelle, car je vois que vous n'avez pas même allumé celle que j'avais mise hier dans le chandelier.
+– Tenez, camarade, dit celui-ci, voilà de l'eau fraîche que je viens de puiser à la fontaine. Je ne vous donne pas de chandelle, car je vois que vous n'avez pas même allumé celle que j'avais mise hier dans le chandelier.
 
 Pierrot se frappa le front, comme fait un homme qui trouve une idée, mais ne répondit pas.
 
@@ -1013,8 +902,7 @@ Cela fait, il prit l'escabelle, la plaça dans le pâle rayon lumineux qui desce
 
 – Qu'à cela ne tienne, mon prisonnier, répondit le geôlier, qui n'y voyait que du feu ; je vais vous apporter tant de luminaire que vous y verrez clair comme en plein midi.
 
-Cinq minutes après, Pierrot avait cinq ou six paquets de chandelles, et vous savez maintenant aussi bien que moi, mes enfants, ce qu'il en fit.
-J'ajouterai seulement que, quand son garde-manger s'épuisait, il allait chanter à travers les fentes de la porte :
+Cinq minutes après, Pierrot avait cinq ou six paquets de chandelles, et vous savez maintenant aussi bien que moi, mes enfants, ce qu'il en fit. J'ajouterai seulement que, quand son garde-manger s'épuisait, il allait chanter à travers les fentes de la porte :
 
 Ma chandelle est morte,
 
@@ -1030,13 +918,11 @@ Cependant le prince Azor voulut un jour savoir ce qu'était devenu son prisonnie
 
 – Dieu merci, je me porte bien, répondit Pierrot.
 
-– Ah ! tu te portes bien, repartit le prince d'une voix menaçante.
-Eh bien ! tant mieux, nous allons rire.
+– Ah ! tu te portes bien, repartit le prince d'une voix menaçante. Eh bien ! tant mieux, nous allons rire.
 
 Et il sortit de la prison.
 
-Or, je dois vous dire, mes enfants, que le prince Azor, qui avait lu, la veille, les aventures de l'Adroite Princesse, un conte de fées des plus jolis, s'était mis à rire de tout son cœur à la description d'un horrible supplice dont cette histoire fait mention ; il avait même tant ri, qu'un instant il avait senti son arête qui lui remontait au gosier.
-Depuis cette lecture, il n'avait pu ni manger ni dormir, tant il était impatient de faire l'épreuve de ce genre de mort sur l'un de ses sujets.
+Or, je dois vous dire, mes enfants, que le prince Azor, qui avait lu, la veille, les aventures de l'Adroite Princesse, un conte de fées des plus jolis, s'était mis à rire de tout son cœur à la description d'un horrible supplice dont cette histoire fait mention ; il avait même tant ri, qu'un instant il avait senti son arête qui lui remontait au gosier. Depuis cette lecture, il n'avait pu ni manger ni dormir, tant il était impatient de faire l'épreuve de ce genre de mort sur l'un de ses sujets.
 
 Pierrot n'étant pas mort, l'occasion était des plus belles.
 
@@ -1050,28 +936,19 @@ Pierrot entra.
 
 Quand tout fut prêt, le prince Azor, du haut de l'estrade où il était assis, donna le signal, et le bourreau poussa du pied le tonneau sur la pente de la montagne.
 
-À la vue de cette avalanche humaine qui roulait sur elle-même avec une rapidité effrayante, bondissait de rocher en rocher, emportant avec elle tout ce qu'elle rencontrait sur son passage, il se fit dans la foule un morne silence, interrompu bientôt par les pleurs et les gémissements des petits enfants, qui ne pouvaient se consoler de voir aussi méchamment mettre à mort l'homme blanc qui faisait des jouets si jolis.
-Mais quelle ne fut pas la surprise générale, quand, arrivé à la base de la montagne, le tonneau se fendit tout à coup en deux et que Pierrot en jaillit, armé de pied en cap, comme autrefois Minerve du cerveau de Jupiter.
-Oui, mes enfants, armé de pied en cap, avec une cotte de mailles du plus fin acier, et dans l'attirail d'un preux chevalier qui entre en lice.
-C'était un vêtement de dessous qu'il avait pris par précaution avant son départ pour la cour du prince Azor.
-Quant à son pourpoint, dont il ne restait ombre sur sa personne, il pendait en lambeaux aux mille pointes de fer du tonneau.
+À la vue de cette avalanche humaine qui roulait sur elle-même avec une rapidité effrayante, bondissait de rocher en rocher, emportant avec elle tout ce qu'elle rencontrait sur son passage, il se fit dans la foule un morne silence, interrompu bientôt par les pleurs et les gémissements des petits enfants, qui ne pouvaient se consoler de voir aussi méchamment mettre à mort l'homme blanc qui faisait des jouets si jolis. Mais quelle ne fut pas la surprise générale, quand, arrivé à la base de la montagne, le tonneau se fendit tout à coup en deux et que Pierrot en jaillit, armé de pied en cap, comme autrefois Minerve du cerveau de Jupiter. Oui, mes enfants, armé de pied en cap, avec une cotte de mailles du plus fin acier, et dans l'attirail d'un preux chevalier qui entre en lice. C'était un vêtement de dessous qu'il avait pris par précaution avant son départ pour la cour du prince Azor. Quant à son pourpoint, dont il ne restait ombre sur sa personne, il pendait en lambeaux aux mille pointes de fer du tonneau.
 
 – Hourra ! hourra ! cria le peuple, lorsqu'il fut revenu de sa stupeur.
 
 – À bas le prince Azor ! criaient les petits enfants, qui trépignaient des pieds et battaient des mains, tant ils étaient heureux de voir leur cher Pierrot encore en vie.
 
-Pendant ce temps, le prince Azor se démenait furieux sur l'estrade et envoyait ses gens d'armes pour se saisir de la personne de Pierrot.
-Il aurait bien voulu renouveler l'épreuve, mais le tonneau était en pièces et le peuple murmurait si fort que, pour éviter une émeute, il crut prudent de rentrer de suite au château.
+Pendant ce temps, le prince Azor se démenait furieux sur l'estrade et envoyait ses gens d'armes pour se saisir de la personne de Pierrot. Il aurait bien voulu renouveler l'épreuve, mais le tonneau était en pièces et le peuple murmurait si fort que, pour éviter une émeute, il crut prudent de rentrer de suite au château.
 
-Pierrot fut réintégré dans sa prison ; il n'y était pas depuis une heure, que le geôlier lui remit de la part des petits enfants de la ville, qui s'étaient cotisés pour l'acheter, un habillement complet en tout point semblable à celui qu'il avait perdu.
-Pierrot fut si touché de cette marque d'intérêt, que les larmes lui en vinrent aux yeux.
-Il bénit les petits enfants dans son cœur et jura de les aimer toute sa vie.
+Pierrot fut réintégré dans sa prison ; il n'y était pas depuis une heure, que le geôlier lui remit de la part des petits enfants de la ville, qui s'étaient cotisés pour l'acheter, un habillement complet en tout point semblable à celui qu'il avait perdu. Pierrot fut si touché de cette marque d'intérêt, que les larmes lui en vinrent aux yeux. Il bénit les petits enfants dans son cœur et jura de les aimer toute sa vie.
 
-Il avait à peine attaché sur sa poitrine le dernier bouton de son pourpoint, qu'un homme entra dans son cachot et lui fit signe de le suivre.
-C'était encore le bourreau.
+Il avait à peine attaché sur sa poitrine le dernier bouton de son pourpoint, qu'un homme entra dans son cachot et lui fit signe de le suivre. C'était encore le bourreau.
 
-Pierrot répondit par un autre signe qu'il était prêt à obéir.
-Tous deux se mirent en marche à travers les sombres souterrains du château, montèrent, descendirent de nombreux escaliers et débouchèrent enfin sur une cour, au milieu de laquelle était une fosse, et au fond de cette fosse un ours blanc dont la férocité était proverbiale à plus de vingt lieues à la ronde.
+Pierrot répondit par un autre signe qu'il était prêt à obéir. Tous deux se mirent en marche à travers les sombres souterrains du château, montèrent, descendirent de nombreux escaliers et débouchèrent enfin sur une cour, au milieu de laquelle était une fosse, et au fond de cette fosse un ours blanc dont la férocité était proverbiale à plus de vingt lieues à la ronde.
 
 Arrivés à la balustrade en fer qui entourait la fosse de l'ours, le bourreau s'arrêta, tira de sa poche une échelle de corde, l'attacha fortement à l'un des barreaux de la balustrade, et fit signe à Pierrot de descendre.
 
@@ -1083,15 +960,13 @@ Tout à coup ses yeux se dilatèrent et lancèrent deux sombres éclairs.
 
 Pierrot venait de toucher le sol, et l'échelle de corde était retirée.
 
-Au lieu de s'élancer d'un bond sur sa proie, comme une bête malapprise, l'ours fit semblant de n'avoir rien vu ; il se leva lentement de terre, détira l'un après l'autre ses membres engourdis, puis, se dressant sur ses pattes de derrière, il s'avança à petit bruit, balançant sa tête et affectant les dehors les plus honnêtes du monde.
-Il avait un extérieur si candide, un air si bonhomme, qu'en le voyant, mes chers enfants, vous n'auriez pas manqué, j'en suis sûr, de lui faire une belle révérence.
+Au lieu de s'élancer d'un bond sur sa proie, comme une bête malapprise, l'ours fit semblant de n'avoir rien vu ; il se leva lentement de terre, détira l'un après l'autre ses membres engourdis, puis, se dressant sur ses pattes de derrière, il s'avança à petit bruit, balançant sa tête et affectant les dehors les plus honnêtes du monde. Il avait un extérieur si candide, un air si bonhomme, qu'en le voyant, mes chers enfants, vous n'auriez pas manqué, j'en suis sûr, de lui faire une belle révérence.
 
 Mais Pierrot, qui savait les ours par cœur, ne se laissa pas prendre à ces mines hypocrites ; il se coucha par terre tout de son long, retint son haleine et fit le mort.
 
 L'ours s'approcha, examina quelque temps d'un œil soupçonneux ce corps qui gisait inanimé sur le sol, le flaira, le tourna et le retourna en tous sens, puis, jugeant que c'était un cadavre, il fit un geste de dégoût, et revint se coucher dans sa tanière du même pas qu'il était venu.
 
-Lorsqu'il fut endormi, Pierrot se leva tout doucement, s'avança sur la pointe des pieds vers notre animal, et tirant son petit couteau de sa poche, lui coupa proprement la tête, avant que la pauvre bête eût eu le temps de se réveiller.
-Il alluma ensuite un grand feu de paille, découpa et fit rôtir de délicieux beefsteaks d'ours dont il mangea toute la nuit et les jours suivants sans interruption.
+Lorsqu'il fut endormi, Pierrot se leva tout doucement, s'avança sur la pointe des pieds vers notre animal, et tirant son petit couteau de sa poche, lui coupa proprement la tête, avant que la pauvre bête eût eu le temps de se réveiller. Il alluma ensuite un grand feu de paille, découpa et fit rôtir de délicieux beefsteaks d'ours dont il mangea toute la nuit et les jours suivants sans interruption.
 
 Une semaine après, le prince Azor courut à la fosse :
 
@@ -1101,7 +976,7 @@ Une semaine après, le prince Azor courut à la fosse :
 
 – Malédiction ! s'écria le prince, ce n'est pas l'ours qui l'a mangé, c'est lui qui a mangé l'ours !
 
-**** *book_ *id_body-10 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 9. Trahison de Renardino
 
@@ -1115,8 +990,7 @@ La tête disparut.
 
 À la vue d'un si haut fait d'armes, le prince Azor ne put réprimer un mouvement d'orgueil, et, se campant fièrement sur la hanche, le cimeterre au poing, il posa quelque temps immobile devant ses gens d'armes.
 
-– A-t-il bientôt fini ? murmurait tout bas le bourreau, que cet exercice académique commençait à impatienter.
-Sire, dit-il un instant après, excusez-moi si je vous dérange, mais je dois vous dire que la tête de votre prisonnier a disparu.
+– A-t-il bientôt fini ? murmurait tout bas le bourreau, que cet exercice académique commençait à impatienter. Sire, dit-il un instant après, excusez-moi si je vous dérange, mais je dois vous dire que la tête de votre prisonnier a disparu.
 
 – Eh ! ventrebleu ! je le sais bien, repartit le prince qui se cambra de plus belle.
 
@@ -1126,21 +1000,17 @@ Sire, dit-il un instant après, excusez-moi si je vous dérange, mais je dois vo
 
 Et, quittant sa pose héroïque, le prince Azor se mit lui-même en quête, mais ne trouva rien.
 
-Tout à coup ses cheveux roux se dressèrent sur sa tête, et ses yeux devinrent fixes de terreur ; il venait d'apercevoir quelque chose comme des yeux, un nez et une bouche qui sortaient petit à petit du milieu des épaules de sa victime, et reprenaient tranquillement leur place accoutumée.
-C'était la tête qu'il cherchait, cette même tête qu'il croyait avoir coupée, mais que Pierrot, par un procédé connu de lui seul, avait subtilement rentrée saine et sauve dans les profondeurs de son pourpoint.
+Tout à coup ses cheveux roux se dressèrent sur sa tête, et ses yeux devinrent fixes de terreur ; il venait d'apercevoir quelque chose comme des yeux, un nez et une bouche qui sortaient petit à petit du milieu des épaules de sa victime, et reprenaient tranquillement leur place accoutumée. C'était la tête qu'il cherchait, cette même tête qu'il croyait avoir coupée, mais que Pierrot, par un procédé connu de lui seul, avait subtilement rentrée saine et sauve dans les profondeurs de son pourpoint.
 
 À cette vue, le prince Azor comprit qu'il avait été stupide, et son humiliation fut telle, qu'il laissa tomber son cimeterre, dont la lame se brisa comme verre sur le pavé, tant elle était de pur acier.
 
-– Sire, dit alors le bourreau, voulez-vous que cet homme périsse ?
-Oui, n'est-ce pas ?
-Eh bien ! laissez-moi faire, je veux être pendu s'il en échappe cette fois.
+– Sire, dit alors le bourreau, voulez-vous que cet homme périsse ? Oui, n'est-ce pas ? Eh bien ! laissez-moi faire, je veux être pendu s'il en échappe cette fois.
 
 – Topez là, mon brave, dit Pierrot en lui frappant dans la main ; c'est convenu.
 
 À l'instant même, la potence fut dressée dans la cour du château et Pierrot hissé sur la plate-forme, dont le plancher devait, à un signal donné, manquer sous ses pieds.
 
-Quand il eut terminé ces préparatifs, l'exécuteur monta à l'échelle une corde à la main.
-Arrivé au-dessus de la plate-forme, il fit au chanvre un nœud coulant, et se pencha pour l'attacher au cou du patient ; mais, au moment où il y pensait le moins, notre héros le prit brusquement par la taille et lui chatouilla si fort les côtes de ses deux mains, que le pauvre diable, saisi d'un accès de fou rire, lâcha la corde qu'il tenait pour ne pas tomber.
+Quand il eut terminé ces préparatifs, l'exécuteur monta à l'échelle une corde à la main. Arrivé au-dessus de la plate-forme, il fit au chanvre un nœud coulant, et se pencha pour l'attacher au cou du patient ; mais, au moment où il y pensait le moins, notre héros le prit brusquement par la taille et lui chatouilla si fort les côtes de ses deux mains, que le pauvre diable, saisi d'un accès de fou rire, lâcha la corde qu'il tenait pour ne pas tomber.
 
 Prompt comme l'éclair, Pierrot s'en saisit, la lui passe prestement au cou, puis, d'un pied renverse l'échelle, de l'autre fait chavirer le plancher de la plate-forme, et le bourreau, qui riait toujours, se trouva pendu.
 
@@ -1156,8 +1026,7 @@ Le prince Azor rompit le cachet et lut.
 
 Le messager s'avança alors pour lui faire remarquer qu'il y avait à la lettre un post-scriptum.
 
-– Diable ! dit le prince en se grattant l'oreille, le juif me demande trois cent mille sequins… Mais, après tout, ce n'est pas trop cher pour un royaume.
-Allons, soldats, aux armes, aux armes !
+– Diable ! dit le prince en se grattant l'oreille, le juif me demande trois cent mille sequins… Mais, après tout, ce n'est pas trop cher pour un royaume. Allons, soldats, aux armes, aux armes !
 
 À ce signal, tout le château fut en grand tumulte ; on ne songea plus à Pierrot, qui s'esquiva, ni au bourreau, qui resta pendu ; ce qui fut d'ailleurs un grand contentement pour les sujets du prince Azor, qui l'avaient en exécration.
 
@@ -1167,8 +1036,7 @@ Le repas fut morne et silencieux ; le vieux monarque, qu'on n'avait pas vu rire
 
 Il avait rêvé toute la nuit qu'il était mort de mort violente et qu'on l'enterrait.
 
-Ses convives n'avaient pas envie de rire plus que lui.
-Fleur-d'Amandier, toute rêveuse, songeait à sa mère, et Cœur-d'Or à Fleur-d'Amandier.
+Ses convives n'avaient pas envie de rire plus que lui. Fleur-d'Amandier, toute rêveuse, songeait à sa mère, et Cœur-d'Or à Fleur-d'Amandier.
 
 Le seigneur Renardino lui-même paraissait fort inquiet, et, l'oreille penchée vers la porte, tressaillait au moindre bruit qui venait du dehors.
 
@@ -1176,23 +1044,19 @@ Soudain l'huis s'ouvrit à deux battants, et la vieille mendiante du chemin appa
 
 – Fleur-d'Amandier, Cœur-d'Or, dit-elle, venez avec moi ; Sa Majesté la reine vous mande auprès d'elle.
 
-Au nom de sa mère, Fleur-d'Amandier se leva de table, courut embrasser son père et sortit.
-Cœur-d'Or marcha derrière elle ; la porte se referma.
+Au nom de sa mère, Fleur-d'Amandier se leva de table, courut embrasser son père et sortit. Cœur-d'Or marcha derrière elle ; la porte se referma.
 
 Le seigneur Renardino resta seul avec le roi.
 
 « Ma foi, dit en lui-même le grand ministre, cette vieille sorcière ne pouvait arriver plus à propos pour me débarrasser de ces importun et tout va le mieux du monde. »
 
-– Allons, sire, ajouta-t-il tout haut, chassez de votre esprit les sombres pensées qui l'assiègent, et versez-vous de ce généreux vin de Hongrie, qui n'a pas son pareil entre tous les vins de la terre.
-À la bonne heure !
-Maintenant, trinquons à l'extermination prochaine du prince Azor et à la prospérité de votre maison.
+– Allons, sire, ajouta-t-il tout haut, chassez de votre esprit les sombres pensées qui l'assiègent, et versez-vous de ce généreux vin de Hongrie, qui n'a pas son pareil entre tous les vins de la terre. À la bonne heure ! Maintenant, trinquons à l'extermination prochaine du prince Azor et à la prospérité de votre maison.
 
 Le roi porta automatiquement le verre à ses lèvres et le vida d'un seul trait.
 
 – Ah ! mon Dieu ! fit-il, et il tomba à la renverse dans son fauteuil, comme s'il eût été frappé de la foudre.
 
-– Très bien ! dit le seigneur Renardino en se frottant les mains, la poudre a produit son effet.
-À présent, accomplissons notre promesse.
+– Très bien ! dit le seigneur Renardino en se frottant les mains, la poudre a produit son effet. À présent, accomplissons notre promesse.
 
 Et, tirant des cordes de sa poche, il garrotta le roi de la tête aux pieds.
 
@@ -1212,8 +1076,7 @@ Tout à coup des cris se firent entendre : un bruit de pas, accompagné d'un cl
 
 – Les voici.
 
-À cette partie du dialogue, une ombre blanche glissa rapidement devant les deux interlocuteurs, saisit la bourse que le prince Azor tendait à Renardino, et, soufflant les bougies, plongea la salle dans l'obscurité.
-Au même moment, le seigneur Alberti, qui avançait la main pour prendre les sequins, reçut sur la joue droite un violent soufflet, auquel il riposta par un grand coup de poing qui tomba d'aplomb sur le visage du prince Azor.
+À cette partie du dialogue, une ombre blanche glissa rapidement devant les deux interlocuteurs, saisit la bourse que le prince Azor tendait à Renardino, et, soufflant les bougies, plongea la salle dans l'obscurité. Au même moment, le seigneur Alberti, qui avançait la main pour prendre les sequins, reçut sur la joue droite un violent soufflet, auquel il riposta par un grand coup de poing qui tomba d'aplomb sur le visage du prince Azor.
 
 Ce fut alors dans les ténèbres une lutte affreuse, mêlée de cris, de morsures et d'imprécations ; le prince Azor et Renardino se tordaient et se roulaient l'un sur l'autre, enlacés comme deux serpents.
 
@@ -1223,19 +1086,17 @@ Effrayés de l'horrible vacarme qu'ils entendaient, les soldats accoururent avec
 
 Mais bien plus grande encore fut leur surprise, quand, jetant les yeux autour d'eux, ils s'aperçurent que le roi et les trois cent mille sequins avaient disparu.
 
-**** *book_ *id_body-11 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 10. Mort du prince Azor
 
 Le soir même, le prince Azor et Renardino se livrèrent, dans le palais, aux perquisitions les plus minutieuses : l'un, pour retrouver la personne du roi ; l'autre, les trois cent mille sequins qui lui avaient été enlevés ; mais leurs recherches furent inutiles.
 
-Le roi n'était plus au palais.
-Emporté par Pierrot, il dormait en ce moment d'un sommeil de plomb dans la maisonnette du bûcheron ; ses liens avaient été coupés, et, de temps en temps, la bonne Marguerite lui faisait respirer des sels d'une odeur si pénétrante et si aiguë, que le pauvre monarque faisait d'affreuses grimaces et s'appliquait en dormant de grands coups de poing sur le nez.
+Le roi n'était plus au palais. Emporté par Pierrot, il dormait en ce moment d'un sommeil de plomb dans la maisonnette du bûcheron ; ses liens avaient été coupés, et, de temps en temps, la bonne Marguerite lui faisait respirer des sels d'une odeur si pénétrante et si aiguë, que le pauvre monarque faisait d'affreuses grimaces et s'appliquait en dormant de grands coups de poing sur le nez.
 
 De son côté, le bûcheron, accoudé sur la table, couvait avidement des yeux une éblouissante traînée de sequins qui reflétait en rayons d'or les pâles clartés de la lampe.
 
-Cependant, le prince Azor, qui commençait à devenir fort inquiet, fit placer des sentinelles aux grilles du palais, et passa toute la nuit en conférence avec le seigneur Renardino.
-Une chose le préoccupait surtout ; c'était l'absence des troupes du roi, que Cœur-d'Or, sur l'avis de la vieille mendiante, avait emmenées avec lui le soir pour escorter Fleur-d'Amandier.
+Cependant, le prince Azor, qui commençait à devenir fort inquiet, fit placer des sentinelles aux grilles du palais, et passa toute la nuit en conférence avec le seigneur Renardino. Une chose le préoccupait surtout ; c'était l'absence des troupes du roi, que Cœur-d'Or, sur l'avis de la vieille mendiante, avait emmenées avec lui le soir pour escorter Fleur-d'Amandier.
 
 Renardino, qui ignorait cette circonstance, se perdait en mille conjectures sur cette singulière disparition, et, bien qu'il n'en dît rien, entrevoyait vaguement quelque malheur.
 
@@ -1243,11 +1104,9 @@ Le jour venait de poindre, quand le capitaine des troupes du prince Azor entra d
 
 – Qu'y a-t-il de nouveau ? demanda le prince.
 
-– Sire, la nuit a été tranquille, répondit le capitaine ; seulement les soldats de garde ont aperçu un fantôme qui a erré toute la nuit autour des grilles du palais.
-L'un d'eux a cru reconnaître dans ce fantôme l'homme blanc qui se disait l'ambassadeur du roi de Bohême et que vous avez voulu mettre à mort ; mais, que ce soit lui ou tout autre, je ne dissimulerai pas à Votre Altesse que cette apparition affecte au plus haut degré le moral de votre armée.
+– Sire, la nuit a été tranquille, répondit le capitaine ; seulement les soldats de garde ont aperçu un fantôme qui a erré toute la nuit autour des grilles du palais. L'un d'eux a cru reconnaître dans ce fantôme l'homme blanc qui se disait l'ambassadeur du roi de Bohême et que vous avez voulu mettre à mort ; mais, que ce soit lui ou tout autre, je ne dissimulerai pas à Votre Altesse que cette apparition affecte au plus haut degré le moral de votre armée.
 
-– Comment ! les lâches ont peur d'un fantôme ! fit le prince d'une voix stridente.
-Eh bien, capitaine, il faut brusquer les choses Sortez du palais avec toutes mes troupes, et mettez la ville à feu, à sac et à sang !
+– Comment ! les lâches ont peur d'un fantôme ! fit le prince d'une voix stridente. Eh bien, capitaine, il faut brusquer les choses Sortez du palais avec toutes mes troupes, et mettez la ville à feu, à sac et à sang !
 
 Le capitaine s'inclina et sortit.
 
@@ -1255,11 +1114,9 @@ Une minute après, il rentra tout effaré.
 
 – Prince, dit-il, nous sommes bloqués ; le roi de Bohême, à la tête de son armée, cerne toutes les issues du palais et somme Votre Altesse de se rendre !…
 
-– Sang et mort ! qui parle ici de se rendre ? reprit le prince Azor d'une voix terrible.
-Capitaine, apportez-moi ma cuirasse et ma lance, faites ouvrir les grilles du palais, que je disperse en un tour de main toute cette canaille.
+– Sang et mort ! qui parle ici de se rendre ? reprit le prince Azor d'une voix terrible. Capitaine, apportez-moi ma cuirasse et ma lance, faites ouvrir les grilles du palais, que je disperse en un tour de main toute cette canaille.
 
-– Prince, vous ne m'avez pas compris, dit le capitaine ; je vous répète que nous sommes bloqués.
-Les clefs de toutes les grilles du palais ont été soustraites cette nuit et nous ne pouvons sortir.
+– Prince, vous ne m'avez pas compris, dit le capitaine ; je vous répète que nous sommes bloqués. Les clefs de toutes les grilles du palais ont été soustraites cette nuit et nous ne pouvons sortir.
 
 – Les clefs soustraites ? et qui a eu l'audace ?…
 
@@ -1271,22 +1128,17 @@ C'était Cœur-d'Or qui se précipitait dans la chambre, suivi du roi de Bohême
 
 Furieux de se trouver pris au trébuchet, le prince Azor s'adossa à la muraille et se disposait à vendre chèrement sa vie, lorsque le seigneur Renardino le saisit par le bras et lui dit à voix basse :
 
-– Tout beau, prince, tout beau !
-Remettez votre épée dans sa gaine et laissez-moi faire ; la partie n'est pas encore perdue.
+– Tout beau, prince, tout beau ! Remettez votre épée dans sa gaine et laissez-moi faire ; la partie n'est pas encore perdue.
 
 S'avançant alors vers le roi :
 
-– Sire, lui dit-il, je ne puis revenir de l'étonnement où je suis.
-Que se passe-t-il donc et que signifie tout cet appareil de guerre ?
-Est-ce ainsi que vous exercez l'hospitalité envers les princes qui briguent l'honneur de s'allier à votre royale maison ?
+– Sire, lui dit-il, je ne puis revenir de l'étonnement où je suis. Que se passe-t-il donc et que signifie tout cet appareil de guerre ? Est-ce ainsi que vous exercez l'hospitalité envers les princes qui briguent l'honneur de s'allier à votre royale maison ?
 
-– Hein ?
-Que voulez-vous dire, seigneur Renardino ? s'écria le roi.
+– Hein ? Que voulez-vous dire, seigneur Renardino ? s'écria le roi.
 
 – Je dis, reprit Renardino d'une voix grave et solennelle, que le prince Azor, ici présent, pour cimenter la paix entre vos deux royaumes, a l'honneur de solliciter de Votre Majesté la main de Son Altesse Royale, haute et puissante princesse Fleur-d'Amandier.
 
-À cette péripétie inattendue, les assistants poussèrent une exclamation de surprise.
-Pierrot paraissait confondu et sifflait un air entre ses dents pour se donner une contenance, tandis que le roi lui disait tout bas :
+À cette péripétie inattendue, les assistants poussèrent une exclamation de surprise. Pierrot paraissait confondu et sifflait un air entre ses dents pour se donner une contenance, tandis que le roi lui disait tout bas :
 
 – Qu'est-ce que vous me chantiez donc cette nuit, avec votre histoire de poudre, seigneur Pierrot ?
 
@@ -1306,27 +1158,23 @@ Pierrot paraissait confondu et sifflait un air entre ses dents pour se donner un
 
 Et il releva les gages du combat.
 
-Une heure après, tout avait été préparé pour le tournoi.
-Les deux armées étaient rangées autour du camp, en ordre de bataille, et le roi, ayant à sa droite Fleur-d'Amandier, à sa gauche le seigneur Renardino, était assis sur une estrade qui s'élevait au milieu de la lice.
+Une heure après, tout avait été préparé pour le tournoi. Les deux armées étaient rangées autour du camp, en ordre de bataille, et le roi, ayant à sa droite Fleur-d'Amandier, à sa gauche le seigneur Renardino, était assis sur une estrade qui s'élevait au milieu de la lice.
 
 Le prince Azor, fièrement campé sur son coursier noir, attendait immobile, et la lance en arrêt, le signal du combat.
 
-Tout à coup le clairon sonna, et l'on vit apparaître à l'extrémité de l'arène, monté sur un âne, et n'ayant d'autre arme offensive qu'une longue fourche qu'il avait prise dans les écuries du palais, sir Pierrot, casque en tête et cuirasse au dos.
-Après avoir salué gracieusement le roi, il piqua des deux et courut sus au prince Azor, qui, de son côté, arrivait sur lui comme la foudre.
+Tout à coup le clairon sonna, et l'on vit apparaître à l'extrémité de l'arène, monté sur un âne, et n'ayant d'autre arme offensive qu'une longue fourche qu'il avait prise dans les écuries du palais, sir Pierrot, casque en tête et cuirasse au dos. Après avoir salué gracieusement le roi, il piqua des deux et courut sus au prince Azor, qui, de son côté, arrivait sur lui comme la foudre.
 
 Dès cette première passe, notre héros aurait été infailliblement écrasé, si l'âne qu'il montait, et qui n'avait jamais assisté à pareil exercice, ne se fût mis à braire d'une façon si bruyante et si désespérée, que le coursier du prince Azor se cabra d'épouvante, et sauta par-dessus le baudet et son cavalier.
 
 Rudement secoué sur sa selle, le prince fut obligé de se tenir à la crinière de son cheval pour ne pas perdre les arçons, tandis que Pierrot poursuivait triomphalement sa carrière, trottant menu sur son âne, sa fourche à la main.
 
-Arrivés aux deux extrémités de la lice, les deux champions firent volte-face et jouèrent de nouveau des éperons.
-Mais, cette fois, le choc fut terrible, et Pierrot, atteint en pleine cuirasse par la lance de son adversaire, alla rouler avec son âne à plus de cent pas de là Monture et cavalier ne donnaient aucun signe de vie.
+Arrivés aux deux extrémités de la lice, les deux champions firent volte-face et jouèrent de nouveau des éperons. Mais, cette fois, le choc fut terrible, et Pierrot, atteint en pleine cuirasse par la lance de son adversaire, alla rouler avec son âne à plus de cent pas de là Monture et cavalier ne donnaient aucun signe de vie.
 
 Les soldats du prince Azor poussèrent un hourra.
 
 – Silence dans les rangs ! cria le roi, et qu'on appelle un nouveau champion.
 
-Cœur-d'Or, revêtu d'une magnifique armure et monté sur un cheval blanc, fit son entrée dans l'arène.
-Il salua courtoisement le roi et Fleur-d'Amandier en baissant le fer de sa lance, et prit place à l'extrémité de la lice, en face du prince Azor.
+Cœur-d'Or, revêtu d'une magnifique armure et monté sur un cheval blanc, fit son entrée dans l'arène. Il salua courtoisement le roi et Fleur-d'Amandier en baissant le fer de sa lance, et prit place à l'extrémité de la lice, en face du prince Azor.
 
 La trompette donna le signal, et les deux champions s'élancèrent l'un sur l'autre ; leur rencontre au milieu de l'arène retentit comme un coup de tonnerre ; les chevaux plièrent sur leurs jarrets de derrière et les lances volèrent en éclats, mais aucun des deux chevaliers n'avait bronché.
 
@@ -1338,8 +1186,7 @@ Cœur-d'Or, jetant sa lance, prit également sa hache d'armes, et sauta en bas d
 
 La lutte fut terrible ; c'étaient de part et d'autre des coups à fendre des montagnes ; mais les vaillants champions n'en paraissaient pas même ébranlés.
 
-Le combat durait depuis une heure sans avantage marqué d'aucune part, quand Cœur-d'Or, affaibli par sa blessure, fit un mouvement de retraite.
-Tout à coup son pied rencontre un obstacle, il chancelle et tombe… D'un bond, le prince Azor est sur lui, l'étreint à la gorge et tire son poignard.
+Le combat durait depuis une heure sans avantage marqué d'aucune part, quand Cœur-d'Or, affaibli par sa blessure, fit un mouvement de retraite. Tout à coup son pied rencontre un obstacle, il chancelle et tombe… D'un bond, le prince Azor est sur lui, l'étreint à la gorge et tire son poignard.
 
 À ce moment suprême, un cri se fait entendre, cri terrible, déchirant, comme celui d'une mère qui voit périr son enfant : c'est Fleur-d'Amandier qui l'a poussé.
 
@@ -1351,27 +1198,21 @@ Tout à coup son pied rencontre un obstacle, il chancelle et tombe… D'un bond,
 
 Le vainqueur fut porté en triomphe, au son des fanfares, jusqu'au pied de l'estrade royale, mais il perdait tant de sang par sa blessure, qu'en recevant l'accolade du roi il tomba évanoui dans ses bras.
 
-Le bon monarque, tout en émoi, le déposa aussitôt sur son trône, et s'apprêtait à lui frapper dans les mains, quand Fleur-d'Amandier, qui était pâle comme un lis, détacha son écharpe, et, se mettant à genoux, banda de sa belle main la blessure du pauvre chevalier.
-Soit que ce remède fût efficace, soit qu'il y ait je ne sais quoi d'électrique dans le contact de la personne aimée, soit ceci, soit cela, toujours est-il, mes enfants, que Cœur-d'Or fit un mouvement et ouvrit les yeux.
-Un éclair de bonheur illumina ses traits en voyant, agenouillée devant lui, la jeune princesse, dont toute la figure se couvrit d'une charmante rougeur.
+Le bon monarque, tout en émoi, le déposa aussitôt sur son trône, et s'apprêtait à lui frapper dans les mains, quand Fleur-d'Amandier, qui était pâle comme un lis, détacha son écharpe, et, se mettant à genoux, banda de sa belle main la blessure du pauvre chevalier. Soit que ce remède fût efficace, soit qu'il y ait je ne sais quoi d'électrique dans le contact de la personne aimée, soit ceci, soit cela, toujours est-il, mes enfants, que Cœur-d'Or fit un mouvement et ouvrit les yeux. Un éclair de bonheur illumina ses traits en voyant, agenouillée devant lui, la jeune princesse, dont toute la figure se couvrit d'une charmante rougeur.
 
 – Oh ! de grâce, lui dit-il, restez ainsi ; si c'est un rêve, ne m'éveillez pas !
 
 Je ne sais combien de temps cela aurait duré, si la vieille mendiante, qui se glissait partout, n'eût touché de la main l'épaule de Cœur-d'Or, qui se leva soudain, guéri de sa blessure.
 
-À ce prodige, Fleur-d'Amandier ne put retenir un cri de joie.
-C'était la seconde fois de la journée que son secret lui échappait.
-Il n'y avait plus moyen de s'en dédire : elle aimait Cœur-d'Or.
+À ce prodige, Fleur-d'Amandier ne put retenir un cri de joie. C'était la seconde fois de la journée que son secret lui échappait. Il n'y avait plus moyen de s'en dédire : elle aimait Cœur-d'Or.
 
 Arrivons maintenant à Pierrot.
 
-Nous l'avons laissé, mes enfants, couché tout de son long sur l'arène, à côté de son âne, qui avait les quatre fers en l'air.
-Ni l'un ni l'autre n'avaient remué pied ou patte pendant le tournoi ; mais, aux cris de victoire poussés par les soldats du roi de Bohême, Pierrot s'était relevé brusquement, avait couru sur le lieu du combat, et pris sous la cuirasse du prince Azor un petit billet plié en quatre.
+Nous l'avons laissé, mes enfants, couché tout de son long sur l'arène, à côté de son âne, qui avait les quatre fers en l'air. Ni l'un ni l'autre n'avaient remué pied ou patte pendant le tournoi ; mais, aux cris de victoire poussés par les soldats du roi de Bohême, Pierrot s'était relevé brusquement, avait couru sur le lieu du combat, et pris sous la cuirasse du prince Azor un petit billet plié en quatre.
 
 – C'est bien cela, avait-il dit, et il s'était dirigé vers le roi pour le lui remettre.
 
-Or, Sa Majesté, complètement rassurée sur le sort de Cœur-d'Or, dissertait en ce moment avec son grand ministre sur les événements du jour.
-Tout à coup, le seigneur Renardino pâlit ; il venait d'apercevoir le billet aux mains de Pierrot.
+Or, Sa Majesté, complètement rassurée sur le sort de Cœur-d'Or, dissertait en ce moment avec son grand ministre sur les événements du jour. Tout à coup, le seigneur Renardino pâlit ; il venait d'apercevoir le billet aux mains de Pierrot.
 
 – Donnez-moi cette lettre, dit-il vivement, donnez-moi cette lettre.
 
@@ -1379,8 +1220,7 @@ Et il se jeta sur lui pour s'en saisir.
 
 – Après Sa Majesté, s'il vous plaît, seigneur grand ministre, avait répondu notre héros.
 
-– Pierrot a raison, repartit le roi.
-Il s'est passé aujourd'hui des choses si étranges, que je veux tout voir maintenant par mes propres yeux.
+– Pierrot a raison, repartit le roi. Il s'est passé aujourd'hui des choses si étranges, que je veux tout voir maintenant par mes propres yeux.
 
 Il prit incontinent le billet.
 
@@ -1392,11 +1232,7 @@ Et le roi lut à voix basse ce qui suit :
 
 Au prince Azor, Albertini Renardino.
 
-Prince, toutes mes mesures sont prises.
-Je vous livrerai cette nuit le roi de Bohême pieds et poings liés.
-Le pauvre sire n'y voit pas plus loin que son nez.
-Je vous raconterai à votre arrivée toutes les sottises que je lui ai mises dans l'esprit au sujet de la reine et de Pierrot.
-Vous en rirez de bon cœur.
+Prince, toutes mes mesures sont prises. Je vous livrerai cette nuit le roi de Bohême pieds et poings liés. Le pauvre sire n'y voit pas plus loin que son nez. Je vous raconterai à votre arrivée toutes les sottises que je lui ai mises dans l'esprit au sujet de la reine et de Pierrot. Vous en rirez de bon cœur.
 
 Vite, vite à cheval, bel Azor, et la Bohême est à vous !
 
@@ -1406,18 +1242,13 @@ Renardino.
 
 P. -S. – N'oubliez pas, surtout, d'apporter avec vous les trois cent mille sequins convenus.
 
-– Ah ! traître ! ah ! pendard ! s'écria le roi, qui se tourna vers Renardino, pourpre de colère, et lui mit le poing sous le nez.
-Ah ! je suis un pauvre sire !
-Ah ! je n'y vois pas plus loin que mon nez !
-Par ma barbe, tu me le payeras cher !
+– Ah ! traître ! ah ! pendard ! s'écria le roi, qui se tourna vers Renardino, pourpre de colère, et lui mit le poing sous le nez. Ah ! je suis un pauvre sire ! Ah ! je n'y vois pas plus loin que mon nez ! Par ma barbe, tu me le payeras cher !
 
 Et il le fit charger de chaînes et emmener par ses gardes.
 
 Cœur-d'Or et Fleur-d'Amandier, qui causaient ensemble, n'avaient rien vu, rien entendu de ce qui se passait auprès d'eux ; la foudre serait tombée à leurs pieds qu'ils ne s'en seraient pas aperçus.
 
-– Maintenant, en route ! en route ! cria le roi.
-Il faut qu'aujourd'hui même justice soit faite à tous.
-Courons à la tour délivrer la reine.
+– Maintenant, en route ! en route ! cria le roi. Il faut qu'aujourd'hui même justice soit faite à tous. Courons à la tour délivrer la reine.
 
 Au nom de la reine, Fleur-d'Amandier tressaillit.
 
@@ -1425,36 +1256,27 @@ Au nom de la reine, Fleur-d'Amandier tressaillit.
 
 Le roi tenait la tête et, tout en cheminant, réfléchissait ; il faisait sans doute un calcul, car on le voyait de temps en temps compter sur ses doigts.
 
-Tout à coup il s'arrêta, mais si brusquement et si court, qu'il renversa l'officier des gardes qui marchait derrière lui, son grand sabre à la main.
-L'officier des gardes, en tombant, fit choir un soldat ; naturellement le soldat en fit choir un autre, celui-ci un troisième, et ainsi de suite, et, de proche en proche, ce ne fut plus sur toute la ligne qu'une jonchée.
+Tout à coup il s'arrêta, mais si brusquement et si court, qu'il renversa l'officier des gardes qui marchait derrière lui, son grand sabre à la main. L'officier des gardes, en tombant, fit choir un soldat ; naturellement le soldat en fit choir un autre, celui-ci un troisième, et ainsi de suite, et, de proche en proche, ce ne fut plus sur toute la ligne qu'une jonchée.
 
-– C'est bien, c'est bien, mes enfants, dit le roi, qui crut que ses soldats se prosternaient à terre pour lui rendre hommage.
-Relevez-vous.
-Puis, se tournant vers Fleur-d'Amandier :
+– C'est bien, c'est bien, mes enfants, dit le roi, qui crut que ses soldats se prosternaient à terre pour lui rendre hommage. Relevez-vous. Puis, se tournant vers Fleur-d'Amandier :
 
 – Mon historiographe est-il ici ?
 
-– Oui, mon père.
-Vous savez bien qu'il vous accompagne partout où vous allez.
+– Oui, mon père. Vous savez bien qu'il vous accompagne partout où vous allez.
 
-– Or çà, qu'il vienne et qu'il apporte ses tablettes.
-J'ai résolu de faire aujourd'hui une bonne œuvre, et je veux qu'il l'enregistre en lettres d'or, pour que la postérité en garde mémoire.
+– Or çà, qu'il vienne et qu'il apporte ses tablettes. J'ai résolu de faire aujourd'hui une bonne œuvre, et je veux qu'il l'enregistre en lettres d'or, pour que la postérité en garde mémoire.
 
 – C'est là une bonne pensée, mon père, et digne de votre bon cœur.
 
-– Flatteuse ! répliqua le roi, en lui donnant du bout des doigts une petite tape sur la joue.
-Mais, j'y songe, c'est toi que je vais charger de faire cette bonne action.
+– Flatteuse ! répliqua le roi, en lui donnant du bout des doigts une petite tape sur la joue. Mais, j'y songe, c'est toi que je vais charger de faire cette bonne action.
 
 – Et vous, mon père ?
 
-– Moi ! je n'y entends rien, tu le sais bien.
-Je fais les choses carrément, voilà tout ; mais toi, tu as une voix si douce, une parole si émue lorsque tu donnes aux pauvres gens, qu'ils se sentent heureux rien que de t'entendre.
-Et puis, tu as dans ta manière, ma chère enfant, je ne sais quelle délicatesse qui double le prix du bienfait…
+– Moi ! je n'y entends rien, tu le sais bien. Je fais les choses carrément, voilà tout ; mais toi, tu as une voix si douce, une parole si émue lorsque tu donnes aux pauvres gens, qu'ils se sentent heureux rien que de t'entendre. Et puis, tu as dans ta manière, ma chère enfant, je ne sais quelle délicatesse qui double le prix du bienfait…
 
 – Mon père !… dit Fleur-d'Amandier en baissant les yeux.
 
-– Voyons, mon enfant, il ne faut pas rougir pour cela.
-Écoute-moi bien : dès l'instant que nous serons de retour au palais, tu porteras de ma part mille sequins d'or à cette bonne vieille qui m'a donné aujourd'hui un si bon conseil, et tu lui diras que c'est le premier quartier de la pension que j'entends lui faire chaque année jusqu'à ma mort…
+– Voyons, mon enfant, il ne faut pas rougir pour cela. Écoute-moi bien : dès l'instant que nous serons de retour au palais, tu porteras de ma part mille sequins d'or à cette bonne vieille qui m'a donné aujourd'hui un si bon conseil, et tu lui diras que c'est le premier quartier de la pension que j'entends lui faire chaque année jusqu'à ma mort…
 
 – Roi de Bohême, je vous remercie, dit une voix qui paraissait sortir d'un buisson voisin.
 
@@ -1466,31 +1288,23 @@ Et puis, tu as dans ta manière, ma chère enfant, je ne sais quelle délicatess
 
 – Non, Cœur-d'Or, dit à son tour Fleur-d'Amandier en souriant, c'est la fée du lac.
 
-– Fleur-d'Amandier dit vrai, reprit la voix du buisson : je suis la fée du lac ; mais rassurez-vous, roi de Bohême, la fée du lac a oublié vos torts envers le petit poisson rouge, et ne se souvient plus que de vos bontés pour la vieille mendiante.
-Vous en serez récompensé.
-Je sais que vous désirez ardemment un fils…
+– Fleur-d'Amandier dit vrai, reprit la voix du buisson : je suis la fée du lac ; mais rassurez-vous, roi de Bohême, la fée du lac a oublié vos torts envers le petit poisson rouge, et ne se souvient plus que de vos bontés pour la vieille mendiante. Vous en serez récompensé. Je sais que vous désirez ardemment un fils…
 
 – Oh ! oui, s'écria le roi, qui ne put s'empêcher d'exprimer lui-même son désir.
 
-– Votre vœu sera comblé.
-Avant un an, la reine mettra au monde un prince, qui sera beau comme le jour, et qui, parvenu à l'âge d'homme, accomplira, par la vertu de ce talisman, des choses merveilleuses.
+– Votre vœu sera comblé. Avant un an, la reine mettra au monde un prince, qui sera beau comme le jour, et qui, parvenu à l'âge d'homme, accomplira, par la vertu de ce talisman, des choses merveilleuses.
 
 À ces mots, une magnifique bague d'or, ornée de saphirs, tomba sur le chemin.
 
 Le roi ne fit qu'un bond pour ramasser le talisman et, le passant à son doigt, il s'écria :
 
-– Oh ! bonne petite fée, merci !
-J'aurai un fils ! j'aurai un fils !
+– Oh ! bonne petite fée, merci ! J'aurai un fils ! j'aurai un fils !
 
 Et sur ce, il prit ses jambes à son cou, pour annoncer au plus vite cette incroyable nouvelle à la reine.
 
 Pendant ce temps, les soldats du prince Azor étaient restés sur le champ de bataille ; jamais on n'avait vu mines plus penaudes : les pauvres diables étaient là, bouches béantes, se tenant tantôt sur un pied, tantôt sur l'autre, ne sachant que faire de leurs corps.
 
-– Êtes-vous des soldats de carton ? s'écria tout à coup leur capitaine d'une voix vibrante, et faut-il vous mettre dans une boîte pour servir de joujoux aux petits enfants ?
-Comment ! on tue votre prince à votre nez et à votre barbe, et vous vous amusez à ronger vos ongles !
-Sabre de bois !
-N'êtes-vous plus la grande armée du grand Azor !
-Ne l'entendez-vous pas qui vous appelle et vous crie vengeance ?… À la bonne heure ! voilà vos cœurs qui s'enflamment, eh ! allons donc ! en avant, marche !
+– Êtes-vous des soldats de carton ? s'écria tout à coup leur capitaine d'une voix vibrante, et faut-il vous mettre dans une boîte pour servir de joujoux aux petits enfants ? Comment ! on tue votre prince à votre nez et à votre barbe, et vous vous amusez à ronger vos ongles ! Sabre de bois ! N'êtes-vous plus la grande armée du grand Azor ! Ne l'entendez-vous pas qui vous appelle et vous crie vengeance ?… À la bonne heure ! voilà vos cœurs qui s'enflamment, eh ! allons donc ! en avant, marche !
 
 À cette harangue, les soldats électrisés partirent du pied gauche, et se mirent, tambour battant, à la poursuite du roi de Bohême.
 
@@ -1506,7 +1320,7 @@ Les bons bourgeois de la ville accoururent sur les murailles, des seaux pleins d
 
 Voilà tout ce qui restait de l'armée du prince Azor.
 
-**** *book_ *id_body-12 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 11. Le vœu de Pierrot
 
@@ -1514,15 +1328,11 @@ Pendant que le roi courait annoncer à la reine la prophétie de la fée du lac,
 
 Mais il eut beau regarder devant, derrière, à droite, à gauche, en tous sens, il n'aperçut pas le moindre petit bout d'oreille de son cher grison.
 
-– Ô mon pauvre Martin ! s'écria-t-il tout inquiet, où es-tu ?
-Et dans son désespoir, il se prit à crier à tue-tête : Martin !
-Martin !
+– Ô mon pauvre Martin ! s'écria-t-il tout inquiet, où es-tu ? Et dans son désespoir, il se prit à crier à tue-tête : Martin ! Martin !
 
-Il retint ensuite son haleine pour mieux écouter, mais il n'entendit que la voix moqueuse de l'écho, qui répétait en ricanant : Martin !
-Martin ! comme ferait un enfant espiègle caché derrière le rocher.
+Il retint ensuite son haleine pour mieux écouter, mais il n'entendit que la voix moqueuse de l'écho, qui répétait en ricanant : Martin ! Martin ! comme ferait un enfant espiègle caché derrière le rocher.
 
-Il s'apprêtait à tenter une seconde épreuve, quand ses yeux tombèrent par hasard sur les groupes d'animaux que le roi avait fait peindre sur les murailles de la ville pour épouvanter ses ennemis.
-Ces bêtes intelligentes avaient pensé, sans doute, que le prince Azor étant mort, leur férocité n'était plus de mise, et toutes s'étaient composé des maintiens si décents, des physionomies tellement débonnaires, qu'on eût dit une caravane de petits agneaux allant rendre visite à M. de Florian.
+Il s'apprêtait à tenter une seconde épreuve, quand ses yeux tombèrent par hasard sur les groupes d'animaux que le roi avait fait peindre sur les murailles de la ville pour épouvanter ses ennemis. Ces bêtes intelligentes avaient pensé, sans doute, que le prince Azor étant mort, leur férocité n'était plus de mise, et toutes s'étaient composé des maintiens si décents, des physionomies tellement débonnaires, qu'on eût dit une caravane de petits agneaux allant rendre visite à M. de Florian.
 
 Mais Pierrot, dont l'esprit était troublé, ne remarqua pas la métamorphose.
 
@@ -1540,8 +1350,7 @@ Notre ami Pierrot se précipita à sa poursuite ; mais quelle que fût la longu
 
 – C'est bon, c'est bon, dit-il au grison qui galopait à cent pas devant lui ; je ne te savais pas si agile : une autre fois je m'en souviendrai.
 
-Après deux heures d'une course inutile, il s'arrêta au pied d'une montagne.
-Tout autre âne que notre vieux Martin aurait profité de ce temps d'arrêt pour s'esquiver au plus vite ; mais c'était un animal très bien élevé et qui connaissait à fond les usages : au lieu de s'enfuir, il s'arrêta, et attendit que son maître se fût reposé ; seulement, pour utiliser ses loisirs, il cueillit délicatement du bout des lèvres un chardon imprudent, qui passait sottement sa tête à travers les fentes d'un rocher, et se mit à le croquer à belles dents.
+Après deux heures d'une course inutile, il s'arrêta au pied d'une montagne. Tout autre âne que notre vieux Martin aurait profité de ce temps d'arrêt pour s'esquiver au plus vite ; mais c'était un animal très bien élevé et qui connaissait à fond les usages : au lieu de s'enfuir, il s'arrêta, et attendit que son maître se fût reposé ; seulement, pour utiliser ses loisirs, il cueillit délicatement du bout des lèvres un chardon imprudent, qui passait sottement sa tête à travers les fentes d'un rocher, et se mit à le croquer à belles dents.
 
 Après une halte d'une demi-heure, Pierrot se leva : la trêve était expirée, et la poursuite recommença de plus fort.
 
@@ -1565,19 +1374,15 @@ Il n'avait pas fait cent pas, qu'il sentit une main qui s'appuyait sur son bras,
 
 – Oui, mon garçon, dit en souriant la vieille mendiante, et je viens même de le faire entrer dans une écurie assez bien approvisionnée pour qu'il puisse attendre, sans trop s'ennuyer, la fin de notre entretien.
 
-– Oh ! quel bonheur ! s'écria Pierrot, qui sauta de joie en apprenant que son âne n'était pas perdu ; puis, se tournant vers la vieille : Parlez, maintenant, ma bonne femme ; je suis tout oreilles, quoique à vrai dire, nous ferions peut-être mieux de remettre l'entretien à un autre jour.
-Le lieu et l'heure…
+– Oh ! quel bonheur ! s'écria Pierrot, qui sauta de joie en apprenant que son âne n'était pas perdu ; puis, se tournant vers la vieille : Parlez, maintenant, ma bonne femme ; je suis tout oreilles, quoique à vrai dire, nous ferions peut-être mieux de remettre l'entretien à un autre jour. Le lieu et l'heure…
 
 – Te semblent mal choisis, n'est-ce pas ? mais sois tranquille, mon ami, je t'attendais ce soir, et j'ai tout préparé pour te recevoir.
 
 À ces mots, la vieille mendiante frappa de son bâton le rocher sur lequel elle était appuyée, et, soudain, la caverne se fendit en deux et Pierrot vit apparaître, à la place de cette grotte sombre dans laquelle il marchait tout à l'heure à tâtons, un palais fantastique, un palais tout blanc, comme on n'en voit qu'en songe, ou dans le pays merveilleux des fées.
 
-C'était un immense édifice creusé tout entier dans un bloc de marbre blanc.
-Sa vaste coupole, étoilée de diamants, reposait sur un double rang de colonnes d'albâtre que reliaient entre elles des guirlandes de perles et d'opales, de lis, de magnolias et de fleurs d'oranger entrelacées.
-Mille arabesques capricieuses, fantaisies sculptées par la main des génies, se tordaient en spirales autour des piliers, s'enroulaient autour des chapiteaux, grimpaient aux saillies des corniches et se suspendaient au plafond comme des stalactites de neige.
+C'était un immense édifice creusé tout entier dans un bloc de marbre blanc. Sa vaste coupole, étoilée de diamants, reposait sur un double rang de colonnes d'albâtre que reliaient entre elles des guirlandes de perles et d'opales, de lis, de magnolias et de fleurs d'oranger entrelacées. Mille arabesques capricieuses, fantaisies sculptées par la main des génies, se tordaient en spirales autour des piliers, s'enroulaient autour des chapiteaux, grimpaient aux saillies des corniches et se suspendaient au plafond comme des stalactites de neige.
 
-De distance en distance et jusqu'aux dernières limites de la perspective, on voyait des fontaines, des eaux jaillissantes qui s'élançaient à perte de vue dans l'air et retombaient en gerbes, en pluie de diamants, dans des bassins en cristal de roche où se jouaient, autour de beaux cygnes endormis, de petits poissons aux écailles d'argent.
-Le plancher, formé d'un seul morceau de nacre, était recouvert d'un tapis d'hermine jonché de clématites, de jasmins, de myrtes, de narcisses, de pâquerettes et de camélias blancs, et sur chaque fleur tremblait une goutte de rosée.
+De distance en distance et jusqu'aux dernières limites de la perspective, on voyait des fontaines, des eaux jaillissantes qui s'élançaient à perte de vue dans l'air et retombaient en gerbes, en pluie de diamants, dans des bassins en cristal de roche où se jouaient, autour de beaux cygnes endormis, de petits poissons aux écailles d'argent. Le plancher, formé d'un seul morceau de nacre, était recouvert d'un tapis d'hermine jonché de clématites, de jasmins, de myrtes, de narcisses, de pâquerettes et de camélias blancs, et sur chaque fleur tremblait une goutte de rosée.
 
 Mais une chose incroyable, et que vous croirez cependant, mes chers enfants, puisque je vous le dis, c'est que tous ces objets avaient une transparence lumineuse : le palais tout entier rayonnait, mais de rayonnements si doux, mais de lueurs si pâles, si calmes, si sereines, qu'on eût cru voir les blanches clartés de la lune endormies, la nuit, sur les gazons verts.
 
@@ -1601,13 +1406,11 @@ Et, comme Pierrot ne faisait pas un mouvement :
 
 – Oh ! non, ne changez pas ! s'écria Pierrot en joignant les mains ; vous êtes si belle ainsi ! et, faisant quelques pas en avant, il se prosterna à ses pieds.
 
-– Relève-toi, mon ami, dit la fée en souriant, et causons.
-J'ai à te demander un grand sacrifice ; te sens-tu le courage de l'accomplir ?
+– Relève-toi, mon ami, dit la fée en souriant, et causons. J'ai à te demander un grand sacrifice ; te sens-tu le courage de l'accomplir ?
 
 – Je suis votre esclave, répondit Pierrot, et tout ce que vous me direz de faire, je le ferai pour l'amour de vous.
 
-– Très bien, mon cher Pierrot, je n'attendais pas moins de ton bon cœur ; mais écoute, avant de t'engager davantage, et souriant de ce doux sourire qui allait si bien à son pâle visage : Tu vois en moi, dit-elle, l'amie des petits enfants.
-Veux-tu les aimer aussi ?
+– Très bien, mon cher Pierrot, je n'attendais pas moins de ton bon cœur ; mais écoute, avant de t'engager davantage, et souriant de ce doux sourire qui allait si bien à son pâle visage : Tu vois en moi, dit-elle, l'amie des petits enfants. Veux-tu les aimer aussi ?
 
 – Bien volontiers et de toute mon âme, repartit Pierrot, qui se rappela en ce moment l'épisode du pourpoint qui lui avait été donné dans sa prison par les enfants de la ville du prince Azor.
 
@@ -1635,13 +1438,11 @@ Pierrot resta silencieux.
 
 Pierrot leva les yeux, et son visage rêveur se transfigura tout à coup.
 
-Il voyait devant lui, pratiqué dans un enfoncement de la muraille, un joli théâtre, ruisselant d'or et de lumière, et tout rempli, depuis le plancher jusqu'au comble, de petits enfants.
-Et c'était en vérité un spectacle ravissant à voir que toutes ces têtes blondes, ces figures blanches et roses, aux yeux bleus et noirs, qui riaient et s'épanouissaient au milieu de cette atmosphère dorée, comme une corbeille de fleurs éclatantes sous les chauds rayons du soleil.
+Il voyait devant lui, pratiqué dans un enfoncement de la muraille, un joli théâtre, ruisselant d'or et de lumière, et tout rempli, depuis le plancher jusqu'au comble, de petits enfants. Et c'était en vérité un spectacle ravissant à voir que toutes ces têtes blondes, ces figures blanches et roses, aux yeux bleus et noirs, qui riaient et s'épanouissaient au milieu de cette atmosphère dorée, comme une corbeille de fleurs éclatantes sous les chauds rayons du soleil.
 
 Entraîné par une force irrésistible, Pierrot s'avança sur la scène.
 
-À sa vue, tous les petits enfants poussèrent des cris de joie et battirent des mains ; puis ce furent des éclats de rire qui retentirent dans toute la salle, frais et argentins comme des gazouillements d'oiseaux au lever du jour.
-Puis des bouquets, des couronnes tombèrent en pluie de fleurs autour de Pierrot.
+À sa vue, tous les petits enfants poussèrent des cris de joie et battirent des mains ; puis ce furent des éclats de rire qui retentirent dans toute la salle, frais et argentins comme des gazouillements d'oiseaux au lever du jour. Puis des bouquets, des couronnes tombèrent en pluie de fleurs autour de Pierrot.
 
 Pierrot voulut parler, mais l'émotion étouffa sa voix ; il ne put que poser sa main sur ses lèvres et envoyer mille baisers aux petits enfants.
 
@@ -1649,14 +1450,13 @@ Aussitôt le théâtre disparut.
 
 – Eh bien ! mon ami, dit la fée, hésites-tu encore ?
 
-– Oh non ! répondit vivement Pierrot en essuyant une larme qui tremblait au bord de sa paupière.
-Je partirai demain.
+– Oh non ! répondit vivement Pierrot en essuyant une larme qui tremblait au bord de sa paupière. Je partirai demain.
 
 Il avait à peine dit ces mots que le palais de marbre s'écroula, et qu'il se trouva assis sur le dos de son âne, à l'entrée de la caverne.
 
 Le sacrifice était consommé, Pierrot avait fait vœu d'amuser les petits enfants.
 
-**** *book_ *id_body-13 *date_1853 *creator_dumas
+**** *creator_dumas *book_dumas_pierrotjeunesse *style_prose *date_1853
 
 12. (Conclusion). Prête-moi ta plume pour écrire un mot
 
@@ -1668,15 +1468,13 @@ Monté sur un grand cheval blanc que ses écuyers lui avaient amené à la tour,
 
 Le lendemain, Cœur-d'Or épousa Fleur-d'Amandier, et reçut en apanage les États du prince Azor.
 
-Les noces furent célébrées avec la magnificence qui est d'usage dans les contes de fées, lorsqu'un roi épouse une bergère, ou qu'une princesse épouse un berger.
-La fée du lac, qui s'était rendue dès le matin au palais sur un char de diamant traîné par deux beaux cygnes blancs comme l'albâtre, présida à la cérémonie nuptiale et bénit les deux amants de sa baguette d'or, en leur promettant solennellement devant toute la cour d'être marraine de leur premier-né.
+Les noces furent célébrées avec la magnificence qui est d'usage dans les contes de fées, lorsqu'un roi épouse une bergère, ou qu'une princesse épouse un berger. La fée du lac, qui s'était rendue dès le matin au palais sur un char de diamant traîné par deux beaux cygnes blancs comme l'albâtre, présida à la cérémonie nuptiale et bénit les deux amants de sa baguette d'or, en leur promettant solennellement devant toute la cour d'être marraine de leur premier-né.
 
 Le seigneur Renardino fut puni comme il le méritait de sa méchanceté et de sa trahison : tous ses biens furent confisqués, rendus aux malheureux qu'il avait injustement dépouillés ; lui-même, destitué de tous ses titres, fut revêtu d'habits grossiers, et voué aux plus viles fonctions de la domesticité.
 
 Le roi de Bohême, en reconnaissance des bienfaits de la fée, donna l'ordre à son trésorier de distribuer de riches aumônes à tous les mendiants du pays, et fit construire dans les jardins du palais un magnifique bassin de porphyre, où de charmants petits poissons rouges furent logés et entretenus aux frais du gouvernement.
 
-Quant à Pierrot, mes chers enfants, il n'avait eu garde de se montrer pendant la cérémonie du mariage de Cœur-d'Or et de Fleur-d'Amandier, tant il avait peur que la résolution qu'il avait prise la veille n'en fût ébranlée ; mais à l'heure du festin il reparut, prit sa place au banquet, et sa blanche figure, voilée jusqu'alors d'un léger nuage de tristesse, rayonna comme aux plus beaux jours.
-Quand le repas fut terminé, il se leva de table avec un grand effort, descendit à la maisonnette du bûcheron, et le pria de lui prêter sa plume pour écrire un mot.
+Quant à Pierrot, mes chers enfants, il n'avait eu garde de se montrer pendant la cérémonie du mariage de Cœur-d'Or et de Fleur-d'Amandier, tant il avait peur que la résolution qu'il avait prise la veille n'en fût ébranlée ; mais à l'heure du festin il reparut, prit sa place au banquet, et sa blanche figure, voilée jusqu'alors d'un léger nuage de tristesse, rayonna comme aux plus beaux jours. Quand le repas fut terminé, il se leva de table avec un grand effort, descendit à la maisonnette du bûcheron, et le pria de lui prêter sa plume pour écrire un mot.
 
 Par ce mot, il donnait aux bonnes gens, pour améliorer leur vieillesse, trois cent mille sequins d'or, ceux-là mêmes qu'il avait si subtilement escamotés au prince Azor, et que le roi l'avait prié de conserver pour prix de ses services.
 

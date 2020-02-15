@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_contesbecasse  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1883  
 title: Contes de la Bécasse  
 ---

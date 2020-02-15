@@ -1,6 +1,6 @@
 ---
 identifier: stendhal_chroniquesitaliennes  
-creator: Stendhal  
+creator: Stendhal.  
 date: 1839  
 title: Chroniques italiennes  
 ---

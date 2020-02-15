@@ -1,6 +1,6 @@
 ---
 identifier: dumas_sanfelice  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1864  
 title: La San Felice  
 ---

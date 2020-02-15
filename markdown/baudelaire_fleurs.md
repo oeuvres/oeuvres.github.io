@@ -1,6 +1,6 @@
 ---
 identifier: baudelaire_fleurs  
-creator: Baudelaire, Charles  
+creator: Baudelaire, Charles.  
 date: 1868  
 title: Les fleurs du mal  
 ---

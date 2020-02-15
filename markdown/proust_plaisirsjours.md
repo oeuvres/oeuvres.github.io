@@ -1,6 +1,6 @@
 ---
 identifier: proust_plaisirsjours  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date: 1896  
 title: Les Plaisirs et les jours  
 ---

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p142 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p142 *date_1894 
 
 I
 
@@ -129,7 +129,7 @@ Dans l'art calme et dans l'heur
 Du Bien qui te ravit
 Et du Beau qui ne leurre.
 
-**** *book_ *id_p143 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p143 *date_1894 
 
 II
 
@@ -226,7 +226,7 @@ Ils ne viennent que d'entrer dans le temple,
 Et notre mort pleurée approuvera
 Ceux à qui nous avons donné l'exemple.
 
-**** *book_ *id_p144 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p144 *date_1894 
 
 III
 
@@ -250,7 +250,7 @@ Et cher par instants, comme le fit Racine
 Formant son écu d'un cygne et non d'un rat,
 Je prendrais l'oiseau léger, laissant le lourd crapaud dans sa piscine.
 
-**** *book_ *id_p145 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p145 *date_1894 
 
 IV
 
@@ -270,7 +270,7 @@ Un de sept, un de dix. Riez.
 
 Du distinguo : c'est bon, rire. Et c'est meilleur encore, aimer vos vers !
 
-**** *book_ *id_p146 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p146 *date_1894 
 
 V
 
@@ -309,7 +309,7 @@ Qu'un vif orchestre exalte encor,
 Donnez au vieillissant poète
 L'illusion dans le décor.
 
-**** *book_ *id_p147 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p147 *date_1894 
 
 VI
 
@@ -339,7 +339,7 @@ Rue ou route qu'un horizon d'automne étreint,
 Perpétuel, heure arrêtée, âme que plombe
 Et surplombe un ennui qu'on ignore et qu'on craint.
 
-**** *book_ *id_p148 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p148 *date_1894 
 
 VII
 
@@ -367,7 +367,7 @@ L'huile sur son corps après la lutte,
 — Plus du clairon fou : la molle flûte !
 La paix dans son cœur dorénavant.
 
-**** *book_ *id_p149 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p149 *date_1894 
 
 VIII
 
@@ -391,7 +391,7 @@ Propre et l'incertain moi-mème ?...
 Bah ! que ma règle suprême
 Soit nous, discors ou d'accord !
 
-**** *book_ *id_p150 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p150 *date_1894 
 
 IX
 
@@ -425,7 +425,7 @@ Et qui l'a déposé sur le rivage
 Inattendu de quelque île sauvage
 Pour le régal de l'habitant goulu.
 
-**** *book_ *id_p151 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p151 *date_1894 
 
 X
 
@@ -457,7 +457,7 @@ Fi des faciles compromis !
 Vivent de dignes ennemis
 Pour d'honorables funérailles !
 
-**** *book_ *id_p152 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p152 *date_1894 
 
 XI
 
@@ -476,7 +476,7 @@ Et le soleil couchant, quand dans l'or il s'effondre,
 Pleure du sang de n'ouïr plus, les soirs d'été,
 Monter vers lui l'air sombre et gai répercuté.
 
-**** *book_ *id_p153 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p153 *date_1894 
 
 XII
 
@@ -543,7 +543,7 @@ Conformément aux seules Promesses
 Se reposer ès saintes liesses
 De tant de mollesse et de langueur.
 
-**** *book_ *id_p154 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p154 *date_1894 
 
 XIII
 
@@ -562,7 +562,7 @@ Et si la bonté lente de la nature
 Alors, allons dormir du dernier sommeil !
   Dieu se chargera du réveil.
 
-**** *book_ *id_p155 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p155 *date_1894 
 
 XIV
 
@@ -584,7 +584,7 @@ Entre le sublime et l'immonde :
 
 — Deux écueils, Seigneur, ou deux ports ?
 
-**** *book_ *id_p156 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p156 *date_1894 
 
 XV
 
@@ -613,7 +613,7 @@ Passent les heures du soir...
 La nuit s'est faite : je rampe
 Me coucher, las de m'asseoir.
 
-**** *book_ *id_p157 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p157 *date_1894 
 
 XVI
 
@@ -754,7 +754,7 @@ Comme attendant le culte à venir que lui rend
 Toute herbe et toute chair depuis cette naissance,
 Et se pare d'une inquiétante innocence.
 
-**** *book_ *id_p158 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p158 *date_1894 
 
 XVII
 
@@ -773,7 +773,7 @@ Croyais m'envoler, révolté,
 Attiré par un double aimant,
  Vers le diable... ou le reste.
 
-**** *book_ *id_p159 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p159 *date_1894 
 
 XVIII
 
@@ -805,7 +805,7 @@ C'est, croyez-moi, sans doute le plus sûr
 S'abstenir de désirs, se taire sur :
  Paix et persévérance !
 
-**** *book_ *id_p160 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p160 *date_1894 
 
 XIX
 
@@ -825,7 +825,7 @@ Sens apaisés, cœurs jeunes s'apaisant,
 Et vous verrez, au très proche horizon,
 Poindre et grandir, si bonne ! la raison.
 
-**** *book_ *id_p161 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p161 *date_1894 
 
 XX
 
@@ -855,7 +855,7 @@ Et d'éternellement vainqueur,
 
 « L'âme, c'est la tête et le cœur. »
 
-**** *book_ *id_p162 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p162 *date_1894 
 
 XXI
 
@@ -879,7 +879,7 @@ Si ne me tenait arrêté
 L'incompréhensibilité
 D'à mon tour pouvoir me comprendre.
 
-**** *book_ *id_p163 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p163 *date_1894 
 
 XXII
 
@@ -903,7 +903,7 @@ Je suis fou de claires paroles,
 J'adore la Croix sans symboles :
 Un gibet et Jésus dessus.
 
-**** *book_ *id_p164 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p164 *date_1894 
 
 XXIII
 
@@ -919,7 +919,7 @@ Pend sous le bras, — battant pour qui ? Près d'allaiter qu'est-ce ?
 Et du cône tronqué du casque un panache laisse
 Monter parfois dans son allure un cœur sans dessein...
 
-**** *book_ *id_p165 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p165 *date_1894 
 
 XXIV
 
@@ -932,7 +932,7 @@ Muet, inattentif aux choses de la rue,
 Digère, cependant qu'au lointain on se bat,
 Sa ration de lard et son quart de morue.
 
-**** *book_ *id_p166 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p166 *date_1894 
 
 XXV
 
@@ -953,7 +953,7 @@ Qu'en vérité, blessé d'un trait mortel au flanc,
 On dirait d'un vieil aigle en sa gloire et son ire
 Dressant sur l'infini son bec dur au chef blanc.
 
-**** *book_ *id_p167 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p167 *date_1894 
 
 XXVI
 
@@ -964,7 +964,7 @@ Mais plus admirable poète
 Qui, malgré Pascal, est resté
 L'ange tout en faisant la bête.
 
-**** *book_ *id_p168 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p168 *date_1894 
 
 XXVII
 
@@ -975,7 +975,7 @@ En herbe bien plutôt et perdu dans l'espace,
 « Je t'aime ! dit l'essaim des colombes qui passe. »
 Et ce vers fut vraiment ma colombe de l'arche.
 
-**** *book_ *id_p169 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p169 *date_1894 
 
 XXVIII
 
@@ -988,7 +988,7 @@ Aux étranges vers que ferait
 Un marquis de Sade discret
 Qui saurait la langue des anges.
 
-**** *book_ *id_p170 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p170 *date_1894 
 
 XXIX
 
@@ -1049,7 +1049,7 @@ Et de l'aurore au soir vous servir à jamais.
   Voyez que je ne mens pas... Mais
 Guidez-moi, que je puisse encore être des vôtres. »
 
-**** *book_ *id_p171 *date_1894 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_epigrammes *style_verse *genre_verse *dist1_verlaine_verse_verse_epigrammes *dist2_verlaine_verse_verse *id_p171 *date_1894 
 
 XXX
 

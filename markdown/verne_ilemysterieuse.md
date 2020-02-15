@@ -1,6 +1,6 @@
 ---
 identifier: verne_ilemysterieuse  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1875  
 title: L'Île Mystérieuse  
 ---

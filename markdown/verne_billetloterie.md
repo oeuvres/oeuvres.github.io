@@ -1,9 +1,6 @@
 ---
 identifier: verne_billetloterie  
-creator:   Verne, Jules (1828-1905)
- –  date:1886
- –  source: http://www.ebooksgratuits.com/newsendbook.php?id=765&format=so
- –  copyeditor: Danel Isabelle   
+creator: Verne, Jules.  
 date:   
 title: Un billet de loterie  
 ---

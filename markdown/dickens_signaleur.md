@@ -1,6 +1,6 @@
 ---
 identifier: dickens_signaleur  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1886  
 title: Le signaleur  
 ---

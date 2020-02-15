@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p41 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p41 *date_1891 
 
 I
 
@@ -22,7 +22,7 @@ Paix à ce cœur enfin de bonne volonté
 Qui ne veut battre plus que vers la Charité,
 Et que votre plaisir, ô Jésus, s'assouvisse.
 
-**** *book_ *id_p42 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p42 *date_1891 
 
 II
 
@@ -76,7 +76,7 @@ Mon Dieu, pardonnez-moi,
 Ornant l'âme enfin bonne
 D'espérance et de foi.
 
-**** *book_ *id_p43 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p43 *date_1891 
 
 III
 
@@ -125,7 +125,7 @@ A Jésus qui, du moins, homme avec tout d'un homme,
 N'avait lui jamais eu de torts de son côté,
 Et, par Lui, tu nous fais croire en l'éternité.
 
-**** *book_ *id_p44 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p44 *date_1891 
 
 IV
 
@@ -164,7 +164,7 @@ C'est votre créature après tout.
 L'ignorance invincible l'absout.
 Bah ! claire et bonne lui soit la mort.
 
-**** *book_ *id_p45 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p45 *date_1891 
 
 V
 
@@ -204,7 +204,7 @@ Avec d'avoir été trop ou trop peu jalouses.
 
 Seigneur, ayez pitié des âmes, nos épouses.
 
-**** *book_ *id_p46 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p46 *date_1891 
 
 VI
 
@@ -233,7 +233,7 @@ Fût-ce au suprême moment,
 Pour qu'aussi l'âme, ma sœur,
 Revive éternellement.
 
-**** *book_ *id_p47 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p47 *date_1891 
 
 VII
 
@@ -272,7 +272,7 @@ En route pour l'entonnoir tragique
 Que nul atlas ne cite ou n'indique,
 Sur la mer des Résignations.
 
-**** *book_ *id_p48 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p48 *date_1891 
 
 VIII
 
@@ -335,7 +335,7 @@ Dans la course au salut, et pour mieux les pousser
 A ces fins que le ciel en extase contemple,
 Bien humble (souviens-toi !), prêcheur, prêche d'exemple !
 
-**** *book_ *id_p49 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p49 *date_1891 
 
 IX
 
@@ -440,7 +440,7 @@ Afin que Dieu te pardonne aussi, Lui,
 Car, dans le mal fait au prochain, c'est Lui
    Seul qu'on offense.
 
-**** *book_ *id_p50 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p50 *date_1891 
 
 X
 
@@ -497,7 +497,7 @@ Sans grands jaloux, j'espère, et pour sûr, sans envie !
 Si, dès guéri, si je guéris, car tout se peut,
 Je n'avais quelque chose à faire, que Dieu veut.
 
-**** *book_ *id_p51 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p51 *date_1891 
 
 XI
 
@@ -581,7 +581,7 @@ L'aspiration sainte et le repentir vrai !
 
 Puisse un prêtre être là, Jésus, quand je mourrai !
 
-**** *book_ *id_p52 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p52 *date_1891 
 
 XII
 
@@ -650,7 +650,7 @@ Eden même : là sous le chêne et vers la rose,
 Puisqu'il paraît qu'il n'a pas faire autre chose,
 Rit et gazouille un beau petit enfant tout nu.
 
-**** *book_ *id_p53 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p53 *date_1891 
 
 XIII
 
@@ -754,7 +754,7 @@ En ordonnance solennelle
 Bien par-delà les derniers cieux,
 Jusque dans la vie éternelle.
 
-**** *book_ *id_p54 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p54 *date_1891 
 
 XIV
 
@@ -793,7 +793,7 @@ Puis sois de marbre, et pur, sous le heaume qui lance
 Par ses trous le regard de tes yeux assurés,
 Marche à pas révérents sur les parvis sacrés.
 
-**** *book_ *id_p55 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p55 *date_1891 
 
 XV
 
@@ -922,7 +922,7 @@ Définitivement, et dicte : Alléluia.
 « Et des traverses quelquefois épouvantables,
 « Ce couple infiniment bénissable d'Amis. »
 
-**** *book_ *id_p56 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p56 *date_1891 
 
 XVI
 
@@ -1047,7 +1047,7 @@ Impêtre le pardon du Père
 Pour le pécheur qui désespère...
 Mère du fils, priez pour nous !
 
-**** *book_ *id_p57 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p57 *date_1891 
 
 XVII
 
@@ -1069,7 +1069,7 @@ Vive l'esprit français, d'Artois jusqu'en Gascogne
 De la Champagne et de l'Argonne à la Bourgogne
 Et vive un cœur, morbleu ! dont un cœur se souvienne !
 
-**** *book_ *id_p58 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p58 *date_1891 
 
 XVIII
 
@@ -1184,7 +1184,7 @@ Dans la franchise, ô vivre et mourir enfermé,
 Et s'il nous faut, par surcroît, de posthumes socles,
 Gloire au poète pur en ces jours de monocles !
 
-**** *book_ *id_p59 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p59 *date_1891 
 
 XIX
 
@@ -1218,7 +1218,7 @@ Loin du péché qui nous nuit,
 Nous appelle en grand costume
 A la messe de minuit.
 
-**** *book_ *id_p60 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p60 *date_1891 
 
 XX
 
@@ -1282,7 +1282,7 @@ Comme les bons époux d'il n'y a pas longtemps
 Quand l'un et l'autre d'être heureux étaient contents,
 Qui vivaient, sans le trop chanter, l'épithalame.
 
-**** *book_ *id_p61 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p61 *date_1891 
 
 XXI
 
@@ -1343,7 +1343,7 @@ C'est la bonne Pénitence.
 Sous la glace et dans le feu
 Tu retrouveras ton Dieu.
 
-**** *book_ *id_p62 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p62 *date_1891 
 
 XXII
 
@@ -1418,7 +1418,7 @@ Quelle paille en votre œil de ce fait ? De quel deuil,
 De quel scandale, vers ou proses, sont-ils cause
 Dont cela vaille un peu la peine qu'on en cause ?
 
-**** *book_ *id_p63 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p63 *date_1891 
 
 XXIII
 
@@ -1449,7 +1449,7 @@ S'enfle au chœur et monte au jubé,
 Gloria ! Voici les cloches
 Revenir ! Alleluia!
 
-**** *book_ *id_p64 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p64 *date_1891 
 
 XXIV
 
@@ -1546,7 +1546,7 @@ Le plus simple et le plus ponctuel postulat,
 Juste pour la nécessité quotidienne
 En attendant, toujours sans fin, ma mort chrétienne.
 
-**** *book_ *id_p65 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p65 *date_1891 
 
 XXV
 
@@ -1568,7 +1568,7 @@ Puis il revient, mon Œuvre, las d'un tel ahan,
 Pénitent, et tombant à genoux mains dressées...
 Priez avec et pour le pauvre Lelian !
 
-**** *book_ *id_p66 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p66 *date_1891 
 
 XXVI
 
@@ -1607,7 +1607,7 @@ Oyez mes cris de faiblesse,
 Donnez-moi toute simplesse
 Pour vouloir ce que je veux.
 
-**** *book_ *id_p67 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p67 *date_1891 
 
 XXVII
 
@@ -1630,7 +1630,7 @@ De discrétion fine et de fort quant-à-moi.
 
 Puis, quand tu voudras r'attaquer, reprends la Foi !
 
-**** *book_ *id_p68 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p68 *date_1891 
 
 XXVIII
 
@@ -1684,7 +1684,7 @@ Après le salut
 
 Chantons ses louanges.
 
-**** *book_ *id_p69 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p69 *date_1891 
 
 XXIX
 
@@ -1713,7 +1713,7 @@ Pour la procession si touchante
 Qui a nom : du Vœu de Louis Treize
 C'est le cas de prier pour la France.
 
-**** *book_ *id_p70 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p70 *date_1891 
 
 XXX
 
@@ -1872,7 +1872,7 @@ En exemple, lavant hier par aujourd'hui
 Et faits, après l'horreur, l'honneur des nations,
 Et s'il nous veut vainqueurs nous le soyons pour lui. »
 
-**** *book_ *id_p71 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p71 *date_1891 
 
 XXXI
 
@@ -1891,7 +1891,7 @@ Et douce à l'infini de l'airain commémoratoire
 Qui va bercer le sommeil un peu triste des vivants
 Du souvenir des décédés de toutes les paroisses.
 
-**** *book_ *id_p72 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p72 *date_1891 
 
 XXXII
 
@@ -1920,7 +1920,7 @@ C'est ma belle et ma chaste pensée,
 Si vous voulez ma philosophie,
 Ma mort choisie ainsi déguisée.
 
-**** *book_ *id_p73 *date_1891 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_bonheur *style_verse *genre_verse *dist1_verlaine_verse_verse_bonheur *dist2_verlaine_verse_verse *id_p73 *date_1891 
 
 XXXIII
 

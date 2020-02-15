@@ -1,6 +1,6 @@
 ---
 identifier: dumas_comtessecharny  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1852  
 title: La comtesse de Charny  
 ---

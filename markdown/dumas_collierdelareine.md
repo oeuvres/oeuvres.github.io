@@ -1,6 +1,6 @@
 ---
 identifier: dumas_collierdelareine  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1849  
 title: Le Collier de la reine  
 ---

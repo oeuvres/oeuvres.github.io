@@ -1,6 +1,6 @@
 ---
 identifier: proust_recherche4  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date:   
 title: Sodome et Gomorrhe — À la recherche du temps perdu  
 ---

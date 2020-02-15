@@ -1,6 +1,6 @@
 ---
 identifier: hitler_moncombat  
-creator: Hitler, Adolph  
+creator: Hitler, Adolph.  
 date: 1925  
 title: Mein Kampf  
 ---

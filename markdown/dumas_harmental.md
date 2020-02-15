@@ -1,6 +1,6 @@
 ---
 identifier: dumas_harmental  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1842  
 title: Le Chevalier d’Harmental  
 ---

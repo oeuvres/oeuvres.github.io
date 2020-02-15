@@ -1,6 +1,6 @@
 ---
 identifier: renan_nation  
-creator: Renan, Ernest (1823-1892)  
+creator: Renan, Ernest.  
 date:   
 title: Qu’est-ce qu’une nation ? et autres écrits politiques  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: fenelon_telemaque  
-creator: Fénelon  
+creator: Fénelon.  
 date:   
 title: Les Aventures de Télémaque  
 ---

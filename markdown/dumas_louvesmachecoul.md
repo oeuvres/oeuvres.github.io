@@ -1,6 +1,6 @@
 ---
 identifier: dumas_louvesmachecoul  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1859  
 title: Les Louves de Machecoul  
 ---

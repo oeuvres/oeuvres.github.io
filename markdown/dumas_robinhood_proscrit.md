@@ -1,6 +1,6 @@
 ---
 identifier: dumas_robinhood_proscrit  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1873  
 title: Robin Hood, le proscrit  
 ---

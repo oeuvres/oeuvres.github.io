@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_jadisetnaguere  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1884  
 title: Jadis et naguère  
 ---

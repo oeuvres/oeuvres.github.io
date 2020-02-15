@@ -1,6 +1,6 @@
 ---
 identifier: verne_maitredumonde  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1904  
 title: Maître du Monde  
 ---

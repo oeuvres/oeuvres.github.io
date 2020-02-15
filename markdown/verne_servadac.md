@@ -1,6 +1,6 @@
 ---
 identifier: verne_servadac  
-creator:   Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1877  
 title: Hector Servadac – Voyages et aventures à travers le monde solaire  
 ---

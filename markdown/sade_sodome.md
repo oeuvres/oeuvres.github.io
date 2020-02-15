@@ -1,6 +1,6 @@
 ---
 identifier: sade_sodome  
-creator: Sade, Donatien Alphonse François de  
+creator: Sade, Donatien Alphonse François de.  
 date: 1785  
 title: Les cent vingt journées de Sodome  
 ---

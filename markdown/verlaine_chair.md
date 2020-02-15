@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_chair  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1896  
 title: Chair  
 ---

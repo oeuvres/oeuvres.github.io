@@ -1,6 +1,6 @@
 ---
 identifier: dumas_reinemargot  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1845  
 title: La Reine Margot  
 ---

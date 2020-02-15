@@ -1,6 +1,6 @@
 ---
 identifier: dumas_maisonrouge  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1845  
 title: Le Chevalier de Maison-Rouge  
 ---

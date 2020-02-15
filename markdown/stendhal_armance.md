@@ -1,6 +1,6 @@
 ---
 identifier: stendhal_armance  
-creator: Stendhal  
+creator: Stendhal.  
 date: 1827  
 title: Armance  
 ---

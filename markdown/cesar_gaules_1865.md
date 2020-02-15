@@ -1,6 +1,6 @@
 ---
 identifier: cesar_gaules_1865  
-creator: César, Jules  
+creator: César, Jules.  
 date: 1865  
 title: La guerre des Gaules  
 ---

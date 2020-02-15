@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_monsieurparent  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1886  
 title: Monsieur Parent  
 ---

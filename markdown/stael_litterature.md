@@ -1,6 +1,6 @@
 ---
 identifier: stael_litterature  
-creator: Germaine de Staël  
+creator: Germaine de Staël.  
 date:   
 title: De la littérature considérée dans ses rapports avec les institutions sociales (2e éd.)  
 ---

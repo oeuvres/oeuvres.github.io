@@ -1,6 +1,6 @@
 ---
 identifier: bergson_energie  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1919  
 title: L’énergie spirituelle. Essais et conférences  
 ---

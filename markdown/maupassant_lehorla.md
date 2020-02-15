@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_lehorla  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1887  
 title: Le Horla  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_meshopitaux  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1891  
 title: Mes hôpitaux  
 ---

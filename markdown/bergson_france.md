@@ -1,6 +1,6 @@
 ---
 identifier: bergson_france  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1915  
 title: La philosophie française  
 ---

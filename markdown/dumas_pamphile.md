@@ -1,6 +1,6 @@
 ---
 identifier: dumas_pamphile  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1840  
 title: Le Capitaine Pamphile  
 ---

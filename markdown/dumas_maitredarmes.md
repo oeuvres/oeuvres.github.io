@@ -1,6 +1,6 @@
 ---
 identifier: dumas_maitredarmes  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1841  
 title: Le maître d’armes  
 ---

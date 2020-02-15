@@ -1,6 +1,6 @@
 ---
 identifier: thomas_essaieloges  
-creator: Thomas, Antoine-Léonard (1732-1785)  
+creator: Thomas, Antoine-Léonard.  
 date: 1773  
 title: Essai sur les éloges  
 ---

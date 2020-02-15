@@ -1,6 +1,6 @@
 ---
 identifier: dickens_esperances  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1861  
 title: Les grandes espérances  
 ---

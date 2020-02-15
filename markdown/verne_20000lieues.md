@@ -1,6 +1,6 @@
 ---
 identifier: verne_20000lieues  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1871  
 title: Vingt mille lieues sous les mers  
 ---

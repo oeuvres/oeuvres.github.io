@@ -1,6 +1,6 @@
 ---
 identifier: bergson_conscience  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1889  
 title: Essai sur les données immédiates de la conscience  
 ---

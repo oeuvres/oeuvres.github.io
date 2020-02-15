@@ -1,6 +1,6 @@
 ---
 identifier: durkheim_jugements-de-valeur  
-creator: Durkheim, Émile  
+creator: Durkheim, Émile.  
 date: 1911  
 title: Jugements de valeur et jugements de réalité  
 ---

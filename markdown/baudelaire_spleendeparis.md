@@ -1,6 +1,6 @@
 ---
 identifier: baudelaire_spleendeparis  
-creator: Baudelaire, Charles  
+creator: Baudelaire, Charles.  
 date: 1869  
 title: Le Spleen de Paris  
 ---

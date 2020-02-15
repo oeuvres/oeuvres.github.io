@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_inutilebeaute  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1890  
 title: L’Inutile beauté  
 ---

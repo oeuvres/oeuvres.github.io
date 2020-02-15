@@ -1,6 +1,6 @@
 ---
 identifier: dumas_capitainepaul  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1838  
 title: Le Capitaine Paul  
 ---

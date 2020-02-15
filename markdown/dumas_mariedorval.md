@@ -1,6 +1,6 @@
 ---
 identifier: dumas_mariedorval  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1855  
 title: La dernière année de Marie Dorval  
 ---

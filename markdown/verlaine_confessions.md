@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_confessions  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1895  
 title: Confessions  
 ---

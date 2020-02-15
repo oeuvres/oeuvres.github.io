@@ -1,6 +1,6 @@
 ---
 identifier: dickens_barnaberudge  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1841  
 title: Barnabé Rudge  
 ---

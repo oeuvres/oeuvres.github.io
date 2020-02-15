@@ -1,6 +1,6 @@
 ---
 identifier: stoker_dracula  
-creator: Stocker, Bram  
+creator: Stocker, Bram.  
 date:   
 title: Dracula  
 ---

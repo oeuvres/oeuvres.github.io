@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p1 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p1 *date_1888 
 
 PRIÈRE DU MATIN
 
@@ -129,7 +129,7 @@ L'œuvre de votre Créateur adorable, en sauvant
 L'âme que rachetaient les affres du Calvaire ;
 Père, considérez le prix de votre enfant.
 
-**** *book_ *id_p2 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p2 *date_1888 
 
 ÉCRIT EN 1875
 
@@ -212,7 +212,7 @@ Si déserte, si rude et si longue, sans doute,
 Par laquelle il faut tendre aux innocents sommets.
 Et soit aimé l'Auteur de la Grâce, à jamais !
 
-**** *book_ *id_p3 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p3 *date_1888 
 
 UN CONTE
 
@@ -326,7 +326,7 @@ O vous, vierge Mère, ô vous Marie Immaculée,
 Toute en argent parmi l'argent de l'épithalame,
 Qui posez vos pieds sur notre terre consolée.
 
-**** *book_ *id_p4 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p4 *date_1888 
 
 BOURNEMOUTH
 
@@ -402,7 +402,7 @@ Une route assez droite heureusement tracée
 Guide jusque chez moi ma retraite pressée
 Dans ce noir absolu sous le long bois muet.
 
-**** *book_ *id_p5 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p5 *date_1888 
 
 THERE
 
@@ -442,7 +442,7 @@ Cher recommencement bien humble ! Fuite insigne
 De l'heure vers l'azur mûrisseur de fruits d'or !
 « Angels ! » ô nom revu, calme et frais comme un cygne !
 
-**** *book_ *id_p6 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p6 *date_1888 
 
 UN CRUCIFIX
 Église Saint-Géry, Arras.
@@ -485,7 +485,7 @@ Exquise, et surprenant mon regard qui l'épie,
 Très gracieusement chez moi vint l'oublier.
 Et j'ai rimé ces vers pour le remercier. —
 
-**** *book_ *id_p7 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p7 *date_1888 
 
 BALLADE
 
@@ -521,7 +521,7 @@ De vivre heureux dans vos hameaux :
 Gaîté, santé que rien ne blesse.
 Mais rien ne valut mes ormeaux.
 
-**** *book_ *id_p8 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p8 *date_1888 
 
 SUR UN RELIQUAIRE QU'ON LUI AVAIT DÉROBÉ
 
@@ -605,7 +605,7 @@ Ainsi la veux-je, et la souhaite
 Au possesseur, croyons dernier,
 De la sainte petite boîte.
 
-**** *book_ *id_p9 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p9 *date_1888 
 
 A MADAME X... EN LUI ENVOYANT UNE PENSÉE
 
@@ -649,7 +649,7 @@ Acceptez-la pour le plaisir.
 J'ai tant fait que de la cueillir,
 Et c'est presque une fleur-des-veuves.
 
-**** *book_ *id_p10 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p10 *date_1888 
 
 UN VEUF PARLE
 
@@ -683,7 +683,7 @@ Mes yeux joyeux dans le ciel clair ;
 Par cette nuit sans plus d'alarmes,
 Sont deux bons anges sur la mer.
 
-**** *book_ *id_p11 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p11 *date_1888 
 
 IL PARLE ENCORE
 
@@ -735,7 +735,7 @@ D'un espoir qui ne veut pas se taire,
 Et l'appelle aux prés qu'il ne faut pas.
 Donnez-lui de n'aller qu'en vos pas.
 
-**** *book_ *id_p12 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p12 *date_1888 
 
 BALLADE
 
@@ -780,7 +780,7 @@ Du monde où règne et persiste ma foi.
 Amen, alors, puisqu'à mes dam et coût
 J'ai rêvé d'elle et pas elle de moi.
 
-**** *book_ *id_p13 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p13 *date_1888 
 
 ADIEU
 
@@ -829,7 +829,7 @@ Dont le cygne et l'aigle encor seront jaloux,
 Dans l'honneur vainqueur malgré ce vous néfaste,
 Dans la gloire aussi des Illustres Époux !
 
-**** *book_ *id_p14 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p14 *date_1888 
 
 BALLADE EN L'HONNEUR DE LOUISE MICHEL
 
@@ -865,7 +865,7 @@ On meurt pour ! c'est l'Honneur ! et bien
 Loin des Taxil et des Bazile,
 Louise Michel est très bien.
 
-**** *book_ *id_p15 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p15 *date_1888 
 
 A LOUIS II DE BAVIÈRE
 
@@ -887,7 +887,7 @@ Salut à votre très unique apothéose,
 Et que votre âme ait son fier cortège, or et fer,
 Sur un air magnifique et joyeux de Wagner.
 
-**** *book_ *id_p16 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p16 *date_1888 
 
 PARSIFAL
 
@@ -909,7 +909,7 @@ En robe d'or il adore, gloire et symbole,
 Le vase pur où resplendit le sang réel.
 — Et, ô ces voix d'enfants chantant dans la coupole !
 
-**** *book_ *id_p17 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p17 *date_1888 
 
 SAINT GRAAL
 
@@ -941,7 +941,7 @@ Source vive où s'en vient ressusciter le cœur
 Même de l'assassin, même de l'adultère,
 Salut de la patrie, ô sang qui désaltère !
 
-**** *book_ *id_p18 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p18 *date_1888 
 
 « GAIS ET CONTENTS »
 
@@ -970,7 +970,7 @@ Qu'on pousse quand il faut qu'on meure
 De sang-froid, dans tout son bon sens,
 Avec de l'honneur plein son cœur !
 
-**** *book_ *id_p19 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p19 *date_1888 
 
 A FERNAND LANGLOIS
 
@@ -1024,7 +1024,7 @@ Peut-être bien, sans doute, et quoique, et puisque, en somme
 Laissez monter en nous, fleur suprême de l'homme,
 Franchement, largement, simplement, l'Amitié.
 
-**** *book_ *id_p20 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p20 *date_1888 
 
 DÉLICATESSE
 
@@ -1048,7 +1048,7 @@ Vertu qui n'es qu'un nom, mais le nom d'un ange,
 Noble dame guidant au ciel qui sourit
 Notre immense effort de parmi cette fange.
 
-**** *book_ *id_p21 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p21 *date_1888 
 
 ANGÉLUS DE MIDI
 
@@ -1103,7 +1103,7 @@ A lui qu'en vous sans plus aucun détour subtil,
 Et mourir avec vous tout près.
       Ainsi soit-il !
 
-**** *book_ *id_p22 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p22 *date_1888 
 
 A LÉON VALADE
 
@@ -1125,7 +1125,7 @@ Mais l'antique amitié, simple, joyeuse, exacte,
 Pendant tout mon désastre, à toute heure, en tout lieu,
 — J'en suis fier, mon Valade, — entre nous tint ce pacte.
 
-**** *book_ *id_p23 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p23 *date_1888 
 
 A ERNEST DELAHAYE
 
@@ -1147,7 +1147,7 @@ Pour le soin du Salut, qui me pique et m'inspire,
 J'estime que, parmi nos façons d'être prêts,
 Il nous faut mettre au rang des meilleures ce rire.
 
-**** *book_ *id_p24 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p24 *date_1888 
 
 A ÉMILE BLÉMONT
 
@@ -1169,7 +1169,7 @@ Ou se turent, la Peur les trouvant paresseux.
 Mais vous, du premier jour vous fûtes simple, brave,
 Fidèle : et dans un cœur bien fait cela se grave.
 
-**** *book_ *id_p25 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p25 *date_1888 
 
 A CHARLES DE SIVRY
 
@@ -1191,7 +1191,7 @@ Et pourtant, pourtant comme ils sont toujours le même
 Homme du chaste espoir de justes noces qu'aime
 Ou non celle qui sous sa tombe d'oubli dort !
 
-**** *book_ *id_p26 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p26 *date_1888 
 
 A EMMANUEL CHABRIER
 
@@ -1213,7 +1213,7 @@ Non toutefois sans saluer à l'horizon,
 Comme une voile sur le large au blanc frisson,
 Le souvenir des frais instants de paix profonde.
 
-**** *book_ *id_p27 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p27 *date_1888 
 
 A EDMOND THOMAS
 
@@ -1235,7 +1235,7 @@ Et pour mon cœur d'or pur le mensonge suprême,
 Puisqu'il n'est de justice, après l'église et Dieu,
 Que celle qu'on se fait, à confesse, soi-même.
 
-**** *book_ *id_p28 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p28 *date_1888 
 
 A CHARLES MORICE
 
@@ -1257,7 +1257,7 @@ Et, pour un conseil froid et bon parfois, l'Ulysse ;
 Artiste pur, poète où la gloire s'assure ;
 Cher aux femmes, cher aux lettres, Charles Morice !
 
-**** *book_ *id_p29 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p29 *date_1888 
 
 A MAURICE DU PLESSYS
 
@@ -1279,7 +1279,7 @@ Aimez-moi donc, aimez quels que soient les soucis
 Plissant parfois mon front et crispant mon sourire,
 Ma haute pauvreté plus chère qu'un empire.
 
-**** *book_ *id_p30 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p30 *date_1888 
 
 A PROPOS D'UN « CENTENAIRE » DE CALDERON
 
@@ -1303,7 +1303,7 @@ Laissez rêver, laissez penser son Œuvre fort
 Qui plane, loin d'un siècle impie et ridicule,
 Au-dessus, au-delà des colonnes d'Hercule !
 
-**** *book_ *id_p31 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p31 *date_1888 
 
 À VICTOR HUGO
 
@@ -1325,7 +1325,7 @@ Or, je sais la louange, ô maître, que vous doit
 L'enthousiasme ancien ; la voici franche, pleine,
 Car vous me fûtes doux en des heures de peine.
 
-**** *book_ *id_p32 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p32 *date_1888 
 
 SAINT BENOIT-JOSEPH LABRE
 
@@ -1347,7 +1347,7 @@ Et pour ainsi montrer au monde qu'il a tort
 Et que les pieds crus d'or et d'argent sont d'argile,
 Comme l'Église est tendre et que Jésus et fort !
 
-**** *book_ *id_p33 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p33 *date_1888 
 
 PARABOLES
 
@@ -1369,7 +1369,7 @@ Car l'animal, meilleur que l'homme et que la femme,
 En ces temps de révolte et de duplicité,
 Fait son humble devoir avec simplicité.
 
-**** *book_ *id_p34 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p34 *date_1888 
 
 SONNET HEROÏQUE
 
@@ -1391,7 +1391,7 @@ L'Ame attend vainement un remords efficace,
 Et dans l'impénitence agonise de faim
 Et de soif, et sanglote en pensant à La fin.
 
-**** *book_ *id_p35 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p35 *date_1888 
 
 DRAPEAU VRAI
 
@@ -1413,7 +1413,7 @@ Famille, foyer, France antique et l'immortelle,
 Le Devoir seul devoir, le Soldat qu'appela
 D'avance cette France : or l'Espérance est telle.
 
-**** *book_ *id_p36 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p36 *date_1888 
 
 PENSÉE DU SOIR
 
@@ -1442,7 +1442,7 @@ A Rome que sa gloire illusoire décore.
 Or, Jésus ! vous m'avez justement obscurci :
 Mais, n'étant pas Ovide, au moins je suis ceci.
 
-**** *book_ *id_p37 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p37 *date_1888 
 
 PAYSAGES
 
@@ -1503,7 +1503,7 @@ Dans les cages plus d'une cloche encore bruit,
 Et, béni signal d'espérance et de refuge,
 L'arc-en-ciel apparaît comme après le déluge.
 
-**** *book_ *id_p38 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p38 *date_1888 
 
 LUCIEN LÉTINOIS
 
@@ -2323,7 +2323,7 @@ Ou bien plutôt, — Seigneur vengeur ! —
 Priez pour un pauvre pêcheur
 Indigne encor du Purgatoire.
 
-**** *book_ *id_p39 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p39 *date_1888 
 
 BATIGNOLLES
 
@@ -2342,7 +2342,7 @@ Fera se dresser nos corps ranimés
 Pour la vie enfin qui jamais ne change,
 O vous, père et mère et fils bien-aimés.
 
-**** *book_ *id_p40 *date_1888 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_amour *style_verse *genre_verse *dist1_verlaine_verse_verse_amour *dist2_verlaine_verse_verse *id_p40 *date_1888 
 
 A GEORGES VERLAINE
 

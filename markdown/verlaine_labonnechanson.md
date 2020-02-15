@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_labonnechanson  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1870  
 title: La bonne chanson  
 ---

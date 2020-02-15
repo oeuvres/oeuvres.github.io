@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_liturgiesintimes  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1892  
 title: Liturgies intimes  
 ---

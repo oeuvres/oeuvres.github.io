@@ -1,6 +1,6 @@
 ---
 identifier: diderot_salon1763  
-creator: Diderot, Denis  
+creator: Diderot, Denis.  
 date: 1763  
 title: Salon de 1763  
 ---

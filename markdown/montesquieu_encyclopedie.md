@@ -1,6 +1,6 @@
 ---
 identifier: montesquieu_encyclopedie  
-creator: Montesquieu  
+creator: Montesquieu.  
 date: 1765  
 title: Articles de l’Encyclopédie  
 ---

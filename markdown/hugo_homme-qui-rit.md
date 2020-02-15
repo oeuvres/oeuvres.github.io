@@ -1,6 +1,6 @@
 ---
 identifier: hugo_homme-qui-rit  
-creator: Hugo, Victor   
+creator: Hugo, Victor.  
 date: 1869  
 title: L'homme qui rit.   
 ---

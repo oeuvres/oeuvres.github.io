@@ -1,6 +1,6 @@
 ---
 identifier: dumas_tulipenoire  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1850  
 title: La Tulipe noire  
 ---

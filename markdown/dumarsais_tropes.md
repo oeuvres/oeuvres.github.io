@@ -1,6 +1,6 @@
 ---
 identifier: dumarsais_tropes  
-creator: Du Marsais, César Chesneau  
+creator: Du Marsais, César Chesneau.  
 date: 1730  
 title: Traité des tropes  
 ---

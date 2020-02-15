@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_mademoisellefifi  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1882  
 title: Mademoiselle Fifi  
 ---

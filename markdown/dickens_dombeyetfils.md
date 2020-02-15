@@ -1,6 +1,6 @@
 ---
 identifier: dickens_dombeyetfils  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1846  
 title: Dombay et fils  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verne_famillesansnom  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date:   
 title: Famille Sans-Nom  
 ---

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p02 *date_1885 *creator_vigny 
+**** *creator_vigny *book_vigny_poesies *style_verse *id_p02 *date_1885 
 
 LIVRE MYSTIQUE  
 
@@ -1373,7 +1373,7 @@ Mais, quand il eut perdu sa force avec la vie,
 Par le ciel et la mer le monde fut rempli,
 Et l'arc-en-ciel brilla, tout étant accompli.
 
-**** *book_ *id_p09 *date_1885 *creator_vigny 
+**** *creator_vigny *book_vigny_poesies *style_verse *id_p09 *date_1885 
 
 LIVRE ANTIQUE  
 
@@ -1487,8 +1487,7 @@ Puis elle vint s'offrir au couteau paternel.
 LA FEMME ADULTÈRE poème⁎
 ⁎ ⁎
 
-« L'adultère attend le soir, et se dit :
-    « Aucun œil ne me verra ; » et il se cache le visage, car la lumière est pour lui comme la mort. »
+« L'adultère attend le soir, et se dit : « Aucun œil ne me verra ; » et il se cache le visage, car la lumière est pour lui comme la mort. »
 
 « Mon lit est parfumé d'aloès et de myrrhe ;
 L'odorant cinnamome et le nard de Palmyre
@@ -1978,7 +1977,7 @@ De débris embaumés couvrent leur souveraine,
 Qui, de ses doigts distraits touchant la lyre d'or,
 Pense au jeune consul, et, rêveuse, s'endort.
 
-**** *book_ *id_p19 *date_1885 *creator_vigny 
+**** *creator_vigny *book_vigny_poesies *style_verse *id_p19 *date_1885 
 
 LIVRE MODERNE  
 
@@ -4013,7 +4012,7 @@ Tu jetteras au vent cette poussière éteinte ;
 Puis, levant seul ta voix dans le désert sans bruit,
 Tu crieras : Pour longtemps le monde est dans la nuit ! »
 
-**** *book_ *id_p34 *date_1885 *creator_vigny 
+**** *creator_vigny *book_vigny_poesies *style_verse *id_p34 *date_1885 
 
 ŒUVRES POSTHUMES⁎
 ⁎ ⁎ 

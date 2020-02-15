@@ -1,6 +1,6 @@
 ---
 identifier: cesar_gaules_1926  
-creator: César, Jules  
+creator: César, Jules.  
 date: 1926  
 title: La guerre des Gaules  
 ---

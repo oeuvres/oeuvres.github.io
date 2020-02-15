@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_odesensonhonneur  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1893  
 title: Odes en son honneur  
 ---

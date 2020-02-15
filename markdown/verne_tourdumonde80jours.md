@@ -1,6 +1,6 @@
 ---
 identifier: verne_tourdumonde80jours  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1873  
 title: Le tour du monde en quatre vingt jours  
 ---

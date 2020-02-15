@@ -1,6 +1,6 @@
 ---
 identifier: proust_recherche3  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date:   
 title: Le Côté de Guermantes — À la recherche du temps perdu  
 ---

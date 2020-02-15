@@ -1,6 +1,6 @@
 ---
 identifier: dumas_pierrotjeunesse  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1853  
 title: La jeunesse de Pierrot  
 ---

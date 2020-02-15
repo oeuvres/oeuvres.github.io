@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 Aquarium mental
 
@@ -90,8 +90,7 @@ Toute vouée à son spectacle intérieur,
 
 Où des rêves ont lui dans l'eau tout argentine.
 
-Et que lui fait alors la Vie ?
-Et qu'est-ce encor
+Et que lui fait alors la Vie ? Et qu'est-ce encor
 
 Ces reflets de surface, éphémère décor ?
 
@@ -398,7 +397,7 @@ Que d'être ainsi quelque mystère qui scintille
 Et de réaliser ce qu'elle a d'éternel,
 Avec l'orgueil un peu triste d'être inutile !
 
-**** *book_ *id_body-2 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 Le soir dans les vitres
 
@@ -835,7 +834,7 @@ Certes le soir est déchirant comme un adieu ;
 L'ombre se tresse au front en couronne d'épines ;
 Mais c'est aussi l'instant où l'on se sent un dieu !
 
-**** *book_ *id_body-3 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 Les lignes de la main
 
@@ -1069,7 +1068,7 @@ Et c'est pourquoi, malgré bonheurs, bijoux, baisers,
 Elle souffre de tous ces fils entrecroisés
 Qui font pleurer en elle une plaie immobile.
 
-**** *book_ *id_body-4 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 Les malades aux fenêtres
 
@@ -1770,7 +1769,7 @@ On semble avoir aussi navigué des années
 Et revenir vieilli dans des villes fanées,
 Triste, ne sachant plus que des gestes d'adieu !
 
-**** *book_ *id_body-5 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 Le voyage dans les yeux
 
@@ -2376,7 +2375,7 @@ Dans la métempsycose éparse des visages…
 
 C'est aussi par ses yeux que l'homme est immortel ?
 
-**** *book_ *id_body-6 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 La tentation des nuages
 
@@ -2750,7 +2749,7 @@ Bonheur subtil d'orner en soi sa destinée
 D'un voyage qu'on rêve et qui n'a pas eu lieu !
 
 
-**** *book_ *id_body-7 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 L'âme sous-marine
 
@@ -2967,7 +2966,7 @@ Et son Entendement dans cette Inconscience
 Heurte la mer et meurt comme un pauvre affluent !
 
 
-**** *book_ *id_body-8 *date_1896 *creator_rodenbach
+**** *creator_rodenbach *book_rodenbach_viesencloses *style_verse *date_1896
 
 Épilogue
 

@@ -1,6 +1,6 @@
 ---
 identifier: dickens_davidcopperfield  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1849  
 title: David Copperfield  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dickens_olivertwist  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1837  
 title: Oliver Twist  
 ---

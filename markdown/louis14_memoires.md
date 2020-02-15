@@ -1,6 +1,6 @@
 ---
 identifier: louis14_memoires  
-creator: Louis 14 (roi de France ; 1638-1715)  
+creator: Louis 14.  
 date:   
 title: Mémoires pour l’instruction du Dauphin  
 ---

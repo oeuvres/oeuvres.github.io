@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_amour  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1888  
 title: Amour  
 ---

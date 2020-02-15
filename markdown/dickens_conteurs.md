@@ -1,6 +1,6 @@
 ---
 identifier: dickens_conteurs  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1886  
 title: Les conteurs à la ronde  
 ---

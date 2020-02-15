@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p1 *date_1880 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_sagesse *style_verse *genre_verse *dist1_verlaine_verse_verse_sagesse *dist2_verlaine_verse_verse *id_p1 *date_1880 
 
 I
 
@@ -971,7 +971,7 @@ Sur la colline de Sion
 Monteront d'une aile bénie
 Aux plis de son assomption.
 
-**** *book_ *id_p2 *date_1880 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_sagesse *style_verse *genre_verse *dist1_verlaine_verse_verse_sagesse *dist2_verlaine_verse_verse *id_p2 *date_1880 
 
 II
 
@@ -1298,7 +1298,7 @@ Et j'aspire en tremblant.
 
       — Pauvre âme, c'est cela !
 
-**** *book_ *id_p3 *date_1880 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_sagesse *style_verse *genre_verse *dist1_verlaine_verse_verse_sagesse *dist2_verlaine_verse_verse *id_p3 *date_1880 
 
 III
 

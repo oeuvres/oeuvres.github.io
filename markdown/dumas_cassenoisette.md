@@ -1,6 +1,6 @@
 ---
 identifier: dumas_cassenoisette  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1845  
 title: Histoire d’un Casse-noisette  
 ---

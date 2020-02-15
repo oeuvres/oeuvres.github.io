@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_montoriol  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1887  
 title: Mont-Oriol  
 ---

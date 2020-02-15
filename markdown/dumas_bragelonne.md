@@ -1,6 +1,6 @@
 ---
 identifier: dumas_bragelonne  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1848  
 title: Le Vicomte de Bragelonne  
 ---

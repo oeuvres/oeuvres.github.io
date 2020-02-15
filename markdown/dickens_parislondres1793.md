@@ -1,6 +1,6 @@
 ---
 identifier: dickens_parislondres1793  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1859  
 title: Paris et Londres en 1793  
 ---

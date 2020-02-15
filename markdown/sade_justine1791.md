@@ -1,6 +1,6 @@
 ---
 identifier: sade_justine1791  
-creator: Sade, Donatien Alphonse François de  
+creator: Sade, Donatien Alphonse François de.  
 date: 1791  
 title: Justine 1791  
 ---

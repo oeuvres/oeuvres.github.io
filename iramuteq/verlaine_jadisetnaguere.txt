@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_jadis *date_1884 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_jadisetnaguere *style_verse *genre_verse *dist1_verlaine_verse_verse_jadisetnaguere *dist2_verlaine_verse_verse *id_jadis *date_1884 
 
 JADIS
 
@@ -31,7 +31,7 @@ Que dès hier renia
 Mon cœur quêtant d'autres proies...
 Allez, æigri somnia.
 
-**** *book_ *id_p3 *date_1884 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_jadisetnaguere *style_verse *genre_verse *dist1_verlaine_verse_verse_jadisetnaguere *dist2_verlaine_verse_verse *id_p3 *date_1884 
 
 SONNETS ET AUTRES VERS
 
@@ -1034,7 +1034,7 @@ Mélancolique et morose.
 La vie est-elle une chose
 Grave et réelle à ce point ?
 
-**** *book_ *id_p24 *date_1884 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_jadisetnaguere *style_verse *genre_verse *dist1_verlaine_verse_verse_jadisetnaguere *dist2_verlaine_verse_verse *id_p24 *date_1884 
 
 VERS JEUNES
 
@@ -1551,7 +1551,7 @@ Feront vos membres nets et fouilleront vos troncs,
 Et nous rirons, sans rien qui trouble notre joie,
 Car les morts sont bien morts et nous vous l'apprendrons.
 
-**** *book_ *id_p31 *date_1884 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_jadisetnaguere *style_verse *genre_verse *dist1_verlaine_verse_verse_jadisetnaguere *dist2_verlaine_verse_verse *id_p31 *date_1884 
 
 A LA MANIÈRE DE PLUSIEURS
 
@@ -1784,7 +1784,7 @@ L'eau morte a bu le vent qui coule du grand mât
 T'y jeter, palme ! et d'avance mon repentir
 Parle si bas qu'il faut être sourd pour l'ouïr.
 
-**** *book_ *id_p42 *date_1884 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_jadisetnaguere *style_verse *genre_verse *dist1_verlaine_verse_verse_jadisetnaguere *dist2_verlaine_verse_verse *id_p42 *date_1884 
 
 NAGUÈRE
 

@@ -1,6 +1,6 @@
 ---
 identifier: dumas_othonlarcher  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1838  
 title: Othon l’Archer  
 ---

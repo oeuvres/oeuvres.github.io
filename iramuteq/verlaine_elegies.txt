@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p1 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p1 *date_1893 
 
 I
 
@@ -118,7 +118,7 @@ Très maussade entre temps, car il faut bien qu'on rie,
 Gaie à l'excès, car il faut bien qu'on pleure aussi,
 Et le reste... Mais quoi, tu m'es tout, — et merci !
 
-**** *book_ *id_p2 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p2 *date_1893 
 
 II
 
@@ -187,7 +187,7 @@ Mieux encore que conjugal, presque chrétien
 
 O l'humble bouchon d'où m'afflua tout ce bien...
 
-**** *book_ *id_p3 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p3 *date_1893 
 
 III
 
@@ -253,7 +253,7 @@ Quasiment à l'instant d'être dispose au bain.
 
 La femme, et juste assez, c'est le vin et le pain.
 
-**** *book_ *id_p4 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p4 *date_1893 
 
 IV
 
@@ -288,7 +288,7 @@ Plus de manières ni de tics, plus d'airs hagards.
 Que d'armistice en armistice, une paix franche
 Éternise ce nid d'oiseaux bleus sur la branche.
 
-**** *book_ *id_p5 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p5 *date_1893 
 
 V
 
@@ -376,7 +376,7 @@ L'ingrate, aime-moi, va, tout mon cœur t'en supplie ;
 Aime mon sacrifice en moi, fais-moi ce don,
 Et si tu ne le peux sans peine, ô toi, pardon !
 
-**** *book_ *id_p6 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p6 *date_1893 
 
 VI
 
@@ -454,7 +454,7 @@ Longtemps, le souvenir de satin et de soie.
 
 O tes mains, les dispensatrices de ma joie !
 
-**** *book_ *id_p7 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p7 *date_1893 
 
 VII
 
@@ -535,7 +535,7 @@ Bonne guerre, après tout, et m'en taire siérait.
 
 O tout de même, si qu'on se pardonnerait ?
 
-**** *book_ *id_p8 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p8 *date_1893 
 
 VIII
 Vrai, là, mais quel bourreau d'argent tu fais, petite !
@@ -630,7 +630,7 @@ Chez toi, chez moi plutôt.
       Voilà, chère.
 Et maintenant faisez le beau, baisez mémère.
 
-**** *book_ *id_p9 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p9 *date_1893 
 
 IX
 
@@ -705,7 +705,7 @@ Ton conseil est le seul, tu gagnes mes combats,
 Et la gaieté de ton corps blanc et brun et rose
 M'absout de tout dans telle nôtre apothéose.
 
-**** *book_ *id_p10 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p10 *date_1893 
 
 X
 
@@ -783,7 +783,7 @@ De tes ruses dans l'art joli de me duper.
 
 Le mieux serait pourtant de ne pas me tromper.
 
-**** *book_ *id_p11 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p11 *date_1893 
 
 XI
 
@@ -813,7 +813,7 @@ Ah ! malheur à celui pris dans cet affreux pot
 Au noir
       (Tiens, chère ! Que charmante ce tantôt !)
 
-**** *book_ *id_p12 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_elegies *style_verse *genre_verse *dist1_verlaine_verse_verse_elegies *dist2_verlaine_verse_verse *id_p12 *date_1893 
 
 XII
 

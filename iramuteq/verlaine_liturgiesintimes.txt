@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p148 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p148 *date_1892 
 
 A CHARLES BAUDELAIRE
 
@@ -22,7 +22,7 @@ Poussaient belles d'espoir au Calvaire touché !
 Ci, çà, grimaces, art, pleurent de leurs déroutes.
 Hein ? mourir simplement, nous, hommes de péché.
 
-**** *book_ *id_p149 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p149 *date_1892 
 
 ASPERGES ME
 
@@ -55,7 +55,7 @@ Par quel rayon ? — ainsi qu'une eau lustrale, mon sang bout, —
 
 Moi qui ne suis qu'un brin d'hysope dans la main...
 
-**** *book_ *id_p150 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p150 *date_1892 
 
 AVENT
 
@@ -86,7 +86,7 @@ Vigilants, tels au temps de Pierre,
 Souffrent, mais, en dépit des chocs
 D'ombre, chantent, et l'âme espère.
 
-**** *book_ *id_p151 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p151 *date_1892 
 
 NOÈL
 
@@ -122,7 +122,7 @@ Ou bienheureux ? — foule asservie
 
 Ou troupe libre, à quel calvaire ?
 
-**** *book_ *id_p152 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p152 *date_1892 
 
 SAINTS INNOCENTS
 
@@ -152,7 +152,7 @@ Sûre de l'absolution
 De son prêtre à lui, le Seigneur,
 Ressuscite ma chair ravie.
 
-**** *book_ *id_p153 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p153 *date_1892 
 
 CIRCONCISION
 
@@ -188,7 +188,7 @@ S'éjouiront plus que de coutume, et les anges,
 Pour ce que cette année, elle à peine dans les langes,
 Dès son premier souffle, a ces haleines amoureuses.
 
-**** *book_ *id_p154 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p154 *date_1892 
 
 ROIS
 
@@ -229,7 +229,7 @@ Tu sauras bien reconnaître
 Et magnifier les tiens,
 Riches, pauvres, tous chrétiens.
 
-**** *book_ *id_p155 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p155 *date_1892 
 
 KYRIE ELEISON
 
@@ -264,7 +264,7 @@ Seigneur, par l'Espérance, ouvrez-nous,
 
  Ayez pitié de nous, Seigneur !
 
-**** *book_ *id_p156 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p156 *date_1892 
 
 GLORIA IN EXCELSIS
 
@@ -310,7 +310,7 @@ Dieu des cieux, avec l'Esprit,
 Dans le Père,
       Ainsi soit-il.
 
-**** *book_ *id_p157 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p157 *date_1892 
 
 CREDO
 
@@ -338,7 +338,7 @@ De l'Église de Rome, au saint baptême,
 En la vie éternelle.
       Vœu suprême.
 
-**** *book_ *id_p158 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p158 *date_1892 
 
 ASCENSION
 
@@ -379,7 +379,7 @@ Notre nuit n'y pourrait suivre
 Avant la mort sa clarté :
 Ah ! d'esprit allons y vivre !
 
-**** *book_ *id_p159 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p159 *date_1892 
 
 VENI, SANCTE
 
@@ -415,7 +415,7 @@ D'édifier le paupérisme
 D'esprit et d'argent, qu'ils réin-
 Tègrent un peu le Catéchisme.
 
-**** *book_ *id_p160 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p160 *date_1892 
 
 JUIN
 
@@ -446,7 +446,7 @@ Essentielle, de leur gagner la victoire
 Éternelle. Et l'encens de l'immuable été
 Monte mystiquement en des douceurs de gloire.
 
-**** *book_ *id_p161 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p161 *date_1892 
 
 SANCTUS
 
@@ -472,7 +472,7 @@ Hosanna sur terre et dans les cieux.
 Deux fois hosanna pour l'homme glorieux !
 Trois fois hosanna pour Dieu miséricordieux.
 
-**** *book_ *id_p162 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p162 *date_1892 
 
 IMMACULÉE CONCEPTION
 
@@ -526,7 +526,7 @@ Participant à toute l'histoire
 De notre vie intime et de tous
 Les hauts débats de la grande histoire.
 
-**** *book_ *id_p163 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p163 *date_1892 
 
 DÉVOTIONS
 
@@ -567,7 +567,7 @@ Ses miracles ! — O mœurs plus intimes du culte,
 Eh oui, c'est encor vous, en dépit de l'insulte,
 Qui nous sauvez, peut-être, à tel moment donné.
 
-**** *book_ *id_p164 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p164 *date_1892 
 
 AGNUS DEI
 
@@ -589,7 +589,7 @@ Agneau de Dieu, vois, prends pitié de ce que nous sommes,
  O l'agneau terrible en ta juste colère,
 O toi, seul Agneau, Dieu le seul fils de Dieu le Père.
 
-**** *book_ *id_p165 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p165 *date_1892 
 
 TOUSSAINT
 
@@ -630,7 +630,7 @@ De la terre et du Purgatoire,
 Prions de façon méritoire
 Ceux de là-haut qui sont les saints.
 
-**** *book_ *id_p166 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p166 *date_1892 
 
 IN INITIO
 
@@ -676,7 +676,7 @@ Sur ma tête frivole et folle,
 Bon prêtre étendant ton étole,
 Dis l'évangile de saint Jean.
 
-**** *book_ *id_p167 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p167 *date_1892 
 
 VÊPRES RUSTIQUES
 
@@ -739,7 +739,7 @@ Des fidèles, on rejoint meilleurs le hameau.
 Le soir on soupe mieux, et quand la nuit invite
 Au sommeil, on s'endort bien à l'aise et plus vite.
 
-**** *book_ *id_p168 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p168 *date_1892 
 
 COMPLIES EN VILLE
 
@@ -775,7 +775,7 @@ Et le vieux Siméon dit l'extase dernière !
 
 Recommandons notre âme au Dieu de vérité.
 
-**** *book_ *id_p169 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p169 *date_1892 
 
 PRUDENCE
 
@@ -813,7 +813,7 @@ Et les yeux éblouis et tous les sens tremblants.
   A la Vierge Marie,
 Et marche vers la bonne mort à pas bien lents.
 
-**** *book_ *id_p170 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p170 *date_1892 
 
 PÉNITENCE
 
@@ -844,7 +844,7 @@ Luxure, orgueil, colère et toute la filière,
 J'invoque ton secours, Vertu particulière,
 Seule agréable à Dieu qui voit mon cœur affreux.
 
-**** *book_ *id_p171 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p171 *date_1892 
 
 OPPORTET HÆRESES ESSE
 
@@ -870,7 +870,7 @@ De larmes sur l'erreur d'un jour,
 Songe au pardon du Dieu d'amour.
 Opportet hæreses esse.
 
-**** *book_ *id_p172 *date_1892 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_liturgiesintimes *style_verse *genre_verse *dist1_verlaine_verse_verse_liturgiesintimes *dist2_verlaine_verse_verse *id_p172 *date_1892 
 
 FINAL
 

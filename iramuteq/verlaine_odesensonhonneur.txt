@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p173 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p173 *date_1893 
 
 I
 
@@ -46,7 +46,7 @@ Sans doute à te faire sereine :
 Toujours triste du temps fané,
 Du moins, souris au vieux damné.
 
-**** *book_ *id_p174 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p174 *date_1893 
 
 II
 
@@ -92,7 +92,7 @@ Tu m'as, chère, pour te défendre,
 Te plaire, si tu veux m'entendre
 Et voir, encore que laid et bête.
 
-**** *book_ *id_p175 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p175 *date_1893 
 
 III
 
@@ -131,7 +131,7 @@ Et maintenant vers l'ombre blanche — et noire un peu,
 Plus par en bas et plus intime son fier jeu
   Dès lors naïf et tendre !
 
-**** *book_ *id_p176 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p176 *date_1893 
 
 IV
 
@@ -175,7 +175,7 @@ Recueillons-nous pourtant, pensons aux fins célestes
 Afin qu'après ma mort ou, las ! après la tienne,
 Le survivant pour l'absent prie, ô ma chrétienne !
 
-**** *book_ *id_p177 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p177 *date_1893 
 
 V
 
@@ -206,7 +206,7 @@ Elle : « Comme je t'aimais mieux, je mourrai plus que toi. »
  ... Et je me réveillai de ce colloque
 Hélas ! C'était un rêve (un rêve ou bien quoi ?) ce colloque.
 
-**** *book_ *id_p178 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p178 *date_1893 
 
 VI
 
@@ -252,7 +252,7 @@ Nous ne sommes pas l'homme
 Pour la docte Sodome
 Quand la Femme il y a.
 
-**** *book_ *id_p179 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p179 *date_1893 
 
 VII
 
@@ -281,7 +281,7 @@ Acclamant un vainqueur justement renommé,
 Et l'aurore éclatant aux carreaux de la chambre
 Attestait sans mentir que nous avions aimé.
 
-**** *book_ *id_p180 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p180 *date_1893 
 
 VIII
 
@@ -320,7 +320,7 @@ Où j'entre, tous torts révolus,
 Comme on monterait au ciel. Pieds
 Divins, genoux fins, bonnes cuisses !
 
-**** *book_ *id_p181 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p181 *date_1893 
 
 IX
 
@@ -352,7 +352,7 @@ Suis content et vois tout en rose.
 
 Qu'on s'attache à sa chose.
 
-**** *book_ *id_p182 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p182 *date_1893 
 
 X
 
@@ -444,7 +444,7 @@ Des voiles de l'Idole
 De ce temple charmant,
 Frisons chers doublement !
 
-**** *book_ *id_p183 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p183 *date_1893 
 
 XI
 
@@ -480,7 +480,7 @@ Puis, au repos, — cuisses, genoux, mollet, —
 Fleurant comme ambre et blanches comme lait :
 — Tel le pastel d'après ma femme nue.
 
-**** *book_ *id_p184 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p184 *date_1893 
 
 XII
 
@@ -554,7 +554,7 @@ O tête belle et bonne
 Et mauvaise — et couronne
 Du trône, tes Épaules.
 
-**** *book_ *id_p185 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p185 *date_1893 
 
 XIII
 
@@ -588,7 +588,7 @@ Et ses yeux allumés encor d'un brin de fièvre
 Par la goutte de rhum bue en trinquant gaîment
 Avec moi, présage gentil d'un choc bien plus charmant
 
-**** *book_ *id_p186 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p186 *date_1893 
 
 XIV
 
@@ -641,7 +641,7 @@ Pour nous ressusciter ensuite,
 C'est de rester à deux, vraiment,
 Bon cœur et mauvais garnement.
 
-**** *book_ *id_p187 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p187 *date_1893 
 
 XV
 
@@ -687,7 +687,7 @@ Charmante aussi comme une sainte
 Envers ce moi, bon vieil amant,
 Le dernier, hein, probablement ?
 
-**** *book_ *id_p188 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p188 *date_1893 
 
 XVI
 
@@ -726,7 +726,7 @@ Toi, souris-moi du moins entre deux confidences,
 Amazone blessée ès belles imprudences
 Qui se réveille au sein d'un vieux brave écuyer.
 
-**** *book_ *id_p189 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p189 *date_1893 
 
 XVII
 
@@ -755,7 +755,7 @@ Assez, dis, de malentendus,
 Et si tu veux — car je le dus —
 Or, je t'emmène à la campagne.
 
-**** *book_ *id_p190 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p190 *date_1893 
 
 XVIII
 
@@ -801,7 +801,7 @@ Sur tes rivales somnifères.
 Mais que n'ont-ils le don si cher,
 Si pur ? Fleurer comme ta chair !
 
-**** *book_ *id_p191 *date_1893 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_odesensonhonneur *style_verse *genre_verse *dist1_verlaine_verse_verse_odesensonhonneur *dist2_verlaine_verse_verse *id_p191 *date_1893 
 
 XIX
 

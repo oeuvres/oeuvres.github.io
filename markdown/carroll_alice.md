@@ -1,6 +1,6 @@
 ---
 identifier: carroll_alice  
-creator: Carroll, Lewis  
+creator: Carroll, Lewis.  
 date: 1865  
 title: Alice au pays des merveilles  
 ---

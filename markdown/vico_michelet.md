@@ -1,6 +1,6 @@
 ---
 identifier: vico_michelet  
-creator: Vico, Giambattista  
+creator: Vico, Giambattista.  
 date: 1827  
 title: Principes de la philosophie de l’histoire (trad. Michelet)  
 ---

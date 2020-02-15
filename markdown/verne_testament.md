@@ -1,6 +1,6 @@
 ---
 identifier: verne_testament  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1899  
 title: Le Testament d’un excentrique  
 ---

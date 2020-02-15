@@ -1,6 +1,6 @@
 ---
 identifier: boisguilbert_detail  
-creator: Boisguilbert, Pierre Le Pesant de (1646-1714)  
+creator: Boisguilbert, Pierre Le Pesant de.  
 date:   
 title: Détail de la France, Factum de la France, opuscules divers  
 ---

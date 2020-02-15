@@ -1,6 +1,6 @@
 ---
 identifier: holbach_moraleuniverselle  
-creator: Holbach, Paul-Henri Thiry D’  
+creator: Holbach, Paul-Henri Thiry D’.  
 date: 1776  
 title: La Morale universelle ou Les Devoirs de l’homme fondés sur sa nature  
 ---

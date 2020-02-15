@@ -1,6 +1,6 @@
 ---
 identifier: verne_secondepatrie  
-creator: Verne, Jules(1828-1905)  
+creator: Verne, Jules.  
 date:   
 title: [Seconde patrie]  
 ---

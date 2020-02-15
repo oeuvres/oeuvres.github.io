@@ -1,6 +1,6 @@
 ---
 identifier: stendhal_rougenoir  
-creator: Stendhal (1783-1842)  
+creator: Stendhal.  
 date: 1830  
 title: Le Rouge et le noir  
 ---

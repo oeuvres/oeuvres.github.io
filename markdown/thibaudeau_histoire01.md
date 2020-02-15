@@ -1,6 +1,6 @@
 ---
 identifier: thibaudeau_histoire01  
-creator: Thibaudeau, Antoine-Clair (1765-1854)  
+creator: Thibaudeau, Antoine-Clair.  
 date:   
 title: Le Consulat et l’Empire, tome I  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: darwin_origine-des-especes  
-creator: Darwin, Charles  
+creator: Darwin, Charles.  
 date: 1870  
 title: De l’origine des espèces par sélection naturelle, ou Des lois de transformation des êtres organisés  
 ---

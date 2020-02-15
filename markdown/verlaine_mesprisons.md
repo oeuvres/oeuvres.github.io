@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_mesprisons  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1893  
 title: Mes prisons  
 ---

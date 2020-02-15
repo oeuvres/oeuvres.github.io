@@ -1,6 +1,6 @@
 ---
 identifier: dumas_filleregent  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1844  
 title: Une fille du Régent  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_poetesmaudits  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1888  
 title: Les poètes maudits  
 ---

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_chap01
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap01
 
 Chapitre premier
 
@@ -22,7 +22,7 @@ Le plaisir physique, étant dans la nature, est connu de tout le monde, mais n'a
 
 Quelques femmes vertueuses et tendres n'ont presque pas d'idée des plaisirs physiques ; elles s'y sont rarement exposées, si l'on peut parler ainsi, et même alors les transports de l'amour-passion ont presque fait oublier les plaisirs du corps.Il est des hommes victimes et instruments d'un orgueil infernal, d'un orgueil à l'Alfieri.Ces gens, qui peut-être sont cruels, parce que, comme Néron, ils tremblent toujours, jugeant tous les hommes d'après leur propre cœur, ces gens, dis-je, ne peuvent atteindre au plaisir physique qu'autant qu'il est accompagné de la plus grande jouissance d'orgueil possible, c'est-à-dire qu'autant qu'ils exercent des cruautés sur la compagne de leurs plaisirs.De là les horreurs de Justine.Ces hommes ne trouvent pas à moins le sentiment de la sûreté.Au reste, au lieu de distinguer quatre amours différents, on peut fort bien admettre huit ou dix nuances.Il y a peut-être autant de façons de sentir parmi les hommes que de façons de voir, mais ces différences dans la nomenclature ne changent rien aux raisonnements qui suivent.Tous les amours qu'on peut voir ici-bas naissent, vivent et meurent, ou s'élèvent à l'immortalité, suivant les mêmes lois.
 
-**** *book_ *id_chap02
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap02
 
 Chapitre II. De la naissance de l'amour.
 
@@ -58,7 +58,7 @@ Le moment le plus déchirant de l'amour jeune encore est celui où il s'aperçoi
 
 On entre en doute de la cristallisation elle-même.
 
-**** *book_ *id_chap03
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap03
 
 Chapitre III. De l'espérance.
 
@@ -74,7 +74,7 @@ Dès que les cristallisations ont opéré, surtout la seconde, qui de beaucoup e
 
 La perfection de certains charmes dont lui parle un ancien ami de sa belle, et une certaine nuance de vivacité aperçue dans ses yeux, sont un diamant de la cristallisation de Del Rosso.Ces idées aperçues dans une soirée le font rêver toute une nuit.Une répartie imprévue qui me fait voir plus clairement une âme tendre, généreuse, ardente, ou, comme dit le vulgaire, romanesque, et mettant au-dessus du bonheur des rois le simple plaisir de se promener seule avec son amant à minuit, dans un bois écarté, me donne aussi à rêver toute une nuit.Il dira que ma maîtresse est une prude ; je dirai que la sienne est une fille.
 
-**** *book_ *id_chap04
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap04
 
 Chapitre IV.
 
@@ -84,7 +84,7 @@ Dans ce cas, l'amour plaît d'abord comme amusant.L'étonnement et l'espérance 
 
 2 Quel plaisir, etc.3 L'espérance.4 L'amour est né.5 Première cristallisation.6 Le doute paraît.7 Seconde cristallisation.Il peut s'écouler un an entre le n 1 et le n 2.Un mois entre le n 2 et le n 3 ; si l'espérance ne se hâte pas de venir, l'on renonce insensiblement au n 2, comme donnant du malheur.Un clin d'œil entre le n 3 et le n 4.Il n'y a pas d'intervalle entre le n 4 et le n 5.Ils ne sauraient être séparés que par l'intimité.Il peut s'écouler quelques jours suivant le degré d'impétuosité et les habitudes de hardiesse du caractère entre les n 5 et 6 ; et il n'y a pas d'intervalle entre le 6 et le 7.
 
-**** *book_ *id_chap05
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap05
 
 Chapitre V.
 
@@ -94,7 +94,7 @@ L'amour est comme la fièvre, il naît et s'éteint sans que la volonté y ait l
 
 Enfin, l'amour est de tous les âges : voyez la passion de Mme Du Deffand pour le peu gracieux Horace Walpole.L'on se souvient peut-être encore à Paris d'un exemple plus récent, et surtout plus aimable.Je n'admets en preuve des grandes passions que celles de leurs conséquences qui sont ridicules.Par exemple, la timidité, preuve de l'amour ; je ne parle pas de la mauvaise honte au sortir du collège.
 
-**** *book_ *id_chap06
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap06
 
 Chapitre VI. Le rameau de Salzbourg.
 
@@ -108,7 +108,7 @@ C'est parce qu'on ne peut se rendre compte du pourquoi de ses sentiments, que l'
 
 On ne peut pas à volonté se prouver qu'on a raison contre tel contradicteur.
 
-**** *book_ *id_chap07
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap07
 
 Chapitre VII. Des différences entre la naissance de l'amour dans les deux sexes.
 
@@ -126,7 +126,7 @@ Donnez à régler à votre femme vos affaires avec les fermiers de deux de vos t
 
 C'est qu'elles sont toujours et partout avides d'émotion : voyez les plaisirs de l'enterrement en Écosse.
 
-**** *book_ *id_chap08
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap08
 
 Chapitre VIII.
 
@@ -146,13 +146,13 @@ Le rôle de l'amant est plus simple ; il regarde les yeux de ce qu'il aime, un 
 
 Un soir, à un petit jeu, il lui a baisé la main ; on remarque que depuis elle ne permet plus, sous aucun prétexte et même au risque de paraître singulière, qu'on lui baise la main.Dans un homme, on appellerait cette conduite de l'amour féminin, nous disait Léonore.
 
-**** *book_ *id_chap09
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap09
 
 Chapitre IX.
 
 Je fais tous les efforts possibles pour être sec.Je veux imposer silence à mon cœur qui croit avoir beaucoup à dire.Je tremble toujours de n'avoir écrit qu'un soupir, quand je crois avoir noté une vérité.
 
-**** *book_ *id_chap10
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap10
 
 Chapitre X.
 
@@ -174,7 +174,7 @@ Dans l'amour-goût, et peut-être dans les premières cinq minutes de l'amour-pa
 
 De là les succès des princes et des officiers.Les jolies femmes de la cour du vieux Louis XIV étaient amoureuses de ce prince.Il faut bien se garder de présenter des facilités à l'espérance, avant d'être sûr qu'il y a de l'admiration.On ferait naître la fadeur, qui rend à jamais l'amour impossible, ou du moins que l'on ne peut guérir que par la pique d'amour-propre.On ne sympathise pas avec le niais, ni avec le sourire à tout venant ; de là, dans le monde, la nécessité d'un vernis de rouerie ; c'est la noblesse des manières.On ne cueille pas même le rire sur une plante trop avilie.En amour, notre vanité dédaigne une victoire trop facile, et, dans tous les genres, l'homme n'est pas sujet à s'exagérer le prix de ce qu'on lui offre.
 
-**** *book_ *id_chap11
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap11
 
 Chapitre XI.
 
@@ -190,7 +190,7 @@ La cristallisation formée dans la tête de chaque homme doit porter la couleur 
 
 La cristallisation de la maîtresse d'un homme, ou sa beauté, n'est autre chose que la collection de toutes les satisfactions de tous les désirs qu'il a pu former successivement à son égard.
 
-**** *book_ *id_chap12
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap12
 
 Chapitre XII. Suite de la cristallisation.
 
@@ -206,7 +206,7 @@ Du moment qu'il aime, l'homme le plus sage ne voit plus aucun objet tel qu'il es
 
 Une marque effrayante que la tête se perd, c'est qu'en pensant à quelque petit fait, difficile à observer, vous le voyez blanc, et vous l'interprétez en faveur de votre amour ; un instant après vous vous apercevez qu'en effet il était noir, et vous le trouvez encore concluant en faveur de votre amour.C'est alors qu'une âme en proie aux incertitudes mortelles sent vivement le besoin d'un ami ; mais pour un amant il n'est plus d'ami.On savait cela à la cour.Voilà la source du seul genre d'indiscrétion qu'une femme délicate puisse pardonner.
 
-**** *book_ *id_chap13
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap13
 
 Chapitre XIII. Du premier pas, du grand monde, des malheurs.
 
@@ -224,7 +224,7 @@ Quand les malheurs propres de l'amour sont mêlés d'autres malheurs (de malheur
 
 Remarquez que les malheurs favorisent la naissance de l'amour chez les caractères légers ou insensibles ; et qu'après sa naissance, si les malheurs sont antérieurs, ils favorisent l'amour en ce que l'imagination, rebutée des autres circonstances de la vie qui ne fournissent que des images tristes, se jette tout entière à opérer la cristallisation.
 
-**** *book_ *id_chap14
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap14
 
 Chapitre XIV.
 
@@ -242,7 +242,7 @@ Quant aux nouvelles vues qu'un roman suggère pour la connaissance du cœur huma
 
 Plus un homme est grand artiste, plus il doit désirer les titres et les décorations, comme rempart.
 
-**** *book_ *id_chap15
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap15
 
 Chapitre XV.
 
@@ -250,7 +250,7 @@ L'on rencontre, au milieu de la passion la plus violente et la plus contrariée,
 
 C'est que la dernière visite que vous avez faite à ce que vous aimez vous a mis dans une position sur laquelle, une autre fois, votre imagination a moissonné tout ce qu'elle peut donner de sensations.Par exemple, après une période de froideur, elle vous traite moins mal, et vous laisse concevoir exactement le même degré d'espérance, et par les mêmes signes extérieurs, qu'à une autre époque ; tout cela peut-être sans qu'elle s'en doute.L'imagination trouvant en son chemin la mémoire et ses tristes avis, la cristallisation cesse à l'instant.
 
-**** *book_ *id_chap16
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap16
 
 Chapitre XVI.
 
@@ -268,7 +268,7 @@ Si je la mets en doute aujourd'hui, c'est peut-être que j'ai perdu le souvenir 
 
 L'amant qui est bien avec ce qu'il aime, jouit avec transport du fameux duetto d'armida e rinaldo de Rossini, qui peint si juste les petits doutes de l'amour heureux, et les moments de délices qui suivent les raccommodements.Le morceau instrumental qui est au milieu du duetto, au moment où Rinaldo veut fuir, et qui représente d'une manière si étonnante le combat des passions, lui semble avoir une influence physique sur son cœur, et le toucher réellement.Je n'ose dire ce que je sens à cet égard ; je passerais pour fou auprès des gens du nord.
 
-**** *book_ *id_chap17
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap17
 
 Chapitre XVII. La beauté détrônée par l'amour.
 
@@ -276,7 +276,7 @@ Albéric rencontre dans une loge une femme plus belle que sa maîtresse : je su
 
 Si l'on parvient ainsi à préférer et à aimer la laideur, c'est que dans ce cas la laideur est beauté.Un homme aimait à la passion une femme très maigre et marquée de petite-vérole ; la mort la lui ravit.Trois ans après, à Rome, admis dans la familiarité de deux femmes, l'une plus belle que le jour, l'autre maigre, marquée de petite-vérole, et par là, si vous voulez, assez laide ; je le vois aimer la laide au bout de huit jours qu'il emploie à effacer sa laideur par ses souvenirs ; et, par une coquetterie bien pardonnable, la moins jolie ne manqua pas de l'aider en lui fouettant un peu le sang, chose utile à cette opération.Un homme rencontre une femme, et est choqué de sa laideur ; bientôt, si elle n'a pas de prétentions, sa physionomie lui fait oublier les défauts de ses traits, il la trouve aimable et conçoit qu'on puisse l'aimer ; huit jours après il a des espérances, huit jours après on les lui retire, huit jours après il est fou.
 
-**** *book_ *id_chap18
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap18
 
 Chapitre XVIII.
 
@@ -286,7 +286,7 @@ Une jeune fille qu'on menait au français pour la première fois pouvait bien se
 
 Rappelons-nous que la beauté est l'expression du caractère, ou, autrement dit, des habitudes morales, et qu'elle est par conséquent exempte de toute passion.Or c'est de la passion qu'il nous faut ; la beauté ne peut nous fournir que des probabilités sur le compte d'une femme, et encore des probabilités sur ce qu'elle est de sang-froid ; et les regards de votre maîtresse marquée de petite-vérole sont une réalité charmante qui anéantit toutes les probabilités possibles.
 
-**** *book_ *id_chap19
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap19
 
 Chapitre XIX. Suite des exceptions à la beauté.
 
@@ -304,7 +304,7 @@ Comment faire pour ne pas lier des sentiments généreux ou aimables à la physi
 
 « Dans ma première jeunesse, enthousiaste de cette ennuyeuse tragédie française, quand j'avais le bonheur de souper avec Mlle Olivier, à tous les instants je me surprenais le cœur rempli de respect, à croire parler à une reine ; et réellement je n'ai jamais bien su si auprès d'elle j'avais été amoureux d'une reine ou d'une jolie fille. »
 
-**** *book_ *id_chap20
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap20
 
 Chapitre XX.
 
@@ -314,7 +314,7 @@ L'homme qui a éprouvé le battement de cœur que donne de loin le chapeau de sa
 
 Les femmes extrêmement belles étonnent moins le second jour.C'est un grand malheur, cela décourage la cristallisation.Leur mérite étant visible à tous, et formant décoration, elles doivent compter plus de sots dans la liste de leurs amants, des princes, des millionnaires, etc.
 
-**** *book_ *id_chap21
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap21
 
 Chapitre XXI. De la première vue.
 
@@ -326,7 +326,7 @@ Je citerai le commencement des amours de Séraphine ( Gil Blas, tome II, p 142).
 
 « Si quelque chose caractérise un siècle infâme, c'est un pareil sujet de triomphe, c'est le ridicule d'une telle joie, et, dans la perspective, la cruauté prude avec laquelle la même société versera le mépris à pleines mains sur la moindre imprudence d'une pauvre jeune femme amoureuse. »Tout ce qui est cérémonie, par son essence d'être une chose affectée et prévue d'avance, dans laquelle il s'agit de se comporter d'une manière convenable, paralyse l'imagination et ne la laisse éveillée que pour ce qui est contraire au but de la cérémonie, et ridicule ; de là l'effet magique de la moindre plaisanterie.Une pauvre jeune fille, comblée de timidité et de pudeur souffrante, durant la présentation officielle du futur, ne peut songer qu'au rôle qu'elle joue ; c'est encore une manière sûre d'étouffer l'imagination.Il est beaucoup plus contre la pudeur de se mettre au lit avec un homme qu'on n'a vu que deux fois, après trois mots latins dits à l'église, que de céder malgré soi à un homme qu'on adore depuis deux ans.Mais je parle un langage absurde.C'est le papisme qui est la source féconde des vices et du malheur qui suivent nos mariages actuels.Il rend impossible la liberté pour les jeunes filles avant le mariage, et le divorce après, quand elles se sont trompées, ou plutôt quand on les a trompées dans le choix qu'on leur fait faire.Voyez l'Allemagne, ce pays des bons ménages ; une aimable princesse (mme la duchesse de Sagan vient de s'y marier en tout bien et tout honneur pour la quatrième fois, et elle n'a pas manqué d'inviter à la fête ses trois premiers maris avec lesquels elle est très bien.Voilà l'excès ; mais un seul divorce qui punit un mari de ses tyrannies, empêche des milliers de mauvais ménages.Ce qu'il y a de plaisant, c'est que Rome est l'un des pays où l'on voit le plus de divorces.L'amour aime, à la première vue, une physionomie qui indique à la fois dans un homme quelque chose à respecter et à plaindre.
 
-**** *book_ *id_chap22
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap22
 
 Chapitre XXII. De l'engouement.
 
@@ -334,7 +334,7 @@ Des esprits fort délicats sont très susceptibles de curiosité et de préventi
 
 Avant que la sensation, qui est la conséquence de la nature des objets, arrive jusqu'à elles, elles les couvrent de loin et avant de les voir, de ce charme imaginaire dont elles trouvent en elles-mêmes une source inépuisable.Puis, en s'en approchant, elles voient ces choses, non telles qu'elles sont, mais telles qu'elles les ont faites, et, jouissant d'elles-mêmes sous l'apparence de tel objet, elles croient jouir de cet objet.Mais, un beau jour, on se lasse de faire tous les frais, on découvre que l'objet adoré ne renvoie pas la balle ; l'engouement tombe, et l'échec qu'éprouve l'amour-propre rend injuste envers l'objet trop apprécié.
 
-**** *book_ *id_chap23
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap23
 
 Chapitre XXIII. Des coups de foudre.
 
@@ -360,7 +360,7 @@ Les gens d'esprit savent voir, c'est-à-dire mettre à profit ces coups de foudr
 
 L'amour-physique a aussi ses coups de foudre.Nous avons vu hier la plus jolie femme et la plus facile de Berlin, rougir tout à coup dans sa calèche où nous étions avec elle.Le beau lieutenant Findorff venait de passer.Elle est tombée dans la rêverie profonde, dans l'inquiétude.Le soir, à ce qu'elle m'avoua au spectacle, elle avait des folies, des transports, elle ne pensait qu'à Findorff, auquel elle n'a jamais parlé.Si elle eût osé, me disait-elle, elle l'eût envoyé chercher ; cette jolie figure présentait tous les signes de la passion la plus violente.Cela durait encore le lendemain ; au bout de trois jours Findorff ayant fait le nigaud, elle n'y pensa plus.Un mois après il lui était odieux.
 
-**** *book_ *id_chap24
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap24
 
 Chapitre XXIV. Voyage dans un pays inconnu.
 
@@ -396,7 +396,7 @@ La vie pour Salviati était divisée en périodes de quinze jours, qui prenaient
 
 J'ai vu ce soir-là que les romanciers ont très mal peint le moment du suicide."Je suis altéré, me disait Salviati d'un air simple, j'ai besoin de prendre ce verre d'eau."Je ne combattis point sa résolution, je lui fis mes adieux ; et il se mit à pleurer.D'après le trouble qui accompagne les discours des amants, il ne serait pas sage de tirer des conséquences trop pressées d'un détail isolé de la conversation.Ils n'accusent juste leurs sentiments que dans les mots imprévus ; alors c'est le cri du cœur.Du reste, c'est de la physionomie de l'ensemble des choses dites que l'on peut tirer des inductions.Il faut se rappeler qu'assez souvent un être très ému n'a pas le temps d'apercevoir l'émotion de la personne qui cause la sienne.
 
-**** *book_ *id_chap25
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap25
 
 Chapitre XXV. La présentation.
 
@@ -416,7 +416,7 @@ Mais peut-être aussi ne voient-elles pas ce qui est esprit, combinaison morale.
 
 Pour moi, j'en reviens toujours aux lois physiques.Le fluide nerveux, chez les hommes, s'use par la cervelle, et chez les femmes par le cœur ; c'est pour cela qu'elles sont plus sensibles.Un grand travail obligé, et dans le métier que nous avons fait toute la vie, console, et pour elles rien ne peut les consoler que la distraction.Appiani, qui ne croit à la vertu qu'à la dernière extrémité, et avec lequel j'allais ce soir à la chasse des idées, en lui exposant celles de ce chapitre, me répond : "la force d'âme qu'Éponine employait avec un dévouement héroïque à faire vivre son mari dans la caverne sous terre, et à l'empêcher de tomber dans le désespoir, s'ils eussent vécu tranquillement à Rome, elle l'eût employée à lui cacher un amant ; il faut un aliment aux âmes fortes."
 
-**** *book_ *id_chap26
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap26
 
 Chapitre XXVI. De la pudeur.
 
@@ -458,7 +458,7 @@ Si quelquefois leur familiarité ressemble à de la tendresse, c'est que ces âm
 
 Résumé.L'erreur commune est d'en agir avec les femmes comme avec des espèces d'hommes plus généreux, plus mobiles, et surtout avec lesquels il n'y a pas de rivalité possible.L'on oublie trop facilement qu'il y a deux lois nouvelles et singulières qui tyrannisent ces êtres si mobiles, en concurrence avec tous les penchants ordinaires de la nature humaine, je veux dire : l'orgueil féminin, et la pudeur, et les habitudes souvent indéchiffrables filles de la pudeur.
 
-**** *book_ *id_chap27
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap27
 
 Chapitre XXVII. Des regards.
 
@@ -466,7 +466,7 @@ C'est la grande arme de la coquetterie vertueuse.On peut tout dire avec un regar
 
 Ceci me rappelle le comte Giraud, le Mirabeau de Rome: l'aimable petit gouvernement de ce pays-là lui a donné une manière originale de faire des récits, par des mots entrecoupés qui disent tout et rien.Il fait tout entendre, mais libre à qui que ce soit de répéter textuellement toutes ses paroles, impossible de le compromettre.Le cardinal Lante lui disait qu'il avait volé ce talent aux femmes, je dis même les plus honnêtes.Cette friponnerie est une représaille cruelle, mais juste, de la tyrannie des hommes.
 
-**** *book_ *id_chap28
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap28
 
 Chapitre XXVIII. De l'orgueil féminin.
 
@@ -476,19 +476,15 @@ Une femme à caractère généreux sacrifiera mille fois sa vie pour son amant, 
 
 J'ai vu une querelle de cette espèce durer plus d'un an.Une femme très distinguée sacrifiait tout son bonheur plutôt que de mettre son amant dans le cas de pouvoir former le moindre doute sur la magnanimité de son orgueil.Le raccommodement fut l'effet du hasard, et chez mon amie, d'un moment de faiblesse qu'elle ne put vaincre, en rencontrant son amant, qu'elle croyait à quarante lieues de là, et le trouvant dans un lieu où certainement il ne s'attendait pas à la voir.Elle ne put cacher son premier transport de bonheur ; l'amant s'attendrit plus qu'elle, ils tombèrent presque aux genoux l'un de l'autre, et jamais je n'ai vu couler tant de larmes ; c'était la vue imprévue du bonheur.Les larmes sont l'extrême sourire.
 
-Le duc d'Argyle donna un bel exemple de présence d'esprit en n'engageant pas un combat d'orgueil féminin dans l'entrevue qu'il eut à Richemont, avec la reine Caroline.Plus il y a d'élévation dans le caractère d'une femme, plus terribles sont ces organes : as the blackest sky foretells the heaviest tempest.
-D Juan.
-Serait-ce que plus une femme jouit avec transport, dans le courant de la vie, des qualités distinguées de son amant, plus dans ces instants cruels où la sympathie semble renversée, elle cherche à se venger de ce qu'elle lui voit habituellement de supériorité sur les autres hommes ?Elle craint d'être confondue avec eux.
+Le duc d'Argyle donna un bel exemple de présence d'esprit en n'engageant pas un combat d'orgueil féminin dans l'entrevue qu'il eut à Richemont, avec la reine Caroline.Plus il y a d'élévation dans le caractère d'une femme, plus terribles sont ces organes : as the blackest sky foretells the heaviest tempest. D Juan. Serait-ce que plus une femme jouit avec transport, dans le courant de la vie, des qualités distinguées de son amant, plus dans ces instants cruels où la sympathie semble renversée, elle cherche à se venger de ce qu'elle lui voit habituellement de supériorité sur les autres hommes ?Elle craint d'être confondue avec eux.
 
 Il y a bien du temps que je n'ai lu l'ennuyeuse Clarisse; il me semble pourtant que c'est par orgueil féminin qu'elle se laisse mourir et n'accepte pas la main de Lovelace.
 
-La faute de Lovelace était grande ; mais puisqu'elle l'aimait un peu, elle aurait pu trouver dans son cœur le pardon d'un crime dont l'amour était cause.Monime, au contraire, me semble un touchant modèle de délicatesse féminine.Quel front ne rougit pas de plaisir en entendant dire par une actrice digne de ce rôle : et ce fatal amour, dont j'avais triomphé,. etc.
-Racine.
+La faute de Lovelace était grande ; mais puisqu'elle l'aimait un peu, elle aurait pu trouver dans son cœur le pardon d'un crime dont l'amour était cause.Monime, au contraire, me semble un touchant modèle de délicatesse féminine.Quel front ne rougit pas de plaisir en entendant dire par une actrice digne de ce rôle : et ce fatal amour, dont j'avais triomphé,. etc. Racine.
 
 Je m'imagine que les siècles futurs diront : voilà à quoi la monarchie était bonne, à produire de ces sortes de caractères, et leur peinture par les grands artistes.
 
-Cependant, même dans les républiques du moyen âge, je trouve un admirable exemple de cette délicatesse, qui semble détruire mon système de l'influence des gouvernements sur les passions, et que je rapporterai avec candeur.Il s'agit de ces vers si touchants de Dante: deh !
-Quando tu sarai tornato al mondo,. etc.La femme qui parle avec tant de retenue, avait eu en secret le sort de Desdemona, et pouvait par un mot faire connaître le crime de son mari aux amis qu'elle avait laissés sur la terre.Nello Della Pietra obtint la main de Madonna Pia, l'unique héritière des Tolomei, la famille la plus riche et la plus noble de Sienne.Sa beauté, qui faisait l'admiration de la Toscane, fit naître dans le cœur de son époux une jalousie qui, envenimée par de faux rapports et des soupçons sans cesse renaissants, le conduisit à un affreux projet.Il est difficile de décider aujourd'hui si sa femme fut tout à fait innocente, mais le Dante nous la représente comme telle.
+Cependant, même dans les républiques du moyen âge, je trouve un admirable exemple de cette délicatesse, qui semble détruire mon système de l'influence des gouvernements sur les passions, et que je rapporterai avec candeur.Il s'agit de ces vers si touchants de Dante: deh ! Quando tu sarai tornato al mondo,. etc.La femme qui parle avec tant de retenue, avait eu en secret le sort de Desdemona, et pouvait par un mot faire connaître le crime de son mari aux amis qu'elle avait laissés sur la terre.Nello Della Pietra obtint la main de Madonna Pia, l'unique héritière des Tolomei, la famille la plus riche et la plus noble de Sienne.Sa beauté, qui faisait l'admiration de la Toscane, fit naître dans le cœur de son époux une jalousie qui, envenimée par de faux rapports et des soupçons sans cesse renaissants, le conduisit à un affreux projet.Il est difficile de décider aujourd'hui si sa femme fut tout à fait innocente, mais le Dante nous la représente comme telle.
 
 Son mari la conduisit dans la maremme de Sienne, célèbre alors comme aujourd'hui par les effets de l'aria cattiva.Jamais il ne voulut dire à sa malheureuse femme la raison de son exil en un lieu si dangereux.Son orgueil ne daigna prononcer ni plainte ni accusation.Il vivait seul avec elle, dans une tour abandonnée, dont je suis allé visiter les ruines sur le bord de la mer ; là il ne rompit jamais son dédaigneux silence, jamais il ne répondit aux questions de sa jeune épouse, jamais il n'écouta ses prières.Il attendit froidement auprès d'elle que l'air pestilentiel eût produit son effet.Les vapeurs de ces marais ne tardèrent pas à flétrir ces traits, les plus beaux, dit-on, qui dans ce siècle eussent paru sur cette terre.En peu de mois elle mourut.Quelques chroniqueurs de ces temps éloignés rapportent que Nello employa le poignard pour hâter sa fin : elle mourut dans les maremmes, de quelque manière horrible ; mais le genre de sa mort fut un mystère, même pour les contemporains.Nello Della Pietra survécut pour passer le reste de ses jours dans un silence qu'il ne rompit jamais.
 
@@ -498,7 +494,7 @@ Miss Cornel, célèbre actrice de Londres, voit un jour entrer chez elle à l'im
 
 De l'orgueil féminin naît ce que les femmes appellent les manques de délicatesse.Je crois que cela ressemble assez à ce que les rois appellent lèse-majesté, crime d'autant plus dangereux qu'on y tombe sans s'en douter.L'amant le plus tendre peut être accusé de manquer de délicatesse, s'il n'a pas beaucoup d'esprit, et, ce qui est plus triste, s'il ose se livrer au plus grand charme de l'amour, au bonheur d'être parfaitement naturel avec ce qu'on aime, et de ne pas écouter ce qu'on lui dit.Voilà de ces choses dont un cœur bien né ne saurait avoir le soupçon, et qu'il faut avoir éprouvées pour y croire, car l'on est entraîné par l'habitude d'en agir avec justice et franchise avec ses amis hommes.Il faut se rappeler sans cesse qu'on a affaire à des êtres qui, quoique à tort, peuvent se croire inférieurs en vigueur de caractère ou, pour mieux dire, peuvent penser qu'on les croit inférieurs.Le véritable orgueil d'une femme ne devrait-il pas se placer dans l'énergie du sentiment qu'elle inspire ?On plaisantait une fille d'honneur de la reine épouse de François Ier, sur la légèreté de son amant qui, disait-on, ne l'aimait guère.Peu de temps après, cet amant eut une maladie et reparut muet à la cour.Un jour, au bout de deux ans, comme on s'étonnait qu'elle l'aimât toujours, elle lui dit : "parlez."Et il parla.
 
-**** *book_ *id_chap29
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap29
 
 Chapitre XXIX. Du courage des femmes.
 
@@ -516,7 +512,7 @@ Peut-être que les femmes sont principalement soutenues par l'orgueil de faire u
 
 Je crois que si Mme De Clèves fût arrivée à la vieillesse, à cette époque où l'on juge la vie, et où les jouissances d'orgueil paraissent dans toute leur misère, elle se fût repentie.Elle aurait voulu avoir vécu comme Mme De La Fayette.Je viens de relire cent pages de cet essai ; j'ai donné une idée bien pauvre du véritable amour, de l'amour qui occupe toute l'âme, la remplit d'images tantôt les plus heureuses, tantôt désespérantes, mais toujours sublimes, et la rend complètement insensible à tout le reste de ce qui existe.Je ne sais comment exprimer ce que je vois si bien ; je n'ai jamais senti plus péniblement le manque de talent.Comment rendre sensible la simplicité de gestes et de caractères, le profond sérieux, le regard peignant si juste, et avec tant de candeur, la nuance du sentiment, et surtout, j'y reviens, cette inexprimable non-curance pour tout ce qui n'est pas la femme qu'on aime ?Un non ou un oui dit par un homme qui aime a une onction que l'on ne trouve point ailleurs, que l'on ne trouvait point chez cet homme en d'autres temps.Ce matin (3 août), j'ai passé à cheval, sur les neuf heures, devant le joli jardin anglais du marquis Zampieri, placé sur les dernières ondulations de ces collines couronnées de grands arbres contre lesquelles Bologne est adossée, et desquelles on jouit d'une si belle vue de cette riche et verdoyante Lombardie, le plus beau pays du monde.Dans un bosquet de lauriers du jardin Zampieri qui domine le chemin que je suivais et qui conduit à la cascade du Reno à Casa-Lecchio, j'ai vu le comte Delfante; il rêvait profondément, et quoique nous ayons passé la soirée ensemble jusqu'à deux heures après minuit, à peine m'a-t-il rendu mon salut.Je suis allé à la cascade, j'ai traversé le Reno; enfin, trois heures après au moins, en repassant sous le bosquet du jardin Zampieri, je l'ai vu encore ; il était précisément dans la même position, appuyé contre un grand pin qui s'élève au-dessus du bosquet de lauriers ; je crains qu'on ne trouve ce détail trop simple et ne prouvant rien : il est venu à moi la larme à l'œil, me priant de ne pas faire un conte de son immobilité.J'ai été touché je lui ai proposé de rebrousser chemin, et d'aller avec lui passer le reste de la journée à la campagne.Au bout de deux heures, il m'a tout dit : c'est une belle âme ; mais que les pages que l'on vient de lire sont froides auprès de ce qu'il me disait !En second lieu, il se croit non aimé; ce n'est pas mon avis.On ne peut rien lire sur la belle figure de marbre de la comtesse Ghigi, chez laquelle nous avons passé la soirée.Seulement quelquefois une rougeur subite et légère, qu'elle ne peut réprimer, vient trahir les émotions de cette âme que l'orgueil féminin le plus exalté dispute aux émotions fortes.On voit son cou d'albâtre et ce qu'on aperçoit de ces belles épaules dignes de Canova rougir aussi.Elle trouve bien l'art de soustraire ses yeux noirs et sombres à l'observation des gens dont sa délicatesse de femme redoute la pénétration ; mais j'ai vu cette nuit, à certaine chose que disait Delfante et qu'elle désapprouvait, une subite rougeur la couvrir tout entière.Cette âme hautaine le trouvait moins digne d'elle.Mais enfin, quand je me tromperais dans mes conjectures sur le bonheur de Delfante, à la vanité près, je le crois plus heureux que moi indifférent, qui cependant suis dans une position de bonheur fort bien, en apparence et en réalité.Bologne, 3 août 1818.
 
-**** *book_ *id_chap30
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap30
 
 Chapitre XXX. Spectacle singulier et triste.
 
@@ -524,12 +520,11 @@ Les femmes, avec leur orgueil féminin, se vengent des sots sur les gens d'espri
 
 Les petites considérations de l'orgueil et des convenances du monde ont fait le malheur de quelques femmes, et par orgueil leurs parents les ont placées dans une position abominable.Le destin leur avait réservé pour consolation bien supérieure à tous leurs malheurs le bonheur d'aimer et d'être aimée avec passion ; mais voilà qu'un beau jour elles empruntent à leurs ennemis ce même orgueil insensé dont elles furent les premières victimes, et c'est pour tuer le seul bonheur qui leur reste, c'est pour faire leur propre malheur et le malheur de qui les aime.Une amie qui a eu dix intrigues connues, et non pas toujours les unes après les autres, leur persuade gravement que si elles aiment, elles seront déshonorées aux yeux du public ; et cependant ce bon public, qui ne s'élève jamais qu'à des idées basses, leur donne généreusement un amant tous les ans, parce que, dit-il, c'est la règle.Ainsi l'âme est attristée par ce spectacle bizarre, une femme tendre et souverainement délicate, un ange de pureté, sur l'avis d'une catin sans délicatesse, fuit le seul et immense bonheur qui lui reste, pour paraître avec une robe d'une éclatante blancheur, devant un gros butor de juge qu'on sait aveugle depuis cent ans, et qui crie à tue-tête : elle est vêtue de noir.
 
-**** *book_ *id_chap31
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap31
 
 Chapitre XXXI. Extrait du journal de Salviati.
 
-Bologne, 29 avril 1818.
-Désespéré du malheur où l'amour me réduit, je maudis mon existence.Je n'ai le cœur à rien.Le temps est sombre, il pleut, un froid tardif est venu rattrister la nature qui, après un long hiver, s'élançait au printemps.
+Bologne, 29 avril 1818. Désespéré du malheur où l'amour me réduit, je maudis mon existence.Je n'ai le cœur à rien.Le temps est sombre, il pleut, un froid tardif est venu rattrister la nature qui, après un long hiver, s'élançait au printemps.
 
 Schiassetti, un colonel en demi-solde, un ami raisonnable et froid, est venu passer deux heures avec moi."Vous devriez renoncer à l'aimer.- Comment faire ?Rendez-moi ma passion pour la guerre.- C'est un grand malheur pour vous de l'avoir connue."J'en conviens presque, tant je me sens abattu et sans courage, tant la mélancolie a aujourd'hui d'empire sur moi.Nous cherchons ensemble quel intérêt a pu porter son amie à me calomnier auprès d'elle ; nous ne trouvons rien que ce vieux proverbe napolitain : "femme qu'amour et jeunesse quittent se pique d'un rien."Ce qu'il y a de sûr, c'est que cette femme cruelle est enragée contre moi ; c'est le mot d'un de ses amis.Je puis me venger d'une manière atroce ; mais contre sa haine je n'ai pas le plus petit moyen de défense.Schiassetti me quitte.Je sors par la pluie ne sachant que devenir.Mon appartement, ce salon que j'ai habité dans les premiers temps de notre connaissance et quand je la voyais tous les soirs, m'est devenu insupportable.Chaque gravure, chaque meuble, me reprochent le bonheur que j'avais rêvé en leur présence, et que j'ai perdu pour toujours.
 
@@ -553,7 +548,7 @@ Il ajoutait : "comme la réformation de Luther, à la fin du moyen âge, ébran
 
 Je crois qu'il y avait bien des jours où il aurait voulu pouvoir suivre les avis de notre sage colonel ; il luttait un peu, il croyait réussir ; mais ce parti était absolument au-dessus de ses forces ; et cependant quelle force n'avait pas cette âme !Un chapeau de satin blanc, ressemblant un peu à celui de Madame ⁎, qu'il voyait de loin dans la rue, arrêtait le battement de son cœur, et le forçait à s'appuyer contre le mur.Même dans ses plus tristes moments, le bonheur de la rencontrer lui donnait toujours quelques heures d'ivresse au-dessus de l'influence de tous les malheurs et de tous les raisonnements.Du reste, il est de fait qu'à sa mort, après deux ans de cette passion généreuse et sans bornes, son caractère avait contracté plusieurs nobles habitudes, et qu'à cet égard du moins il se jugeait correctement : s'il eût vécu, et que les circonstances l'eussent un peu servi, il eût fait parler de lui.Peut-être aussi qu'à force de simplicité, son mérite eût passé invisible sur cette terre.
 
-**** *book_ *id_chap32
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap32
 
 Chapitre XXXII. De l'intimité.
 
@@ -587,13 +582,13 @@ Auprès de ce qu'on aime, à peine le naturel reste-t-il dans les mouvements, do
 
 Est-il besoin d'ajouter que, pour rendre tout ceci le comble du ridicule, il suffit de l'appliquer à l'amour-goût ?
 
-**** *book_ *id_chap33
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap33
 
 Chapitre XXXIII.
 
 Toujours un petit doute à calmer, voilà ce qui fait la soif de tous les instants, voilà ce qui fait la vie de l'amour heureux.Comme la crainte ne l'abandonne jamais, ses plaisirs ne peuvent jamais ennuyer.Le caractère de ce bonheur, c'est l'extrême sérieux.
 
-**** *book_ *id_chap34
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap34
 
 Chapitre XXXIV. Des confidences.
 
@@ -621,7 +616,7 @@ Ce qu'il y a peut-être de plus sage, c'est de se faire soi-même son propre con
 
 Entre hommes, dès qu'on est plus de deux et que l'envie peut paraître, la politesse oblige à ne parler que d'amour-physique ; voyez la fin des dîners d'hommes.Ce sont les sonnets de Baffo que l'on récite et qui font un plaisir infini, parce que chacun prend au pied de la lettre les louanges et les transports de son voisin qui, bien souvent, ne veut que paraître gai ou poli.Les charmantes tendresses de Pétrarque ou les madrigaux français seraient déplacés.
 
-**** *book_ *id_chap35
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap35
 
 Chapitre XXXV. De la jalousie.
 
@@ -643,8 +638,7 @@ Très souvent le meilleur parti est d'attendre sans sourciller que le rival s'us
 
 Comme l'on n'a de pouvoir sur vous qu'en vous ôtant ou vous faisant espérer des choses dont la seule passion fait tout le prix, si vous parvenez à vous faire croire indifférent, tout à coup vos adversaires n'ont plus d'armes.
 
-Si l'on n'a aucune action à faire, et que l'on puisse s'amuser à chercher du soulagement, on trouvera quelque plaisir à lire Othello; il fera douter des apparences les plus concluantes.On arrêtera les yeux avec délices sur ces paroles : trifles light as air. etc.
-Othello, acte III.J'ai éprouvé que la vue d'une belle mer est consolante.
+Si l'on n'a aucune action à faire, et que l'on puisse s'amuser à chercher du soulagement, on trouvera quelque plaisir à lire Othello; il fera douter des apparences les plus concluantes.On arrêtera les yeux avec délices sur ces paroles : trifles light as air. etc. Othello, acte III.J'ai éprouvé que la vue d'une belle mer est consolante.
 
 Je trouve écrit par Salviati: "20 juillet 1818 - j'applique souvent et déraisonnablement, je crois, à la vie tout entière le sentiment qu'un ambitieux ou un bon citoyen éprouve durant une bataille, s'il se trouve employé à garder le parc de réserve, ou dans tout autre poste sans péril et sans action.J'aurais eu du regret à quarante ans d'avoir passé l'âge d'aimer sans passion profonde.J'aurais eu ce déplaisir amer et qui rabaisse de m'apercevoir trop tard que j'avais eu la duperie de laisser passer la vie sans vivre.
 
@@ -652,7 +646,7 @@ Je trouve écrit par Salviati: "20 juillet 1818 - j'applique souvent et déraiso
 
 "Si l'on m'eût conté cela il y a deux ans, je me serais moqué."Je lis dans le voyage des capitaines Lewis et Clarke, fait aux sources du Missouri en 1806, page 215 : "les ricaras sont pauvres, mais bons et généreux ; nous vécûmes assez longtemps dans trois de leurs villages.Leurs femmes sont plus belles que celles de toutes les autres peuplades que nous avons rencontrées ; elles sont aussi très disposées à ne pas faire languir leurs amants.Nous trouvâmes un nouvel exemple de cette vérité, qu'il suffit de courir le monde pour voir que tout est variable.Parmi les ricaras, c'est un grand sujet d'offense si, sans le consentement de son mari ou de son frère, une femme accorde ses faveurs.Mais du reste, les frères et les maris sont très contents d'avoir l'occasion de faire cette petite politesse à leurs amis."Nous avions un nègre parmi nos gens ; il fit beaucoup de sensation chez un peuple qui pour la première fois voyait un homme de cette couleur.Il fut bientôt le favori du beau sexe, et, au lieu d'en être jaloux, nous voyions les maris enchantés de le voir arriver chez eux.Ce qu'il y a de plaisant, c'est que dans l'intérieur de huttes aussi exiguës, tout se voit."
 
-**** *book_ *id_chap36
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap36
 
 Chapitre XXXVI. Suite de la jalousie.
 
@@ -670,12 +664,11 @@ Ceci s'applique surtout aux amours dont la cristallisation a été favorisée pa
 
 Un beau jour cette femme rencontre l'homme qui lui fait sentir ce que l'autre a décrit.Je ne sais quels sont les effets de la jalousie d'un homme sur le cœur de la femme qu'il aime.De la part d'un amoureux qui ennuie, la jalousie doit inspirer un souverain dégoût qui va même jusqu'à la haine, si le jalousé est plus aimable que le jaloux, car l'on ne veut de la jalousie que de ceux dont on pourrait être jalouse, disait Mme De Coulanges.Si l'on aime le jaloux et qu'il n'ait pas de droits, la jalousie peut choquer cet orgueil féminin si difficile à ménager et à reconnaître.La jalousie peut plaire aux femmes qui ont de la fierté, comme une manière nouvelle de leur montrer leur pouvoir.La jalousie peut plaire comme une manière nouvelle de prouver l'amour.La jalousie peut choquer la pudeur d'une femme ultra-délicate.La jalousie peut plaire comme montrant la bravoure de l'amant, ferrum amant.Notez bien que c'est la bravoure qu'on aime, et non pas le courage à la Turenne, qui peut fort bien s'allier avec un cœur froid.
 
-Une des conséquences du principe de la cristallisation, c'est qu'une femme ne doit jamais dire oui à l'amant qu'elle a trompé si elle veut jamais faire quelque chose de cet homme.Tel est le plaisir de continuer à jouir de cette image parfaite que nous nous sommes formée de l'objet qui nous engage, que jusqu'à ce oui fatal, l'on va chercher bien loin, plutôt que de mourir, quelque prétexte ami pour vivre et pour souffrir.
-André Chénier.
+Une des conséquences du principe de la cristallisation, c'est qu'une femme ne doit jamais dire oui à l'amant qu'elle a trompé si elle veut jamais faire quelque chose de cet homme.Tel est le plaisir de continuer à jouir de cette image parfaite que nous nous sommes formée de l'objet qui nous engage, que jusqu'à ce oui fatal, l'on va chercher bien loin, plutôt que de mourir, quelque prétexte ami pour vivre et pour souffrir. André Chénier.
 
 On connaît en France l'anecdote de Mlle De Sommery, qui, surprise en flagrant délit par son amant, lui nie le fait hardiment, et comme l'autre se récrie : "ah !Je vois bien, lui dit-elle, que vous ne m'aimez plus ; vous croyez plus ce que vous voyez que ce que je vous dis."Se réconcilier avec une maîtresse adorée qui vous a fait une infidélité, c'est se donner à défaire à coups de poignard une cristallisation sans cesse renaissante.Il faut que l'amour meure, et votre cœur sentira avec d'affreux déchirements tous les pas de son agonie.C'est une des combinaisons les plus malheureuses de cette passion et de la vie ; il faudrait avoir la force de ne se réconcilier que comme ami.
 
-**** *book_ *id_chap37
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap37
 
 Chapitre XXXVII. Roxane.
 
@@ -689,7 +682,7 @@ Je ne connais d'autre remède à un mal si cruel que la mort de qui l'inspire ou
 
 La différence de l'infidélité dans les deux sexes est si réelle, qu'une femme passionnée peut pardonner une infidélité, ce qui est impossible à un homme.Voici une expérience décisive pour faire la différence de l'amour-passion et de l'amour par pique; chez les femmes l'infidélité tue presque l'un et redouble l'autre.Les femmes fières dissimulent leur jalousie par orgueil.Elles passent de longues soirées silencieuses et froides, avec cet homme qu'elles adorent, qu'elles tremblent de perdre, et aux yeux duquel elles se voient peu aimables.Ce doit être un des plus grands supplices possibles, c'est aussi une des sources les plus fécondes de malheur en amour.Pour guérir ces femmes, si dignes de tout notre respect, il faut dans l'homme quelque démarche bizarre et forte, et surtout qu'il n'ait pas l'air de voir ce qui se passe.Par exemple un grand voyage avec elles entrepris en vingt-quatre heures.
 
-**** *book_ *id_chap38
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap38
 
 Chapitre XXXVIII. De la pique d'amour-propre.
 
@@ -715,7 +708,7 @@ Le courage de l'italien est un accès de colère, le courage de l'allemand un mo
 
 Nos braves chirurgiens militaires ont souvent observé que des blessés qui, dans un état calme d'esprit et de sens, auraient poussé les hauts cris durant certaines opérations ne montrent, au contraire, que calme et grandeur d'âme, s'ils sont préparés d'une certaine manière.Il s'agit de les piquer d'honneur ; il faut prétendre, d'abord avec ménagement, puis avec contradiction irritante, qu'ils ne sont pas en état de supporter l'opération sans jeter des cris.
 
-**** *book_ *id_chap39
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap39
 
 Chapitre XXXIX. De l'amour à querelles.
 
@@ -733,7 +726,7 @@ Saint-Simon, l'unique historien qu'ait eu la France, dit (tome 5, p 43) : "apr�
 
 Une femme célèbre dit tout à coup au général Bonaparte, alors jeune héros couvert de gloire et sans crimes envers la liberté : "général, une femme ne peut être que votre épouse ou votre sœur."Le héros ne comprit pas le compliment ; l'on s'en est vengé par de belles injures.Ces femmes-là aiment à être méprisées par leur amant, elles ne l'aiment que cruel.
 
-**** *book_ *id_chap39b
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap39b
 
 Chapitre XXXIX bis. Remèdes à l'amour.
 
@@ -751,7 +744,7 @@ Je ne dis rien de l'orgueil, remède cruel et souverain, mais qui n'est pas à l
 
 Les premières scènes du Romeo de Shakespeare, forment un tableau admirable : il y a loin de l'homme qui se dit tristement : " she hath forsworn to love ", à celui qui s'écrie au comble du bonheur : " come what sorrow can !
 
-**** *book_ *id_chap39c
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap39c
 
 Chapitre XXXIX ter.
 
@@ -761,7 +754,7 @@ On peut faire accuser la femme qui se conduit mal avec notre ami d'un défaut ph
 
 C'est donc l'imagination qu'il faut surtout garder chez une jeune fille que l'on veut préserver de l'amour.Et moins elle aura de vulgarité dans l'esprit, plus son âme sera noble et généreuse, plus en un mot elle sera digne de nos respects, plus grand sera le danger qu'elle court.Il est toujours périlleux, pour une jeune personne, de souffrir que ses souvenirs s'attachent d'une manière répétée, et avec trop de complaisance, au même individu.Si la reconnaissance, l'admiration, ou la curiosité viennent redoubler les liens du souvenir, elle est presque sûrement sur le bord du précipice.Plus grand est l'ennui de la vie habituelle, plus sont actifs les poisons nommés gratitude, admiration, curiosité.Il faut alors une rapide, prompte et énergique distraction.C'est ainsi qu'un peu de rudesse et de non-curance dans le premier abord, si la drogue est administrée avec naturel, est presque un sûr moyen de se faire respecter d'une femme d'esprit.
 
-**** *book_ *id_chap40
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap40
 
 Livre II Chapitre XL
 
@@ -777,7 +770,7 @@ Après toutes ces manières générales de considérer l'amour, on a les différ
 
 Cette manière de voir les choses abrège et communique de la froideur à la tête de celui qui juge de l'amour, chose essentielle et fort difficile.Or, comme en physiologie l'homme ne sait presque rien sur lui-même que par l'anatomie comparée, de même dans les passions, la vanité et plusieurs autres causes d'illusion font que nous ne pouvons être éclairés sur ce qui se passe dans nous que par les faiblesses que nous avons observées chez les autres.Si par hasard cet essai a un effet utile, ce sera de conduire l'esprit à faire de ces sortes de rapprochements.Pour engager à les faire, je vais essayer d'esquisser quelques traits généraux du caractère de l'amour chez les diverses nations.Je prie qu'on me pardonne si je reviens souvent à l'Italie; dans l'état actuel des mœurs de l'Europe, c'est le seul pays où croisse en liberté la plante que je décris.En France, la vanité en Allemagne, une prétendue philosophie folle à mourir de rire ; en Angleterre, un orgueil timide, souffrant, rancunier, la torturent, l'étouffent ou lui font prendre une direction baroque.
 
-**** *book_ *id_chap41
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap41
 
 Chapitre XLI. Des nations par rapport à l'amour. De la France.
 
@@ -795,7 +788,7 @@ L'amour est une fleur délicieuse, mais il faut avoir le courage d'aller la cuei
 
 La perfection de la civilisation serait de combiner tous les plaisirs délicats du xixe siècle avec la présence plus fréquente du danger.Il faudrait que les jouissances de la vie privée pussent être augmentées à l'infini en s'exposant souvent au danger.Jusque-là nous serons tout ébahis de voir sortir de nos maisons d'éducation de Paris où les maîtres les plus distingués enseignent, suivant des méthodes parfaites, l'état le plus avancé des sciences, des dandys, des espèces de jocrisses qui ne savent que bien mettre leur cravate et se battre avec élégance au bois de Boulogne.Mais l'étranger vient-il souiller de sa présence les foyers de la patrie : en France, on crée des routes, et en Espagne des guerillas.Si je voulais faire de mon fils un homme qui fasse sa fortune, un coquin énergique et adroit qui se pousse dans le monde par ses talents, je le ferais élever à Rome, où pourtant, au premier coup d'œil, l'on ne voit que des pédants enseignant des sottises.
 
-**** *book_ *id_chap42
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap42
 
 Chapitre XLII. Suite de la France.
 
@@ -815,7 +808,7 @@ La pensée de votre voisin était donc partie intégrante et nécessaire de votr
 
 L'homme passionné est comme lui et non comme un autre, source de tous les ridicules en France, et de plus il offense les autres, ce qui donne des ailes au ridicule.
 
-**** *book_ *id_chap43
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap43
 
 Chapitre XLIII. De l'Italie.
 
@@ -829,7 +822,7 @@ En France, vers 1770, il n'y avait pas de méfiance ; au contraire, il était d
 
 Je dois dire comme français, que ce n'est pas un petit nombre de fortunes colossales qui fait la richesse d'un pays, mais la multiplicité des fortunes médiocres.Par tous pays les passions sont rares, et la galanterie a plus de grâces et de finesse et par conséquent plus de bonheur en France.Cette grande nation, la première de l'univers, se trouve pour l'amour ce qu'elle est pour les talents de l'esprit.En 1822, nous n'avons assurément ni Moore, ni Walter Scott, ni Crabbe, ni Byron, ni Monti, ni Pellico; mais il y a chez nous plus de gens d'esprit éclairés, agréables et au niveau des lumières du siècle qu'en Angleterre ou en Italie.C'est pour cela que les discussions de notre chambre des députés, en 1822, sont si supérieures à celles du parlement d'Angleterre; et que quand un libéral d'Angleterre vient en France, nous sommes tout surpris de lui trouver plusieurs opinions gothiques.Un artiste romain écrivait de Paris: "je me déplais infiniment ici ; je crois que c'est parce que je n'ai pas le loisir d'aimer à mon gré.Ici, la sensibilité se dépense goutte à goutte à mesure qu'elle se forme, et de manière, au moins pour moi, à fatiguer la source.À Rome, par le peu d'intérêt des événements de chaque jour, par le sommeil de la vie extérieure, la sensibilité s'amoncèle au profit des passions."
 
-**** *book_ *id_chap44
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap44
 
 Chapitre XLIV. Rome.
 
@@ -839,12 +832,11 @@ Ce n'est qu'à Rome, qu'une femme honnête et à carrosse vient dire avec effusi
 
 Il voit les françaises avec leurs petites grâces tout aimables, séduisantes les trois premiers jours, mais ennuyeuses le quatrième, jour fatal où l'on découvre que toutes ces grâces étudiées d'avance et apprises par cœur sont éternellement les mêmes tous les jours et pour tous.
 
-Il voit les allemandes si naturelles, au contraire, et se livrant avec tant d'empressement à leur imagination, n'avoir souvent à montrer, avec tout leur naturel, qu'un fond de stérilité, d'insipidité et de tendresse de la bibliothèque bleue.La phrase du comte Almaviva semble aire en Allemagne: "et l'on est tout étonné, un beau soir, de trouver la satiété où l'on allait chercher le bonheur."À Rome, l'étranger ne doit pas oublier que si rien n'est ennuyeux dans les pays où tout est naturel, le mauvais y est plus mauvais qu'ailleurs.Pour ne parler que des hommes, on voit paraître ici, dans la société, une espèce de monstres qui se cachent ailleurs.Ce sont des gens également passionnés, clairvoyants, et lâches.Un mauvais sort les a jetés auprès d'une femme à titre quelconque ; amoureux-fous par exemple, ils boivent jusqu'à la lie le malheur de la voir préférer un rival.Ils sont là pour contrecarrer cet amant fortuné.Rien ne leur échappe, et tout le monde voit que rien ne leur échappe ; mais ils n'en continuent pas moins en dépit de tout sentiment d'honneur à vexer la femme, son amant et eux-mêmes, et personne ne les blâme, car ils font ce qui leur fait plaisir .
-Un soir l'amant, poussé à bout, leur donne des coups de pied au cul ; le lendemain ils lui en font bien des excuses et recommencent à scier constamment et imperturbablement la femme, l'amant et eux-mêmes.On frémit quand on songe à la quantité de malheur que ces âmes basses ont à dévorer chaque jour, et il ne leur manque, sans doute, qu'un grain de lâcheté de moins pour être empoisonneurs.
+Il voit les allemandes si naturelles, au contraire, et se livrant avec tant d'empressement à leur imagination, n'avoir souvent à montrer, avec tout leur naturel, qu'un fond de stérilité, d'insipidité et de tendresse de la bibliothèque bleue.La phrase du comte Almaviva semble aire en Allemagne: "et l'on est tout étonné, un beau soir, de trouver la satiété où l'on allait chercher le bonheur."À Rome, l'étranger ne doit pas oublier que si rien n'est ennuyeux dans les pays où tout est naturel, le mauvais y est plus mauvais qu'ailleurs.Pour ne parler que des hommes, on voit paraître ici, dans la société, une espèce de monstres qui se cachent ailleurs.Ce sont des gens également passionnés, clairvoyants, et lâches.Un mauvais sort les a jetés auprès d'une femme à titre quelconque ; amoureux-fous par exemple, ils boivent jusqu'à la lie le malheur de la voir préférer un rival.Ils sont là pour contrecarrer cet amant fortuné.Rien ne leur échappe, et tout le monde voit que rien ne leur échappe ; mais ils n'en continuent pas moins en dépit de tout sentiment d'honneur à vexer la femme, son amant et eux-mêmes, et personne ne les blâme, car ils font ce qui leur fait plaisir . Un soir l'amant, poussé à bout, leur donne des coups de pied au cul ; le lendemain ils lui en font bien des excuses et recommencent à scier constamment et imperturbablement la femme, l'amant et eux-mêmes.On frémit quand on songe à la quantité de malheur que ces âmes basses ont à dévorer chaque jour, et il ne leur manque, sans doute, qu'un grain de lâcheté de moins pour être empoisonneurs.
 
 Ce n'est aussi qu'en Italie qu'on voit de jeunes élégants millionnaires entretenir magnifiquement des danseuses du grand théâtre, au vu et au su de toute une ville, moyennant trente sous par jour.Les frères..., beaux jeunes gens toujours à la chasse, toujours à cheval, sont jaloux d'un étranger.Au lieu d'aller à lui et de lui conter leurs griefs, ils répandent sourdement dans le public des bruits défavorables à ce pauvre étranger.En France, l'opinion forcerait ces gens à prouver leur dire ou à rendre raison à l'étranger.Ici l'opinion publique et le mépris ne signifient rien.La richesse est toujours sûre d'être bien reçue partout.Un millionnaire déshonoré et chassé de partout à Paris, peut aller en toute sûreté à Rome; il y sera considéré juste au prorata de ses écus.
 
-**** *book_ *id_chap45
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap45
 
 Chapitre XLV. De l'Angleterre.
 
@@ -858,7 +850,7 @@ Ce serait sous une autre forme de la bassesse monarchique.Je me contenterai d'aj
 
 Je ne blâme ni n'approuve, j'observe.
 
-**** *book_ *id_chap46
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap46
 
 Chapitre XLVI. Suite de l'Angleterre.
 
@@ -874,7 +866,7 @@ En Irlande on ne voit guère que des paysans plus malheureux que des sauvages.Se
 
 Il est impossible de ne pas apercevoir un fond de mélancolie chez les femmes écossaises.Cette mélancolie est surtout séduisante au bal où elle donne un singulier piquant à l'ardeur et à l'extrême empressement avec lesquels elles sautent leurs danses nationales.Édimbourg a un autre avantage, c'est de s'être soustraite à la vile omnipotence de l'or.Cette ville forme en cela, aussi bien que pour la singulière et sauvage beauté du site, un contraste complet avec Londres.Comme Rome, la belle Édimbourg semble plutôt le séjour de la vie contemplative.Le tourbillon sans repos et les intérêts inquiets de la vie active avec ses avantages et ses inconvénients sont à Londres.Édimbourg me semble payer le tribut au malin par un peu de disposition à la pédanterie.Les temps où Marie Stuart habitait le vieux Holyrood, et où l'on assassinait Riccio dans ses bras, valaient mieux pour l'amour, et toutes les femmes en conviendront, que ceux où l'on discute si longuement et même en leur présence, sur la préférence à accorder au système neptunien sur le vulcanien de. j'aime mieux la discussion sur le nouvel uniforme donné par le roi à ses gardes ou sur la pairie manquée de sir B Bloomfield, qui occupait Londres lorsque je m'y trouvais, que la discussion pour savoir qui a le mieux exploré la nature des roches, de Werner ou de... je ne dirai rien du terrible dimanche écossais, auprès duquel celui de Londres semble une partie de plaisir.Ce jour destiné à honorer le ciel est la meilleure image de l'enfer que j'aie jamais vue sur la terre.Ne marchons pas si vite, disait un écossais en revenant de l'église à un français son ami, nous aurions l'air de nous promener.Celui des trois pays où il y a le moins d'hypocrisie ( cant, voyez le new-monthly magazine de janvier 1822, tonnant contre Mozart et les nozze di figaro, écrit dans un pays où l'on joue le citizen.Mais ce sont les aristocrates qui, par tout pays, achètent et jugent un journal littéraire et la littérature ; et depuis quatre ans, ceux d'Angleterre ont fait alliance avec les évêques) ; celui des trois pays où il y a, ce me semble, le moins d'hypocrisie, c'est l'Irlande; on y trouve, au contraire, une vivacité étourdie et fort aimable.En Écosse, il y a la stricte observance le dimanche, mais le lundi on danse avec une joie et un abandon inconnus à Londres.Il y a beaucoup d'amour dans la classe des paysans en Écosse.La toute-puissance de l'imagination a francisé ce pays au xvie siècle.Le terrible défaut de la société anglaise, celui qui, en un jour donné, crée une plus grande quantité de tristesse que la dette et ses conséquences, et même que la guerre à mort des riches contre les pauvres, c'est cette phrase que l'on me disait cet automne à Croydon, en présence de la belle statue de l'évêque : "dans le monde aucun homme ne veut se mettre en avant de peur d'être déçu dans son attente."Qu'on juge quelles lois sous le nom de pudeur de tels hommes doivent imposer à leurs femmes et à leurs maîtresses !
 
-**** *book_ *id_chap47
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap47
 
 Chapitre XLVII. De l'Espagne.
 
@@ -888,7 +880,7 @@ L'Espagne m'est bien utile pour une comparaison : le seul peuple qui ait su ré
 
 Au lieu de faire de belles ordonnances militaires, de changer d'uniforme tous les six mois et de porter de grands éperons, il a le général no importa.
 
-**** *book_ *id_chap48
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap48
 
 Chapitre XLVIII. De l'amour allemand.
 
@@ -898,8 +890,7 @@ Deux amis se trouvent ensemble à une batterie, à la bataille de Talavera, l'un
 
 Au milieu du spectacle sévère donné par de tels hommes, se disputant aux parades de Schoenbrunn un regard du maître et un titre de baron, voici comment l'apothicaire de l'empereur décrit l'amour allemand, page 288 : "rien n'est plus complaisant, plus doux qu'une autrichienne.Chez elle l'amour est un culte, et, quand elle s'attache à un français, elle l'adore dans toute la force du terme.
 
-"Il y a des femmes légères et capricieuses partout, mais en général les viennoises sont fidèles et ne sont nullement coquettes ; quand je dis qu'elles sont fidèles, c'est à l'amant de leur choix, car les maris sont à Vienne comme partout."7 Juin 1809.
-La plus belle personne de Vienne a agréé l'hommage d'un ami à moi, M M, capitaine attaché au quartier général de l'empereur.C'est un jeune homme doux et spirituel ; mais certainement sa taille ni sa figure n'ont rien de remarquable.
+"Il y a des femmes légères et capricieuses partout, mais en général les viennoises sont fidèles et ne sont nullement coquettes ; quand je dis qu'elles sont fidèles, c'est à l'amant de leur choix, car les maris sont à Vienne comme partout."7 Juin 1809. La plus belle personne de Vienne a agréé l'hommage d'un ami à moi, M M, capitaine attaché au quartier général de l'empereur.C'est un jeune homme doux et spirituel ; mais certainement sa taille ni sa figure n'ont rien de remarquable.
 
 Depuis quelques jours sa jeune amie fait la plus vive sensation parmi nos brillants officiers d'état-major, qui passent leur vie à fureter tous les coins de Vienne.C'est à qui sera le plus hardi ; toutes les ruses de guerre possibles ont été employées ; la maison de la belle a été mise en état de siège par les plus jolis et les plus riches.Les pages, les brillants colonels, les généraux de la garde, les princes mêmes sont allés perdre leur temps sous les fenêtres de la belle, et leur argent auprès de ses gens.Tous ont été éconduits.Ces princes n'étaient guère accoutumés à trouver de cruelles à Paris ou à Milan.Comme je riais de leur déconvenue avec cette charmante personne : "mais, mon dieu, me disait-elle, est-ce qu'ils ne savent pas que j'aime M M".
 
@@ -927,13 +918,11 @@ Je vois une nouvelle preuve de cette disposition commune aux allemands, dans le 
 
 J'ai vu les juges allemands en Italie se désespérer des sentences de mort, ou l'équivalent, les fers durs, qu'ils étaient obligés de prononcer sans l'aveu des coupables.
 
-**** *book_ *id_chap49
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap49
 
 Chapitre XLIX. Une journée à Florence.
 
-Florence, 12 février 1819.
-Ce soir j'ai trouvé dans une loge un homme qui avait quelque chose à solliciter auprès d'un magistrat de cinquante ans.Sa première demande a été : quelle est sa maîtresse ?Chi avvicina adesso ?
-Ici toutes ces affaires sont de la dernière publicité, elles ont leurs lois, il y a la manière approuvée de se conduire qui est basée sur la justice sans presque rien de conventionnel, autrement on est un porco.
+Florence, 12 février 1819. Ce soir j'ai trouvé dans une loge un homme qui avait quelque chose à solliciter auprès d'un magistrat de cinquante ans.Sa première demande a été : quelle est sa maîtresse ?Chi avvicina adesso ? Ici toutes ces affaires sont de la dernière publicité, elles ont leurs lois, il y a la manière approuvée de se conduire qui est basée sur la justice sans presque rien de conventionnel, autrement on est un porco.
 
 Qu'y a-t-il de nouveau, demandait hier un de mes amis, arrivant de Volterre?Après un mot de gémissement énergique sur Napoléon et les anglais, on ajoute avec le ton du plus vif intérêt : "la Vitteleschi a changé d'amant : ce pauvre Gherardesca se désespère.- Qui a-t-elle pris ?- Montegalli, ce bel officier à moustaches, qui avait la principessa Colonna, voyez-le là-bas au parterre, cloué sous sa loge ; il est là toute la soirée, car le mari ne veut pas le voir à la maison, et vous apercevez près de la porte le pauvre Gherardesca se promenant tristement et comptant de loin les regards que son infidèle lance à son successeur.Il est très changé, et dans le dernier désespoir ; c'est en vain que ses amis veulent l'envoyer à Paris et à Londres.Il se sent mourir, dit-il, seulement à l'idée de quitter Florence."Chaque année, il y a vingt désespoirs pareils dans la haute société j'en ai vu durer trois ou quatre ans.Ces pauvres diables sont sans nulle vergogne, et prennent pour confidents toute la terre.Au reste il y a peu de société ici, et encore, quand on aime, on n'y va presque plus.Il ne faut pas croire que les grandes passions et les belles âmes soient communes nulle part, même en Italie; seulement des cœurs plus enflammés et moins étiolés par les mille petits soins de la vanité y trouvent des plaisirs délicieux, même dans les espèces subalternes d'amour.J'y ai vu l'amour-caprice, par exemple, causer des transports et des moments d'ivresse, que la passion la plus éperdue n'a jamais amenés sous le méridien de Paris.
 
@@ -945,13 +934,11 @@ Voici les traits principaux du caractère de ce peuple.
 
 3 Personne ne lit.4 Il n'y a pas de société.Un homme ne compte pas pour remplir et occuper sa vie sur le bonheur qu'il tire chaque jour, de deux heures de conversation et de jeu de vanité dans telle maison.Le mot causerie ne se traduit pas en italien.L'on parle quand on a quelque chose à dire pour le service d'une passion, mais rarement l'on parle pour bien parler et sur tous les sujets venus.5 Le ridicule n'existe pas en Italie.En France nous cherchons à imiter tous les deux le même modèle et je suis juge compétent de la manière dont vous le copiez.En Italie je ne sais pas si cette action singulière que je vois faire ne fait pas plaisir à celui qui la fait, et peut-être ne m'en ferait pas à moi-même.
 
-Ce qui est affecté dans le langage ou dans les manières à Rome, est de bon ton ou inintelligible à Florence qui en est à cinquante lieues.On parle français à Lyon comme à Nantes.Le vénitien, le napolitain, le génois, le piémontais sont des langues presque entièrement différentes et seulement parlées par des gens qui sont convenus de n'imprimer jamais que dans une langue commune, celle qu'on parle à Rome.Rien n'est absurde comme une comédie dont la scène est à Milan, et dont les personnages parlent romain.La langue italienne, beaucoup plus faite pour être chantée que parlée, ne sera soutenue contre la clarté française qui l'envahit que par la musique.En Italie la crainte du pacha et de ses espions fait estimer l'utile; il n'y a pas du tout d'honneur-bête.Il est remplacé par une sorte de petite haine de société, appelée pettegolismo.Enfin donner un ridicule c'est se faire un ennemi mortel, chose fort dangereuse dans un pays où la force et l'office des gouvernements se bornent à arracher l'impôt et à punir tout ce qui se distingue.6 Le patriotisme d'antichambre.
-Cet orgueil qui nous porte à chercher l'estime de nos concitoyens, et à faire corps avec eux, expulsé de toute noble entreprise, vers l'an 1550, par le despotisme jaloux des petits princes d'Italie, a donné naissance à un produit barbare, à une espèce de Caliban, à un monstre plein de fureur et de sottise : le patriotisme d'antichambre, comme disait M Turgot, à propos du siège de Calais (le soldat-laboureur de ce temps-là).J'ai vu ce monstre hébéter les gens les plus spirituels.Par exemple un étranger se fera mal vouloir même des jolies femmes s'il s'avise de trouver des défauts dans le peintre ou dans le poète de ville, on lui dit fort bien et d'un grand sérieux, qu'il ne faut pas venir chez les gens pour s'en moquer, et on lui cite à ce sujet un mot de Louis XIV sur Versailles.
+Ce qui est affecté dans le langage ou dans les manières à Rome, est de bon ton ou inintelligible à Florence qui en est à cinquante lieues.On parle français à Lyon comme à Nantes.Le vénitien, le napolitain, le génois, le piémontais sont des langues presque entièrement différentes et seulement parlées par des gens qui sont convenus de n'imprimer jamais que dans une langue commune, celle qu'on parle à Rome.Rien n'est absurde comme une comédie dont la scène est à Milan, et dont les personnages parlent romain.La langue italienne, beaucoup plus faite pour être chantée que parlée, ne sera soutenue contre la clarté française qui l'envahit que par la musique.En Italie la crainte du pacha et de ses espions fait estimer l'utile; il n'y a pas du tout d'honneur-bête.Il est remplacé par une sorte de petite haine de société, appelée pettegolismo.Enfin donner un ridicule c'est se faire un ennemi mortel, chose fort dangereuse dans un pays où la force et l'office des gouvernements se bornent à arracher l'impôt et à punir tout ce qui se distingue.6 Le patriotisme d'antichambre. Cet orgueil qui nous porte à chercher l'estime de nos concitoyens, et à faire corps avec eux, expulsé de toute noble entreprise, vers l'an 1550, par le despotisme jaloux des petits princes d'Italie, a donné naissance à un produit barbare, à une espèce de Caliban, à un monstre plein de fureur et de sottise : le patriotisme d'antichambre, comme disait M Turgot, à propos du siège de Calais (le soldat-laboureur de ce temps-là).J'ai vu ce monstre hébéter les gens les plus spirituels.Par exemple un étranger se fera mal vouloir même des jolies femmes s'il s'avise de trouver des défauts dans le peintre ou dans le poète de ville, on lui dit fort bien et d'un grand sérieux, qu'il ne faut pas venir chez les gens pour s'en moquer, et on lui cite à ce sujet un mot de Louis XIV sur Versailles.
 
 À Florence on dit : il nostro Benvenutti, comme à Brescia il nostro Arrici; ils mettent sur le mot nostro une certaine emphase contenue et pourtant bien comique, à peu près comme le miroir parlant avec onction de la musique nationale, et de M Monsigny le musicien de l'Europe.Pour ne pas rire au nez de ces braves patriotes, il faut se rappeler que, par suite des dissensions du moyen âge, envenimées par la politique atroce des papes, chaque ville hait mortellement la cité voisine, et le nom des habitants de celle-ci passe toujours dans la première pour synonyme de quelque grossier défaut.Les papes ont su faire de ce beau pays la patrie de la haine.
 
-Ce patriotisme d'antichambre est la grande plaie morale de l'Italie, typhus délétère qui aura encore des effets funestes longtemps après qu'elle aura secoué le joug de ses petits princes ridicules.Une des formes de ce patriotisme est la haine inexorable pour tout ce qui est étranger.Ainsi, ils trouvent les allemands bêtes, et se mettent en colère quand on leur dit : "qu'a produit l'Italie dans le xviiie siècle, d'égal à Catherine II ou à Frédéric Le Grand?Où avez-vous un jardin anglais comparable au moindre jardin allemand, vous qui par votre climat avez un véritable besoin d'ombre ?" 7 Au contraire des anglais et des français, les italiens n'ont aucun préjugé politique ; on y sait par cœur le vers de La Fontaine: votre ennemi c'est votre maître.
-L'aristocratie, s'appuyant sur les prêtres et sur les sociétés bibliques, est pour eux un vieux tour de passe-passe qui les fait rire.En revanche un italien a besoin de trois mois de séjour en France pour concevoir comment un marchand de draps peut être ultra.
+Ce patriotisme d'antichambre est la grande plaie morale de l'Italie, typhus délétère qui aura encore des effets funestes longtemps après qu'elle aura secoué le joug de ses petits princes ridicules.Une des formes de ce patriotisme est la haine inexorable pour tout ce qui est étranger.Ainsi, ils trouvent les allemands bêtes, et se mettent en colère quand on leur dit : "qu'a produit l'Italie dans le xviiie siècle, d'égal à Catherine II ou à Frédéric Le Grand?Où avez-vous un jardin anglais comparable au moindre jardin allemand, vous qui par votre climat avez un véritable besoin d'ombre ?" 7 Au contraire des anglais et des français, les italiens n'ont aucun préjugé politique ; on y sait par cœur le vers de La Fontaine: votre ennemi c'est votre maître. L'aristocratie, s'appuyant sur les prêtres et sur les sociétés bibliques, est pour eux un vieux tour de passe-passe qui les fait rire.En revanche un italien a besoin de trois mois de séjour en France pour concevoir comment un marchand de draps peut être ultra.
 
 8 Je mettrais pour dernier trait de caractère l'intolérance dans la discussion et la colère, dès qu'ils ne trouvent pas sous la main un argument à lancer contre celui de leur adversaire.Alors on les voit pâlir.C'est une des formes de l'extrême sensibilité, mais ce n'est pas une de ses formes aimables ; par conséquent c'est une de celles que j'admets le plus volontiers en preuve de son existence.
 
@@ -969,7 +956,7 @@ Nos gens de Paris qui en sont encore à concevoir qu'on puisse être persan, ne 
 
 12 Juillet 1821.- À Bologne il n'y a point d'odieux dans la société.À Paris, le rôle de mari trompé est exécrable, ici (à Bologne) ce n'est rien, il n'y a pas de maris trompés.Les mœurs sont donc les mêmes, il n'y a que la haine de moins ; le cavalier-servant de la femme est toujours ami du mari, et cette amitié cimentée par des services réciproques, survit bien souvent à d'autres intérêts.La plupart de ces amours durent cinq ou six ans, plusieurs toujours.On se quitte enfin quand on ne trouve plus de douceur à se tout dire, et passé le premier mois de la rupture il n'y a pas d'aigreur.Janvier 1822.- L'ancienne mode des cavaliers-servants, importée en Italie par Philippe II avec l'orgueil et les mœurs espagnoles, est entièrement tombée dans les grandes villes.Je ne connais d'exception que les calabres, où toujours le frère aîné se fait prêtre, marie le cadet et s'établit le servant de sa belle-sœur et en même temps l'amant.Napoléon a ôté le libertinage à la haute Italie et même à ce pays-ci (Naples).Les mœurs de la génération actuelle des jolies femmes font honte à leurs mères ; elles sont plus favorables à l'amour-passion.L'amour-physique a beaucoup perdu.
 
-**** *book_ *id_chap50
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap50
 
 Chapitre L. L'amour aux États-Unis.
 
@@ -987,7 +974,7 @@ J'admire ce bonheur et ne l'envie pas ; c'est comme le bonheur d'êtres d'une e
 
 Ce qui fortifie ma conjecture sur celle du nord, c'est le manque absolu d'artistes et d'écrivains.Les États-Unis ne nous ont pas encore envoyé une scène de tragédie, un tableau ou une vie de Washington.
 
-**** *book_ *id_chap51
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap51
 
 Chapitre LI. De l'amour en Provence jusqu'à la conquête de Toulouse en 1228, par les barbares du nord.
 
@@ -1013,13 +1000,13 @@ Tel fut pour le royaume de Provence l'effet de la conquête de Toulouse par l'ar
 
 D'où était tombée dans ce coin du monde cette charmante forme de civilisation qui pendant deux siècles fit le bonheur des hautes classes de la société ?Des maures d'Espagne apparemment.
 
-**** *book_ *id_chap52
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap52
 
 Chapitre LII. La Provence au xiie siècle.
 
 Je vais traduire une anecdote des manuscrits provençaux ; le fait que l'on va lire eut lieu vers l'an 1180, et l'histoire fut écrite vers 1250 ; l'anecdote est assurément fort connue : toute la nuance des mœurs est dans le style.Je supplie qu'on me permette de traduire mot à mot et sans chercher aucunement l'élégance du langage actuel.
 
-**** *book_ *id_chap53
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap53
 
 Chapitre LIII. L'Arabie.
 
@@ -1057,7 +1044,7 @@ Eltemimi raconte qu'il y avait dans la tribu des arabes de Tagleb, une fille chr
 
 Oueddah, du pays de Yamen, était renommé pour sa beauté entre les arabes.- Lui et Om-El-Bonain, fille de Abd-El-Aziz, fils de Merouan, n'étant encore que des enfants, s'aimaient déjà tellement, que l'un ne pouvait souffrir d'être un moment séparé de l'autre.- Lorsque Om-El-Bonain devint la femme de Oualid-Ben-Abd-El-Malek, Oueddah en perdit la raison.- Après être resté longtemps dans un état d'égarement et de souffrance, il se rendit en Syrie et commença à rôder chaque jour autour de l'habitation de Oualid, fils de Malek, sans trouver d'abord de moyen de parvenir à ce qu'il désirait.- À la fin, il fit la rencontre d'une jeune fille qu'il réussit à s'attacher à force de persévérance et de soins.Quand il crut pouvoir se fier à elle, il lui demanda si elle connaissait Om-El-Bonain.- Sans doute, puisque c'est ma maîtresse, répondit la jeune fille.- Eh bien !Reprit Oueddah, ta maîtresse est ma cousine et si tu veux lui porter de mes nouvelles tu lui feras certainement plaisir.- Je lui en porterai volontiers, répondit la jeune fille ; et là-dessus elle courut aussitôt vers Om-El-Bonain pour lui donner des nouvelles de Oueddah.Prends garde à ce que tu dis !S'écria celle-ci : quoi !Oueddah est vivant ?- Assurément dit la jeune fille.- Va lui dire, poursuivit alors Om-El-Bonain, de ne point s'écarter jusqu'à ce qu'il lui arrive un messager de ma part.Elle prit ensuite ses mesures pour introduire Oueddah chez elle, où elle le garda caché dans un coffre.Elle l'en faisait sortir pour être avec lui quand elle se croyait en sûreté et quand il arrivait quelqu'un qui aurait pu le voir, elle le faisait rentrer dans le coffre.Il arriva un jour que l'on apporta à Oualid une perle, et il dit à l'un de ses serviteurs : prends cette perle et porte-la à Om-El-Bonain.Le serviteur prit la perle et la porta à Om-El-Bonain.Ne s'étant pas fait annoncer il entra chez elle dans un moment où elle était avec Oueddah, de sorte qu'il put lancer un coup d'œil dans l'appartement de Om-El-Bonain sans que celle-ci y prît garde.Le serviteur de Oualid s'acquitta de sa commission et demanda quelque chose à Om-El-Bonain pour le bijou qu'il lui avait apporté.Elle le refusa sévèrement, et lui fit une réprimande.Le serviteur sortit courroucé contre elle, et, allant dire à Oualid ce qu'il avait vu, il lui décrivit le coffre où il avait vu entrer Oueddah.- Tu mens, esclave sans mère, tu mens, lui dit Oualid; et il court brusquement chez Om-El-Bonain.Il y avait dans l'appartement plusieurs coffres ; il s'assied sur celui où était renfermé Oueddah, et que lui avait décrit l'esclave, en disant à Om-El-Bonain: donne-moi un de ces coffres.- Ils sont tous à toi, ainsi que moi-même, répondit Om-El-Bonain.- Eh bien, poursuivit Oualid, je désire avoir celui sur lequel je suis assis.- Il y a dans celui-là des choses nécessaires à une femme, dit Om-El-Bonain.- Ce ne sont point ces choses-là, c'est le coffre que je désire, continua Oualid.- Il est à toi, répondit-elle.Oualid fit aussitôt emporter le coffre, et fit appeler deux esclaves auxquels il donna l'ordre de creuser une fosse en terre jusqu'à la profondeur où il se trouverait de l'eau.Approchant ensuite sa bouche du coffre : on m'a dit quelque chose de toi, cria-t-il.Si l'on m'a dit vrai, que toute ta trace de toi soit séparée, que toute nouvelle de toi soit ensevelie.Si l'on m'a dit faux, je ne fais rien de mal en enfouissant un coffre : ce n'est que du bois enterré.Il fit pousser alors le coffre dans la fosse et la fit combler des pierres et des terres que l'on en avait retirées.Depuis lors Om-El-Bonain ne cessa de fréquenter cet endroit, et d'y pleurer jusqu'à ce qu'on l'y trouvât un jour sans vie, la face contre terre.
 
-**** *book_ *id_chap54
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap54
 
 Chapitre LIV. De l'éducation des femmes.
 
@@ -1083,7 +1070,7 @@ Les jeunes filles se sentant esclaves ont de bonne heure les yeux ouverts ; ell
 
 Au milieu de ses nobles occupations, ce magistrat trouve encore le temps de songer à cette promenade que sa femme fait aux tuileries, et s'il était aussi bien avec le pouvoir qui règle l'univers, qu'avec celui qui règne dans l'état, il demanderait au ciel d'accorder aux femmes, pour leur bien, huit ou dix heures de sommeil de plus.Dans la situation actuelle de la société, le loisir, qui pour l'homme est la source de tout bonheur et de toute richesse, non seulement n'est pas un avantage pour les femmes, mais c'est une de ces funestes libertés dont le digne magistrat voudrait aider à nous délivrer.
 
-**** *book_ *id_chap55
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap55
 
 Chapitre LV. Objections contre l'éducation des femmes.
 
@@ -1133,12 +1120,11 @@ Le plaisant de l'éducation actuelle, c'est qu'on n'apprend rien aux jeunes fill
 
 L'éducation actuelle des femmes étant peut-être la plus plaisante absurdité de l'Europe moderne, moins elles ont d'éducation proprement dite, et plus elles valent.C'est pour cela peut-être qu'en Italie, en Espagne, elles sont si supérieures aux hommes et je dirais même si supérieures aux femmes des autres pays.
 
-**** *book_ *id_chap56
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap56
 
 Chapitre LVI.
 
-Suite.
-Toutes nos idées sur les femmes nous viennent en France du catéchisme de trois sous ; et ce qu'il y a de plaisant, c'est que beaucoup de gens qui n'admettraient pas l'autorité de ce livre pour régler une affaire de cinquante francs, la suivent à la lettre et stupidement pour l'objet qui, dans l'état de vanité des habitudes du xixe siècle, importe peut-être le plus à leur bonheur.Il ne faut pas de divorce parce que le mariage est un mystère, et quel mystère ?L'emblème de l'union de Jésus-Christ avec son église.Et que devenait ce mystère si l'église se fût trouvée un nom du genre masculin ?Mais quittons des préjugés qui tombent, observons seulement ce spectacle singulier, la racine de l'arbre a été sapée par la hache du ridicule ; mais les branches continuent à fleurir.Pour revenir à l'observation des faits et de leurs conséquences : dans les deux sexes, c'est de la manière dont on a employé la jeunesse que dépend le sort de l'extrême vieillesse ; cela est vrai de meilleure heure pour les femmes.Comment une femme de quarante-cinq ans est-elle reçue dans le monde ?D'une manière sévère et plutôt inférieure à son mérite ; on les flatte à vingt ans, on les abandonne à quarante.Une femme de quarante-cinq ans n'a d'importance que par ses enfants ou par son amant.
+Suite. Toutes nos idées sur les femmes nous viennent en France du catéchisme de trois sous ; et ce qu'il y a de plaisant, c'est que beaucoup de gens qui n'admettraient pas l'autorité de ce livre pour régler une affaire de cinquante francs, la suivent à la lettre et stupidement pour l'objet qui, dans l'état de vanité des habitudes du xixe siècle, importe peut-être le plus à leur bonheur.Il ne faut pas de divorce parce que le mariage est un mystère, et quel mystère ?L'emblème de l'union de Jésus-Christ avec son église.Et que devenait ce mystère si l'église se fût trouvée un nom du genre masculin ?Mais quittons des préjugés qui tombent, observons seulement ce spectacle singulier, la racine de l'arbre a été sapée par la hache du ridicule ; mais les branches continuent à fleurir.Pour revenir à l'observation des faits et de leurs conséquences : dans les deux sexes, c'est de la manière dont on a employé la jeunesse que dépend le sort de l'extrême vieillesse ; cela est vrai de meilleure heure pour les femmes.Comment une femme de quarante-cinq ans est-elle reçue dans le monde ?D'une manière sévère et plutôt inférieure à son mérite ; on les flatte à vingt ans, on les abandonne à quarante.Une femme de quarante-cinq ans n'a d'importance que par ses enfants ou par son amant.
 
 Une mère qui excelle dans les beaux-arts ne peut communiquer son talent à son fils que dans le cas extrêmement rare, où ce fils a reçu de la nature précisément l'âme de ce talent.Une mère qui a l'esprit cultivé donnera à son jeune fils une idée, non seulement de tous les talents purement agréables, mais encore de tous les talents utiles à l'homme en société, et il pourra choisir.La barbarie des turcs tient en grande partie à l'état d'abrutissement moral des belles géorgiennes.Les jeunes gens nés à Paris doivent à leurs mères l'incontestable supériorité qu'ils ont à seize ans sur les jeunes provinciaux de leur âge.C'est de seize à vingt-cinq que la chance tourne.
 
@@ -1154,7 +1140,7 @@ La plupart des hommes ont un moment dans leur vie où ils peuvent faire de grand
 
 Donc, apprendre aux jeunes filles à lire, à écrire et l'arithmétique par l'enseignement mutuel dans des écoles centrales-couvents, où la présence de tout homme, les professeurs exceptés, serait sévèrement punie.Le grand avantage de réunir les enfants, c'est que, quelque bornés que soient les professeurs, les enfants apprennent malgré eux de leurs petits camarades l'art de vivre dans le monde et de ménager les intérêts.Un professeur sensé devrait expliquer aux enfants leurs petites querelles et leurs amitiés, et commencer ainsi son cours de morale plutôt que par l'histoire du veau d'or.Sans doute, d'ici à quelques années, l'enseignement mutuel sera appliqué à tout ce qui s'apprend ; mais, prenant les choses dans leur état actuel, je voudrais que les jeunes filles étudiassent le latin comme les petits garçons ; le latin est bon parce qu'il apprend à s'ennuyer ; avec le latin, l'histoire, les mathématiques, la connaissance des plantes utiles comme nourriture ou comme remède, ensuite la logique et les sciences morales, etc.La danse, la musique et le dessin doivent se commencer à cinq ans.À seize ans, une jeune fille doit songer à se trouver un mari et recevoir de sa mère des idées justes sur l'amour, le mariage et le peu de probité des hommes.
 
-**** *book_ *id_chap56b
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap56b
 
 Chapitre LVI bis. Du mariage.
 
@@ -1170,20 +1156,19 @@ Une femme perd toujours dans un premier mariage les plus beaux jours de la jeune
 
 Les jeunes femmes qui ont beaucoup d'amants n'ont que faire du divorce.Les femmes d'un certain âge, qui ont eu beaucoup d'amants, croient réparer leur réputation, et en France y réussissent toujours, en se montrant extrêmement sévères envers des erreurs qui les ont quittées.Ce sera quelque pauvre jeune femme vertueuse et éperdument amoureuse qui demandera le divorce et qui se fera honnir par des femmes qui ont eu cinquante hommes.
 
-**** *book_ *id_chap57
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap57
 
 Chapitre LVII. De ce qu'on appelle vertu.
 
 Moi, j'honore du nom de vertu l'habitude de faire des actions pénibles et utiles aux autres.Saint Siméon stylite qui se tient vingt-deux ans sur le haut d'une colonne et qui se donne les étrivières n'est guère vertueux à mes yeux, j'en conviens, et c'est ce qui donne un ton trop leste à cet essai.Je n'estime guère non plus un chartreux qui ne mange que du poisson et qui ne se permet de parler que le jeudi.J'avoue que j'aime mieux le général Carnot qui, dans un âge avancé, supporte les rigueurs de l'exil dans une petite ville du nord, plutôt que de faire une bassesse.
 
-J'ai quelque espoir que cette déclaration extrêmement vulgaire portera à sauter le reste du chapitre.Ce matin, jour de fête, à Pesaro (7 mai 1819), étant obligé d'aller à la messe, je me suis fait donner un missel et je suis tombé sur ces paroles : joanna alphonsi quinti lusitaniae regis filia,... etc.
-La vertu si touchante prêchée par les phrases si belles du génie du christianisme se réduit donc à ne pas manger de truffes de peur des crampes d'estomac.C'est un calcul fort raisonnable si l'on croit à l'enfer, mais calcul de l'intérêt le plus personnel et le plus prosaïque.La vertu philosophique qui explique si bien le retour de Régulus à Carthage, et qui a amené des traits semblables dans notre révolution, prouve au contraire générosité dans l'âme.C'est uniquement pour ne pas être brûlée en l'autre monde, dans une grande chaudière d'huile bouillante, que Mme De Tourvel résiste à Valmont.Je ne conçois pas comment l'idée d'être le rival d'une chaudière d'huile bouillante n'éloigne pas Valmont par le mépris.
+J'ai quelque espoir que cette déclaration extrêmement vulgaire portera à sauter le reste du chapitre.Ce matin, jour de fête, à Pesaro (7 mai 1819), étant obligé d'aller à la messe, je me suis fait donner un missel et je suis tombé sur ces paroles : joanna alphonsi quinti lusitaniae regis filia,... etc. La vertu si touchante prêchée par les phrases si belles du génie du christianisme se réduit donc à ne pas manger de truffes de peur des crampes d'estomac.C'est un calcul fort raisonnable si l'on croit à l'enfer, mais calcul de l'intérêt le plus personnel et le plus prosaïque.La vertu philosophique qui explique si bien le retour de Régulus à Carthage, et qui a amené des traits semblables dans notre révolution, prouve au contraire générosité dans l'âme.C'est uniquement pour ne pas être brûlée en l'autre monde, dans une grande chaudière d'huile bouillante, que Mme De Tourvel résiste à Valmont.Je ne conçois pas comment l'idée d'être le rival d'une chaudière d'huile bouillante n'éloigne pas Valmont par le mépris.
 
 Combien Julie D'Étanges, respectant ses serments et le bonheur de M De Wolmar, n'est-elle pas plus touchante ?
 
 Ce que je dis de Mme De Tourvel, je le trouve applicable à la haute vertu de Mistress Hutchinson.Quelle âme le puritanisme enleva à l'amour !Un des travers les plus plaisants dans le monde, c'est que les hommes croient toujours savoir ce qu'il leur est évidemment nécessaire de savoir.Voyez-les parler de politique, cette science si compliquée ; voyez-les parler de mariage et de mœurs.
 
-**** *book_ *id_chap58
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap58
 
 Chapitre LVIII. Situation de l'Europe à l'égard du mariage.
 
@@ -1191,8 +1176,7 @@ Jusqu'ici nous n'avons traité la question du mariage que par le raisonnement ;
 
 Quel est le pays du monde où il y a le plus de mariages heureux ?Incontestablement c'est l'Allemagne protestante.
 
-J'extrais le morceau suivant du journal du capitaine Salviati sans y changer un seul mot."Halberstadt, 23 juin 1807.
-M De Bulow cependant est bonnement et ouvertement amoureux de Mlle De Feltheim; il la suit partout et toujours ; lui parle sans cesse, et très souvent la retient à dix pas de nous.Cette préférence ouverte choque la société, la rompt, et aux rives de la Seine passerait pour le comble de l'indécence.Les allemands songent bien moins que nous à ce qui rompt la société, et l'indécence n'est presque qu'un mal de convention.Il y a cinq ans que M De Bulow fait ainsi la cour à Mina qu'il n'a pas pu épouser à cause de la guerre.Toutes les demoiselles de la société ont leur amant connu de tout le monde, mais aussi parmi les allemands de la connaissance de mon ami, M De Mermann, il n'en est pas un seul qui ne se soit marié par amour ; savoir : "Mermann, son frère George, M De Voigt, M De Lasing, etc., Etc.Il vient de m'en nommer une douzaine.
+J'extrais le morceau suivant du journal du capitaine Salviati sans y changer un seul mot."Halberstadt, 23 juin 1807. M De Bulow cependant est bonnement et ouvertement amoureux de Mlle De Feltheim; il la suit partout et toujours ; lui parle sans cesse, et très souvent la retient à dix pas de nous.Cette préférence ouverte choque la société, la rompt, et aux rives de la Seine passerait pour le comble de l'indécence.Les allemands songent bien moins que nous à ce qui rompt la société, et l'indécence n'est presque qu'un mal de convention.Il y a cinq ans que M De Bulow fait ainsi la cour à Mina qu'il n'a pas pu épouser à cause de la guerre.Toutes les demoiselles de la société ont leur amant connu de tout le monde, mais aussi parmi les allemands de la connaissance de mon ami, M De Mermann, il n'en est pas un seul qui ne se soit marié par amour ; savoir : "Mermann, son frère George, M De Voigt, M De Lasing, etc., Etc.Il vient de m'en nommer une douzaine.
 
 "La manière ouverte et passionnée dont tous ces amants font la cour à leurs maîtresses serait le comble de l'indécence, du ridicule et de la malhonnêteté en France.
 
@@ -1228,7 +1212,7 @@ Après deux ans d'une totale séparation du monde, une femme divorcée pourrait 
 
 Il faudrait établir sur divers points de la France, et dans des villages pauvres, trente abbayes pour les vieilles filles.Le gouvernement chercherait à entourer ces établissements de considération, pour consoler un peu la tristesse des pauvres filles qui y achèveraient leur vie.Il faudrait leur donner tous les hochets de la dignité.Mais laissons ces chimères.
 
-**** *book_ *id_chap59
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap59
 
 Chapitre LIX. Werther et don Juan.
 
@@ -1276,7 +1260,7 @@ Il y a tel caractère fait pour ne trouver le plaisir que dans la variété.Mais
 
 Chacun de ces vins a ses partisans et tous ont raison, s'ils se connaissent bien eux-mêmes, et s'ils courent après le genre de bonheur qui est le mieux adapté à leurs organes et à leurs habitudes.Ce qui gâte le parti de l'inconstance, c'est que tous les sots se rangent de ce côté par manque de courage.Mais enfin chaque homme, s'il veut se donner la peine de s'étudier soi-même, a son beau idéal, et il me semble qu'il y a toujours un peu de ridicule à vouloir convertir son voisin.
 
-**** *book_ *id_chap60
+**** *creator_stendhal *book_stendhal_amour *style_prose *id_chap60
 
 Fragments divers.
 
@@ -1318,8 +1302,7 @@ C'est le défaut du commerce, il rend prosaïque.
 
 13.L'influence du rang se fait toujours sentir à travers le génie chez un parvenu.Voyez Rousseau tombant amoureux de toutes les dames qu'il rencontrait, et pleurant de ravissement, parce que le duc de Luxembourg, un des plus plats courtisans de l'époque, daigne se promener à droite plutôt qu'à gauche, pour accompagner un M Coindet, ami de Rousseau.L3 mai 1820.
 
-14.Ravenne, 23 janvier 1820.
-Les femmes ici n'ont que l'éducation des choses, une mère ne se gêne guère pour être au désespoir, ou au comble de la joie, par amour, devant ses filles de douze à quinze ans.Rappelez-vous que dans ces climats heureux beaucoup de femmes sont très bien jusqu'à quarante-cinq ans, et la plupart sont mariées à dix-huit.
+14.Ravenne, 23 janvier 1820. Les femmes ici n'ont que l'éducation des choses, une mère ne se gêne guère pour être au désespoir, ou au comble de la joie, par amour, devant ses filles de douze à quinze ans.Rappelez-vous que dans ces climats heureux beaucoup de femmes sont très bien jusqu'à quarante-cinq ans, et la plupart sont mariées à dix-huit.
 
 La Valchiusa, disant hier de Lampugnani: ah !Celui-là était fait pour moi, il savait aimer, etc., Etc., Et suivant longtemps ce discours avec une amie, devant sa fille, jeune personne très alerte de quatorze à quinze ans, qu'elle menait aussi aux promenades sentimentales avec cet amant.Quelquefois les jeunes filles accrochent des maximes de conduite excellentes.Par exemple Mme Guarnacci adressant à ses deux filles, et à deux hommes qui en toute leur vie ne lui ont fait que cette visite, des maximes approfondies pendant une demi-heure, et appuyées d'exemples à leur connaissance (celui de la Cercara en Hongrie), sur l'époque précise à laquelle il convient de punir par l'infidélité les amants qui se conduisent mal.
 
@@ -1403,13 +1386,11 @@ Ces lettres fatales m'ont fait l'impression d'une expérience personnelle.- Cher
 
 51.C'est une réflexion commune ; mais que sous ce prétexte l'on oublie de croire que tous les jours les âmes qui sentent deviennent plus rares, et les esprits cultivés plus communs.
 
-52.Orgueil féminin.Bologne, 18 avril, deux heures du matin.
-Je viens de voir un exemple frappant, mais tout calcul fait, il faudrait quinze pages pour en donner une idée juste, j'aimerais mieux, si j'en avais le courage, noter les conséquences de ce que j'ai vu à n'en pas douter.Voilà donc une conviction qu'il faut renoncer à communiquer.Il y a trop de petites circonstances.Cet orgueil est l'opposé de la vanité française.Autant que je puis m'en souvenir, le seul ouvrage où je l'aie vu esquissé, c'est la partie des mémoires de Mme Roland, où elle conte les petits raisonnements qu'elle faisait étant fille.
+52.Orgueil féminin.Bologne, 18 avril, deux heures du matin. Je viens de voir un exemple frappant, mais tout calcul fait, il faudrait quinze pages pour en donner une idée juste, j'aimerais mieux, si j'en avais le courage, noter les conséquences de ce que j'ai vu à n'en pas douter.Voilà donc une conviction qu'il faut renoncer à communiquer.Il y a trop de petites circonstances.Cet orgueil est l'opposé de la vanité française.Autant que je puis m'en souvenir, le seul ouvrage où je l'aie vu esquissé, c'est la partie des mémoires de Mme Roland, où elle conte les petits raisonnements qu'elle faisait étant fille.
 
 53.En France, la plupart des femmes ne font aucun cas d'un jeune homme jusqu'à ce qu'elles en aient fait un fat.Ce n'est qu'alors qu'il peut flatter la vanité.Duclos.
 
-54.Modène, 1820.
-Zilietti me dit à minuit, chez l'aimable Marchesina R: "je n'irai pas dîner avec vous demain à San-Michele (c'est une auberge) ; hier j'ai dit des bons mots, j'ai été plaisant en parlant à Cl, cela pourrait me faire remarquer."N'allez pas croire que Zilietti soit sot ou timide.C'est un homme prudent et fort riche de cet heureux pays-ci.
+54.Modène, 1820. Zilietti me dit à minuit, chez l'aimable Marchesina R: "je n'irai pas dîner avec vous demain à San-Michele (c'est une auberge) ; hier j'ai dit des bons mots, j'ai été plaisant en parlant à Cl, cela pourrait me faire remarquer."N'allez pas croire que Zilietti soit sot ou timide.C'est un homme prudent et fort riche de cet heureux pays-ci.
 
 55.Ce qu'il faut admirer en Amérique, c'est le gouvernement et non la société.Ailleurs, c'est le gouvernement qui fait le mal.Ils ont changé de rôle à Boston, et le gouvernement fait l'hypocrite pour ne pas choquer la société.
 
@@ -1427,8 +1408,7 @@ Je crois distinguer deux espèces d'imaginations : 1 l'imagination ardente, imp
 
 59.Habitudes de l'imagination.Un français est réellement choqué de huit changements de décorations par acte de tragédie.Le plaisir de voir Macheth est impossible pour cet homme ; il se console en damnant Shakspeare.
 
-60.En France, la province pour tout ce qui regarde les femmes est à quarante ans en arrière de Paris.À Corbeil une femme mariée me dit qu'elle ne s'est permis de lire que certains morceaux des mémoires de lauzun.
-Cette sottise me glace, je ne trouve plus une parole à lui dire, c'est bien là en effet, un livre que l'on quitte.
+60.En France, la province pour tout ce qui regarde les femmes est à quarante ans en arrière de Paris.À Corbeil une femme mariée me dit qu'elle ne s'est permis de lire que certains morceaux des mémoires de lauzun. Cette sottise me glace, je ne trouve plus une parole à lui dire, c'est bien là en effet, un livre que l'on quitte.
 
 Manque de naturel, grand défaut des femmes de province.Leurs gestes multipliés et gracieux.Celles qui jouent le premier rôle dans leur ville, pires que les autres.
 
@@ -1444,8 +1424,7 @@ Je suis heureux de trouver le passage suivant dans les mémoires d'Horace Walpol
 
 65.L'extrême familiarité peut détruire la cristallisation.Une charmante jeune fille de seize ans devenait amoureuse d'un beau jeune homme du même âge qui ne manquait pas chaque soir, à la tombée de la nuit, de passer sous ses fenêtres.La mère l'invite à passer huit jours à la campagne.Le remède était hardi, j'en conviens, mais la jeune fille avait une âme romanesque, et le beau jeune homme était un peu plat : elle le méprisa au bout de trois jours.
 
-66.Bologne, 17 avril 1817.
-Ave maria twilight, en Italie heure de la tendresse, des plaisirs de l'âme et de la mélancolie : sensation augmentée par le son de ces belles cloches.Heures des plaisirs qui ne tiennent aux sens que par les souvenirs.
+66.Bologne, 17 avril 1817. Ave maria twilight, en Italie heure de la tendresse, des plaisirs de l'âme et de la mélancolie : sensation augmentée par le son de ces belles cloches.Heures des plaisirs qui ne tiennent aux sens que par les souvenirs.
 
 67.Le premier amour d'un jeune homme qui entre dans le monde est ordinairement un amour ambitieux.Il se déclare rarement pour une jeune fille douce, aimable, innocente.Comment trembler, adorer, se sentir en présence d'une divinité ?Un adolescent a besoin d'aimer un être dont les qualités l'élèvent à ses propres yeux.C'est au déclin de la vie qu'on en revient tristement à aimer le simple et l'innocent, désespérant du sublime.Entre les deux, se place l'amour véritable, qui ne pense à rien qu'à soi-même.
 
@@ -1471,8 +1450,7 @@ Ave maria twilight, en Italie heure de la tendresse, des plaisirs de l'âme et d
 
 78.En amour, quand on divise de l'argent, on augmente l'amour ; quand on en donne, on tue l'amour.On éloigne le malheur actuel, et pour l'avenir l'odieux de la crainte de manquer, ou bien l'on fait naître la politique et le sentiment d'être deux, on détruit la sympathie.
 
-79.Messe des tuileries, 1811.
-Les cérémonies de la cour avec les poitrines découvertes des femmes, qu'elles étalent là comme les officiers leurs uniformes, et sans que tant de charmes fassent plus de sensation, rappellent involontairement à l'esprit les scènes de l'Arétin.On voit ce que tout le monde fait par intérêt d'argent pour plaire à un homme, on voit tout un public agir à la fois sans morale et surtout sans passion.Cela joint à la présence de femmes très décolletées avec la physionomie de la méchanceté et le rire sardonique pour tout ce qui n'est pas intérêt personnel payé comptant par de bonnes jouissances, donne l'idée des scènes du Bagno, et jette bien loin toute difficulté fondée sur la vertu ou sur la satisfaction intérieure d'une âme contente d'elle-même.
+79.Messe des tuileries, 1811. Les cérémonies de la cour avec les poitrines découvertes des femmes, qu'elles étalent là comme les officiers leurs uniformes, et sans que tant de charmes fassent plus de sensation, rappellent involontairement à l'esprit les scènes de l'Arétin.On voit ce que tout le monde fait par intérêt d'argent pour plaire à un homme, on voit tout un public agir à la fois sans morale et surtout sans passion.Cela joint à la présence de femmes très décolletées avec la physionomie de la méchanceté et le rire sardonique pour tout ce qui n'est pas intérêt personnel payé comptant par de bonnes jouissances, donne l'idée des scènes du Bagno, et jette bien loin toute difficulté fondée sur la vertu ou sur la satisfaction intérieure d'une âme contente d'elle-même.
 
 J'ai vu, au milieu de tout cela, le sentiment de l'isolement disposer les cœurs tendres à l'amour.
 
@@ -1524,8 +1502,7 @@ J'emprunte le passage suivant à un littérateur distingué et qui connaît beau
 
 "Le brillant génie d'Ovide, l'imagination riche de Properce, l'âme sensible de Tibulle, leur inspirèrent sans doute des vers de nuances différentes, mais ils aimèrent de la même manière des femmes à peu près de la même espèce.Ils désirent, ils triomphent, ils ont des rivaux heureux, ils sont jaloux, ils se brouillent et se raccommodent ; ils sont infidèles à leur tour, on leur pardonne, et ils retrouvent un bonheur qui bientôt est troublé par le retour des mêmes chances."Corinne est mariée.La première leçon que lui donne Ovide est pour lui apprendre par quelle adresse elle doit tromper son mari ; quels signes ils doivent se faire devant lui et devant le monde, pour s'entendre et n'être entendus que d'eux seuls... etc."Ces grands poètes furent apparemment au nombre des âmes les plus tendres et les plus délicates de leur siècle, et voilà pourtant qui ils aimèrent et comment ils aimèrent.Ici il faut faire abstraction de toute considération littéraire.Je ne leur demande qu'un témoignage sur leur siècle ; et dans deux mille ans un roman de Ducray-Duminil sera un témoignage de nos mœurs.
 
-93 Bis.
-L'un de mes grands regrets, c'est de n'avoir pu voir la Venise de 1760 ; une suite de hasards heureux avait réuni apparemment, dans ce petit espace, et les institutions politiques et les opinions les plus favorables au bonheur de l'homme.Une douce volupté donnait à tous un bonheur facile.Il n'y avait point de combat intérieur et point de crimes.La sérénité était sur tous les visages, personne ne songeait à paraître plus riche, l'hypocrisie ne menait à rien.Je me figure que ce devait être le contraire de Londres en 1822.
+93 Bis. L'un de mes grands regrets, c'est de n'avoir pu voir la Venise de 1760 ; une suite de hasards heureux avait réuni apparemment, dans ce petit espace, et les institutions politiques et les opinions les plus favorables au bonheur de l'homme.Une douce volupté donnait à tous un bonheur facile.Il n'y avait point de combat intérieur et point de crimes.La sérénité était sur tous les visages, personne ne songeait à paraître plus riche, l'hypocrisie ne menait à rien.Je me figure que ce devait être le contraire de Londres en 1822.
 
 94.Si vous remplacez le manque de sécurité personnelle par la juste crainte de manquer d'argent, vous verrez que les États-Unis d'Amérique, par rapports à la passion dont nous essayons une monographie, ressemblent beaucoup à l'antiquité.En parlant des esquisses plus ou moins imparfaites de l'amour-passion, que nous ont laissées les anciens, je vois que j'ai oublié les amours de Médée dans l'argonautique.Virgile les a copiées dans sa Didon.Comparez cela à l'amour tel qu'il est dans un roman moderne, le doyen de Killerine, par exemple.
 
@@ -1533,8 +1510,7 @@ L'un de mes grands regrets, c'est de n'avoir pu voir la Venise de 1760 ; une su
 
 C'est peut-être que le sentiment lui vient de la nature, et sa logique du gouvernement.On voit sur-le-champ pourquoi les beaux-arts, hors de l'Italie, ne sont qu'une mauvaise plaisanterie ; on en raisonne mieux, mais le public ne sent pas.
 
-96.Londres, 20 novembre 1821.
-Un homme fort raisonnable, et qui est arrivé hier de Madras, me dit en deux heures de conversation ce que je réduis aux vingt lignes suivantes : ce sombre, qu'une cause inconnue fait peser sur le caractère anglais, pénètre si avant dans les cœurs, qu'au bout du monde, à Madras, quand un anglais peut obtenir quelques jours de vacances, il quitte bien vite la riche et florissante Madras, pour venir se dérider dans la petite ville française de Pondichéry, qui, sans richesses et presque sans commerce, fleurit sous l'administration paternelle de M Dupuy.À Madras on boit du vin de Bourgogne à trente-six francs la bouteille ; la pauvreté des français de Pondichéry fait que, dans les sociétés les plus distinguées, les rafraîchissements consistent en grands verres d'eau.Mais on y rit.
+96.Londres, 20 novembre 1821. Un homme fort raisonnable, et qui est arrivé hier de Madras, me dit en deux heures de conversation ce que je réduis aux vingt lignes suivantes : ce sombre, qu'une cause inconnue fait peser sur le caractère anglais, pénètre si avant dans les cœurs, qu'au bout du monde, à Madras, quand un anglais peut obtenir quelques jours de vacances, il quitte bien vite la riche et florissante Madras, pour venir se dérider dans la petite ville française de Pondichéry, qui, sans richesses et presque sans commerce, fleurit sous l'administration paternelle de M Dupuy.À Madras on boit du vin de Bourgogne à trente-six francs la bouteille ; la pauvreté des français de Pondichéry fait que, dans les sociétés les plus distinguées, les rafraîchissements consistent en grands verres d'eau.Mais on y rit.
 
 Maintenant, il y a plus de liberté en Angleterre qu'en Prusse.Le climat est le même que celui de Koenigsberg, de Berlin, de Varsovie, villes qui sont loin de marquer par leur tristesse.Les classes ouvrières y ont moins de sécurité et y boivent tout aussi peu de vin qu'en Angleterre, elles sont beaucoup plus mal vêtues.
 
@@ -1604,12 +1580,9 @@ J'aimerais mieux être un arabe du ve siècle qu'un français du xixe.
 
 119.L'éducation actuelle des femmes, ce mélange bizarre de pratiques pieuses et de chansons fort vives, est la chose du monde la mieux calculée pour éloigner le bonheur.Cette éducation fait les têtes les plus inconséquentes.Mme De R, qui craignait la mort, vient de mourir parce qu'elle trouvait drôle de jeter les médecines par la fenêtre.Ces pauvres petites femmes prennent l'inconséquence pour de la gaieté, parce que la gaieté est souvent inconséquente en apparence.C'est comme l'allemand qui se fait vif en se jetant par la fenêtre.
 
-120.La vulgarité, éteignant l'imagination, produit sur-le-champ pour moi l'ennui mortel.La charmante comtesse K, me montrant ce soir les lettres de ses amants, que je trouve grossières.Forli, 17 mars.
-Henri.L'imagination n'était pas éteinte, elle était seulement fourvoyée, et par répugnance cessait bien vite de se figurer la grossièreté de ces plats amants.
+120.La vulgarité, éteignant l'imagination, produit sur-le-champ pour moi l'ennui mortel.La charmante comtesse K, me montrant ce soir les lettres de ses amants, que je trouve grossières.Forli, 17 mars. Henri.L'imagination n'était pas éteinte, elle était seulement fourvoyée, et par répugnance cessait bien vite de se figurer la grossièreté de ces plats amants.
 
-121.Rêverie métaphysique.
-Belgirate, 26 octobre 1816.
-Pour peu qu'une véritable passion rencontre de contrariétés, elle produit vraisemblablement plus de malheur que de bonheur ; cette idée peut n'être pas vraie pour une âme tendre, mais elle est d'une évidence parfaite pour la majeure partie des hommes, et en particulier pour les froids philosophes qui, en fait de passions, ne vivent presque que de curiosité et d'amour-propre.Ce qui précède, je le disais hier soir à la contessina Fulvia, en nous promenant sur la terrasse de l'isola-bella, à l'orient, près du grand pin.Elle me répondit : "le malheur produit une beaucoup plus forte impression sur l'existence humaine que le plaisir."La première vertu de tout ce qui prétend à nous donner du plaisir, c'est de frapper fort."Ne pourrait-on pas dire que la vie elle-même n'étant faite que de sensations, le goût universel de tous les êtres qui ont vie est d'être avertis qu'ils vivent par les sensations les plus fortes possibles ?Les gens du nord ont peu de vie ; voyez la lenteur de leurs mouvements.Le dolce farniente des italiens, c'est le plaisir de jouir des émotions de son âme, mollement étendu sur un divan, plaisir impossible, si l'on court toute la journée à cheval ou dans un droski, comme l'anglais ou le russe.Ces gens mourraient d'ennui sur un divan.Il n'y a rien à regarder dans leurs âmes.
+121.Rêverie métaphysique. Belgirate, 26 octobre 1816. Pour peu qu'une véritable passion rencontre de contrariétés, elle produit vraisemblablement plus de malheur que de bonheur ; cette idée peut n'être pas vraie pour une âme tendre, mais elle est d'une évidence parfaite pour la majeure partie des hommes, et en particulier pour les froids philosophes qui, en fait de passions, ne vivent presque que de curiosité et d'amour-propre.Ce qui précède, je le disais hier soir à la contessina Fulvia, en nous promenant sur la terrasse de l'isola-bella, à l'orient, près du grand pin.Elle me répondit : "le malheur produit une beaucoup plus forte impression sur l'existence humaine que le plaisir."La première vertu de tout ce qui prétend à nous donner du plaisir, c'est de frapper fort."Ne pourrait-on pas dire que la vie elle-même n'étant faite que de sensations, le goût universel de tous les êtres qui ont vie est d'être avertis qu'ils vivent par les sensations les plus fortes possibles ?Les gens du nord ont peu de vie ; voyez la lenteur de leurs mouvements.Le dolce farniente des italiens, c'est le plaisir de jouir des émotions de son âme, mollement étendu sur un divan, plaisir impossible, si l'on court toute la journée à cheval ou dans un droski, comme l'anglais ou le russe.Ces gens mourraient d'ennui sur un divan.Il n'y a rien à regarder dans leurs âmes.
 
 "L'amour donne les sensations les plus fortes possibles ; la preuve en est que dans ces moments d'inflammation, comme diraient les physiologistes, le cœur forme ces alliances de sensations qui semblent si absurdes aux philosophes Helvétius, Buffon et autres.Luizina, l'autre jour, s'est laissé tomber dans le lac, comme vous savez ; c'est qu'elle suivait des yeux une feuille de laurier détachée de quelque arbre de l'isola-madre (îles Borromées).La pauvre femme m'a avoué qu'un jour son amant, en lui parlant, effeuillait une branche de laurier dans le lac, et lui disait : vos cruautés et les calomnies de votre amie m'empêchent de profiter de la vie et d'acquérir quelque gloire."Une âme qui, par l'effet de quelque grande passion, ambition, jeu, amour, jalousie, guerre, etc., A connu les moments d'angoisse et d'extrême malheur, par une bizarrerie bien incompréhensible, méprise le bonheur d'une vie tranquille et où tout semble fait à souhait : un joli château dans une position pittoresque, beaucoup d'aisance, une bonne femme, trois jolis enfants, des amis aimables et en quantité, ce n'est là qu'une faible esquisse de tout ce que possède notre hôte, le général C, et cependant vous savez qu'il a dit être tenté d'aller à Naples prendre le commandement d'une guérilla.Une âme faite pour les passions sent d'abord que cette vie heureuse l'ennuie, et peut-être aussi qu'elle ne lui donne que des idées communes.Je voudrais, vous disait C, n'avoir jamais connu la fièvre des grandes passions, et pouvoir me payer de l'apparent bonheur sur lequel on me fait tous les jours de si sots compliments, auxquels, pour comble d'horreur, je suis forcé de répondre avec grâce.- Moi, philosophe, j'ajoute : voulez-vous une millième preuve que nous ne sommes pas faits par un être bon, c'est que le plaisir ne produit pas peut-être la moitié autant d'impression sur notre être que la douleur". la contessina m'a interrompu : "il y a peu de peines morales dans la vie qui ne soient rendues chères par l'émotion qu'elles excitent ; s'il y a un grain de générosité dans l'âme, ce plaisir se centuple.L'homme condamné à mort en 1815, et sauvé par hasard (M Lavalette par exemple), s'il marchait au supplice avec courage, doit se rappeler ce moment dix fois par mois ; le lâche qui mourait en pleurant et jetant les hauts cris (le douanier Morris, jeté dans le lac, RobRoy, III, 120), s'il est aussi sauvé par hasard, ne peut tout au plus se souvenir avec plaisir de cet instant, qu'à cause de la circonstance qu'il a été sauvé, et non pour les trésors de générosité qu'il a découverts en lui-même, et qui ôtent à l'avenir toutes ses craintes."Moi.- L'amour, même malheureux, donne à une âme tendre, pour qui la chose imaginée est la chose existante, des trésors de jouissance de cette espèce ; il y a des visions sublimes de bonheur et de beauté chez soi et chez ce qu'on aime.Que de fois Salviati n'a-t-il pas entendu Léonore lui dire, comme Mlle Mars dans les fausses confidences, avec son sourire enchanteur : "eh bien !Oui, je vous aime !" Or, voilà de ces illusions qu'un esprit sage n'a jamais.
 
@@ -1643,8 +1616,7 @@ Fulvia, levant les yeux au ciel.- Oui, pour vous et pour moi, l'amour, même mal
 
 134.Je voudrais pouvoir dire quelque chose sur la consolation.On n'essaye pas assez de consoler.Le principe général, c'est qu'il faut tâcher de former une cristallisation la plus étrangère possible au motif qui a jeté dans la douleur.Il faut avoir le courage de se livrer à un peu d'anatomie pour découvrir un principe inconnu.Si l'on veut consulter le chapitre XI de l'ouvrage de M Villermé, sur les prisons (Paris, 1820), l'on verra que les prisonniers si maritano fra di loro (c'est le mot du langage des prisons).Les femmes si maritano anche fra di loro, et il y a en général beaucoup de fidélité dans ces unions, ce qui ne s'observe pas chez les hommes, et qui est un effet du principe de la pudeur."À Saint-Lazare, dit M Villermé, page 96, à Saint-Lazare, en octobre 1818, une femme s'est donné plusieurs coups de couteau parce qu'elle s'est vu préférer une arrivante."C'est ordinairement la plus jeune qui est la plus attachée à l'autre."
 
-135.Vivacità, leggerezza, soggettissima a prendere puntiglio, occupazione di ogni momento delle apparenze della propria esistenza agli occhi altrui : ecco I tre gran caratteri di questa pianta che risveglia europa nel 1808.
-Parmi les italiens les bons sont ceux qui ont encore un peu de sauvagerie et de propension au sang : les romagnols, les calabrais, et parmi les plus civilisés, les bressans, les piémontais, les corses.Le bourgeois de Florence est plus mouton que celui de Paris.
+135.Vivacità, leggerezza, soggettissima a prendere puntiglio, occupazione di ogni momento delle apparenze della propria esistenza agli occhi altrui : ecco I tre gran caratteri di questa pianta che risveglia europa nel 1808. Parmi les italiens les bons sont ceux qui ont encore un peu de sauvagerie et de propension au sang : les romagnols, les calabrais, et parmi les plus civilisés, les bressans, les piémontais, les corses.Le bourgeois de Florence est plus mouton que celui de Paris.
 
 L'espionnage de Léopold l'a avili à jamais.Voir la lettre de M Courier, sur le bibliothécaire Furia et le chambellan Puccini.
 
@@ -1682,8 +1654,7 @@ Lorsque le plaisir a entièrement parcouru sa carrière, il est clair que nous r
 
 142.Dès l'âge de six ans nous nous accoutumons à chercher le bonheur par la même route que nos parents.L'orgueil de la mère de la contessina Nella a commencé le malheur de cette aimable femme, et elle le rend sans ressource par le même orgueil fou.Venise, 1819.
 
-143.Du genre romantique.
-L'on m'écrit de Paris qu'on y a vu (exposition de 1822) un millier de tableaux représentant des sujets de l'écriture sainte, peints par des peintres qui n'y croient pas beaucoup, admirés et jugés par des gens qui n'y croient pas, et enfin payés par des gens qui n'y croient pas.
+143.Du genre romantique. L'on m'écrit de Paris qu'on y a vu (exposition de 1822) un millier de tableaux représentant des sujets de l'écriture sainte, peints par des peintres qui n'y croient pas beaucoup, admirés et jugés par des gens qui n'y croient pas, et enfin payés par des gens qui n'y croient pas.
 
 L'on cherche après cela le pourquoi de la décadence de l'art.
 
@@ -1697,8 +1668,7 @@ Ne croyant pas en ce qu'il dit, l'artiste craint toujours de paraître exagéré
 
 Ces sots compliments ne sont usités que dans la bourgeoisie ; ils sont heureusement de mauvais ton, comme trop aisés à faire, chez les gens à carrosse.
 
-147.Lorette, 11 septembre 1811.
-Je viens de voir un très beau bataillon de gens de ce pays ; c'est le reste de quatre mille hommes qui étaient allés à Vienne en 1809.J'ai passé dans les rangs avec le colonel, et fait faire leur histoire à plusieurs soldats.C'est la vertu des républiques du moyen âge, plus ou moins abâtardie par les espagnols, le prêtisme et deux siècles des gouvernements lâches et cruels qui ont tour à tour gâté ce pays-ci.
+147.Lorette, 11 septembre 1811. Je viens de voir un très beau bataillon de gens de ce pays ; c'est le reste de quatre mille hommes qui étaient allés à Vienne en 1809.J'ai passé dans les rangs avec le colonel, et fait faire leur histoire à plusieurs soldats.C'est la vertu des républiques du moyen âge, plus ou moins abâtardie par les espagnols, le prêtisme et deux siècles des gouvernements lâches et cruels qui ont tour à tour gâté ce pays-ci.
 
 Le brillant honneur chevaleresque, sublime et sans raison, est une plante exotique importée seulement depuis un petit nombre d'années.On n'en trouve pas trace en 1740.Voir De Brosses.Les officiers de Montenotte et de Rivoli avaient trop d'occasions de montrer la vraie vertu à leurs voisins, pour chercher à imiter un honneur peu connu sous les chaumières que le soldat de 1796 venait de quitter, et qui leur eût semblé bien baroque.
 
@@ -1746,10 +1716,7 @@ Qu'est-ce qui a empêché, en 1814, M De Maubreuil d'immoler Napoléon dans la f
 
 165.Lisio Visconti n'était rien moins qu'un grand lecteur de livres.Outre ce qu'il avait pu voir en courant le monde, cet essai est fondé sur les mémoires de quinze ou vingt personnages célèbres.S'il se rencontrait, par hasard, un lecteur qui trouvât ces bagatelles dignes d'un instant d'attention, voici les livres desquels Lisio a tiré ses réflexions et conclusions : vie de Benvenuto Cellini, écrite par lui-même.Les nouvelles de Cervantes et de Scarron.Manon Lescaut et le doyen de Killerine, de l'abbé Prévost.
 
-Lettres latines d'Héloïse à Abélard.
-Tom Jones. lettres d'une religieuse portugaise.
-Deux ou trois romans d'Auguste La Fontaine.L'histoire de Toscane, de Pignotti.Werther.
-Brantôme.Mémoires de Carlo Gozzi (Venise, 1760) ; seulement les 80 pages sur l'histoire de ses amours.Mémoires de Lauzun, Saint-Simon, D'Épinay, De Staal, Marmontel, Bezenval, Roland, Duclos, Horace Walpole, Evelyn, Hutchinson.Lettres de Mlle Lespinasse.
+Lettres latines d'Héloïse à Abélard. Tom Jones. lettres d'une religieuse portugaise. Deux ou trois romans d'Auguste La Fontaine.L'histoire de Toscane, de Pignotti.Werther. Brantôme.Mémoires de Carlo Gozzi (Venise, 1760) ; seulement les 80 pages sur l'histoire de ses amours.Mémoires de Lauzun, Saint-Simon, D'Épinay, De Staal, Marmontel, Bezenval, Roland, Duclos, Horace Walpole, Evelyn, Hutchinson.Lettres de Mlle Lespinasse.
 
 166.Un des plus grands personnages de ce temps-là, l'un des hommes les plus marquants dans l'église et dans l'état, nous a conté ce soir (janvier 1822), chez Mme De M, les dangers fort réels qu'il avait courus du temps de la terreur."J'avais eu le malheur d'être au nombre des membres les plus marquants de l'assemblée constituante : je me tins à Paris, cherchant à me cacher tant bien que mal, tant qu'il y eut quelque espoir de succès pour la bonne cause.Enfin les dangers augmentant et les étrangers ne faisant rien d'énergique pour nous, je me déterminai à partir, mais il fallait partir sans passeport.Comme tout le monde s'en allait à Coblentz, j'eus l'idée de sortir par Calais.Mais mon portrait avait été si fort répandu, dix-huit mois auparavant, que je fus reconnu à la dernière poste ; cependant on me laissa passer.J'arrivai à une auberge à Calais, où, comme vous pouvez penser, je ne dormis guère, et fort heureusement pour moi, car, vers les quatre heures du matin, j'entendis très distinctement prononcer mon nom.Pendant que je me lève et m'habille à la hâte, je distingue fort bien malgré l'obscurité, des gardes nationaux avec leurs fusils, pour lesquels on ouvre la grande porte et qui entrent dans la cour de l'auberge.Heureusement il pleuvait à verse ; c'était une matinée d'hiver fort obscure avec un grand vent.L'obscurité et le bruit du vent me permirent de me sauver par la cour de derrière et l'écurie des chevaux.Me voilà dans la rue à sept heures du matin, sans ressource aucune.
 
@@ -1761,8 +1728,7 @@ Le Fils."Je pense, monsieur, que vous y dînez aussi ?Le Père.
 
 "M le duc d'Orléans, toujours parfait pour notre famille, vous engageant pour la première fois, a bien voulu m'inviter aussi."Le fils, jeune homme fort bien né et de l'esprit le plus distingué, ne manque pas d'être au palais-royal à six heures.On servit à sept.Le fils se trouva placé vis-à-vis du père.Chaque convive avait à côté de soi une fille nue.L'on était servi par une vingtaine de laquais en grande livrée.
 
-168.Londres, août 1817.
-Je n'ai de ma vie été frappé et intimidé de la présence de la beauté comme ce soir à un concert que donnait Mme Pasta.
+168.Londres, août 1817. Je n'ai de ma vie été frappé et intimidé de la présence de la beauté comme ce soir à un concert que donnait Mme Pasta.
 
 Elle était environnée, en chantant, de trois rangs de jeunes femmes tellement belles, d'une beauté tellement pure et céleste, que je me suis senti baisser les yeux par respect, au lieu de les lever pour admirer et jouir.Cela ne m'est arrivé dans aucun pays, pas même dans ma chère Italie.
 

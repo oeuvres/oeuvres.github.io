@@ -1,6 +1,6 @@
 ---
 identifier: verne_chancellor  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1874  
 title: Le Chancellor  
 ---

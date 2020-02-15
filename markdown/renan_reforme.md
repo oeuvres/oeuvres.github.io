@@ -1,6 +1,6 @@
 ---
 identifier: renan_reforme  
-creator: Renan, Ernest (1823-1892)  
+creator: Renan, Ernest.  
 date: 1871  
 title: La Réforme intellectuelle et morale de la France  
 ---

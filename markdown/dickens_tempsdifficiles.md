@@ -1,6 +1,6 @@
 ---
 identifier: dickens_tempsdifficiles  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1854  
 title: Les temps difficiles  
 ---

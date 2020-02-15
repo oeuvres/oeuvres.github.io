@@ -1,6 +1,6 @@
 ---
 identifier: proust_recherche7  
-creator: Proust, Marcel  
+creator: Proust, Marcel.  
 date:   
 title: Le Temps retrouvé — À la recherche du temps perdu  
 ---

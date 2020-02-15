@@ -1,6 +1,6 @@
 ---
 identifier: dickens_grillon  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1845  
 title: Le grillon du foyer. Histoire fantastique d’un intérieur domestique  
 ---

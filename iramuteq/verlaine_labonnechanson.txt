@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_I *date_1870 
 
 I
 
@@ -24,7 +24,7 @@ Dont rêve le poète et que l'homme chérit,
 La Compagne qu'enfin il a trouvée, et l'âme
 Que son âme depuis toujours pleure et réclame.
 
-**** *book_ *id_II *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_II *date_1870 
 
 II
 
@@ -63,7 +63,7 @@ Mais témoignant sincèrement,
 Sans fausse note et sans fadaise,
 Du doux mal qu'on souffre en aimant.
 
-**** *book_ *id_III *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_III *date_1870 
 
 III
 
@@ -87,7 +87,7 @@ D'une révolte aussitôt étouffée,
 Au plein pouvoir de la petite Fée
 Que depuis lors je supplie en tremblant.
 
-**** *book_ *id_IV *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_IV *date_1870 
 
 IV
 
@@ -126,7 +126,7 @@ Je chanterai des airs ingénus, je me dis
 Qu'elle m'écoutera sans déplaisir sans doute ;
 Et vraiment je ne veux pas d'autre Paradis.
 
-**** *book_ *id_V *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_V *date_1870 
 
 V
 
@@ -155,7 +155,7 @@ Ma vie endormie encor...
    — Vite, vite,
 Car voici le soleil d'or. —
 
-**** *book_ *id_VI *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_VI *date_1870 
 
 VI
 
@@ -183,7 +183,7 @@ Que l'astre irise...
 
 C'est l'heure exquise.
 
-**** *book_ *id_VII *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_VII *date_1870 
 
 VII
 
@@ -206,7 +206,7 @@ Puisque le Nom si beau, si noble et si sonore
 Se mêle, pur pivot de tout ce tournoiement,
 Au rythme du wagon brutal, suavement.
 
-**** *book_ *id_VIII *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_VIII *date_1870 
 
 VIII
 
@@ -230,7 +230,7 @@ Un doux accord patricien.
 Je vois, j'entends toutes ces choses
 Dans son nom Carlovingien.
 
-**** *book_ *id_IX *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_IX *date_1870 
 
 IX
 
@@ -249,7 +249,7 @@ Est longue juste assez pour qu'elle ne dérobe
 Qu'à moitié sous ses plis jaloux le bout charmant
 D'un pied malicieux imperceptiblement.
 
-**** *book_ *id_X *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_X *date_1870 
 
 X
 
@@ -288,7 +288,7 @@ Peut-être qu'elle est très joyeuse et qu'elle oublie ?
 
 Et je relis sa lettre avec mélancolie.
 
-**** *book_ *id_XI *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XI *date_1870 
 
 XI
 
@@ -316,7 +316,7 @@ Acclament le bienheureux jour
 Où, seul rêve et seule pensée,
 Me reviendra la fiancée !
 
-**** *book_ *id_XII *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XII *date_1870 
 
 XII
 
@@ -340,7 +340,7 @@ Et que, sans nul regret vain,
 Elle soit la bienvenue
 Celle qui revient enfin.
 
-**** *book_ *id_XIII *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XIII *date_1870 
 
 XIII
 
@@ -368,7 +368,7 @@ Est-ce un espoir vain que mon cœur caresse,
 Un vain espoir, faux et doux compagnon ?
 Oh ! non ! n'est-ce pas ? n'est-ce pas que non ?
 
-**** *book_ *id_XIV *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XIV *date_1870 
 
 XIV
 
@@ -383,7 +383,7 @@ Oh ! tout cela, mon rêve attendri le poursuit
 Sans relâche, à travers toutes remises vaines,
 Impatient des mois, furieux des semaines !
 
-**** *book_ *id_XV *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XV *date_1870 
 
 XV
 
@@ -417,7 +417,7 @@ De me dire encore et toujours,
 En dépit des mornes retours,
 Que je vous aime, que je t'aime !
 
-**** *book_ *id_XVI *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XVI *date_1870 
 
 XVI
 
@@ -432,7 +432,7 @@ Toits qui dégouttent, murs suintants, pavé qui glisse,
 Bitume défoncé, ruisseaux comblant l'égout,
 Voilà ma route — avec le paradis au bout.
 
-**** *book_ *id_XVII *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XVII *date_1870 
 
 XVII
 
@@ -462,7 +462,7 @@ Et la main dans la main, avec l'âme enfantine
 
 De ceux qui s'aiment sans mélange, n'est-ce pas ?
 
-**** *book_ *id_XVIII *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XVIII *date_1870 
 
 XVIII
 
@@ -487,7 +487,7 @@ Le bon conseil loyal et brave,
 Enfant rieuse au penser grave,
 A qui tout mon cœur dit : merci !
 
-**** *book_ *id_XIX *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XIX *date_1870 
 
 XIX
 
@@ -506,7 +506,7 @@ Qui se jouera, caressant, dans vos voiles,
 Et les regards paisibles des étoiles
 Bienveillamment souriront aux époux.
 
-**** *book_ *id_XX *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XX *date_1870 
 
 XX
 
@@ -528,7 +528,7 @@ L'amour, délicieux vainqueur,
 
 Nous a réunis dans la joie.
 
-**** *book_ *id_XXI *date_1870 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_labonnechanson *style_verse *genre_verse *dist1_verlaine_verse_verse_labonnechanson *dist2_verlaine_verse_verse *id_XXI *date_1870 
 
 XXI
 

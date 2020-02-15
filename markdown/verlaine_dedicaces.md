@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_dedicaces  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1890  
 title: Dédicaces  
 ---

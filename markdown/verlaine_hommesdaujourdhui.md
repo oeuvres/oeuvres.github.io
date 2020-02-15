@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_hommesdaujourdhui  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1892  
 title: Les Hommes d'aujourd'hui  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: montesquieu_considerationsgrandeur  
-creator: Montesquieu, Charles-Louis de Secondat (1689-1755 ; baron de La Brède et de)   
+creator: Montesquieu, Charles-Louis de Secondat.  
 date:   
 title: Considérations sur les causes de la grandeur des Romains et de leur décadence  
 ---

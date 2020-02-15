@@ -1,6 +1,6 @@
 ---
 identifier: augustin_citedieu  
-creator: Augustin (saint ; 0354-0430)  
+creator: Augustin.  
 date:   
 title: La Cité de Dieu  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: nerval_chimeres  
-creator: Nerval, Gérard de  
+creator: Nerval, Gérard de.  
 date: 1854  
 title: Les Chimères  
 ---

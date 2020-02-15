@@ -1,6 +1,6 @@
 ---
 identifier: dumas_frerescorses  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1845  
 title: Les frères Corses  
 ---

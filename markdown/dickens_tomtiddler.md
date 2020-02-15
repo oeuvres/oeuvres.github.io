@@ -1,6 +1,6 @@
 ---
 identifier: dickens_tomtiddler  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1861  
 title: La terre de Tom Tiddler  
 ---

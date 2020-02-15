@@ -1,6 +1,6 @@
 ---
 identifier: flaubert_3contes  
-creator: Flaubert, Gustave  
+creator: Flaubert, Gustave.  
 date:   
 title: Les Trois Contes  
 ---

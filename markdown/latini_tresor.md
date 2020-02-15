@@ -1,6 +1,6 @@
 ---
 identifier: latini_tresor  
-creator: Latini, Brunetto  
+creator: Latini, Brunetto.  
 date: 1267  
 title: Li livres dou tresor  
 ---

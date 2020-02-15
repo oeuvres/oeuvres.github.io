@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_bonheur  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1891  
 title: Bonheur  
 ---

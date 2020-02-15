@@ -1,6 +1,6 @@
 ---
 identifier: baudelaire_art-romantique  
-creator: Baudelaire, Charles  
+creator: Baudelaire, Charles.  
 date: 1885  
 title: L’Art romantique  
 ---

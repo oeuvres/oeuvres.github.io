@@ -1,6 +1,6 @@
 ---
 identifier: rimbaud_poesies  
-creator: Rimbaud, Arthur  
+creator: Rimbaud, Arthur.  
 date: 1872  
 title: Poésies  
 ---

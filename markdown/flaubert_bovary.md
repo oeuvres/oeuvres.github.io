@@ -1,6 +1,6 @@
 ---
 identifier: flaubert_bovary  
-creator: Flaubert, Gustave (1821-1880)  
+creator: Flaubert, Gustave.  
 date: 1857  
 title: Madame Bovary  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dumas_filsforcat  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1859  
 title: Le fils du forçat  
 ---

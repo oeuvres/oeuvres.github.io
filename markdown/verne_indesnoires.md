@@ -1,6 +1,6 @@
 ---
 identifier: verne_indesnoires  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1877  
 title: Les Indes noires  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: bergson_rire  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1900  
 title: Le rire. Essai sur la signification du comique  
 ---

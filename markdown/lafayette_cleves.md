@@ -1,6 +1,6 @@
 ---
 identifier: lafayette_cleves  
-creator: Madame de La Fayette  
+creator: Madame de La Fayette.  
 date:   
 title: La princesse de Clèves  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: larochefoucauld_maximes  
-creator: La Rochefoucauld, François de (1613-1680)  
+creator: La Rochefoucauld, François de.  
 date:   
 title: Réflexions ou Sentences et maximes morales  
 ---

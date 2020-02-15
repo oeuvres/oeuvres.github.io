@@ -1,6 +1,6 @@
 ---
 identifier: verne_tribulationschinois  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1879  
 title: Les Tribulations d’un Chinois en Chine  
 ---

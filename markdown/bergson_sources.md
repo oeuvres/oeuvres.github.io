@@ -1,6 +1,6 @@
 ---
 identifier: bergson_sources  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1932  
 title: Les deux sources de la morale et de la religion  
 ---

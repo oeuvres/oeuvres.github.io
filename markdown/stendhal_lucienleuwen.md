@@ -1,6 +1,6 @@
 ---
 identifier: stendhal_lucienleuwen  
-creator: Stendhal  
+creator: Stendhal.  
 date: 1894  
 title: Lucien Leuwen  
 ---

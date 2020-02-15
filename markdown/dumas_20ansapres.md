@@ -1,6 +1,6 @@
 ---
 identifier: dumas_20ansapres  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1845  
 title: Vingt ans après  
 ---

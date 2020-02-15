@@ -1,6 +1,6 @@
 ---
 identifier: kipling_jungle  
-creator: Kipling, Rudyard  
+creator: Kipling, Rudyard.  
 date: 1895  
 title: Le livre de la jungle (premier et second)  
 ---

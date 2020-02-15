@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p188 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p188 *date_1896 
 
 I PROLOGUE
 
@@ -25,7 +25,7 @@ Or vous allez voir si quelqu'une
 Ou quelqu'un pourrait me lasser
 Dans le pardon ou la rancune !
 
-**** *book_ *id_p189 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p189 *date_1896 
 
 II POST-SCRIPTUM AU PROLOGUE
 
@@ -54,7 +54,7 @@ Et mon fiel fier qui s'amuse
 Récuse à titre de Muse
 Cette épouse sans pudeur.
 
-**** *book_ *id_p190 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p190 *date_1896 
 
 III L'ART POÉTIQUE « AD HOC »
 
@@ -83,7 +83,7 @@ Niais ou vaurien, pute ou prude, ample provende ;
 Sang qui soûle, vraiment appétissante viande...
 — Surtout n'excusez pas les fautes de l'auteur !
 
-**** *book_ *id_p191 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p191 *date_1896 
 
 IV LITTÉRATURE
 
@@ -117,7 +117,7 @@ A la grande misère noire
 Et presque jusqu'à la vermine —
 C'est ce qu'on appelle la Gloire !
 
-**** *book_ *id_p192 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p192 *date_1896 
 
 V METZ
 
@@ -243,7 +243,7 @@ Des Te Deum enfin redits !
 
 Paris, 17 septembre 1892.
 
-**** *book_ *id_p193 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p193 *date_1896 
 
 VI PORTRAIT ACADÉMIQUE
 
@@ -267,7 +267,7 @@ Dont Vadius et Trissotin seraient jaloux.
 
 Pour conclure, un chien couchant aux airs de loups !
 
-**** *book_ *id_p194 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p194 *date_1896 
 
 VII A ÉDOUARD ROD
 
@@ -301,7 +301,7 @@ Qui ne sont qu'un tas blafard d'hypocrisies !
 En toute liberté, mêmes aux immorales
 Liberté, libertas aux poésies !
 
-**** *book_ *id_p195 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p195 *date_1896 
 
 VIII ECCE ITERUM CRISPINUS
 
@@ -336,7 +336,7 @@ Et je ne puis que te répondre :
 
 — « Je suis un honnête homme, moi ! »
 
-**** *book_ *id_p196 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p196 *date_1896 
 
 IX LA BALLADE DE L'ÉCOLE ROMANE
 
@@ -375,7 +375,7 @@ Laissez s'époumonner, tels phoqu's,
 Tous ces faquins, tous ces loufoqu's
 Et vive l'école romane !
 
-**** *book_ *id_p197 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p197 *date_1896 
 
 X JEAN-RENÉ
 
@@ -419,7 +419,7 @@ Et plus tard pucelles
 Diront leurs hauts faits
 En des vers mauvais.
 
-**** *book_ *id_p198 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p198 *date_1896 
 
 XI CONSEILS
 
@@ -449,7 +449,7 @@ Ghil est un crétin, toi, ne sois maboule
 Et puisque « Galathée a tout ton cœur »,
 Dis-le sans plus que seul, libre et vainqueur !
 
-**** *book_ *id_p199 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p199 *date_1896 
 
 XII POUR MORÉAS
 
@@ -471,7 +471,7 @@ Dont il ne faut pourtant pas qu'on rigole,
 Mais si fier, en dépit de quelque pou
 Qui s'en arrange — et lors, je m'en console.
 
-**** *book_ *id_p200 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p200 *date_1896 
 
 XIII L'ÉTERNEL SOT
 
@@ -495,7 +495,7 @@ De champ, nous insultait en Baudelaire.
 
 Mai 1893
 
-**** *book_ *id_p201 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p201 *date_1896 
 
 XIV ARCADES AMBO
 
@@ -529,7 +529,7 @@ Sinon que vaux ! Moules et crabes,
 Lui, c'est un cuistre en trois syllabes,
 En trois syllabes c'est un... Sais.
 
-**** *book_ *id_p202 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p202 *date_1896 
 
 XV A MONSIEUR LE DOCTEUR GRANDM⁎⁎⁎ INTERNE DES HÔPITAUX
 
@@ -568,7 +568,7 @@ Vil bourreau dodu
 Oui, maudit sois-tu
 Suivant ta vertu !
 
-**** *book_ *id_p203 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p203 *date_1896 
 
 XVI DÉTESTANT TOUT CE QUI SENT...
 Si jamais quelques noms s'embrouillent sur ma lyre
@@ -604,7 +604,7 @@ Garde, imbécile, ton « estime » pour mes livres,
 
 Dernier des reporters, et premier de Graivil.
 
-**** *book_ *id_p204 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p204 *date_1896 
 
 XVII LES MUSES ET LE POÈTE
 
@@ -651,7 +651,7 @@ Si nous causions politique ?
 Le chœur des actuelles Piérides.
 — Oui, car c'était là le hic.
 
-**** *book_ *id_p205 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p205 *date_1896 
 
 XVIII A UN MAGISTRAT DE BOUE souvenir de l'année 1885
 
@@ -700,7 +700,7 @@ As mérité de lui, paresseux qui t'endors
 Compissent, et pis ! ton nom, Grivel (prends un bain)
   Grâce à ce petit livre.
 
-**** *book_ *id_p206 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p206 *date_1896 
 
 XIX AUTRE MAGISTRAT
 
@@ -753,7 +753,7 @@ Des choses qu'on ne peut ouïr dans notre ville
 Presque sacrée à force d'être si tranquille.
   Puis, vous êtes mal mis ! »
 
-**** *book_ *id_p207 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p207 *date_1896 
 
 XX COMPLIMENT A UN AUTRE MAGISTRAT EN ARRAS
 
@@ -823,7 +823,7 @@ Magistrature que l'Europe nous envie !
 
 14 novembre 1891.
 
-**** *book_ *id_p208 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p208 *date_1896 
 
 XXI SONNET POUR LARMOYER
 
@@ -845,7 +845,7 @@ Je n'ai pas oublié ton nom,
 Tes rengaines ni ta bedaine.
 Ni ta dégaine — ni ma haine !
 
-**** *book_ *id_p209 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p209 *date_1896 
 
 XXII A CAIN M...
 
@@ -883,7 +883,7 @@ Traiter tel chrétien de salop. »
 
 Broussais, septembre 1893.
 
-**** *book_ *id_p210 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p210 *date_1896 
 
 XXIII ANECDOTE
 
@@ -909,7 +909,7 @@ Qu'il n'en soit pas assez pour le bien de la République.
 
 25 février 1895.
 
-**** *book_ *id_p211 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p211 *date_1896 
 
 XXIV HOU ! HOU !
 
@@ -949,7 +949,7 @@ Est là pour une fois, bons messieurs, sais-tu ?
   De vos grands poètes
   L'on rira toujours.
 
-**** *book_ *id_p212 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p212 *date_1896 
 
 XXV A L'ADRESSE DE D'AUCUNS
 
@@ -971,7 +971,7 @@ Vive l'esprit français, d'Artois jusqu'en Gascogne,
 De la Champagne et de l'Argonne à la Bourgogne,
 Et vive un cœur, morbleu ! dont un cœur se souvienne !
 
-**** *book_ *id_p213 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p213 *date_1896 
 
 XXVI UN ÉDITEUR
 
@@ -1010,7 +1010,7 @@ Je n'aime pas énormément la race
 Pourtant elle vaut eneor mieux que la crasse
   De tout ce tas !
 
-**** *book_ *id_p214 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p214 *date_1896 
 
 XXVII BALLADE EN FAVEUR DE LÉON VANIER ET Cie
 
@@ -1046,7 +1046,7 @@ Princes trop grands, mais peu donneurs,
 C'est vers vous que je m'édulcore,
 Mes chers, mes tendres éditeurs.
 
-**** *book_ *id_p215 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p215 *date_1896 
 
 XXVIII BUSTE POUR MAIRIES
 
@@ -1070,7 +1070,7 @@ Sa vie horizontale et sa mort verticale !
 
 1881
 
-**** *book_ *id_p216 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p216 *date_1896 
 
 XXIX STATUE POUR TOMBEAU
 
@@ -1094,7 +1094,7 @@ Et de soif, et sanglote en pensant à La Fin.
 
 1881
 
-**** *book_ *id_p217 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p217 *date_1896 
 
 XXX THOMAS DIAFOIRUS
 
@@ -1118,7 +1118,7 @@ Tueur des chiens, qui va passer coupeur de têtes.
 
 1881
 
-**** *book_ *id_p218 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p218 *date_1896 
 
 XXXI NÉBULEUSES
 
@@ -1142,7 +1142,7 @@ Communards sans Hébert, Girons sans Charlotte,
 
 1881
 
-**** *book_ *id_p219 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p219 *date_1896 
 
 XXXII ÉCRIT PENDANT LE SIÈGE DE PARIS décembre 1870
 
@@ -1164,7 +1164,7 @@ Sur Paris, sur Paris ! ce ne sont pas des mythes,
 L'Allemagne, il paraît, lance, qu'en dites-vous ?
 Tranquillement des culs horribles de marmites.
 
-**** *book_ *id_p220 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p220 *date_1896 
 
 XXXIII OPPORTUNISTES (1874)
 
@@ -1179,7 +1179,7 @@ Ah ! tous ! Badingue Quatre, Orléans et sa poire
 (Pour la soif), la béquille à Chambord, Attila !
 Mais, mais, mais ! pas de ces La-Réveillères-là. »
 
-**** *book_ *id_p221 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p221 *date_1896 
 
 XXXIV UN PEU DE POLITIQUE
 
@@ -1218,7 +1218,7 @@ Ton bas-relief, à neuf gratté, t'encor décore,
 Tremplin mesquin pour tout plongeur dans tout non-sens,
 Symbole de ceux-ci, jacobins indécents.
 
-**** *book_ *id_p222 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p222 *date_1896 
 
 XXXV UN PEU DE BATIMENT
 
@@ -1246,7 +1246,7 @@ De vin chantent la Marseillaise, air neuf encore,
 
 Et plantent là-dessus le drapeau tricolore.
 
-**** *book_ *id_p223 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p223 *date_1896 
 
 XXXVI « PUERO DEBETUR REVERENTIA »
 
@@ -1270,7 +1270,7 @@ Les faquins ! qui mettraient la France, notre aimée,
 Aux mains du plus offrant, après en avoir fait
 La chose impure, faible et sale que l'on sait.
 
-**** *book_ *id_p224 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p224 *date_1896 
 
 XXXVII SOUVENIRS DE PRISON (Mars 1874.)
 
@@ -1285,7 +1285,7 @@ De ne plus rien savoir de ce siècle assassin
 Et de ne suivre plus dans sa dernière transe
 Cette agonie épouvantable de la France.
 
-**** *book_ *id_p225 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p225 *date_1896 
 
 XXXVIII SOUVENIRS DE PRISON. (1874)
 
@@ -1300,7 +1300,7 @@ Châsse, et n'a pas encor digéré la commune.
 Tous sont toqués, et moi qui chantais aux temps chauds,
 Je danse sur la paille humide des cachots.
 
-**** *book_ *id_p226 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p226 *date_1896 
 
 XXXIX ACTUALITÉ
 
@@ -1324,7 +1324,7 @@ De voir s'abîmer ce pays
 Dans ces opprobres inouïs,
 La France, l'éternelle mère !
 
-**** *book_ *id_p227 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p227 *date_1896 
 
 XL A PROPOS D'UN PROCÈS INTENTÉ A UN ARCHEVÊQUE FRANÇAIS
 
@@ -1346,7 +1346,7 @@ L'Église française — et les autres,
 Mais, aussi, que tels bons apôtres,
 Bonne R F, fussent de la fête.
 
-**** *book_ *id_p228 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p228 *date_1896 
 
 XLI POUR DÉNONCER LA « TRIPL1CE » AU LIEU DU CONCORDAT
 
@@ -1371,7 +1371,7 @@ Qui prétend garder l'équilibre
 En l'occurrence, ou bien il ment
 Ou bien la France n'est pas libre !
 
-**** *book_ *id_p229 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p229 *date_1896 
 
 XLII ODE A GUILLAUME II
 
@@ -1405,7 +1405,7 @@ Parce que vous êtes un honnête homme
 Par ce que vous êtes un fou tout comme
   Moi, ce Messin!
 
-**** *book_ *id_p230 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p230 *date_1896 
 
 XLIII RASTAS
 
@@ -1453,7 +1453,7 @@ Et je reste le Maître...
 Et s'il faut me l' permettre,
   Je leur dis : « M. »
 
-**** *book_ *id_p231 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p231 *date_1896 
 
 XLIV CONTRE LES PARISIENNES
 
@@ -1487,7 +1487,7 @@ Mais assez. Résumer sera faire œuvre pie.
 Et c'est bavard et c'est voleur comme une pie
  Et c'est putain comme chausson.
 
-**** *book_ *id_p232 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p232 *date_1896 
 
 XLV SUR LA MANIE QU'ONT LES FEMMES ACTUELLES DE RELEVER LEURS ROBES
 
@@ -1526,7 +1526,7 @@ Ou plutôt continuez, mais plus d'un infâme
 Retroussez, retroussez, retroussez jusqu'à l'âme,
   Retroussez jusqu'au cœur.
 
-**** *book_ *id_p233 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p233 *date_1896 
 
 XLVI PETTY LARCENIES
 
@@ -1570,7 +1570,7 @@ A leur tour devenaient fripons,
  « C'est la fin des grenouilles... »
 Grands dieux, soyez-nous indulgents !
 
-**** *book_ *id_p234 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p234 *date_1896 
 
 XLVII COGNES ET FLICS
 
@@ -1634,7 +1634,7 @@ Plus d'un rogomme monstrueux...
 Et le héros se dénature
 En un drôle imperpétueux.
 
-**** *book_ *id_p235 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p235 *date_1896 
 
 XLVIII DÉCEPTION
 
@@ -1678,7 +1678,7 @@ Diable d'argent et pas la mort !
 Me laissant en proie à ce sort
  Irrémédiable.
 
-**** *book_ *id_p236 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p236 *date_1896 
 
 XLIX GRIEFS
 
@@ -1721,7 +1721,7 @@ Actions contre mes propres propos futiles !
 Je demande pardon pour leur peu haute voix
 Et le ton vif, — mais on n'est jeune qu'une fois.
 
-**** *book_ *id_p237 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p237 *date_1896 
 
 L ON DIT QUE JE SUIS UN GAGA
 
@@ -1737,7 +1737,7 @@ J' dis à personn' qu'il est quel...
 Et si j'avais l'verbe superbe
 (Et l'assonance !) je dirais...
 
-**** *book_ *id_p238 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p238 *date_1896 
 
 LI A RAOUL PONCHON (conseils dans sa manière)
 
@@ -1788,7 +1788,7 @@ Allons, faites vos quinze jours, et nom de Dieu !
 
 16 novembre 1891.
 
-**** *book_ *id_p239 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p239 *date_1896 
 
 LII A MARCEL SCHWOB
 
@@ -1810,7 +1810,7 @@ Ah oui, notre Terreur future elle est plus pire
 Que la vôtre stoppant du moins devant l'Enfant.
 Mais ceux-ci ! Voyez donc s'ils y vont de l'avant.
 
-**** *book_ *id_p240 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p240 *date_1896 
 
 LIII A ERNEST DELAHAYE
 
@@ -1832,7 +1832,7 @@ Et le bon sang dans mes veines coule par litres,
 Moréas contre Ghil, le Turc et la Belgique,
 Pense ! Et quel beau cas batracomyomachique.
 
-**** *book_ *id_p241 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p241 *date_1896 
 
 LIV A FÉLICIEN CHAMPSAUR
 
@@ -1854,7 +1854,7 @@ A l'étrange société qui de nos têtes
 Voulut faire son jeu de massacre et son but...
 — Petit bonhomme vit encore et lui dit : Zut !
 
-**** *book_ *id_p242 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p242 *date_1896 
 
 LV A CATULLE MENDÈS (Banquet du 16 janvier 1895)
 
@@ -1876,7 +1876,7 @@ Et consolons d'un beau courroux qui berce et flatte
 D'un bruit encor de gloire en cette fosse ingrate
 Qui ne sais plus leur nom, les morts, les pauvres morts.
 
-**** *book_ *id_p243 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p243 *date_1896 
 
 LVI A F.-A. CAZALS
 
@@ -1907,7 +1907,7 @@ S'il le faut, en arme de guerre,
 Mon Cazals, tu sais qu'en dépit
 De tout je t'aime mieux qu'un frère.
 
-**** *book_ *id_p244 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p244 *date_1896 
 
 LVII CHANSON POUR BOIRE
 
@@ -1931,7 +1931,7 @@ Hélas ! comment faire, Vanier ?
 Je n'ai plus l'ombre d'un denier
 Pour vous offrir un verre ou deux de ce panier.
 
-**** *book_ *id_p245 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p245 *date_1896 
 
 LVIII AUTRE CHANSON POUR BOIRE
 
@@ -1959,7 +1959,7 @@ Et jadis : il me serait doux,
 
 18 avril 1893.
 
-**** *book_ *id_p246 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p246 *date_1896 
 
 LIX CHANSON A MANGER
 
@@ -1993,7 +1993,7 @@ Soit un ventre préférant
 Encore un bon restaurant
 A Polyphème, ton antre !
 
-**** *book_ *id_p247 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p247 *date_1896 
 
 LX A MON AMIE EUGÉNIE pour sa fête
 
@@ -2015,7 +2015,7 @@ Ta fête, et qu'il faut encore que je la souhaite,
 En dépit de nos torts de femme et de poète,
 Et je t'envoie, ô, ce sonnet fait aujourd'hui.
 
-**** *book_ *id_p248 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p248 *date_1896 
 
 LXI UNE FOLLE ENTRE DANS MA VIE
 
@@ -2037,7 +2037,7 @@ Ce caractère qu'il faudrait
 Renfoncer si l'on le voudrait...
 Mais cette folle est mon affaire.
 
-**** *book_ *id_p249 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p249 *date_1896 
 
 LXII CONTRE UNE FAUSSE AMIE
 
@@ -2073,7 +2073,7 @@ Et notre Clergé,
 
 Vers-la-mieux-Aimée !
 
-**** *book_ *id_p250 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p250 *date_1896 
 
 LXII POUR Mlle E... M...
 
@@ -2095,7 +2095,7 @@ Qu'il parait que fut l'homme pire
 Dont Saint-Ouen, ville destinée,
 Frémit encor, mal étonnée !
 
-**** *book_ *id_p251 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p251 *date_1896 
 
 LXIV A MA BIEN-AIMËE
 
@@ -2124,7 +2124,7 @@ Ni de la vie en rose, j'ai
 Pour réponse à tel propos gai
 Ou triste ou riendutoutiste : M...
 
-**** *book_ *id_p252 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p252 *date_1896 
 
 LXV A LA SEULE
 
@@ -2146,7 +2146,7 @@ Quand tu n'es pas là ; je n'y suis
 Pas non plus, et ce que je cuis
 Dans mon jus ! Reviens, ô ma Veuve !
 
-**** *book_ *id_p253 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p253 *date_1896 
 
 LXVI A L'ANCIENNE
 
@@ -2182,7 +2182,7 @@ Ces vœux de moi, ces miens adieux !
 
 Juillet 1895.
 
-**** *book_ *id_p254 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p254 *date_1896 
 
 LXVII POUR E...
 
@@ -2216,7 +2216,7 @@ De notre ame ô combien réciproque,
 De notre amour si doux, si cruel,
 Que je le crois seul de son époque.
 
-**** *book_ *id_p255 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p255 *date_1896 
 
 LXVIII RÊVE
 
@@ -2240,7 +2240,7 @@ Et je lègue aux jeunes ma lyre
 Enfants, héritez mon délire,
 Moi j'hérite un sac suborneur.
 
-**** *book_ *id_p256 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p256 *date_1896 
 
 LXIX RÉVEIL
 
@@ -2271,7 +2271,7 @@ Chantés à jeun, ô cieux serins !
 
 Je reviens à la poésie.
 
-**** *book_ *id_p257 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p257 *date_1896 
 
 LXX LA MONTRE BRISÉE
 
@@ -2311,7 +2311,7 @@ L'heure n'en va pas moins quand même.
 Heureuse ou non... »
       Baste ! aimons-nous.
 
-**** *book_ *id_p258 *date_1896 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_invectives *style_verse *genre_verse *dist1_verlaine_verse_verse_invectives *dist2_verlaine_verse_verse *id_p258 *date_1896 
 
 LXXI MON APOLOGIE
 

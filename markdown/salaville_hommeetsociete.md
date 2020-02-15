@@ -1,6 +1,6 @@
 ---
 identifier: salaville_hommeetsociete  
-creator: Salaville, Jean-Baptiste (1755-1832)  
+creator: Salaville, Jean-Baptiste.  
 date:   
 title: L’Homme et la Société  
 ---

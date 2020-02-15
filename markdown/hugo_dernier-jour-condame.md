@@ -1,6 +1,6 @@
 ---
 identifier: hugo_dernier-jour-condame  
-creator: Hugo, Victor  
+creator: Hugo, Victor.  
 date: 1829  
 title: Le dernier jour d’un condamné.  
 ---

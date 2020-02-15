@@ -1,6 +1,6 @@
 ---
 identifier: gautier_poesies  
-creator: Gautier, Théophile  
+creator: Gautier, Théophile.  
 date: 1885  
 title: Poésies complètes  
 ---

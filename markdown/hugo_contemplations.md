@@ -1,6 +1,6 @@
 ---
 identifier: hugo_contemplations  
-creator: Hugo, Victor  
+creator: Hugo, Victor.  
 date:   
 title: Les Contemplations  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: flaubert_bouvard  
-creator: Flaubert, Gustave  
+creator: Flaubert, Gustave.  
 date: 1881  
 title: Bouvard et Pécuchet. Œuvre Posthume  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dickens_cantiquenoel  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1843  
 title: Cantique de Noël  
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: verne_nordsud  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1887  
 title: Nord contre Sud  
 ---

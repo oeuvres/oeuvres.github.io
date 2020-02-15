@@ -1,6 +1,6 @@
 ---
 identifier: robespierre_rapport  
-creator: Robespierre, Maximilien (1758-1794)  
+creator: Robespierre, Maximilien.  
 date:   
 title: Rapport du 7 mai 1794  
 ---

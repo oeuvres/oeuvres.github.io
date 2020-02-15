@@ -1,6 +1,6 @@
 ---
 identifier: ambroise_devoirs  
-creator: Ambroise (saint ; 0340?-0397)   
+creator: Ambroise.  
 date:   
 title: Des devoirs  
 ---

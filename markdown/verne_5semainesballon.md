@@ -1,6 +1,6 @@
 ---
 identifier: verne_5semainesballon  
-creator:   Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1862  
 title: 
           title: Cinq Semaines en ballon

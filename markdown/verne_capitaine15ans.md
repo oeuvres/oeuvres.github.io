@@ -1,6 +1,6 @@
 ---
 identifier: verne_capitaine15ans  
-creator:   Verne, Jules (1828-1905)   
+creator: Verne, Jules.  
 date: 1878  
 title: Un capitaine de quinze ans   
 ---

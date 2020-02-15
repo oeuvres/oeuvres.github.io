@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_belami  
-creator: Maupassant, Guy de (1850-1893)  
+creator: Maupassant, Guy de.  
 date: 1885  
 title: Bel-ami  
 ---

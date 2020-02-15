@@ -1,6 +1,6 @@
 ---
 identifier: poincare_la-valeur-de-la-science  
-creator: Poincaré, Henri  
+creator: Poincaré, Henri.  
 date: 1911  
 title: La valeur de la science  
 ---

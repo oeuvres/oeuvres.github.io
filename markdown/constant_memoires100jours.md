@@ -1,6 +1,6 @@
 ---
 identifier: constant_memoires100jours  
-creator: Constant, Benjamin  
+creator: Constant, Benjamin.  
 date:   
 title: Mémoires sur les cents jours, en forme de lettres  
 ---

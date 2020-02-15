@@ -1,6 +1,6 @@
 ---
 identifier: dickens_martinchuzzlewit  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1843  
 title: Vie et aventures de Martin Chuzzlewit  
 ---

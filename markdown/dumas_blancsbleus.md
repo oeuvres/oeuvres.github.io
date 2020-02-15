@@ -1,6 +1,6 @@
 ---
 identifier: dumas_blancsbleus  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1867  
 title: Les Blancs et les Bleus  
 ---

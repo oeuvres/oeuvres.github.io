@@ -1,6 +1,6 @@
 ---
 identifier: rousseau_contratsocial  
-creator: Rousseau, Jean-Jacques (1712-1778)  
+creator: Rousseau, Jean-Jacques.  
 date:   
 title: title: Du contrat social  
 ---

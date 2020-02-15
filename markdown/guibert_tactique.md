@@ -1,6 +1,6 @@
 ---
 identifier: guibert_tactique  
-creator: Guibert, Jacques-Antoine-Hippolyte de (1744?-1790)   
+creator: Guibert, Jacques-Antoine-Hippolyte de.  
 date: 1772  
 title: Essai général de tactique (extraits)  
 ---

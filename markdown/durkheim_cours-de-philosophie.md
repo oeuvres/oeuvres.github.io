@@ -1,6 +1,6 @@
 ---
 identifier: durkheim_cours-de-philosophie  
-creator: Durkheim, Émile  
+creator: Durkheim, Émile.  
 date: 1884  
 title: Cours de philosophie fait au Lycée de Sens en 1883-1884  
 ---

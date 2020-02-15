@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p30 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p30 *date_1890 
 
 I
 
@@ -40,7 +40,7 @@ Je n'ai que quarante-trois ans.
 
 Décembre 1887.
 
-**** *book_ *id_p31 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p31 *date_1890 
 
 II
 
@@ -78,7 +78,7 @@ Ai-je dit, l'un de ces miliciens,
 Qu'à leurs santés boivent l'eau de Jouvence
 Les chers, les bons, les braves Parnassiens.
 
-**** *book_ *id_p32 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p32 *date_1890 
 
 I
 
@@ -104,7 +104,7 @@ Quand je ne vous vois pas je me souviens de vous.
 
 1er janvier 1889.
 
-**** *book_ *id_p33 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p33 *date_1890 
 
 II
 
@@ -130,7 +130,7 @@ Quand je ne te vois plus je me souviens de toi.
 
 Juin 1889.
 
-**** *book_ *id_p34 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p34 *date_1890 
 
 III
 
@@ -154,7 +154,7 @@ Moi, ma gloire n'est qu'une humble absinthe éphémère
 Prise en catimini, crainte des trahisons,
 Et, si je n'en bois pas plus, c'est pour des raisons.
 
-**** *book_ *id_p35 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p35 *date_1890 
 
 IV
 
@@ -178,7 +178,7 @@ Sans jamais d'insolite paresse,
 O douceur du plus fort des J.-K.,
 Tape ferme et dru, bonne bougresse !
 
-**** *book_ *id_p36 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p36 *date_1890 
 
 V
 
@@ -202,7 +202,7 @@ Que ça vers les n...ymphes, comme
 Vous n'êtes pas mal armé
 Plus que Sully n'est Prud'homme.
 
-**** *book_ *id_p37 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p37 *date_1890 
 
 VI
 
@@ -226,7 +226,7 @@ Migrateur emmi les bardes,
 Que suivent sur ses appels
 Tous les cœurs des archipels.
 
-**** *book_ *id_p38 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p38 *date_1890 
 
 VII
 
@@ -250,7 +250,7 @@ Cependant que, poète au front royal sur tout haut front.
 Laurent Tailhade, tels jadis Bivar, Sanche et Gomez,
 Érect, et beau chrétien, et beau cavalier, suit la messe.
 
-**** *book_ *id_p39 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p39 *date_1890 
 
 VIII
 
@@ -274,7 +274,7 @@ Villiers, sois envié comme il aurait fallu
 Par tes frères impatients du jour suprême
 Où saluer en toi la gloire d'un élu.
 
-**** *book_ *id_p40 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p40 *date_1890 
 
 IX
 
@@ -298,7 +298,7 @@ Un génie horrible et charmant,
 Et tout l'être et tout le paraître
 D'un mauvais moine et d'un bon prêtre.
 
-**** *book_ *id_p41 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p41 *date_1890 
 
 X
 
@@ -322,7 +322,7 @@ Et quand dans Paris, tels que ces deux preux,
 Nous irons, fleurant de littérature,
 Le peuple, ébloui, nous prendra pour eux.
 
-**** *book_ *id_p42 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p42 *date_1890 
 
 XI
 
@@ -346,7 +346,7 @@ Le roi des bons enfants et la pire des gales,
 Car que de vices, las ! aux noirceurs sans égales :
 Jeunesse, esprit, gaîté, bonté, simplicité !
 
-**** *book_ *id_p43 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p43 *date_1890 
 
 XII
 
@@ -370,7 +370,7 @@ Notre toast a tenu sa promesse. Voici
 Que, vieillis quelque peu depuis cette aventure,
 Nous n'avons ni le cœur ni le coude transi.
 
-**** *book_ *id_p44 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p44 *date_1890 
 
 XIII
 
@@ -394,7 +394,7 @@ Age d'homme pensif et profond dont témoigne
 On dirait, l'on dirait, sonnée à pleine poigne,
 La tour changée en nourrice de Saint-Sulpice.
 
-**** *book_ *id_p45 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p45 *date_1890 
 
 XIV
 
@@ -418,7 +418,7 @@ Et que son cœur soit bête ainsi que tout bon cœur.
 Ermite à deux, parmi chienne et chien chat et chatte,
 Il vit, l'été comme l'hiver, à la Grand'Jatte.
 
-**** *book_ *id_p46 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p46 *date_1890 
 
 XV
 
@@ -442,7 +442,7 @@ Aussi combien en vous j'adore, retrouvée
 Parmi ces gens que nos airs francs font ébahis,
 La bonne humanité de ce brave pays.
 
-**** *book_ *id_p47 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p47 *date_1890 
 
 XVI
 
@@ -466,7 +466,7 @@ Et qu'il l'incarne, en haine de l'heure mauvaise,
 Absolument indifférent à la coutume.
 D'ailleurs correct et gentleman à la française.
 
-**** *book_ *id_p48 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p48 *date_1890 
 
 XVII
 
@@ -490,7 +490,7 @@ Vos livres ! où l'amour qu'il faut, jamais transi,
 Toujours sincère, éclate en vives splendeurs franches,
 Puis où le mâle au fond qu'on est prend ses revanches.
 
-**** *book_ *id_p49 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p49 *date_1890 
 
 XVIII
 
@@ -514,7 +514,7 @@ Me remonte ce soir, peut-être pire encor
 Dans un absurde et vraiment sinistre décor,
 Paix-là, pour ces mains-là, mes mains calamiteuses !
 
-**** *book_ *id_p50 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p50 *date_1890 
 
 XIX
 
@@ -538,7 +538,7 @@ Lille et sa bière et ses moulins à vent sans nombre
 Bruissaient. — Oui, qui nous rendra, cher ami, l'ombre
 Des bonnes nuits, et les beaux jours au rire ardent ?
 
-**** *book_ *id_p51 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p51 *date_1890 
 
 XX
 
@@ -562,7 +562,7 @@ Et, tout en écoutant, pieux, ma juste plainte,
 La consolant parfois d'un mot franc dit sans crainte,
 Berciez l'enfant qu'est moi des beaux jours qui seront.
 
-**** *book_ *id_p52 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p52 *date_1890 
 
 XXI
 
@@ -586,7 +586,7 @@ S'indigne que, mal civile,
 La muse métamorphose
 Le lézard en crocodile.
 
-**** *book_ *id_p53 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p53 *date_1890 
 
 XXII
 
@@ -610,7 +610,7 @@ De sottise méchante, et fier, se donna tout
 Aux Lettres, comprimant son civique dégoût ;
 Et vous mourrez très bien, comme votre grand-père.
 
-**** *book_ *id_p54 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p54 *date_1890 
 
 XXIII
 
@@ -634,7 +634,7 @@ L'arthrite et moi dans cette affaire,
 Pour, cher Docteur, hâter, normal
 Mon rétablissement thermal.
 
-**** *book_ *id_p55 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p55 *date_1890 
 
 XXIV
 
@@ -658,7 +658,7 @@ Salut à vous qui guérissez,
 A vous aussi qui punissez
 L'ordre bourgeois, Jean, mon confrère.
 
-**** *book_ *id_p56 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p56 *date_1890 
 
 XXV
 
@@ -682,7 +682,7 @@ Malgré ces « convictions » denses.
 Ami des fortes confidences ;
 Vous en vouloir, moi ? Quel sot !
 
-**** *book_ *id_p57 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p57 *date_1890 
 
 XXVI
 
@@ -706,7 +706,7 @@ Noctambule mais auroral,
 Prince des vers et de la prose
 Et bath ami sur toute chose.
 
-**** *book_ *id_p58 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p58 *date_1890 
 
 XXVII
 
@@ -730,7 +730,7 @@ Mais j'admire, moi le blasé (mais l'impassible,
 Non !) j'admire combien la sympathie et l'art
 Evoquèrent l'enfant — presque au quasi-vieillard.
 
-**** *book_ *id_p59 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p59 *date_1890 
 
 XXVIII
 
@@ -754,7 +754,7 @@ De porter mon bonjour et mon baiser de fête
 A ce mien passé d'or vanné représenté
 Par un Génie en l'air, misère et liberté !
 
-**** *book_ *id_p60 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p60 *date_1890 
 
 XXIX
 
@@ -778,7 +778,7 @@ Aussi bénissons la paix profonde
 Qu'à défaut d'un trésor moins subtil
 Nous donnèrent ces ainsi soit-il.
 
-**** *book_ *id_p61 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p61 *date_1890 
 
 XXX
 
@@ -802,7 +802,7 @@ Mais notre amitié toute ronde.
 Vaut un los sur un rythme net,
 Et j'express exprès ce sonnet.
 
-**** *book_ *id_p62 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p62 *date_1890 
 
 XXXI
 
@@ -826,7 +826,7 @@ Et puis j'aime ! Tout court ! En masse, en général.
 Depuis la fille amère au souris sépulcral
 Jusqu'à Dieu tout-puissant dont la droite nous mène !
 
-**** *book_ *id_p63 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p63 *date_1890 
 
 XXXII
 
@@ -850,7 +850,7 @@ Ou se turent, la peur les trouvant paresseux,
 Mais vous du premier jour vous fûtes simple, brave,
 Fidèle ; et dans un cœur bien fait cela se grave.
 
-**** *book_ *id_p64 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p64 *date_1890 
 
 XXVIII
 
@@ -874,7 +874,7 @@ Non toutefois sans saluer à l'horizon
 Comme une voile sur le large au blanc frisson,
 Le souvenir des frais instants de paix profonde.
 
-**** *book_ *id_p65 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p65 *date_1890 
 
 XXXIV
 
@@ -898,7 +898,7 @@ Pour le soin du Salut, qui me pique et m'inspire.
 J'estime que, parmi nos façons d'être prêts,
 Il nous faut mettre au rang des meilleures ce rire.
 
-**** *book_ *id_p66 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p66 *date_1890 
 
 XXXV
 
@@ -922,7 +922,7 @@ Aimez-moi donc, aimez, quels que soient les soucis
 Plissant parfois mon front et crispant mon sourire,
 Ma haute pauvreté plus chère qu'un empire.
 
-**** *book_ *id_p67 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p67 *date_1890 
 
 XXXVI
 
@@ -946,7 +946,7 @@ Et, pour un conseil froid et bon parfois, l'Ulysse ;
 Artiste pur, poète où la gloire s'assure ;
 Cher aux femmes, cher aux Lettres, Charles Morice !
 
-**** *book_ *id_p68 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p68 *date_1890 
 
 XXXVII
 
@@ -970,7 +970,7 @@ Et pour mon cœur d'or pur le mensonge suprême,
 Puisqu'il n'est de justice, après l'Église et Dieu,
 Que celle qu'on se fait, à confesse, à soi-même.
 
-**** *book_ *id_p69 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p69 *date_1890 
 
 XXXVIII
 
@@ -1006,7 +1006,7 @@ Rêveuse notre âpre critique,
 
 O votre ciel, fils de Rembrandt !
 
-**** *book_ *id_p70 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p70 *date_1890 
 
 XXXIX
 
@@ -1030,7 +1030,7 @@ Et pour pleurer que parmi tant d'élus
 A faire, ces messieurs aient entre tous
 Pris Brunetière. O les topinambous !
 
-**** *book_ *id_p71 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p71 *date_1890 
 
 XL
 
@@ -1054,7 +1054,7 @@ Jusqu'à me voir féru, parfois à mon grand dam,
 D'une inconnue un peu vulgaire, rencontrée
 Au coin... non pas d'un bois sacré ! qui m'est sucrée.
 
-**** *book_ *id_p72 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p72 *date_1890 
 
 XLI
 
@@ -1080,7 +1080,7 @@ Au fait, j'y pense, je suis vieux
 Tant (cinquante ans !) et t'es en route
 Pour tes dix-huit ans... pauvre vieux !
 
-**** *book_ *id_p73 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p73 *date_1890 
 
 XLII
 
@@ -1112,7 +1112,7 @@ Les yeux parce que je m'ennuie
 
 Parce que je suis vieux et parce que je t'aime.
 
-**** *book_ *id_p74 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p74 *date_1890 
 
 XLIII
 
@@ -1136,7 +1136,7 @@ Et je serais alors le plus heureux
 Non pas des trois mais que plutôt des deux
 Et ce ne serait pas déjà le diable !
 
-**** *book_ *id_p75 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p75 *date_1890 
 
 XLIV
 
@@ -1162,7 +1162,7 @@ Que ton cœur et mon cœur régnent donc sans conteste
 Les deux — et dès ce soir (ô jour, je te déteste !)
    Soyons-nous bons et doux !
 
-**** *book_ *id_p76 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p76 *date_1890 
 
 XLV
 
@@ -1183,7 +1183,7 @@ Mais le tien peut-être est moins vaste
 Qui n'aime guère que le faste
 D'être aimé du mien, et fait bien.
 
-**** *book_ *id_p77 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p77 *date_1890 
 
 XLVI
 
@@ -1230,7 +1230,7 @@ Tu repris, et cela me parut aussi beau :
 
 20 février 1892.
 
-**** *book_ *id_p78 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p78 *date_1890 
 
 XLVII
 
@@ -1257,7 +1257,7 @@ Madrigal, je t'aime !
       O réplique,
   Diable angélique.
 
-**** *book_ *id_p79 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p79 *date_1890 
 
 XLVIII
 
@@ -1285,7 +1285,7 @@ Et tout ! par être moins perfides.
 
 1er janvier 1894.
 
-**** *book_ *id_p80 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p80 *date_1890 
 
 XLIX
 
@@ -1309,7 +1309,7 @@ Et comme il se cramponne, le poète,
 Avec son bagage lâché d'esthète
 A cette mauvaise criarde, et ça vaut mieux !
 
-**** *book_ *id_p81 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p81 *date_1890 
 
 L
 
@@ -1333,7 +1333,7 @@ Et c'est très bien ça, ma si chère amie,
 Et je vous en estime (et ne mens mie)
 Et je t'en aime mieux encor de ne pas me tromper.
 
-**** *book_ *id_p82 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p82 *date_1890 
 
 LI
 
@@ -1357,7 +1357,7 @@ Pire à mes yeux que tous maux sous les cieux
 Et, tort non moindre en surplus à mes yeux,
 Elle a le don qui fait que je m'irrite.
 
-**** *book_ *id_p83 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p83 *date_1890 
 
 LII
 
@@ -1381,7 +1381,7 @@ D'un tambourin, bruyant sans doute mais gentil
 D'être, grâce à votre talent de femme exquise-
 Ment amusante, décoré d'un doigt subtil.
 
-**** *book_ *id_p84 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p84 *date_1890 
 
 LIII
 
@@ -1407,7 +1407,7 @@ Mauvaises, à jeter en Seine,
 Si qu'au retour, sans plus de scène,
 Tout bonnement nous nous baisons.
 
-**** *book_ *id_p85 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p85 *date_1890 
 
 II
 
@@ -1470,7 +1470,7 @@ Soupçons et faux propos, en Seine,
 Aux vrais propos, mais pour toujours,
 Aux francs baisers sans plus de scène.
 
-**** *book_ *id_p86 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p86 *date_1890 
 
 LIV
 
@@ -1512,7 +1512,7 @@ L'Oiseau bleu qui chantait dans le bocage.
 
 Paris, 30 mars 1894.
 
-**** *book_ *id_p87 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p87 *date_1890 
 
 LV
 
@@ -1540,7 +1540,7 @@ Insuffisante à mon courroux
 Terrible, tel celui d'un bœuf,
 Oui, ce Vanier n'a pas de sous
 
-**** *book_ *id_p88 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p88 *date_1890 
 
 II
 
@@ -1566,7 +1566,7 @@ Sa force, te montre les cornes,
 
 Misère qui voudrait me proposer des bornes.
 
-**** *book_ *id_p89 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p89 *date_1890 
 
 LVI
 
@@ -1592,7 +1592,7 @@ Dûment paraphé de nos plumes,
 Au bas de l'acte où nous nous plûmes,
 Nul ne dise : « On dirait du veau ! »
 
-**** *book_ *id_p90 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p90 *date_1890 
 
 A LÉON VANIER
 
@@ -1620,7 +1620,7 @@ Et que moi j'achetasse un courage neuf.
 
 Jour de Noël 1892.
 
-**** *book_ *id_p91 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p91 *date_1890 
 
 LVII
 
@@ -1658,7 +1658,7 @@ En attendant, si vous buviez !
 
 22 février 1894.
 
-**** *book_ *id_p92 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p92 *date_1890 
 
 LVIII
 
@@ -1683,7 +1683,7 @@ Ou du meilleur, mon culte énorme pour Shakespeare.
 
 30 janvier 1894.
 
-**** *book_ *id_p93 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p93 *date_1890 
 
 LIX
 
@@ -1716,7 +1716,7 @@ Ruine, épave, au vague et lent dessin.
 
 Londres, novembre 1894.
 
-**** *book_ *id_p94 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p94 *date_1890 
 
 LX
 
@@ -1740,7 +1740,7 @@ Que pour les plaindre et pour les oindre
 De regrets exempts de remords,
 Car n'allons-nous pas les rejoindre ?
 
-**** *book_ *id_p95 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p95 *date_1890 
 
 LXI
 
@@ -1766,7 +1766,7 @@ Et c'est, à dire vrai, le plus pire animal.
   Combattant, souffrant avec eux
 Il les aime de quel amour noble et fougueux !
 
-**** *book_ *id_p96 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p96 *date_1890 
 
 LXII
 
@@ -1792,7 +1792,7 @@ L'histoire t'a sculpté triomphant de la mort
 Et jusqu'aux purs excès jouissant de la vie,
 Tes pieds blancs posés sur la tête de l'Envie !
 
-**** *book_ *id_p97 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p97 *date_1890 
 
 LXIII
 
@@ -1820,7 +1820,7 @@ Don précieux à l'ultime postérité
 Par une main dont l'art naïf nous est acquis,
 Rimbaud ! pax tecum sit, Dominus sit cum te !
 
-**** *book_ *id_p98 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p98 *date_1890 
 
 LXIV
 
@@ -1846,7 +1846,7 @@ S'étonnant de tout ce bonheur.
 
 La Haye, octobre 1892.
 
-**** *book_ *id_p99 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p99 *date_1890 
 
 LXV
 
@@ -1870,7 +1870,7 @@ Votre âge gai ne connaît
 Que l'innocence divine...
 Riez, petite Eveline !
 
-**** *book_ *id_p100 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p100 *date_1890 
 
 LXVI
 
@@ -1888,7 +1888,7 @@ Et bonne, au fond, quand j'étais moi-même un enfant
 Aux yeux vrais, au sang pur comme d'une mouette
 Qui revient de très loin, ainsi que ce poète.
 
-**** *book_ *id_p101 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p101 *date_1890 
 
 LXVII
 
@@ -1914,7 +1914,7 @@ Votre père, éditeur, et moi, votre poète.
 
 Paris, 21 avril 1894.
 
-**** *book_ *id_p102 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p102 *date_1890 
 
 LXYIII
 
@@ -1938,14 +1938,13 @@ Et derrière ces yeux aux flammes
 Noires, un monsieur malveillant,
 Mais le sculpteur eut du talent. »
 
-**** *book_ *id_p103 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p103 *date_1890 
 
 LXIX
 
 A RAYMOND MAYGRIER
 
-« ...
-L'histoire véridique
+« ... L'histoire véridique
 
 De la langouste atmosphérique. »
 
@@ -1967,7 +1966,7 @@ Dans un grimoire où Nostradamus perdrait son latin.
   Magicien blanc sans rien de morose,
 Dites, prédisez-moi quelque plus sortable destin.
 
-**** *book_ *id_p104 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p104 *date_1890 
 
 LXX
 
@@ -1991,7 +1990,7 @@ Vous m'avez dit des choses,
 Presque le drapeau rouge
 Qu'on voit sur votre bouche.
 
-**** *book_ *id_p105 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p105 *date_1890 
 
 LXXI
 
@@ -2017,7 +2016,7 @@ Ni même d'humbles rangs de perles,
 Mais son petit air pépié,
 Comme le plus humble des merles.
 
-**** *book_ *id_p106 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p106 *date_1890 
 
 LXXII
 
@@ -2041,7 +2040,7 @@ Enfant annoncé
 Par ta chanson, viens,
 Entre et sois des miens.
 
-**** *book_ *id_p107 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p107 *date_1890 
 
 LXXIII
 
@@ -2065,7 +2064,7 @@ En manches de chemise et chaussons de loisir,
    Avec deux femmes !!!
 Et vous : « Ce n'est donc pas CE prince des infâmes ! »
 
-**** *book_ *id_p108 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p108 *date_1890 
 
 LXXIV
 
@@ -2089,7 +2088,7 @@ Il est prompt à prendre la mouche,
 Mais le chagrin d'autrui le touche :
 Dear friend, I'm sorry ; think of me.
 
-**** *book_ *id_p109 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p109 *date_1890 
 
 LXXV
 
@@ -2113,7 +2112,7 @@ Il sonne, il brille, le futur nom de victoire :
 Accent joli, mignon entrain toujours accru
 Et l'Ardennais qu'est moi presque, en reste féru.
 
-**** *book_ *id_p110 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p110 *date_1890 
 
 LXXVI
 
@@ -2139,7 +2138,7 @@ Et pour leur prouvé san déba
 Kil é dé mo ke n'atin pa
 Leur sistem (e), dison-leur :... !
 
-**** *book_ *id_p111 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p111 *date_1890 
 
 LXXVII
 
@@ -2163,7 +2162,7 @@ O Maître, nul ne t'est athée,
 Sauf quelque muffle, lymphe et dartre,
 En ton domaine de Montmartre.
 
-**** *book_ *id_p112 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p112 *date_1890 
 
 LVXIII
 
@@ -2189,7 +2188,7 @@ D'une vie en mieux
 
 25 juillet 1892.
 
-**** *book_ *id_p113 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p113 *date_1890 
 
 LXXIX
 
@@ -2213,7 +2212,7 @@ Et, consolation ! celle du bon vouloir
 Qui fait que votre main, sûre du respect mien
 Serre la mienne en lui, sûr de ma loyauté.
 
-**** *book_ *id_p114 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p114 *date_1890 
 
 LXXX
 
@@ -2237,7 +2236,7 @@ Bah ! faites comme moi, dussent trouver naïve
 Votre ample expansion ceux forts que fallait
 Aimer sans fin ni loi. Et qui m'aime me suive !
 
-**** *book_ *id_p115 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p115 *date_1890 
 
 LXXXI
 
@@ -2263,7 +2262,7 @@ Inscrivez-moi sur votre liste.
 
 Hôpital Broussais, 15 janvier 1893.
 
-**** *book_ *id_p116 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p116 *date_1890 
 
 LXXXII
 
@@ -2287,7 +2286,7 @@ Qui saura s'assouvir, advienne que pourra.
 Mais, ô fraîcheur ! pour quelques-uns elle recense
 Et réserve, à tout prix ! quelle reconnaissance !
 
-**** *book_ *id_p117 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p117 *date_1890 
 
 LXXXIII
 
@@ -2313,7 +2312,7 @@ Mais malgré ce souci de nos jours qu'il agite et trouble
 Et d'autres ! au tréfonds de mes moelles encor butées
 Je demeure assuré, — conforme à votre excellent double.
 
-**** *book_ *id_p118 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p118 *date_1890 
 
 LXXXIV
 
@@ -2337,7 +2336,7 @@ Panache fier aux fiers remous,
 Fleur pompadour — gare, Tircis !
 D'une toilette Médicis !
 
-**** *book_ *id_p119 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p119 *date_1890 
 
 LXXXV
 
@@ -2361,7 +2360,7 @@ Mais ensuite, et de vous, ami, prenant l'exemple,
 Sérieusement doux et paisible donneur
 De douceur et de paix dès la porte du temple.
 
-**** *book_ *id_p120 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p120 *date_1890 
 
 LXXXV
 
@@ -2385,7 +2384,7 @@ Notre gaîté,
 Ta pauvreté,
 Ton opulence ?
 
-**** *book_ *id_p121 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p121 *date_1890 
 
 LXXXVIII
 
@@ -2409,7 +2408,7 @@ Quoi qu'en aient dit et dit tels imbéciles noirs,
 Petit compagnon qui ressuscitas les saints espoirs,
 Va donc, vivant ou mort, dans les espaces libres.
 
-**** *book_ *id_p122 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p122 *date_1890 
 
 LXXXVIII
 
@@ -2433,7 +2432,7 @@ Sans rien exagérer puisque, Roberte chère,
 Il va bien, il vous aime bien et que son ciel
 C'est de vous revoir comme il est sûr de le faire.
 
-**** *book_ *id_p123 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p123 *date_1890 
 
 LXXXIX
 
@@ -2459,7 +2458,7 @@ Vous voyez que c'était fatal.
 
 1erjanvier 1893.
 
-**** *book_ *id_p124 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p124 *date_1890 
 
 XC
 
@@ -2483,7 +2482,7 @@ Et prouvons-nous l'espérance,
 Et la bonne confiance
 Qu'on se doit au nom de Dieu.
 
-**** *book_ *id_p125 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p125 *date_1890 
 
 XCI
 
@@ -2523,7 +2522,7 @@ Songeons à nos fins dernières.
 
 Hôpital Broussais, 9 juillet 1893.
 
-**** *book_ *id_p126 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p126 *date_1890 
 
 XCII
 
@@ -2591,7 +2590,7 @@ De la raison mais de la saine
 Ne déclameront plus en scène...
 Ils vivront dans tout cœur vivant.
 
-**** *book_ *id_p127 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p127 *date_1890 
 
 XCIII
 
@@ -2632,7 +2631,7 @@ La tendresse n'y perdra rien, tout au contraire
 
 Hôpital Broussais, 12 juillet 1894.
 
-**** *book_ *id_p128 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p128 *date_1890 
 
 XCIV
 
@@ -2658,7 +2657,7 @@ Et pour laquelle on meurt aussi, car ce le vaut.
 
 Hôpital Broussais, juillet 1893.
 
-**** *book_ *id_p129 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p129 *date_1890 
 
 XCV
 
@@ -2684,7 +2683,7 @@ Clair et sinueux comme l'Eau.
 
 18 septembre 1894.
 
-**** *book_ *id_p130 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p130 *date_1890 
 
 XCVI
 
@@ -2713,7 +2712,7 @@ Ses yeux tournés vers sa maîtresse et vers son maître,
 Et mourut, nous presque pleurant, tout blancs, tout sots,
 Ses pattes frêles en l'air, comme les oiseaux.
 
-**** *book_ *id_p131 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p131 *date_1890 
 
 XCVII
 
@@ -2737,7 +2736,7 @@ Et tout ce que Dublin et tout ce que Bruxelles
 Brassent à l'intention de nos escarcelles,
 L'heure de savourer la bière de Müller.
 
-**** *book_ *id_p132 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p132 *date_1890 
 
 XCVIII
 
@@ -2765,7 +2764,7 @@ De ta bonté, cœur, geste et voix.
 
 Le 8 mai 1893.
 
-**** *book_ *id_p133 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p133 *date_1890 
 
 XCIX
 
@@ -2789,7 +2788,7 @@ A peine moi parti, l'émeute fit son cri,
 Que vous domptâtes d'un clément geste énergique
 Car vous êtes vraiment un fils du roi Henry !
 
-**** *book_ *id_p134 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p134 *date_1890 
 
 C
 
@@ -2813,7 +2812,7 @@ Faire, par un coiffeur de choix, sur des fonds peints
 D'avance, le tombeau, lors pleuré sans astuce
 Du jeune homme qu'il aurait fallu que je fusse.
 
-**** *book_ *id_p135 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p135 *date_1890 
 
 CI
 
@@ -2837,7 +2836,7 @@ J'admire le penseur subtil et l'àpre esthète
 Des pensers voletant comme chauves-souris,
 Mais j'aime le fin enchanteur aux sorts fleuris.
 
-**** *book_ *id_p136 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p136 *date_1890 
 
 CII
 
@@ -2861,7 +2860,7 @@ Fi ! c'est le Cavalier exquis
 Tout à l'ami qu'il a conquis
 Parmi quelques Amaéguis.
 
-**** *book_ *id_p137 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p137 *date_1890 
 
 CIII
 
@@ -2887,7 +2886,7 @@ Et maints dos, vos mots pleins de grâces et d'audaces.
 
 Hôpital Broussais, 28 août 1893.
 
-**** *book_ *id_p138 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p138 *date_1890 
 
 CIV
 
@@ -2911,7 +2910,7 @@ Hélas ! c'est faux de moi, tige au plus qui fleuronne,
 Mais, ô vous, calme ennui de splendides soucis,
 Portez, olympien, le nimbe et la couronne.
 
-**** *book_ *id_p139 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p139 *date_1890 
 
 CV
 
@@ -2935,7 +2934,7 @@ Et j'ai fait ces vers-ci qu'il fallait que je fisse,
 Ne vous faisant d'ailleurs pas d'autre sacrifice
 Que de vous plaire un peu, bien qu'un peu radoteur.
 
-**** *book_ *id_p140 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p140 *date_1890 
 
 III
 
@@ -2975,7 +2974,7 @@ Princes, rions, doux et divins.
 Quoi que l'on dise ou que l'on prêche.
 Nous sommes les bons écrivains.
 
-**** *book_ *id_p141 *date_1890 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_dedicaces *style_verse *genre_verse *dist1_verlaine_verse_verse_dedicaces *dist2_verlaine_verse_verse *id_p141 *date_1890 
 
 IC
 

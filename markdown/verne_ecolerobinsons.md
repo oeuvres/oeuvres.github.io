@@ -1,6 +1,6 @@
 ---
 identifier: verne_ecolerobinsons  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1882  
 title: L'École des Robinsons  
 ---

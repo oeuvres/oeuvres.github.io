@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_pierrejean  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1888  
 title: Pierre et Jean  
 ---

@@ -1,8 +1,8 @@
 ---
 identifier: verne_wilhelmstoritz  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1898  
-title: Le secret de Wilhelm Storitz  
+title: LE SECRET DE WILHELM STORITZ  
 ---
 
 

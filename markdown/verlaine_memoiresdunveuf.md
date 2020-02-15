@@ -1,6 +1,6 @@
 ---
 identifier: verlaine_memoiresdunveuf  
-creator: Verlaine, Paul  
+creator: Verlaine, Paul.  
 date: 1886  
 title: Les mémoires d’un veuf  
 ---

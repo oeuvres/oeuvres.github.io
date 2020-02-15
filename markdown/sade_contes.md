@@ -1,6 +1,6 @@
 ---
 identifier: sade_contes  
-creator: Sade, Donatien Alphonse François de  
+creator: Sade, Donatien Alphonse François de.  
 date: 1788  
 title: Historiettes, contes et fabliaux  
 ---

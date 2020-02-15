@@ -1,6 +1,6 @@
 ---
 identifier: dumas_3maitres  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date:   
 title: Trois maîtres  
 ---

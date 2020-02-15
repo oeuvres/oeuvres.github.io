@@ -1,6 +1,6 @@
 ---
 identifier: stendhal_amour  
-creator: Stendhal  
+creator: Stendhal.  
 date:   
 title: De l’Amour  
 ---

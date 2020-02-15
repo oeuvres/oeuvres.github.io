@@ -1,6 +1,6 @@
 ---
 identifier: laforgue_complaintes  
-creator: Laforgue, Jules  
+creator: Laforgue, Jules.  
 date: 1885  
 title: Les Complaintes  
 ---

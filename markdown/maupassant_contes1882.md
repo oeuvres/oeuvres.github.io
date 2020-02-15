@@ -1,6 +1,6 @@
 ---
 identifier: maupassant_contes1882  
-creator: Maupassant, Guy de  
+creator: Maupassant, Guy de.  
 date: 1882  
 title: Contes divers (1882)  
 ---

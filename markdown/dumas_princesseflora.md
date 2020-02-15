@@ -1,6 +1,6 @@
 ---
 identifier: dumas_princesseflora  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1862  
 title: La princesse Flora  
 ---

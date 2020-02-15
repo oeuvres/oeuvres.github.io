@@ -1,6 +1,6 @@
 ---
 identifier: spinoza_ethique_appuhn  
-creator: Spinoza, Baruch  
+creator: Spinoza, Baruch.  
 date: 1677  
 title: Éthique  
 ---

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_p1 *date_1874 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_romances *style_verse *genre_verse *dist1_verlaine_verse_verse_romances *dist2_verlaine_verse_verse *id_p1 *date_1874 
 
 Ariettes oubliées
 
@@ -209,8 +209,7 @@ Luit comme du sable.
 
 IX
 
-Le rossignol, qui du haut d'une branche se regarde dedans, croit être tombé dans la rivière.
-Il est au sommet d'un chêne et toutefois il a peur de se noyer.
+Le rossignol, qui du haut d'une branche se regarde dedans, croit être tombé dans la rivière. Il est au sommet d'un chêne et toutefois il a peur de se noyer.
 
 L'ombre des arbres dans la rivière embrumée
    Meurt comme de la fumée,
@@ -222,7 +221,7 @@ Combien, ô voyageur, ce paysage blême
 Et que tristes pleuraient dans les hautes feuillées
    Tes espérances noyées ?
 
-**** *book_ *id_p10 *date_1874 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_romances *style_verse *genre_verse *dist1_verlaine_verse_verse_romances *dist2_verlaine_verse_verse *id_p10 *date_1874 
 
 PAYSAGES BELGES
 
@@ -402,7 +401,7 @@ Où l'on cause bas et d'où l'on
 Aime à loisir cette nature
 Faite à souhait pour Fénelon.
 
-**** *book_ *id_p16 *date_1874 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_romances *style_verse *genre_verse *dist1_verlaine_verse_verse_romances *dist2_verlaine_verse_verse *id_p16 *date_1874 
 
 BIRDS IN THE NIGHT
 
@@ -517,7 +516,7 @@ Du premier chrétien, sous la dent rapace,
 Qui rit à Jésus témoin, sans que bouge
 Un poil de sa chair, un nerf de sa face !
 
-**** *book_ *id_p17 *date_1874 *creator_verlaine 
+**** *creator_verlaine *book_verlaine_romances *style_verse *genre_verse *dist1_verlaine_verse_verse_romances *dist2_verlaine_verse_verse *id_p17 *date_1874 
 
 AQUARELLES
 

@@ -1,6 +1,6 @@
 ---
 identifier: dumas_robinhood_princedesvoleurs  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1872  
 title: Robin Hood, le prince des voleurs [I]  
 ---

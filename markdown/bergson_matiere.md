@@ -1,6 +1,6 @@
 ---
 identifier: bergson_matiere  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1896  
 title: Matière et mémoire. Essai sur la relation du corps à l’esprit  
 ---

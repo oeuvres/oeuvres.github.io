@@ -1,6 +1,6 @@
 ---
 identifier: ciceron_devoirs  
-creator: Cicéron (0106-0043 av. J.-C.)  
+creator: Cicéron.  
 date:   
 title: Des devoirs  
 ---

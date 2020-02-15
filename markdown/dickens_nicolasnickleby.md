@@ -1,6 +1,6 @@
 ---
 identifier: dickens_nicolasnickleby  
-creator: Dickens, Charles  
+creator: Dickens, Charles.  
 date: 1838  
 title: Vie et aventures de Nicolas Nickleby  
 ---

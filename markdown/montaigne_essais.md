@@ -1,6 +1,6 @@
 ---
 identifier: montaigne_essais  
-creator: Montaigne, Michel de (1533-1592)  
+creator: Montaigne, Michel de.  
 date:   
 title: Les Essais (version avec les traductions)  
 ---

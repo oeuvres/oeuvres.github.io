@@ -1,6 +1,6 @@
 ---
 identifier: dumas_josephbalsamo  
-creator: Dumas, Alexandre  
+creator: Dumas, Alexandre.  
 date: 1846  
 title: Joseph Balsamo. Mémoires d’un médecin  
 ---

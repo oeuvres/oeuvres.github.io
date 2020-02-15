@@ -1,6 +1,6 @@
 ---
 identifier: bergson_evolution  
-creator: Bergson, Henri  
+creator: Bergson, Henri.  
 date: 1907  
 title: L’évolution créatrice  
 ---

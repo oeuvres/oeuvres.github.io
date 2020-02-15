@@ -1,6 +1,6 @@
 ---
 identifier: verne_michelstrogoff  
-creator: Verne, Jules  
+creator: Verne, Jules.  
 date: 1876  
 title: Michel Strogoff  
 ---

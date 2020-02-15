@@ -1,6 +1,6 @@
 ---
 identifier: verne_2889  
-creator: Verne, Jules (1828-1905)  
+creator: Verne, Jules.  
 date: 1889  
 title: Au XXIXe siècle ou la journée d’un journaliste américain  
 ---
